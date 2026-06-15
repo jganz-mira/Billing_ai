@@ -1,0 +1,71 @@
+{
+    "name": "hauserztliche_versorgung",
+    "steps": [
+        {
+            "expert_role": "Experte fuer Basispauschalen in der hausaerztlichen Versorgung",
+            "model_type": "gpt-5-mini",
+            "prompt_template": "experte_basispauschalen",
+            "task_focus": "Dieser Experte konzentriert sich ausschließlich auf die Abrechnung von Basispauschalen im hausärztlichen Versorgungskontext.",
+            "knowledge_paths": [
+                "src/ontology/gops/hausaerztlicher_versorgungsbereich/hausaerztliche_basispauschalen.json"
+            ]
+        },
+        {
+            "expert_role": "Experte fuer besondere hausaerztliche Leistungen",
+            "model_type": "gpt-5-mini",
+            "prompt_template": "experte_besondere_hausarztliche_leistungen",
+            "knowledge_paths": [
+                "src/ontology/gops/hausaerztlicher_versorgungsbereich/besondere_hausärztliche_leistungen.json"
+            ]
+        },
+        {
+            "expert_role": "Experte fuer geriatrische hausaerztliche Leistungen",
+            "model_type": "gpt-5-mini",
+            "prompt_template": "experte_geriatrische_hausarztliche_leistungen",
+            "knowledge_paths": [
+                "src/ontology/gops/hausaerztlicher_versorgungsbereich/hausärztliche_geriatrische_versorgung.json"
+            ],
+            "condition": {
+                "source": "patient",
+                "field": "geriatric_patient",
+                "operator": "equals",
+                "value": true
+            }
+        },
+        {
+            "expert_role": "Experte fuer palliativmedizinische hausaerztliche Leistungen",
+            "model_type": "gpt-5-mini",
+            "prompt_template": "experte_palliative_hausarztliche_leistungen",
+            "knowledge_paths": [
+                "src/ontology/gops/hausaerztlicher_versorgungsbereich/hausärztliche_palliativmedizinische_versorgung.json"
+            ],
+            "condition": {
+                "source": "patient",
+                "field": "palliative_care",
+                "operator": "equals",
+                "value": true
+            }
+        },
+        {
+            "expert_role": "Experte fuer hausaerztliche Leistungen für Chroniker",
+            "model_type": "gpt-5-mini",
+            "prompt_template": "experte_chronische_hausarztliche_leistungen",
+            "knowledge_paths": [
+                "src/ontology/gops/hausaerztlicher_versorgungsbereich/chroniker_ziffern.json"
+            ],
+            "condition": {
+                "source": "patient",
+                "field": "chronic_condition",
+                "operator": "equals",
+                "value": true
+            }
+        }
+    ],
+    "final_step": {
+        "expert_role": "Konsolidierer fuer GOP-Abrechnungsvorschlaege",
+        "model_type": "gpt-5-mini",
+        "prompt_template": "gop_consolidation",
+        "task_focus": "Dedupliziere die GOP-Vorschlaege der Experten, pruefe Konflikte und erstelle eine finale GOP-Liste.",
+        "reasoning_effort": "medium"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "age": 47,
+    "contact_type": "non_physician_assistant_contact",
+    "last_contact_date": "2026-06-13",
+    "chronic_condition": true,
+    "palliative_care": false,
+    "geriatric_patient": false
+}

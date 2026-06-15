@@ -1,0 +1,215 @@
+{
+  "gops": [
+    {
+      "code": "03000",
+      "title": "Versichertenpauschale",
+      "valuation": {
+        "type": "categorized",
+        "category_type": "age",
+        "categories": [
+          {
+            "label": "bis zum vollendeten 4. Lebensjahr",
+            "valuation_in_euro": 28.67,
+            "valuation_in_points": 225
+          },
+          {
+            "label": "ab Beginn des 5. bis zum vollendeten 18. Lebensjahr",
+            "valuation_in_euro": 18.09,
+            "valuation_in_points": 142
+          },
+          {
+            "label": "ab Beginn des 19. bis zum vollendeten 54. Lebensjahr",
+            "valuation_in_euro": 14.52,
+            "valuation_in_points": 114
+          },
+          {
+            "label": "ab Beginn des 55. bis zum vollendeten 75. Lebensjahr",
+            "valuation_in_euro": 18.86,
+            "valuation_in_points": 148
+          },
+          {
+            "label": "ab Beginn des 76. Lebensjahres",
+            "valuation_in_euro": 25.48,
+            "valuation_in_points": 200
+          }
+        ]
+      },
+      "mandatory_services": "- Persönlicher Arzt-Patienten-Kontakt und/oder Arzt-Patienten-Kontakt im Rahmen einer Videosprechstunde gemäß Anlage 31b zum BMV-Ä.",
+      "facultative_services": "- Allgemeine und fortgesetzte ärztliche Betreuung eines Patienten in Diagnostik und Therapie bei Kenntnis seines häuslichen und familiären Umfeldes.\n- Koordination diagnostischer, therapeutischer und pflegerischer Maßnahmen, insbesondere auch mit anderen behandelnden Ärzten, nichtärztlichen Hilfen und flankierenden Diensten.\n- Einleitung präventiver und rehabilitativer Maßnahmen sowie die Integration nichtärztlicher Hilfen und flankierender Dienste in die Behandlungsmaßnahmen.\n- Erhebung von Behandlungsdaten und Befunden bei anderen Leistungserbringern und Übermittlung erforderlicher Behandlungsdaten und Befunde an andere Leistungserbringer, sofern eine schriftliche Einwilligung des Versicherten, die widerrufen werden kann, vorliegt.\n- Dokumentation, insbesondere Zusammenführung, Bewertung und Aufbewahrung der wesentlichen Behandlungsdaten.\n- Weitere persönliche oder andere Arzt-Patienten-Kontakte gemäß 4.3.1 der Allgemeinen Bestimmungen.\n- In Anhang 1 aufgeführte Leistungen.",
+      "billing_info": "Einmal im Behandlungsfall. Die Dokumentation der ggf. erfolgten schriftlichen, widerrufbaren Einwilligung des Versicherten zur Erhebung, Dokumentation und Übermittlung von Behandlungsdaten und Befunden an andere Leistungserbringer erfolgt nach Maßgabe der zuständigen Kassenärztlichen Vereinigung auf der Grundlage des § 73 SGB V und verbleibt beim Hausarzt. Bei Behandlung im organisierten Not(-fall)dienst sind anstelle der Versichertenpauschale nach der GOP 03000 die Notfallpauschalen nach den GOP 01210, 01212, 01214, 01216 und 01218 zu berechnen. Bei einer Behandlung im Rahmen einer nach Art und Umfang definierten Überweisung (Definitionsauftrag) ist die Versichertenpauschale nach der GOP 03000 nicht berechnungsfähig. Erfolgt im Behandlungsfall lediglich eine Inanspruchnahme durch den Patienten unvorhergesehen im Zusammenhang mit der Erbringung der Leistungen entsprechend den GOP 01100, 01101, 01411, 01412 oder 01415, so ist anstelle der Versichertenpauschale 03000 die Versichertenpauschale 03030 zu berechnen. Die GOP 03000 ist nicht neben der GOP 01436 berechnungsfähig. Die GOP 03000 ist im Behandlungsfall nicht neben den GOP 01600, 01601, 01610 und 03030 berechnungsfähig."
+    },
+    {
+      "code": "03008",
+      "title": "Zuschlag zu der Versichertenpauschale nach der Gebührenordnungsposition 03000 für die Vermittlung eines aus medizinischen Gründen dringend erforderlichen Behandlungstermins gemäß § 73 Abs. 1 Satz 2 Nr. 2 SGB V",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 16.69,
+        "valuation_in_points": 131
+      },
+      "mandatory_services": "- Vermittlung eines Behandlungstermins bei einem an der fachärztlichen Versorgung teilnehmenden Vertragsarzt.\n- Überweisung an einen an der fachärztlichen Versorgung teilnehmenden Vertragsarzt.",
+      "facultative_services": null,
+      "billing_info": "Die GOP 03008 ist berechnungsfähig, sofern die Behandlung des Versicherten spätestens am 4. Kalendertag nach Feststellung der Behandlungsnotwendigkeit durch den Hausarzt beginnt. Die GOP 03008 ist auch berechnungsfähig, wenn die Behandlung des Versicherten spätestens am 35. Kalendertag nach Feststellung der Behandlungsnotwendigkeit durch den Hausarzt beginnt und eine Terminvermittlung durch die Terminservicestellen der Kassenärztlichen Vereinigung oder eine eigenständige Terminvereinbarung durch den Patienten oder eine Bezugsperson aufgrund der medizinischen Besonderheit des Einzelfalls nicht angemessen oder nicht zumutbar ist. Die Berechnungsfähigkeit der GOP 03008 ab dem 24. Kalendertag nach Feststellung der Behandlungsnotwendigkeit setzt die Angabe einer medizinischen Begründung voraus. Der Tag nach der Feststellung der Behandlungsnotwendigkeit gilt jeweils als erster Zähltag. Die GOP 03008 ist auch bei Durchführung der Leistung im Rahmen einer Videosprechstunde berechnungsfähig und dies durch Angabe einer bundeseinheitlich kodierten Zusatzkennzeichnung zu dokumentieren; für die Abrechnung gelten die Anforderungen gemäß Anlage 31b zum BMV-Ä entsprechend. Die GOP 03008 ist auch bei Überweisung an einen Facharzt für Kinder- und Jugendmedizin, der die Voraussetzungen zur Berechnung von GOP des Abschnitts 4.4 oder 4.5 erfüllt, berechnungsfähig. Die GOP 03008 ist nur dann mehrfach im Behandlungsfall berechnungsfähig, wenn der Patient in demselben Quartal zu mehreren Fachärzten unterschiedlicher Arztgruppen vermittelt wird. Die GOP 03008 ist nicht berechnungsfähig, wenn der vermittelte Patient nach Kenntnis des vermittelnden Arztes bei der an der fachärztlichen Versorgung teilnehmenden Arztgruppe derselben Praxis in demselben Quartal bereits behandelt wurde; der Arzt ist verpflichtet, sich entsprechend zu erkundigen. Abweichend von Nr. 4.4.2 der Allgemeinen Bestimmungen und der Leistungslegende ist der Zuschlag nach GOP 03008 in selektivvertraglichen Fällen auch ohne Berechnung der Grundleistung nach GOP 03000 berechnungsfähig, sofern die Leistung nach GOP 03008 nicht Gegenstand des Selektivvertrags ist; der Fall ist gegenüber der Kassenärztlichen Vereinigung anhand der GOP 88196 nachzuweisen. Bei der Abrechnung der GOP 03008 ist die (Neben-)Betriebsstättennummer der Praxis, an die der Patient vermittelt wurde, anzugeben."
+    },
+    {
+      "code": "03010",
+      "title": "Zuschlag zu der Gebührenordnungsposition 03000 für die Behandlung aufgrund einer TSS-Vermittlung gemäß Allgemeiner Bestimmung 4.3.10.1 oder 4.3.10.2",
+      "valuation": {
+        "type": "categorized",
+        "category_type": "tss_case_interval_and_age",
+        "categories": [
+          {
+            "label": "TSS-Terminfall, gleicher bis 4. Kalendertag, bis zum vollendeten 4. Lebensjahr",
+            "valuation_in_euro": 28.67,
+            "valuation_in_points": 225
+          },
+          {
+            "label": "TSS-Terminfall, gleicher bis 4. Kalendertag, ab Beginn des 5. bis zum vollendeten 18. Lebensjahr",
+            "valuation_in_euro": 18.09,
+            "valuation_in_points": 142
+          },
+          {
+            "label": "TSS-Terminfall, gleicher bis 4. Kalendertag, ab Beginn des 19. bis zum vollendeten 54. Lebensjahr",
+            "valuation_in_euro": 14.52,
+            "valuation_in_points": 114
+          },
+          {
+            "label": "TSS-Terminfall, gleicher bis 4. Kalendertag, ab Beginn des 55. bis zum vollendeten 75. Lebensjahr",
+            "valuation_in_euro": 18.86,
+            "valuation_in_points": 148
+          },
+          {
+            "label": "TSS-Terminfall, gleicher bis 4. Kalendertag, ab Beginn des 76. Lebensjahres",
+            "valuation_in_euro": 25.48,
+            "valuation_in_points": 200
+          },
+          {
+            "label": "TSS-Terminfall, 5. bis 14. Kalendertag, bis zum vollendeten 4. Lebensjahr",
+            "valuation_in_euro": 22.94,
+            "valuation_in_points": 180
+          },
+          {
+            "label": "TSS-Terminfall, 5. bis 14. Kalendertag, ab Beginn des 5. bis zum vollendeten 18. Lebensjahr",
+            "valuation_in_euro": 14.47,
+            "valuation_in_points": 114
+          },
+          {
+            "label": "TSS-Terminfall, 5. bis 14. Kalendertag, ab Beginn des 19. bis zum vollendeten 54. Lebensjahr",
+            "valuation_in_euro": 11.62,
+            "valuation_in_points": 91
+          },
+          {
+            "label": "TSS-Terminfall, 5. bis 14. Kalendertag, ab Beginn des 55. bis zum vollendeten 75. Lebensjahr",
+            "valuation_in_euro": 15.09,
+            "valuation_in_points": 118
+          },
+          {
+            "label": "TSS-Terminfall, 5. bis 14. Kalendertag, ab Beginn des 76. Lebensjahres",
+            "valuation_in_euro": 20.38,
+            "valuation_in_points": 160
+          },
+          {
+            "label": "TSS-Terminfall, 15. bis 35. Kalendertag, bis zum vollendeten 4. Lebensjahr",
+            "valuation_in_euro": 11.47,
+            "valuation_in_points": 90
+          },
+          {
+            "label": "TSS-Terminfall, 15. bis 35. Kalendertag, ab Beginn des 5. bis zum vollendeten 18. Lebensjahr",
+            "valuation_in_euro": 7.24,
+            "valuation_in_points": 57
+          },
+          {
+            "label": "TSS-Terminfall, 15. bis 35. Kalendertag, ab Beginn des 19. bis zum vollendeten 54. Lebensjahr",
+            "valuation_in_euro": 5.81,
+            "valuation_in_points": 46
+          },
+          {
+            "label": "TSS-Terminfall, 15. bis 35. Kalendertag, ab Beginn des 55. bis zum vollendeten 75. Lebensjahr",
+            "valuation_in_euro": 7.54,
+            "valuation_in_points": 59
+          },
+          {
+            "label": "TSS-Terminfall, 15. bis 35. Kalendertag, ab Beginn des 76. Lebensjahres",
+            "valuation_in_euro": 10.19,
+            "valuation_in_points": 80
+          },
+          {
+            "label": "TSS-Akutfall, bis zum vollendeten 4. Lebensjahr",
+            "valuation_in_euro": 57.34,
+            "valuation_in_points": 450
+          },
+          {
+            "label": "TSS-Akutfall, ab Beginn des 5. bis zum vollendeten 18. Lebensjahr",
+            "valuation_in_euro": 36.18,
+            "valuation_in_points": 284
+          },
+          {
+            "label": "TSS-Akutfall, ab Beginn des 19. bis zum vollendeten 54. Lebensjahr",
+            "valuation_in_euro": 29.04,
+            "valuation_in_points": 228
+          },
+          {
+            "label": "TSS-Akutfall, ab Beginn des 55. bis zum vollendeten 75. Lebensjahr",
+            "valuation_in_euro": 37.72,
+            "valuation_in_points": 296
+          },
+          {
+            "label": "TSS-Akutfall, ab Beginn des 76. Lebensjahres",
+            "valuation_in_euro": 50.96,
+            "valuation_in_points": 400
+          }
+        ]
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Einmal im Arztgruppenfall. Die GOP 03010 kann durch die zuständige Kassenärztliche Vereinigung zugesetzt werden. Die GOP 03010 ist im Arztgruppenfall nicht neben der GOP 01710 berechnungsfähig. Nach Allgemeiner Bestimmung 4.3.10.1 erhält der Arzt im TSS-Terminfall einen Zuschlag auf die jeweilige altersklassenspezifische Versicherten-, Grund- oder Konsiliarpauschale: 100 % bei Behandlung am gleichen bis 4. Kalendertag nach Terminvermittlung, 80 % vom 5. bis 14. Kalendertag und 40 % vom 15. bis 35. Kalendertag. Nach Allgemeiner Bestimmung 4.3.10.2 erfolgt im TSS-Akutfall ein Aufschlag in Höhe von 200 % auf die jeweilige Versicherten-, Grund- oder Konsiliarpauschale; der Zuschlag ist nur berechnungsfähig, wenn der vermittelte Termin spätestens am Kalendertag nach Kontaktaufnahme des Versicherten bei der TSS und Einschätzung als TSS-Akutfall erfolgt. Die strukturierten Bewertungen sind aus den Altersbewertungen der GOP 03000 und diesen Prozentaufschlägen abgeleitet."
+    },
+    {
+      "code": "03020",
+      "title": "Hygienezuschlag zu der Versichertenpauschale nach der Gebührenordnungsposition 03000",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 0.25,
+        "valuation_in_points": 2
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Einmal im Behandlungsfall. Die GOP 03020 wird durch die zuständige Kassenärztliche Vereinigung zugesetzt."
+    },
+    {
+      "code": "03030",
+      "title": "Versichertenpauschale bei unvorhergesehener Inanspruchnahme zwischen 19:00 und 7:00 Uhr, an Samstagen, Sonntagen, gesetzlichen Feiertagen, am 24.12. und 31.12. bei persönlichem Arzt-Patienten-Kontakt",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 9.81,
+        "valuation_in_points": 77
+      },
+      "mandatory_services": "- Persönlicher Arzt-Patienten-Kontakt im Zusammenhang mit der Erbringung der Leistungen entsprechend den GOP 01100, 01101, 01411, 01412 oder 01415.",
+      "facultative_services": "- In Anhang 1 aufgeführte Leistungen.",
+      "billing_info": "Höchstens zweimal im Behandlungsfall. Die Versichertenpauschale nach der Nr. 03030 ist im belegärztlich-stationären Behandlungsfall nicht berechnungsfähig. Erfolgt im Behandlungsfall lediglich eine Inanspruchnahme durch den Patienten unvorhergesehen im Zusammenhang mit der Erbringung der Leistungen entsprechend den GOP 01100, 01101, 01411, 01412 oder 01415, so ist anstelle der Versichertenpauschale 03000 die Versichertenpauschale 03030 zu berechnen. Die GOP 03030 ist nicht neben den GOP 01205, 01207, 01210, 01212, 01214, 01216, 01218, 01436 und 30702 berechnungsfähig. Die GOP 03030 ist im Behandlungsfall nicht neben den GOP 01600, 01601, 01610 und 03000 berechnungsfähig."
+    },
+    {
+      "code": "01435",
+      "title": "Haus-/Fachärztliche Bereitschaftspauschale",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 11.21,
+        "valuation_in_points": 88
+      },
+      "mandatory_services": "- Telefonische Beratung des Patienten im Zusammenhang mit einer Erkrankung durch den Arzt bei Kontaktaufnahme durch den Patienten und/oder\n- Anderer mittelbarer Arzt-Patienten-Kontakt gemäß 4.3.1 der Allgemeinen Bestimmungen.",
+      "facultative_services": null,
+      "billing_info": "Einmal im Behandlungsfall. Die GOP 01435 ist im organisierten Not(-fall)dienst nicht berechnungsfähig. Kommt in demselben Arztfall eine Versicherten-, Grund- und/oder Konsiliarpauschale zur Abrechnung, ist die GOP 01435 nicht berechnungsfähig. Die GOP 01435 ist - mit Ausnahme der GOP 01431, 40128 und 40129 - nicht neben anderen GOP berechnungsfähig. Die GOP 01435 ist bei Neugeborenen, Säuglingen, Kleinkindern und Kindern bis zum vollendeten 12. Lebensjahr zweimal im Behandlungsfall berechnungsfähig. Die GOP 01435 ist im Behandlungsfall nicht neben der GOP 01438 berechnungsfähig."
+    },
+    {
+      "code": "01436",
+      "title": "Konsultationspauschale",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 2.29,
+        "valuation_in_points": 18
+      },
+      "mandatory_services": "- Persönlicher Arzt-Patienten-Kontakt.\n- Diagnostik und/oder Behandlung einer/von Erkrankung(en) eines Patienten im Rahmen einer Überweisung zur Durchführung von Auftragsleistungen (Indikations- oder Definitionsauftrag gemäß § 24 Abs. 7 Nr. 1 Bundesmantelvertrag-Ärzte (BMV-Ä)) an nicht ausschließlich auf Überweisung tätige Ärzte gemäß § 13 Abs. 4 Bundesmantelvertrag-Ärzte (BMV-Ä) und/oder\n- Diagnostik einer/von Erkrankungen eines Patienten im Rahmen einer Überweisung zur Konsiliaruntersuchung, Mitbehandlung oder Weiterbehandlung gemäß § 24 Abs. 7 Nrn. 2, 3 oder 4 Bundesmantelvertrag-Ärzte (BMV-Ä) zur Erbringung von Leistungen entsprechend der GOP des Abschnitts 31.1, ggf. in mehreren Sitzungen und/oder\n- Diagnostik und/oder Behandlung einer/von Erkrankung(en) eines Patienten im Rahmen einer Überweisung zur Konsiliaruntersuchung, Mitbehandlung oder Weiterbehandlung gemäß § 24 Abs. 7 Nrn. 2, 3 oder 4 Bundesmantelvertrag-Ärzte (BMV-Ä) innerhalb derselben Arztgruppe gemäß § 24 Abs. 4 Bundesmantelvertrag-Ärzte (BMV-Ä), zur Durchführung von Leistungen entsprechend der GOP der Abschnitte 31.2 und/oder 31.5, ggf. in mehreren Sitzungen und/oder\n- Diagnostik und/oder Behandlung einer/von Erkrankung(en) eines Patienten im Rahmen einer Überweisung zur Konsiliaruntersuchung, Mitbehandlung oder Weiterbehandlung gemäß § 24 Abs. 7 Nrn. 2, 3 oder 4 Bundesmantelvertrag-Ärzte (BMV-Ä) innerhalb derselben Arztgruppe gemäß § 24 Abs. 4 Bundesmantelvertrag-Ärzte (BMV-Ä), zur Durchführung von Leistungen entsprechend der GOP des Abschnitts 31.4.",
+      "facultative_services": null,
+      "billing_info": "Die GOP 01436 kann nicht neben Versicherten-, Grund- und/oder Konsiliarpauschalen berechnet werden. Neben der GOP 01436 ist für die Berechnung der jeweiligen arztgruppenspezifischen Versicherten-, Grund- und/oder Konsiliarpauschale in demselben Behandlungsfall mindestens ein weiterer persönlicher Arzt-Patienten-Kontakt oder Arzt-Patienten-Kontakt im Rahmen einer Videosprechstunde gemäß Anlage 31b zum BMV-Ä notwendig. Die GOP 01436 ist nicht neben den GOP 03000, 03030, 04000, 04030, 30700 und 37706 berechnungsfähig."
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "gops": [
+    {
+      "code": "03220",
+      "title": "Zuschlag zu der Versichertenpauschale nach der Gebührenordnungsposition 03000 für die Behandlung und Betreuung eines Patienten mit mindestens einer lebensverändernden chronischen Erkrankung",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 16.56,
+        "valuation_in_points": 130
+      },
+      "mandatory_services": "- Persönlicher Arzt-Patienten-Kontakt.",
+      "facultative_services": "- Fortlaufende Beratung hinsichtlich Verlauf und Behandlung der chronischen Erkrankung(en).\n- Leitliniengestützte Behandlung der chronischen Erkrankung(en).\n- Anleitung zum Umgang mit der/den chronischen Erkrankung(en).\n- Koordination ärztlicher und/oder pflegerischer Maßnahmen im Zusammenhang mit der Behandlung der chronischen Erkrankung(en).\n- Erstellung und ggf. Aktualisierung eines Medikationsplans und ggf. Anpassung der Selbstmedikation und der Arzneimittelhandhabung.\n- Überprüfung und fortlaufende Kontrolle der Arzneimitteltherapie mit dem Ziel des wirtschaftlichen und versorgungsgerechten Umgangs mit Arzneimitteln.",
+      "billing_info": "Einmal im Behandlungsfall. Die GOP 03220 bis 03222 sind nur bei Patienten berechnungsfähig, bei denen mindestens eine lang andauernde, lebensverändernde Erkrankung vorliegt und eine kontinuierliche ärztliche Behandlung und Betreuung notwendig ist. Eine kontinuierliche ärztliche Behandlung liegt vor, wenn im Zeitraum der letzten vier Quartale unter Einschluss des aktuellen Quartals wegen derselben gesicherten chronischen Erkrankung(en) jeweils mindestens ein Arzt-Patienten-Kontakt gemäß 4.3.1 der Allgemeinen Bestimmungen pro Quartal in mindestens drei Quartalen in derselben Praxis stattgefunden hat. In mindestens zwei Quartalen müssen persönliche Arzt-Patienten-Kontakte stattgefunden haben; davon kann ein persönlicher Arzt-Patienten-Kontakt auch als Arzt-Patienten-Kontakt im Rahmen einer Videosprechstunde gemäß Anlage 31b zum BMV-Ä erfolgen. Die GOP 03220 bis 03222 können bei Neugeborenen und Säuglingen auch ohne die Voraussetzung der kontinuierlichen ärztlichen Behandlung berechnet werden. Eine kontinuierliche ärztliche Behandlung liegt auch vor, wenn der Patient mit mindestens einer lebensverändernden chronischen Erkrankung seinen ihn betreuenden Hausarzt gewechselt hat; der übernehmende Hausarzt muss die bei einem anderen Hausarzt stattgefundenen Arzt-Patienten-Kontakte dokumentieren und mit der Abrechnung mittels einer kodierten Zusatznummer nachweisen. Die Berechnung der GOP 03220 setzt die Angabe der gesicherten Diagnose(n) der chronischen Erkrankung(en) gemäß ICD-10-GM voraus. Die GOP 03220 ist im Behandlungsfall nicht neben den GOP der Onkologie-Vereinbarung (Anlage 7 BMV-Ä), nicht neben Leistungen gemäß § 6 Anlage 5 BMV-Ä, nicht neben den GOP 35111 bis 35113, 35120, 35130, 35131, 35140 bis 35142, 35150 bis 35152, 35163 bis 35169 und 35173 bis 35179 und nicht neben den GOP der Abschnitte 30.5, 30.7, 30.9 und 35.2 berechnungsfähig; diese Ausschlüsse finden in versorgungsbereichsübergreifenden Berufsausübungsgemeinschaften, Medizinischen Versorgungszentren und Praxen mit angestellten Ärzten keine Anwendung, sofern diese Leistungen von Vertragsärzten des fachärztlichen Versorgungsbereiches erbracht werden. Die GOP 03220 ist nicht neben den GOP 03370 bis 03373, 37300, 37302, 37305, 37306, 37711, 37800 und 37802 berechnungsfähig. Die GOP 03220 ist im Behandlungsfall nicht neben den GOP 01630 und 32779 berechnungsfähig."
+    },
+    {
+      "code": "03221",
+      "title": "Zuschlag zu der Gebührenordnungsposition 03220 für die intensive Behandlung und Betreuung eines Patienten mit mindestens einer lebensverändernden chronischen Erkrankung",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 5.10,
+        "valuation_in_points": 40
+      },
+      "mandatory_services": "- Mindestens zwei persönliche Arzt-Patienten-Kontakte.\n- Überprüfung und/oder Anpassung und/oder Einleitung von Maßnahmen der leitliniengestützten Behandlung der chronischen Erkrankung(en).",
+      "facultative_services": "- Fortlaufende Beratung hinsichtlich Verlauf und Behandlung der chronischen Erkrankung(en).\n- Anleitung zum Umgang mit der/den chronischen Erkrankung(en).\n- Koordination ärztlicher und/oder pflegerischer Maßnahmen im Zusammenhang mit der Behandlung der chronischen Erkrankung(en).\n- Erstellung und ggf. Aktualisierung eines Medikationsplans und ggf. Anpassung der Selbstmedikation und der Arzneimittelhandhabung.\n- Überprüfung und fortlaufende Kontrolle der Arzneimitteltherapie mit dem Ziel des wirtschaftlichen und versorgungsgerechten Umgangs mit Arzneimitteln.",
+      "billing_info": "Einmal im Behandlungsfall. Die GOP 03220 bis 03222 sind nur bei Patienten berechnungsfähig, bei denen mindestens eine lang andauernde, lebensverändernde Erkrankung vorliegt und eine kontinuierliche ärztliche Behandlung und Betreuung notwendig ist. Eine kontinuierliche ärztliche Behandlung liegt vor, wenn im Zeitraum der letzten vier Quartale unter Einschluss des aktuellen Quartals wegen derselben gesicherten chronischen Erkrankung(en) jeweils mindestens ein Arzt-Patienten-Kontakt gemäß 4.3.1 der Allgemeinen Bestimmungen pro Quartal in mindestens drei Quartalen in derselben Praxis stattgefunden hat. In mindestens zwei Quartalen müssen persönliche Arzt-Patienten-Kontakte stattgefunden haben; davon kann ein persönlicher Arzt-Patienten-Kontakt auch als Arzt-Patienten-Kontakt im Rahmen einer Videosprechstunde gemäß Anlage 31b zum BMV-Ä erfolgen. Die GOP 03220 bis 03222 können bei Neugeborenen und Säuglingen auch ohne die Voraussetzung der kontinuierlichen ärztlichen Behandlung berechnet werden. Eine kontinuierliche ärztliche Behandlung liegt auch vor, wenn der Patient mit mindestens einer lebensverändernden chronischen Erkrankung seinen ihn betreuenden Hausarzt gewechselt hat; der übernehmende Hausarzt muss die bei einem anderen Hausarzt stattgefundenen Arzt-Patienten-Kontakte dokumentieren und mit der Abrechnung mittels einer kodierten Zusatznummer nachweisen. Die GOP 03221 ist im Behandlungsfall nicht neben den GOP 01630 und 32779 berechnungsfähig."
+    },
+    {
+      "code": "03222",
+      "title": "Zuschlag zu der Gebührenordnungsposition 03220",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 1.27,
+        "valuation_in_points": 10
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Einmal im Behandlungsfall. Die GOP 03220 bis 03222 sind nur bei Patienten berechnungsfähig, bei denen mindestens eine lang andauernde, lebensverändernde Erkrankung vorliegt und eine kontinuierliche ärztliche Behandlung und Betreuung notwendig ist. Eine kontinuierliche ärztliche Behandlung liegt vor, wenn im Zeitraum der letzten vier Quartale unter Einschluss des aktuellen Quartals wegen derselben gesicherten chronischen Erkrankung(en) jeweils mindestens ein Arzt-Patienten-Kontakt gemäß 4.3.1 der Allgemeinen Bestimmungen pro Quartal in mindestens drei Quartalen in derselben Praxis stattgefunden hat. In mindestens zwei Quartalen müssen persönliche Arzt-Patienten-Kontakte stattgefunden haben; davon kann ein persönlicher Arzt-Patienten-Kontakt auch als Arzt-Patienten-Kontakt im Rahmen einer Videosprechstunde gemäß Anlage 31b zum BMV-Ä erfolgen. Die GOP 03220 bis 03222 können bei Neugeborenen und Säuglingen auch ohne die Voraussetzung der kontinuierlichen ärztlichen Behandlung berechnet werden. Eine kontinuierliche ärztliche Behandlung liegt auch vor, wenn der Patient mit mindestens einer lebensverändernden chronischen Erkrankung seinen ihn betreuenden Hausarzt gewechselt hat; der übernehmende Hausarzt muss die bei einem anderen Hausarzt stattgefundenen Arzt-Patienten-Kontakte dokumentieren und mit der Abrechnung mittels einer kodierten Zusatznummer nachweisen. Die GOP 03222 wird durch die zuständige Kassenärztliche Vereinigung zugesetzt. Die GOP 03222 ist im Behandlungsfall nicht neben den GOP 01630 und 03362 berechnungsfähig."
+    },
+    {
+      "code": "03230",
+      "title": "Problemorientiertes ärztliches Gespräch, das aufgrund von Art und Schwere der Erkrankung erforderlich ist",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 16.31,
+        "valuation_in_points": 128
+      },
+      "mandatory_services": "- Gespräch von mindestens 10 Minuten Dauer.\n- Mit einem Patienten und/oder einer Bezugsperson.",
+      "facultative_services": "- Beratung und Erörterung zu den therapeutischen, familiären, sozialen oder beruflichen Auswirkungen und deren Bewältigung im Zusammenhang mit der/den Erkrankung(en), die aufgrund von Art und Schwere das Gespräch erforderlich macht (machen).",
+      "billing_info": "Je vollendete 10 Minuten. Die GOP 03230 ist auch bei Durchführung der Leistung im Rahmen einer Videosprechstunde berechnungsfähig und dies durch Angabe einer bundeseinheitlich kodierten Zusatzkennzeichnung zu dokumentieren; für die Abrechnung gelten die Anforderungen gemäß Anlage 31b zum BMV-Ä entsprechend. Die GOP 03230 ist im Notfall und im organisierten Not(-fall)dienst nicht berechnungsfähig. Bei der Nebeneinanderberechnung diagnostischer bzw. therapeutischer GOP und der GOP 03230 ist eine mindestens 10 Minuten längere Arzt-Patienten-Kontaktzeit als in den entsprechenden GOP angegeben Voraussetzung für die Berechnung der GOP 03230. Die GOP 03230 ist nicht neben den GOP 03370, 03372, 03373, 35100, 35110, 35150 bis 35152, 35163 bis 35169, 35173 bis 35179, 37300, 37302, 37305, 37306 und 37711 und nicht neben den GOP der Abschnitte 35.2.1 und 35.2.2 berechnungsfähig. Die GOP 03230 ist im Behandlungsfall nicht neben der GOP 30700 berechnungsfähig."
+    }
+  ]
+}

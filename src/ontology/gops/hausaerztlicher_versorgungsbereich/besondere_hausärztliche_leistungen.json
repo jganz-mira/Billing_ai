@@ -1,0 +1,172 @@
+{
+  "gops": [
+    {
+      "code": "03241",
+      "title": "Computergestützte Auswertung eines kontinuierlich aufgezeichneten Langzeit-EKG von mindestens 18 Stunden Dauer",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 10.96,
+        "valuation_in_points": 86
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Die Berechnung der GOP 03241 setzt eine Genehmigung der Kassenärztlichen Vereinigung nach der Vereinbarung zur Durchführung von Langzeitelektrokardiographischen Untersuchungen gemäß § 135 Abs. 2 SGB V voraus. Die GOP 03241 ist nicht neben den GOP 13253 und 27323 berechnungsfähig. Die GOP 03241 ist im Behandlungsfall nicht neben den GOP 13250 und 13545 berechnungsfähig."
+    },
+    {
+      "code": "03242",
+      "title": "Testverfahren bei Demenzverdacht",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 2.93,
+        "valuation_in_points": 23
+      },
+      "mandatory_services": "- Beurteilung von Hirnleistungsstörungen mittels standardisierter Testverfahren bei Patienten mit Demenzverdacht (z. B. SKT, MMST, TFDD), je Test.",
+      "facultative_services": null,
+      "billing_info": "Bis zu dreimal im Behandlungsfall. Die GOP 03242 ist am Behandlungstag nicht neben der GOP 01613 berechnungsfähig. Die GOP 03242 ist im Behandlungsfall nicht neben der GOP 03360 berechnungsfähig."
+    },
+    {
+      "code": "03321",
+      "title": "Belastungs-Elektrokardiographie (Belastungs-EKG)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 25.23,
+        "valuation_in_points": 198
+      },
+      "mandatory_services": "- Untersuchung in Ruhe und nach Belastung mit mindestens 12 Ableitungen sowie während physikalisch definierter und reproduzierbarer Belastung mit mindestens 3 Ableitungen und fortlaufender Kontrolle des Kurvenverlaufes.\n- Wiederholte Blutdruckmessung.",
+      "facultative_services": null,
+      "billing_info": "Die GOP 03321 ist nicht neben den GOP 13251, 17330 und 17332 berechnungsfähig. Die GOP 03321 ist im Behandlungsfall nicht neben den GOP 13250, 13545 und 27321 berechnungsfähig."
+    },
+    {
+      "code": "03322",
+      "title": "Aufzeichnung eines Langzeit-EKG von mindestens 18 Stunden Dauer",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 6.12,
+        "valuation_in_points": 48
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Die Berechnung der GOP 03322 setzt eine Genehmigung der Kassenärztlichen Vereinigung nach der Vereinbarung zur Durchführung von Langzeitelektrokardiographischen Untersuchungen gemäß § 135 Abs. 2 SGB V voraus. Die GOP 03322 ist nicht neben den GOP 13252 und 27322 berechnungsfähig. Die GOP 03322 ist im Behandlungsfall nicht neben den GOP 13250 und 13545 berechnungsfähig."
+    },
+    {
+      "code": "03324",
+      "title": "Langzeit-Blutdruckmessung",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 7.26,
+        "valuation_in_points": 57
+      },
+      "mandatory_services": "- Automatisierte Aufzeichnung von mindestens 20 Stunden Dauer.\n- Computergestützte Auswertung.\n- Aufzeichnung der Blutdruckwerte mindestens alle 15 Minuten während der Wach- und mindestens alle 30 Minuten während der Schlafphase mit gleichzeitiger Registrierung der Herzfrequenz.\n- Auswertung und Beurteilung des Befundes.",
+      "facultative_services": null,
+      "billing_info": "Die GOP 03324 ist nicht neben den GOP 13254 und 27324 berechnungsfähig. Die GOP 03324 ist im Behandlungsfall nicht neben den GOP 13250 und 13545 berechnungsfähig."
+    },
+    {
+      "code": "03325",
+      "title": "Indikationsstellung zur Überwachung eines Patienten im Rahmen des Telemonitoring bei Herzinsuffizienz gemäß Nr. 37 Anlage I \"Anerkannte Untersuchungs- oder Behandlungsmethoden\" der Richtlinie Methoden vertragsärztliche Versorgung des Gemeinsamen Bundesausschusses",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 8.28,
+        "valuation_in_points": 65
+      },
+      "mandatory_services": "- Persönlicher Arzt-Patienten-Kontakt.\n- Aufklärung und Beratung zur Teilnahme am Telemonitoring bei Herzinsuffizienz.",
+      "facultative_services": "- Schriftliche Übermittlung medizinisch relevanter Informationen an das Telemedizinische Zentrum (z. B. Medikation, anamnestische Daten, Vorliegen der Indikationsvoraussetzungen).",
+      "billing_info": "Je vollendete 5 Minuten, höchstens dreimal im Krankheitsfall. Die GOP 03325 ist nur von Ärzten gemäß Präambel 3.1 Nr. 1 berechnungsfähig, die Patienten im Rahmen des Telemonitoring Herzinsuffizienz gemäß Nr. 37 Anlage I der Richtlinie Methoden vertragsärztliche Versorgung des Gemeinsamen Bundesausschusses als primär behandelnder Arzt (PBA) behandeln. Die GOP 03325 ist im Behandlungsfall nicht neben den GOP 01481, 04325 und 13578 berechnungsfähig."
+    },
+    {
+      "code": "03326",
+      "title": "Zusatzpauschale für die Betreuung eines Patienten im Rahmen des Telemonitoring bei Herzinsuffizienz gemäß Nr. 37 Anlage I \"Anerkannte Untersuchungs- oder Behandlungsmethoden\" der Richtlinie Methoden vertragsärztliche Versorgung des Gemeinsamen Bundesausschusses",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 16.31,
+        "valuation_in_points": 128
+      },
+      "mandatory_services": "- Kommunikation mit dem verantwortlichen Telemedizinischen Zentrum (TMZ).",
+      "facultative_services": "- Bestätigung eingehender Warnmeldungen an das TMZ innerhalb von 48 Stunden.\n- Information des TMZ über ergriffene Maßnahmen.\n- Telefonische Kontaktaufnahme mit dem Patienten.\n- Überprüfung der Indikation zur Überwachung eines Patienten im Rahmen des Telemonitoring bei Herzinsuffizienz.",
+      "billing_info": "Einmal im Behandlungsfall. Die GOP 03326 ist nur von Ärzten gemäß Präambel 3.1 Nr. 1 berechnungsfähig, die Patienten im Rahmen des Telemonitoring Herzinsuffizienz gemäß Nr. 37 Anlage I der Richtlinie Methoden vertragsärztliche Versorgung des Gemeinsamen Bundesausschusses als primär behandelnder Arzt (PBA) behandeln. Die GOP 03326 ist im Behandlungsfall nicht neben den GOP 01481, 04326 und 13579 berechnungsfähig."
+    },
+    {
+      "code": "03330",
+      "title": "Spirographische Untersuchung",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 6.75,
+        "valuation_in_points": 53
+      },
+      "mandatory_services": "- Darstellung der Flussvolumenkurve.\n- In- und exspiratorische Messungen.\n- Graphische Registrierung.",
+      "facultative_services": null,
+      "billing_info": "Die GOP 03330 ist nicht neben den GOP 13255 und 27330 berechnungsfähig. Die GOP 03330 ist am Behandlungstag nicht neben der GOP 31013 berechnungsfähig. Die GOP 03330 ist im Behandlungsfall nicht neben der GOP 13250 berechnungsfähig."
+    },
+    {
+      "code": "03331",
+      "title": "Prokto-/Rektoskopischer Untersuchungskomplex",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 11.98,
+        "valuation_in_points": 94
+      },
+      "mandatory_services": "- Rektale Untersuchung.\n- Proktoskopie und/oder Rektoskopie.\n- Patientenaufklärung.\n- Information zum Ablauf der vorbereitenden Maßnahmen vor dem Eingriff und zu einer möglichen Sedierung und/oder Prämedikation.\n- Nachbeobachtung und -betreuung.",
+      "facultative_services": "- Prämedikation/Sedierung.",
+      "billing_info": "Die GOP 03331 ist nicht neben den GOP 02300 bis 02302, 04516, 08333, 13257 und 30600 berechnungsfähig. Die GOP 03331 ist im Behandlungsfall nicht neben der GOP 13250 berechnungsfähig."
+    },
+    {
+      "code": "03335",
+      "title": "Orientierende audiometrische Untersuchung nach vorausgegangener, dokumentierter, auffälliger Hörprüfung",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 11.47,
+        "valuation_in_points": 90
+      },
+      "mandatory_services": "- Untersuchung(en) ein und/oder beidseitig.\n- Binaurikulare Untersuchung.\n- Bestimmung(en) der Hörschwelle in Luftleitung mit mindestens 8 Prüffrequenzen.",
+      "facultative_services": "- Otoskopie.\n- Kontinuierliche Frequenzänderung.",
+      "billing_info": "Die GOP 03335 ist nur berechnungsfähig bei Verwendung eines von der PTB bzw. eines entsprechend der EU-Richtlinie 93/42/EWG zugelassenen Audiometers mit mindestens einmal jährlich durchgeführter messtechnischer Kontrolle gemäß § 14 MPBetreibV durch einen zugelassenen Wartungsdienst entsprechend der MPBetreibV. Der Vertragsarzt hat in einer der Quartalsabrechnung beizufügenden Erklärung zu bestätigen, dass die Wartung durchgeführt wurde. Entgegen Nr. 4.3.2 der Allgemeinen Bestimmungen kann die GOP 03335 auch dann berechnet werden, wenn durch die Arztpraxis die kontinuierliche Frequenzänderung nicht vorgehalten wird. Die GOP 03335 ist nicht neben den GOP 01718, 03351 und 03352 berechnungsfähig."
+    },
+    {
+      "code": "03350",
+      "title": "Orientierende entwicklungsneurologische Untersuchung eines Neugeborenen, Säuglings, Kleinkindes oder Kindes",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 15.67,
+        "valuation_in_points": 123
+      },
+      "mandatory_services": "- Beurteilung der altersgemäßen Haltungs- und Bewegungskontrolle.\n- Beurteilung des Muskeltonus, der Eigen- und Fremdreflexe sowie der Hirnnerven.",
+      "facultative_services": null,
+      "billing_info": "Vertragsärzte des hausärztlichen Versorgungsbereiches können die GOP 03350 berechnen, wenn sie nachweisen, dass sie diese Leistungen bereits vor dem 31.12.2002 abgerechnet haben und/oder über eine mindestens einjährige pädiatrische Weiterbildung verfügen. Die GOP 03350 ist nicht neben den GOP 01711 bis 01719, 01723, 03352 und 35142 berechnungsfähig."
+    },
+    {
+      "code": "03351",
+      "title": "Orientierende Untersuchung der Sprachentwicklung eines Säuglings, Kleinkindes, Kindes oder Jugendlichen",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 21.66,
+        "valuation_in_points": 170
+      },
+      "mandatory_services": "- Standardisiertes Verfahren.\n- Prüfung aktiver und passiver Wortschatz.\n- Prüfung des Sprachverständnisses.\n- Prüfung der Fein- und Grobmotorik.",
+      "facultative_services": "- Orientierende audiometrische Untersuchung entsprechend der Leistung nach der Nr. 03335.",
+      "billing_info": "Einmal im Behandlungsfall. Vertragsärzte des hausärztlichen Versorgungsbereiches können die GOP 03351 berechnen, wenn sie nachweisen, dass sie diese Leistungen bereits vor dem 31.12.2002 abgerechnet haben und/oder über eine mindestens einjährige pädiatrische Weiterbildung verfügen. Die GOP 03351 ist nicht neben den GOP 01711 bis 01720, 01723, 03335 und 03352 berechnungsfähig."
+    },
+    {
+      "code": "03352",
+      "title": "Zuschlag zu den Gebührenordnungspositionen 01712 bis 01720 und 01723 für die Erbringung des Inhalts der Gebührenordnungspositionen 03350 und/oder 03351 bei pathologischem Ergebnis einer Kinderfrüherkennungs- bzw. Jugendgesundheitsuntersuchung",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 9.68,
+        "valuation_in_points": 76
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Die GOP 03352 ist nicht neben den GOP 03335, 03350 und 03351 berechnungsfähig."
+    },
+    {
+      "code": "03355",
+      "title": "Anleitung zur Selbstanwendung eines Real-Time-Messgerätes zur kontinuierlichen interstitiellen Glukosemessung (rtCGM)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 9.17,
+        "valuation_in_points": 72
+      },
+      "mandatory_services": "- Anleitung eines Patienten und/oder einer Bezugsperson zur Selbstanwendung eines rtCGM gemäß § 3 Nr. 3 der Nr. 20 der Anlage I \"Anerkannte Untersuchungs- oder Behandlungsmethoden\" der Richtlinie Methoden vertragsärztliche Versorgung des Gemeinsamen Bundesausschusses von mindestens 10 Minuten Dauer.",
+      "facultative_services": null,
+      "billing_info": "Je vollendete 10 Minuten. Die GOP 03355 ist nur von Fachärzten für Allgemeinmedizin und Fachärzten für Innere Medizin jeweils mit der Zusatzweiterbildung Diabetologie oder der Qualifikation Diabetologie Deutsche Diabetes Gesellschaft (DDG) berechnungsfähig. Die GOP 03355 ist je rtCGM-System in höchstens zwei aufeinanderfolgenden Quartalen höchstens 7-mal im Krankheitsfall berechnungsfähig. Die GOP 03355 ist ausschließlich im Zusammenhang mit der ersten Verordnung eines oder dem Umstieg auf ein anderes rtCGM-System berechnungsfähig."
+    }
+  ]
+}

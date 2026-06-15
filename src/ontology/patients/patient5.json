@@ -1,0 +1,8 @@
+{
+    "age": 32,
+    "contact_type": "personal_contact",
+    "last_contact_date": "2026-06-14",
+    "chronic_condition": false,
+    "palliative_care": false,
+    "geriatric_patient": false
+}

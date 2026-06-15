@@ -1,0 +1,52 @@
+{
+  "gops": [
+    {
+      "code": "03370",
+      "title": "Palliativmedizinische Ersterhebung des Patientenstatus inkl. Behandlungsplan",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 43.44,
+        "valuation_in_points": 341
+      },
+      "mandatory_services": "- Untersuchung des körperlichen und psychischen Zustandes des Patienten.\n- Beratung und Aufklärung des Patienten und/oder der betreuenden Person zur Ermittlung des Patientenwillens und ggf. Erfassung des Patientenwillens.\n- Erstellung und Dokumentation eines palliativmedizinischen Behandlungsplans unter Berücksichtigung des Patientenwillens.",
+      "facultative_services": null,
+      "billing_info": "Einmal im Krankheitsfall. Die GOP 03370 bis 03373 sind für die Behandlung von schwerstkranken und sterbenden Patienten in jedem Alter berechnungsfähig, die an einer nicht heilbaren, fortschreitenden und so weit fortgeschrittenen Erkrankung leiden, dass dadurch nach fachlicher Einschätzung des behandelnden Arztes die Lebenserwartung auf Tage, Wochen oder Monate gesunken ist. Der behandelnde Arzt ist verpflichtet, in jedem Einzelfall zu überprüfen, ob eine angemessene ambulante Versorgung in der Häuslichkeit, einschließlich Pflege- und Hospizeinrichtungen, möglich ist. Der grundsätzliche Anspruch auf SAPV im Sinne des § 37b SGB V wird durch das Erbringen der GOP 03370 bis 03373 nicht berührt. Die GOP 03370 bis 03373 sind nicht berechnungsfähig, wenn der behandelnde Vertragsarzt äquivalente Leistungen bei dem Patienten im Rahmen der spezialisierten ambulanten Palliativversorgung gemäß § 37b SGB V i. V. m. § 132d Abs. 1 SGB V erbringt. Die GOP 03370 ist nicht neben den GOP 03220, 03230, 03360, 03362 und 37800 berechnungsfähig. Die GOP 03370 ist im Krankheitsfall nicht neben der GOP 37300 berechnungsfähig."
+    },
+    {
+      "code": "03371",
+      "title": "Zuschlag zu der Versichertenpauschale 03000 für die palliativmedizinische Betreuung des Patienten in der Arztpraxis",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 20.26,
+        "valuation_in_points": 159
+      },
+      "mandatory_services": "- Persönlicher Arzt-Patienten-Kontakt.\n- Dauer mindestens 15 Minuten.\n- Palliativmedizinische Betreuung des Patienten (z. B. Schmerztherapie, Symptomkontrolle).",
+      "facultative_services": "- Koordinierung der palliativmedizinischen und -pflegerischen Versorgung in Zusammenarbeit mit anderen spezialisierten Leistungserbringern wie z. B. Vertragsärzten, Psychotherapeuten, Pflegediensten, psychosozialen Betreuungsdiensten, Hospizen.\n- Anleitung und Beratung der Betreuungs- und Bezugspersonen.",
+      "billing_info": "Einmal im Behandlungsfall. Die GOP 03370 bis 03373 sind für die Behandlung von schwerstkranken und sterbenden Patienten in jedem Alter berechnungsfähig, die an einer nicht heilbaren, fortschreitenden und so weit fortgeschrittenen Erkrankung leiden, dass dadurch nach fachlicher Einschätzung des behandelnden Arztes die Lebenserwartung auf Tage, Wochen oder Monate gesunken ist. Die GOP 03371, 03372 und 03373 sind nicht bei Patienten berechnungsfähig, die eine Vollversorgung nach § 5 Abs. 2 der SAPV-Richtlinie des Gemeinsamen Bundesausschusses erhalten. Die GOP 03370 bis 03373 sind nicht berechnungsfähig, wenn der behandelnde Vertragsarzt äquivalente Leistungen bei dem Patienten im Rahmen der spezialisierten ambulanten Palliativversorgung gemäß § 37b SGB V i. V. m. § 132d Abs. 1 SGB V erbringt. Die GOP 03371 ist nicht neben den GOP 03220, 03360, 03362, 03372, 03373, 37305, 37306 und 37400 berechnungsfähig. Die GOP 03371 ist im Behandlungsfall nicht neben den GOP 37302, 37711 und 37802 berechnungsfähig."
+    },
+    {
+      "code": "03372",
+      "title": "Zuschlag zu den Gebührenordnungspositionen 01410 oder 01413 für die palliativmedizinische Betreuung in der Häuslichkeit",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 15.80,
+        "valuation_in_points": 124
+      },
+      "mandatory_services": "- Persönlicher Arzt-Patienten-Kontakt.\n- Dauer mindestens 15 Minuten.\n- Palliativmedizinische Betreuung des Patienten (z. B. Schmerztherapie, Symptomkontrolle).",
+      "facultative_services": "- Koordinierung der palliativmedizinischen und -pflegerischen Versorgung in Zusammenarbeit mit anderen spezialisierten Leistungserbringern wie z. B. Vertragsärzten, Psychotherapeuten, Pflegediensten, psychosozialen Betreuungsdiensten, Hospizen.\n- Anleitung und Beratung der Betreuungs- und Bezugspersonen.",
+      "billing_info": "Je vollendete 15 Minuten. Der Höchstwert für die GOP 03372 beträgt am Behandlungstag 620 Punkte. Die GOP 03370 bis 03373 sind für die Behandlung von schwerstkranken und sterbenden Patienten in jedem Alter berechnungsfähig, die an einer nicht heilbaren, fortschreitenden und so weit fortgeschrittenen Erkrankung leiden, dass dadurch nach fachlicher Einschätzung des behandelnden Arztes die Lebenserwartung auf Tage, Wochen oder Monate gesunken ist. Die GOP 03371, 03372 und 03373 sind nicht bei Patienten berechnungsfähig, die eine Vollversorgung nach § 5 Abs. 2 der SAPV-Richtlinie des Gemeinsamen Bundesausschusses erhalten. Die GOP 03370 bis 03373 sind nicht berechnungsfähig, wenn der behandelnde Vertragsarzt äquivalente Leistungen bei dem Patienten im Rahmen der spezialisierten ambulanten Palliativversorgung gemäß § 37b SGB V i. V. m. § 132d Abs. 1 SGB V erbringt. Die GOP 03372 ist nicht neben den GOP 03220, 03230, 03360, 03362, 03371, 03373, 37305, 37306 und 37400 berechnungsfähig."
+    },
+    {
+      "code": "03373",
+      "title": "Zuschlag zu den Gebührenordnungspositionen 01411, 01412 oder 01415 für die palliativmedizinische Betreuung in der Häuslichkeit",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 15.80,
+        "valuation_in_points": 124
+      },
+      "mandatory_services": "- Persönlicher Arzt-Patienten-Kontakt.\n- Palliativmedizinische Betreuung des Patienten (z. B. Schmerztherapie, Symptomkontrolle).",
+      "facultative_services": null,
+      "billing_info": "Je Besuch. Die GOP 03370 bis 03373 sind für die Behandlung von schwerstkranken und sterbenden Patienten in jedem Alter berechnungsfähig, die an einer nicht heilbaren, fortschreitenden und so weit fortgeschrittenen Erkrankung leiden, dass dadurch nach fachlicher Einschätzung des behandelnden Arztes die Lebenserwartung auf Tage, Wochen oder Monate gesunken ist. Die GOP 03371, 03372 und 03373 sind nicht bei Patienten berechnungsfähig, die eine Vollversorgung nach § 5 Abs. 2 der SAPV-Richtlinie des Gemeinsamen Bundesausschusses erhalten. Die GOP 03370 bis 03373 sind nicht berechnungsfähig, wenn der behandelnde Vertragsarzt äquivalente Leistungen bei dem Patienten im Rahmen der spezialisierten ambulanten Palliativversorgung gemäß § 37b SGB V i. V. m. § 132d Abs. 1 SGB V erbringt. Die GOP 03373 ist für Besuche im Rahmen des organisierten Not(-fall)dienstes, für Besuche im Rahmen der Notfallversorgung durch nicht an der vertragsärztlichen Versorgung teilnehmende Ärzte, Institute und Krankenhäuser sowie für dringende Visiten auf der Belegstation nicht berechnungsfähig. Die GOP 03373 ist nicht neben den GOP 01100 bis 01102, 01205, 01207, 01210, 01212, 01214, 01216, 01218, 03220, 03230, 03360, 03362, 03371, 03372, 37305, 37306 und 37400 berechnungsfähig."
+    }
+  ]
+}

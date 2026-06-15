@@ -1,0 +1,28 @@
+{
+  "gops": [
+    {
+      "code": "03360",
+      "title": "Hausärztlich-geriatrisches Basisassessment",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 14.40,
+        "valuation_in_points": 113
+      },
+      "mandatory_services": "- Persönlicher Arzt-Patienten-Kontakt.\n- Erhebung und/oder Monitoring organbezogener und übergreifender motorischer, emotioneller und kognitiver Funktionseinschränkungen.\n- Beurteilung der Selbstversorgungsfähigkeiten mittels standardisierter, wissenschaftlich validierter Testverfahren (z. B. Barthel-Index, PGBA, IADL nach Lawton/Brody, geriatrisches Screening nach LACHS).\n- Beurteilung der Mobilität und Sturzgefahr durch standardisierte Testverfahren (z. B. Timed \"up & go\", Tandem-Stand, Esslinger Sturzrisikoassessment).",
+      "facultative_services": "- Beurteilung von Hirnleistungsstörungen mittels standardisierter Testverfahren (z. B. MMST, SKT oder TFDD).\n- Anleitung zur Anpassung des familiären und häuslichen Umfeldes an die ggf. vorhandene Fähigkeits- und Funktionsstörung.\n- Anleitung zur Anpassung des Wohnraumes, ggf. Arbeitsplatzes.\n- Abstimmung mit dem mitbehandelnden Arzt.",
+      "billing_info": "Einmal im Behandlungsfall. Die GOP 03360 und 03362 sind nur bei Patienten berechnungsfähig, die aufgrund ihrer Krankheitsverläufe einen geriatrischen Versorgungsbedarf aufweisen und folgende Kriterien erfüllen: höheres Lebensalter ab vollendetem 70. Lebensjahr und geriatrietypische Morbidität (mindestens ein dokumentiertes geriatrisches Syndrom) und/oder Vorliegen eines Pflegegrades; alternativ Vorliegen einer der Erkrankungen F00-F02 dementielle Erkrankungen, G30 Alzheimer-Erkrankung, G20.1 Primäres Parkinson-Syndrom mit mäßiger bis schwerer Beeinträchtigung oder G20.2 Primäres Parkinson-Syndrom mit schwerster Beeinträchtigung auch bei Patienten, die das 70. Lebensjahr noch nicht vollendet haben. Geriatrische Syndrome sind insbesondere multifaktoriell bedingte Mobilitätsstörung einschließlich Fallneigung und Altersschwindel, komplexe Beeinträchtigung kognitiver, emotionaler oder verhaltensbezogener Art, Frailty-Syndrom, Dysphagie, Inkontinenz(en) und therapierefraktäres chronisches Schmerzsyndrom. Die Berechnung der GOP 03360 und 03362 setzt die Angabe eines ICD-Kodes gemäß ICD-10-GM voraus, der den geriatrischen Versorgungsbedarf dokumentiert. Die GOP 03360 ist im Krankheitsfall höchstens zweimal berechnungsfähig. Die GOP 03360 ist nicht neben den GOP 03370 bis 03373, 30984, 37300, 37302, 37305, 37306, 37711 und 37800 berechnungsfähig. Die GOP 03360 ist im Behandlungsfall nicht neben den GOP 01613 und 03242 berechnungsfähig."
+    },
+    {
+      "code": "03362",
+      "title": "Hausärztlich-geriatrischer Betreuungskomplex",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 22.17,
+        "valuation_in_points": 174
+      },
+      "mandatory_services": "- Persönlicher Arzt-Patienten-Kontakt.\n- Einleitung und/oder Koordination der Behandlung, ggf. Durchführung therapeutischer Maßnahmen zur Behandlung von geriatrischen Syndromen, z. B. Stuhl- und/oder Harninkontinenz, Sturz oder lokomotorische Probleme, Frailty-Syndrom, Immobilität und verzögerte Remobilität, Hemiplegiesyndrom, kognitive und neuropsychologische Störungen einschließlich Depression und Demenz, metabolische Instabilität.\n- Überprüfung, ggf. Priorisierung und Anpassung aller verordneten Arzneimittel und der Selbstmedikation sowie ggf. Überprüfung der Arzneimittelhandhabung.\n- Erstellung und/oder Aktualisierung eines Medikationsplans.",
+      "facultative_services": "- Verordnung und/oder Einleitung von physio- und/oder ergotherapeutischen und/oder logopädischen Maßnahmen.\n- Koordination der pflegerischen Versorgung.",
+      "billing_info": "Einmal im Behandlungsfall. Die GOP 03360 und 03362 sind nur bei Patienten berechnungsfähig, die aufgrund ihrer Krankheitsverläufe einen geriatrischen Versorgungsbedarf aufweisen und folgende Kriterien erfüllen: höheres Lebensalter ab vollendetem 70. Lebensjahr und geriatrietypische Morbidität (mindestens ein dokumentiertes geriatrisches Syndrom) und/oder Vorliegen eines Pflegegrades; alternativ Vorliegen einer der Erkrankungen F00-F02 dementielle Erkrankungen, G30 Alzheimer-Erkrankung, G20.1 Primäres Parkinson-Syndrom mit mäßiger bis schwerer Beeinträchtigung oder G20.2 Primäres Parkinson-Syndrom mit schwerster Beeinträchtigung auch bei Patienten, die das 70. Lebensjahr noch nicht vollendet haben. Die Berechnung der GOP 03360 und 03362 setzt die Angabe eines ICD-Kodes gemäß ICD-10-GM voraus, der den geriatrischen Versorgungsbedarf dokumentiert. Für die Berechnung der GOP 03362 neben der Versichertenpauschale nach den GOP 03000 oder 03030 ist in demselben Behandlungsfall mindestens ein weiterer persönlicher Arzt-Patienten-Kontakt notwendig. Die Berechnung der GOP 03362 setzt das Vorliegen der Ergebnisse eines geriatrischen Basisassessments entsprechend den Inhalten der GOP 03360 und/oder eines weiterführenden geriatrischen Assessments nach der GOP 30984 voraus. Die Durchführung des geriatrischen Basisassessments und/oder des weiterführenden geriatrischen Assessments darf nicht länger als vier Quartale zurückliegen. Die GOP 03362 ist nicht neben den GOP 03370 bis 03373, 30984, 37300, 37302, 37305, 37306 und 37711 berechnungsfähig. Die GOP 03362 ist im Behandlungsfall nicht neben den GOP 01630, 03222 und 37802 berechnungsfähig."
+    }
+  ]
+}
