@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import json
+import sys
 import tempfile
 from datetime import date, datetime
 from pathlib import Path
@@ -10,6 +11,7 @@ from typing import Any
 
 import streamlit as st
 
+from model_interface import ModelResponseGop, ModelResponseGopList, ValuationOutput
 from ontology.documentations import DOCUMENTATION
 from runner import ModelRunResult, run
 
@@ -21,6 +23,7 @@ AppRecord = dict[str, Any]
 BASE_DIR: Path = Path(__file__).resolve().parent
 PHYSICIAN_DIR: Path = BASE_DIR / "ontology" / "physicians"
 PATIENT_DIR: Path = BASE_DIR / "ontology" / "patients"
+DEBUG_MODE: bool = any(argument in {"--debug", "debug"} for argument in sys.argv)
 
 # UI labels are intentionally kept close to the app layer. The ontology files
 # use stable machine-readable identifiers, while Streamlit should present
@@ -138,39 +141,37 @@ def dump_model(value: Any) -> Any:
     return value
 
 
+def format_euro(value: Any) -> str:
+    """Format a numeric euro amount for the German UI."""
+    if value is None:
+        return ""
+    if isinstance(value, int | float):
+        return f"{value:.2f} EUR"
+    return str(value)
+
+
+def format_points(value: Any) -> str:
+    """Format a numeric point value for the German UI."""
+    if value is None:
+        return ""
+    if isinstance(value, int | float):
+        return f"{value:g} Punkte"
+    return str(value)
+
+
 def format_valuation(value: Any) -> tuple[str, str]:
-    """Split fixed or categorized GOP valuation data into EUR and points columns."""
+    """Split patient-specific GOP valuation data into EUR and points columns."""
+    if value is None:
+        return "", ""
+
     data = dump_model(value)
     if not isinstance(data, dict):
         return str(data), ""
 
-    if data.get("type") == "fixed":
-        return (
-            f"{data.get('valuation_in_euro')} EUR",
-            f"{data.get('valuation_in_points')} Punkte",
-        )
-
-    if data.get("type") == "categorized":
-        categories = data.get("categories", [])
-        euro_values = "; ".join(
-            (
-                f"{category.get('label')}: "
-                f"{category.get('valuation_in_euro')} EUR"
-            )
-            for category in categories
-            if isinstance(category, dict)
-        )
-        point_values = "; ".join(
-            (
-                f"{category.get('label')}: "
-                f"{category.get('valuation_in_points')} Punkte"
-            )
-            for category in categories
-            if isinstance(category, dict)
-        )
-        return euro_values, point_values
-
-    return str(data), ""
+    return (
+        format_euro(data.get("valuation_in_euro")),
+        format_points(data.get("valuation_in_points")),
+    )
 
 
 def result_rows(
@@ -189,8 +190,8 @@ def result_rows(
                 {
                     "GOP": "",
                     "Titel": "",
-                    "Bewertung EUR": "",
-                    "Bewertung Punkte": "",
+                    "Betrag": "",
+                    "Punkte": "",
                     "Wahrscheinlichkeit": "",
                     "Begründung": result.error,
                 }
@@ -207,13 +208,127 @@ def result_rows(
                 {
                     "GOP": gop.code,
                     "Titel": gop.title,
-                    "Bewertung EUR": valuation_eur,
-                    "Bewertung Punkte": valuation_points,
+                    "Betrag": valuation_eur,
+                    "Punkte": valuation_points,
                     "Wahrscheinlichkeit": f"{gop.propability:.0%}",
                     "Begründung": gop.rationale,
                 }
             )
     return rows
+
+
+def debug_gop(
+    *,
+    code: str,
+    title: str,
+    euro: float | None,
+    points: int | None,
+    probability: float,
+    rationale: str,
+) -> ModelResponseGop:
+    """Create a model-shaped GOP response for table debugging."""
+    valuation = None
+    if euro is not None and points is not None:
+        valuation = ValuationOutput(
+            valuation_in_euro=euro,
+            valuation_in_points=points,
+        )
+
+    return ModelResponseGop(
+        code=code,
+        title=title,
+        valuation=valuation,
+        propability=probability,
+        rationale=rationale,
+    )
+
+
+def debug_analysis_results() -> list[ModelRunResult]:
+    """Return deterministic runner-shaped outputs without calling an LLM."""
+    expert_output = ModelResponseGopList(
+        gops=[
+            debug_gop(
+                code="03321",
+                title="Belastungs-Elektrokardiographie (Belastungs-EKG)",
+                euro=25.23,
+                points=198,
+                probability=0.91,
+                rationale=(
+                    "Dummy: Belastungs-EKG wurde in der Dokumentation als "
+                    "durchgeführt angenommen."
+                ),
+            ),
+            debug_gop(
+                code="03324",
+                title="Langzeit-Blutdruckmessung",
+                euro=7.26,
+                points=57,
+                probability=0.74,
+                rationale=(
+                    "Dummy: Langzeit-Blutdruckmessung mit Auswertung wurde "
+                    "als abrechnungsrelevant angenommen."
+                ),
+            ),
+            debug_gop(
+                code="03330",
+                title="Spirographische Untersuchung",
+                euro=6.75,
+                points=53,
+                probability=0.66,
+                rationale=(
+                    "Dummy: Spirographische Untersuchung wurde passend zum "
+                    "Falltext simuliert."
+                ),
+            ),
+        ]
+    )
+    final_output = ModelResponseGopList(
+        gops=[
+            debug_gop(
+                code="03321",
+                title="Belastungs-Elektrokardiographie (Belastungs-EKG)",
+                euro=25.23,
+                points=198,
+                probability=0.93,
+                rationale=(
+                    "Dummy final: Höchste Passung, da die Leistung eindeutig "
+                    "dokumentiert simuliert wurde."
+                ),
+            ),
+            debug_gop(
+                code="03324",
+                title="Langzeit-Blutdruckmessung",
+                euro=7.26,
+                points=57,
+                probability=0.81,
+                rationale=(
+                    "Dummy final: In die konsolidierte Liste übernommen, um "
+                    "Betrag- und Punktespalten zu prüfen."
+                ),
+            ),
+        ]
+    )
+
+    return [
+        ModelRunResult(
+            step_name="experte_besondere_hausarztliche_leistungen",
+            expert_role="Debug-Experte fuer besondere hausaerztliche Leistungen",
+            model_type="debug",
+            output=expert_output,
+        ),
+        ModelRunResult(
+            step_name="experte_palliative_hausarztliche_leistungen",
+            expert_role="Debug-Experte fuer palliative Leistungen",
+            model_type="debug",
+            skipped=True,
+        ),
+        ModelRunResult(
+            step_name="gop_consolidation",
+            expert_role="Debug-Konsolidierer fuer GOP-Abrechnungsvorschlaege",
+            model_type="debug",
+            output=final_output,
+        ),
+    ]
 
 
 def write_temp_patient(patient: AppRecord) -> Path:
@@ -224,6 +339,32 @@ def write_temp_patient(patient: AppRecord) -> Path:
         encoding="utf-8",
     )
     return path
+
+
+def render_analysis_results(analysis_results: list[ModelRunResult]) -> None:
+    """Render final and detailed analysis tables for runner-shaped results."""
+    rows: list[TableRow] = result_rows(analysis_results)
+    errors: list[ModelRunResult] = [
+        result for result in analysis_results if result.error is not None
+    ]
+    successful_gops: list[TableRow] = result_rows(analysis_results, final_only=True)
+
+    if errors:
+        st.warning(
+            f"{len(errors)} Analyseschritt(e) wurden mit Fehler beendet. "
+            "Details stehen in der Ergebnistabelle."
+        )
+    else:
+        st.success("Analyse abgeschlossen.")
+
+    st.subheader("Finale GOP-Vorschläge")
+    if successful_gops:
+        st.dataframe(successful_gops, hide_index=True, width="stretch")
+    else:
+        st.info("Die Analyse hat keine finalen GOP-Vorschläge erzeugt.")
+
+    with st.expander("Alle Analyseschritte", expanded=False):
+        st.dataframe(rows, hide_index=True, width="stretch")
 
 
 st.set_page_config(page_title="Abrechnungs Assistent", page_icon=":clipboard:")
@@ -356,51 +497,38 @@ with st.expander("Dokumentation des Patienten Besuches", expanded=True):
         on_click=clear_visit_documentation,
     )
 
-if st.button("Analyze", type="primary"):
-    if not st.session_state.visit_documentation.strip():
+analyze_clicked = st.button("Analyze", type="primary")
+debug_analyze_clicked = False
+if DEBUG_MODE:
+    debug_analyze_clicked = st.button("Debugging Analyze")
+
+if analyze_clicked or debug_analyze_clicked:
+    if analyze_clicked and not st.session_state.visit_documentation.strip():
         st.warning("Bitte zuerst eine Besuchsdokumentation eingeben.")
         st.stop()
 
-    patient_path: str | Path | None = selected_patient["path"]
-    if patient_path is None:
-        patient_path = write_temp_patient(selected_patient)
-
-    # runner.run owns the domain workflow: it loads ontology files, evaluates
-    # conditional care-path steps, calls the model interface, and consolidates
-    # expert outputs. The app only prepares inputs and renders the result.
-    with st.spinner("Analyse läuft..."):
-        try:
-            analysis_results: list[ModelRunResult] = run(
-                patient_path=patient_path,
-                physician_path=selected_physician["path"],
-                visit_documentation=st.session_state.visit_documentation,
-                care_path_dir=BASE_DIR / "ontology" / "care_paths",
-                parallel=True,
-                max_workers=3,
-            )
-        except Exception as exc:
-            st.error(f"Analyse fehlgeschlagen: {exc}")
-            st.stop()
-
-    rows: list[TableRow] = result_rows(analysis_results)
-    errors: list[ModelRunResult] = [
-        result for result in analysis_results if result.error is not None
-    ]
-    successful_gops: list[TableRow] = result_rows(analysis_results, final_only=True)
-
-    if errors:
-        st.warning(
-            f"{len(errors)} Analyseschritt(e) wurden mit Fehler beendet. "
-            "Details stehen in der Ergebnistabelle."
-        )
+    if debug_analyze_clicked:
+        analysis_results = debug_analysis_results()
     else:
-        st.success("Analyse abgeschlossen.")
+        patient_path: str | Path | None = selected_patient["path"]
+        if patient_path is None:
+            patient_path = write_temp_patient(selected_patient)
 
-    st.subheader("Finale GOP-Vorschläge")
-    if successful_gops:
-        st.dataframe(successful_gops, hide_index=True, width="stretch")
-    else:
-        st.info("Die Analyse hat keine finalen GOP-Vorschläge erzeugt.")
+        # runner.run owns the domain workflow: it loads ontology files, evaluates
+        # conditional care-path steps, calls the model interface, and consolidates
+        # expert outputs. The app only prepares inputs and renders the result.
+        with st.spinner("Analyse läuft..."):
+            try:
+                analysis_results = run(
+                    patient_path=patient_path,
+                    physician_path=selected_physician["path"],
+                    visit_documentation=st.session_state.visit_documentation,
+                    care_path_dir=BASE_DIR / "ontology" / "care_paths",
+                    parallel=True,
+                    max_workers=3,
+                )
+            except Exception as exc:
+                st.error(f"Analyse fehlgeschlagen: {exc}")
+                st.stop()
 
-    with st.expander("Alle Analyseschritte", expanded=False):
-        st.dataframe(rows, hide_index=True, width="stretch")
+    render_analysis_results(analysis_results)
