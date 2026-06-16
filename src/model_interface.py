@@ -6,14 +6,18 @@ from typing import Any
 from pydantic import BaseModel, ConfigDict, Field
 from ontology.schemas.gop_list import StrictModel, Valuation
 
+class ValuationOutput(StrictModel):
+    valuation_in_euro: float = Field(
+        description="Valuation in euros for this category"
+    )
+    valuation_in_points: int = Field(
+        description="Valuation in points for this category"
+    )
 
 class ModelResponseGop(StrictModel):
     code: str = Field(description="EBM GOP code, e.g. 03000")
     title: str = Field(description="Official GOP title")
-    valuation: Valuation = Field(description="GOP valuation. Either fixed or categorized.")
-    mandatory_services: str | None = None
-    facultative_services: str | None = None
-    billing_info: str | None = None
+    valuation: ValuationOutput | None = Field(description="GOP valuation if available. Either fixed or categorized. Based on patient Information")
     rationale: str = Field(
         description=(
             "Short rationale for why the GOP was recommended, including the "
