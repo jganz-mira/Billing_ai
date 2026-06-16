@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import json
+import os
 import sys
 import tempfile
 from datetime import date, datetime
@@ -54,6 +55,19 @@ def load_json(path: Path) -> dict[str, Any]:
     """Load a UTF-8 encoded JSON object from disk."""
     with path.open(encoding="utf-8") as file:
         return json.load(file)
+
+
+def configure_openai_api_key() -> None:
+    """Load OPENAI_API_KEY from Streamlit secrets when available."""
+    try:
+        api_key = st.secrets.get("OPENAI_API_KEY")
+        if not api_key and "openai" in st.secrets:
+            api_key = st.secrets["openai"].get("api_key")
+    except Exception:
+        return
+
+    if api_key:
+        os.environ["OPENAI_API_KEY"] = str(api_key)
 
 
 @st.cache_data
@@ -440,6 +454,7 @@ def render_analysis_results(analysis_results: list[ModelRunResult]) -> None:
 
 st.set_page_config(page_title="Abrechnungs Assistent", page_icon=":clipboard:")
 st.title("Abrechnungs Assistent")
+configure_openai_api_key()
 
 physicians: list[AppRecord] = load_physicians()
 patients: list[AppRecord] = load_patients()
