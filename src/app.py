@@ -159,6 +159,23 @@ def format_points(value: Any) -> str:
     return str(value)
 
 
+def valuation_values(value: Any) -> tuple[float, int]:
+    """Extract numeric euro and point values from patient-specific valuation data."""
+    if value is None:
+        return 0.0, 0
+
+    data = dump_model(value)
+    if not isinstance(data, dict):
+        return 0.0, 0
+
+    euro = data.get("valuation_in_euro")
+    points = data.get("valuation_in_points")
+    return (
+        float(euro) if isinstance(euro, int | float) else 0.0,
+        int(points) if isinstance(points, int | float) else 0,
+    )
+
+
 def format_valuation(value: Any) -> tuple[str, str]:
     """Split patient-specific GOP valuation data into EUR and points columns."""
     if value is None:
@@ -203,18 +220,31 @@ def result_rows(
             continue
 
         for gop in output.gops:
+            valuation_euro_value, valuation_points_value = valuation_values(
+                gop.valuation
+            )
             valuation_eur, valuation_points = format_valuation(gop.valuation)
             rows.append(
                 {
+                    "Auswahl": True,
                     "GOP": gop.code,
                     "Titel": gop.title,
                     "Betrag": valuation_eur,
                     "Punkte": valuation_points,
                     "Wahrscheinlichkeit": f"{gop.propability:.0%}",
                     "Begründung": gop.rationale,
+                    "_betrag_value": valuation_euro_value,
+                    "_punkte_value": valuation_points_value,
                 }
             )
     return rows
+
+
+def table_records(value: Any) -> list[TableRow]:
+    """Return table rows from Streamlit table outputs regardless of container type."""
+    if hasattr(value, "to_dict"):
+        return value.to_dict("records")
+    return list(value)
 
 
 def debug_gop(
@@ -359,12 +389,53 @@ def render_analysis_results(analysis_results: list[ModelRunResult]) -> None:
 
     st.subheader("Finale GOP-Vorschläge")
     if successful_gops:
-        st.dataframe(successful_gops, hide_index=True, width="stretch")
+        editor_key = f"final_gop_selection_{st.session_state.get('analysis_run_id', 0)}"
+        selected_gops = st.data_editor(
+            successful_gops,
+            hide_index=True,
+            width="stretch",
+            disabled=[
+                "GOP",
+                "Titel",
+                "Betrag",
+                "Punkte",
+                "Wahrscheinlichkeit",
+                "Begründung",
+            ],
+            column_config={
+                "Auswahl": st.column_config.CheckboxColumn(
+                    "Auswahl",
+                    default=True,
+                ),
+                "_betrag_value": None,
+                "_punkte_value": None,
+            },
+            key=editor_key,
+        )
+        selected_records = table_records(selected_gops)
+        selected_rows = [
+            row for row in selected_records if row.get("Auswahl") is True
+        ]
+        total_euro = sum(float(row.get("_betrag_value", 0.0)) for row in selected_rows)
+        total_points = sum(int(row.get("_punkte_value", 0)) for row in selected_rows)
+
+        col_euro, col_points = st.columns(2)
+        col_euro.metric("Summe Betrag", format_euro(total_euro))
+        col_points.metric("Summe Punkte", format_points(total_points))
     else:
         st.info("Die Analyse hat keine finalen GOP-Vorschläge erzeugt.")
 
     with st.expander("Alle Analyseschritte", expanded=False):
-        st.dataframe(rows, hide_index=True, width="stretch")
+        st.dataframe(
+            rows,
+            hide_index=True,
+            width="stretch",
+            column_config={
+                "Auswahl": None,
+                "_betrag_value": None,
+                "_punkte_value": None,
+            },
+        )
 
 
 st.set_page_config(page_title="Abrechnungs Assistent", page_icon=":clipboard:")
@@ -531,4 +602,8 @@ if analyze_clicked or debug_analyze_clicked:
                 st.error(f"Analyse fehlgeschlagen: {exc}")
                 st.stop()
 
-    render_analysis_results(analysis_results)
+    st.session_state.analysis_results = analysis_results
+    st.session_state.analysis_run_id = st.session_state.get("analysis_run_id", 0) + 1
+
+if "analysis_results" in st.session_state:
+    render_analysis_results(st.session_state.analysis_results)
