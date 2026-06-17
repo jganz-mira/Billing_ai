@@ -1,0 +1,233 @@
+{
+  "gops": [
+    {
+      "code": "07210",
+      "title": "Chirurgische Grundpauschale für Versicherte bis zum vollendeten 5. Lebensjahr",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 29.05,
+        "valuation_in_points": 228
+      },
+      "mandatory_services": "- Persönlicher Arzt-Patienten-Kontakt und/oder Arzt-Patienten-Kontakt im Rahmen einer Videosprechstunde gemäß Anlage 31b zum BMV-Ä.",
+      "facultative_services": "- Weitere persönliche oder andere Arzt-Patienten-Kontakte gemäß 4.3.1 der Allgemeinen Bestimmungen.\n- Ärztlicher Bericht entsprechend der Gebührenordnungsposition 01600.\n- Individueller Arztbrief entsprechend der Gebührenordnungsposition 01601.\n- In Anhang 1 aufgeführte Leistungen.",
+      "billing_info": "Einmal im Behandlungsfall. Die Gebührenordnungspositionen 07210 bis 07212 sind nicht neben der Gebührenordnungsposition 01436 berechnungsfähig. Die Gebührenordnungspositionen 07210 bis 07212 sind im Behandlungsfall nicht neben den Gebührenordnungspositionen 01600 und 01601 berechnungsfähig."
+    },
+    {
+      "code": "07211",
+      "title": "Chirurgische Grundpauschale für Versicherte ab Beginn des 6. bis zum vollendeten 59. Lebensjahr",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 29.43,
+        "valuation_in_points": 231
+      },
+      "mandatory_services": "- Persönlicher Arzt-Patienten-Kontakt und/oder Arzt-Patienten-Kontakt im Rahmen einer Videosprechstunde gemäß Anlage 31b zum BMV-Ä.",
+      "facultative_services": "- Weitere persönliche oder andere Arzt-Patienten-Kontakte gemäß 4.3.1 der Allgemeinen Bestimmungen.\n- Ärztlicher Bericht entsprechend der Gebührenordnungsposition 01600.\n- Individueller Arztbrief entsprechend der Gebührenordnungsposition 01601.\n- In Anhang 1 aufgeführte Leistungen.",
+      "billing_info": "Einmal im Behandlungsfall. Die Gebührenordnungspositionen 07210 bis 07212 sind nicht neben der Gebührenordnungsposition 01436 berechnungsfähig. Die Gebührenordnungspositionen 07210 bis 07212 sind im Behandlungsfall nicht neben den Gebührenordnungspositionen 01600 und 01601 berechnungsfähig."
+    },
+    {
+      "code": "07212",
+      "title": "Chirurgische Grundpauschale für Versicherte ab Beginn des 60. Lebensjahres",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 34.02,
+        "valuation_in_points": 267
+      },
+      "mandatory_services": "- Persönlicher Arzt-Patienten-Kontakt und/oder Arzt-Patienten-Kontakt im Rahmen einer Videosprechstunde gemäß Anlage 31b zum BMV-Ä.",
+      "facultative_services": "- Weitere persönliche oder andere Arzt-Patienten-Kontakte gemäß 4.3.1 der Allgemeinen Bestimmungen.\n- Ärztlicher Bericht entsprechend der Gebührenordnungsposition 01600.\n- Individueller Arztbrief entsprechend der Gebührenordnungsposition 01601.\n- In Anhang 1 aufgeführte Leistungen.",
+      "billing_info": "Einmal im Behandlungsfall. Die Gebührenordnungspositionen 07210 bis 07212 sind nicht neben der Gebührenordnungsposition 01436 berechnungsfähig. Die Gebührenordnungspositionen 07210 bis 07212 sind im Behandlungsfall nicht neben den Gebührenordnungspositionen 01600 und 01601 berechnungsfähig."
+    },
+    {
+      "code": "07215",
+      "title": "Hygienezuschlag zu den Gebührenordnungspositionen 07210 bis 07212",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 0.25,
+        "valuation_in_points": 2
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Einmal im Behandlungsfall. Die Gebührenordnungsposition 07215 wird durch die zuständige Kassenärztliche Vereinigung zugesetzt."
+    },
+    {
+      "code": "07220",
+      "title": "Zuschlag für die chirurgische Grundversorgung gemäß Allgemeiner Bestimmung 4.3.8 zu den Gebührenordnungspositionen 07210 bis 07212",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 4.08,
+        "valuation_in_points": 32
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Einmal im Behandlungsfall. Der Zuschlag nach der Gebührenordnungsposition 07220 kann gemäß Allgemeiner Bestimmung 4.3.8 ausschließlich in Behandlungsfällen abgerechnet werden, in denen nur Leistungen der fachärztlichen Grundversorgung gemäß Anhang 3 und/oder regionaler Vereinbarungen erbracht und berechnet werden."
+    },
+    {
+      "code": "07222",
+      "title": "Zuschlag zu der Gebührenordnungsposition 07220",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 1.15,
+        "valuation_in_points": 9
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Einmal im Behandlungsfall. Die Gebührenordnungsposition 07222 wird durch die zuständige Kassenärztliche Vereinigung zugesetzt."
+    },
+    {
+      "code": "07227",
+      "title": "Zuschlag zu den Gebührenordnungspositionen 07210 bis 07212",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 0.25,
+        "valuation_in_points": 2
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Einmal im Behandlungsfall. Die Gebührenordnungsposition 07227 wird durch die zuständige Kassenärztliche Vereinigung zugesetzt. Die Gebührenordnungsposition 07227 ist im Behandlungsfall nicht neben der Gebührenordnungsposition 01630 berechnungsfähig."
+    },
+    {
+      "code": "07228",
+      "title": "Zuschlag zu den Gebührenordnungspositionen 07210 bis 07212 für die Behandlung aufgrund einer TSS-Vermittlung und/oder Vermittlung durch den Hausarzt gemäß Allgemeiner Bestimmung 4.3.10.1, 4.3.10.2 oder 4.3.10.3",
+      "valuation": {
+        "type": "categorized",
+        "category_type": "tss_or_hausarztvermittlung_interval_and_age",
+        "categories": [
+          {
+            "label": "TSS-Terminfall oder Hausarztvermittlungsfall, gleicher bis 4. Kalendertag, bis zum vollendeten 5. Lebensjahr",
+            "valuation_in_euro": 29.05,
+            "valuation_in_points": 228
+          },
+          {
+            "label": "TSS-Terminfall oder Hausarztvermittlungsfall, gleicher bis 4. Kalendertag, ab Beginn des 6. bis zum vollendeten 59. Lebensjahr",
+            "valuation_in_euro": 29.43,
+            "valuation_in_points": 231
+          },
+          {
+            "label": "TSS-Terminfall oder Hausarztvermittlungsfall, gleicher bis 4. Kalendertag, ab Beginn des 60. Lebensjahres",
+            "valuation_in_euro": 34.02,
+            "valuation_in_points": 267
+          },
+          {
+            "label": "TSS-Terminfall oder Hausarztvermittlungsfall, 5. bis 14. Kalendertag, bis zum vollendeten 5. Lebensjahr",
+            "valuation_in_euro": 23.24,
+            "valuation_in_points": 182
+          },
+          {
+            "label": "TSS-Terminfall oder Hausarztvermittlungsfall, 5. bis 14. Kalendertag, ab Beginn des 6. bis zum vollendeten 59. Lebensjahr",
+            "valuation_in_euro": 23.54,
+            "valuation_in_points": 185
+          },
+          {
+            "label": "TSS-Terminfall oder Hausarztvermittlungsfall, 5. bis 14. Kalendertag, ab Beginn des 60. Lebensjahres",
+            "valuation_in_euro": 27.22,
+            "valuation_in_points": 214
+          },
+          {
+            "label": "TSS-Terminfall oder Hausarztvermittlungsfall, 15. bis 35. Kalendertag, bis zum vollendeten 5. Lebensjahr",
+            "valuation_in_euro": 11.62,
+            "valuation_in_points": 91
+          },
+          {
+            "label": "TSS-Terminfall oder Hausarztvermittlungsfall, 15. bis 35. Kalendertag, ab Beginn des 6. bis zum vollendeten 59. Lebensjahr",
+            "valuation_in_euro": 11.77,
+            "valuation_in_points": 92
+          },
+          {
+            "label": "TSS-Terminfall oder Hausarztvermittlungsfall, 15. bis 35. Kalendertag, ab Beginn des 60. Lebensjahres",
+            "valuation_in_euro": 13.61,
+            "valuation_in_points": 107
+          },
+          {
+            "label": "TSS-Akutfall, bis zum vollendeten 5. Lebensjahr",
+            "valuation_in_euro": 58.1,
+            "valuation_in_points": 456
+          },
+          {
+            "label": "TSS-Akutfall, ab Beginn des 6. bis zum vollendeten 59. Lebensjahr",
+            "valuation_in_euro": 58.86,
+            "valuation_in_points": 462
+          },
+          {
+            "label": "TSS-Akutfall, ab Beginn des 60. Lebensjahres",
+            "valuation_in_euro": 68.04,
+            "valuation_in_points": 534
+          }
+        ]
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Einmal im Arztgruppenfall. Die Gebührenordnungsposition 07228 kann durch die zuständige Kassenärztliche Vereinigung zugesetzt werden. Die Gebührenordnungsposition 07228 ist im Arztgruppenfall nicht neben der Gebührenordnungsposition 01710 berechnungsfähig. Bewertung gemäß Allgemeiner Bestimmung 4.3.10: Aufschlag auf die jeweilige altersklassenspezifische chirurgische Grundpauschale 07210 bis 07212; 100 %, 80 %, 40 % nach Zeitintervall bzw. 200 % im TSS-Akutfall."
+    },
+    {
+      "code": "07310",
+      "title": "Zusatzpauschale Behandlung und ggf. Diagnostik von Erkrankung(en) des Stütz- und Bewegungsapparates (angeboren, traumatisch, posttraumatisch, perioperativ), entzündlicher(n) Erkrankung(en) des Stütz- und Bewegungsapparates, Skelettanomalie(n) bei Neugeborenen, Säuglingen, Kleinkindern und Kindern",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 29.69,
+        "valuation_in_points": 233
+      },
+      "mandatory_services": "- Funktionsdiagnostik (ggf. segmental) und Differentialdiagnostik.\n- Dokumentation von Bewegungseinschränkungen (z. B. nach der Neutral-Null-Methode).\n- Weiterführende neurologische Diagnostik.\n- Mindestens 3 Arzt-Patienten-Kontakte im Behandlungsfall.",
+      "facultative_services": "- Anlage und/oder Wiederanlage eines immobilisierenden Verbandes unter Einschluss mindestens eines großen Gelenkes und/oder Frakturen.\n- Anlage und/oder Wiederanlage eines Schienenverbandes.\n- Anlage und/oder Wiederanlage einer Orthese.\n- Mobilisation(en) nach Funktionsdiagnostik.\n- Anleitung zur Durchführung von Bewegungsübungen.\n- Durchführung einer Thromboseprophylaxe.\n- Gelenkpunktion(en) und/oder intraarticuläre Injektionen.",
+      "billing_info": "Einmal im Behandlungsfall. Die Gebührenordnungsposition 07310 ist nicht neben den Gebührenordnungspositionen 02300 bis 02302 und 02511 berechnungsfähig. Die Gebührenordnungsposition 07310 ist am Behandlungstag nicht neben den Gebührenordnungspositionen 31614 bis 31621 berechnungsfähig. Die Gebührenordnungsposition 07310 ist im Behandlungsfall nicht neben den Gebührenordnungspositionen 02311, 02312, 02340, 02341, 02344, 02350, 02360, 07311, 07320, 07330, 07340, 07345, 18310 und 30214 berechnungsfähig. Die Gebührenordnungsposition 07310 ist im Zeitraum von 21 Tagen nach Erbringung einer Leistung des Abschnitts 31.2 nicht neben den Gebührenordnungspositionen 31601, 31602 und 31608 bis 31637 berechnungsfähig."
+    },
+    {
+      "code": "07311",
+      "title": "Zusatzpauschale Behandlung und ggf. Diagnostik von Erkrankung(en) des Stütz- und Bewegungsapparates (angeboren, erworben, degenerativ, posttraumatisch, perioperativ), entzündlicher(n) Erkrankung(en) des Stütz- und Bewegungsapparates bei Jugendlichen und Erwachsenen",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 27.77,
+        "valuation_in_points": 218
+      },
+      "mandatory_services": "- Funktionsdiagnostik (ggf. segmental) und Differentialdiagnostik.\n- Dokumentation von Bewegungseinschränkungen (z. B. nach der Neutral-Null-Methode).\n- Weiterführende neurologische Diagnostik.\n- Mindestens 3 Arzt-Patienten-Kontakte im Behandlungsfall.",
+      "facultative_services": "- Anlage und/oder Wiederanlage eines immobilisierenden Verbandes unter Einschluss mindestens eines großen Gelenkes und/oder Frakturen.\n- Anlage und/oder Wiederanlage eines Schienenverbandes.\n- Anlage und/oder Wiederanlage einer Orthese.\n- Mobilisation(en) nach Funktionsdiagnostik.\n- Anleitung zur Durchführung von Bewegungsübungen.\n- Durchführung einer Thromboseprophylaxe.\n- Gelenkpunktion(en) und/oder intraarticuläre Injektionen.",
+      "billing_info": "Einmal im Behandlungsfall. Die Gebührenordnungsposition 07311 ist nicht neben den Gebührenordnungspositionen 02300 bis 02302 und 02511 berechnungsfähig. Die Gebührenordnungsposition 07311 ist am Behandlungstag nicht neben den Gebührenordnungspositionen 31614 bis 31621 berechnungsfähig. Die Gebührenordnungsposition 07311 ist im Behandlungsfall nicht neben den Gebührenordnungspositionen 02311, 02312, 02340, 02341, 02344, 02350, 02360, 07310, 07320, 07330, 07340, 07345, 18311 und 30214 berechnungsfähig. Die Gebührenordnungsposition 07311 ist im Zeitraum von 21 Tagen nach Erbringung einer Leistung des Abschnitts 31.2 nicht neben den Gebührenordnungspositionen 31601, 31602 und 31608 bis 31637 berechnungsfähig."
+    },
+    {
+      "code": "07320",
+      "title": "Zusatzpauschale Diagnostik und/oder Therapie bei visceralchirurgischer(n) Erkrankung(e)n und/oder Eingriff(en)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 20.26,
+        "valuation_in_points": 159
+      },
+      "mandatory_services": "- Diagnostik und/oder Therapie bei visceralchirurgischen Erkrankungen und/oder Eingriffen und/oder Einleitung/Koordinierung interdisziplinärer Diagnostik und/oder Therapie und/oder wiederholte eingehende symptombezogene Untersuchung.\n- Mindestens 2 Arzt-Patienten-Kontakte im Behandlungsfall.",
+      "facultative_services": "- Manuelle Reposition(en) von Hernien, eines Darmprolaps und/oder eines Anus praeter-Prolaps.\n- Wundbehandlungen.",
+      "billing_info": "Einmal im Behandlungsfall. Die Gebührenordnungsposition 07320 ist am Behandlungstag nicht neben den Gebührenordnungspositionen 31614 bis 31621 und 31630 bis 31637 berechnungsfähig. Die Gebührenordnungsposition 07320 ist im Behandlungsfall nicht neben den Gebührenordnungspositionen 02340, 02341, 02344, 02360, 07310, 07311, 07330, 07340 und 07345 berechnungsfähig. Die Gebührenordnungsposition 07320 ist im Zeitraum von 21 Tagen nach Erbringung einer Leistung des Abschnitts 31.2 nicht neben den Gebührenordnungspositionen 31601, 31602 und 31608 bis 31637 berechnungsfähig."
+    },
+    {
+      "code": "07330",
+      "title": "Zusatzpauschale Behandlung eines Patienten mit einer Funktionsstörung der Hand",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 27.01,
+        "valuation_in_points": 212
+      },
+      "mandatory_services": "- Behandlung eines Patienten mit einer Funktionsstörung der Hand mit einer Leistungseinschränkung mindestens in einer Funktionsebene.\n- Dokumentation der Leistungseinschränkung mit Angabe des Bewegungsumfangs.\n- Erstellung eines Behandlungsplanes und/oder Anlage und/oder Wiederanlage eines immobilisierenden Verbandes und/oder Anlage und/oder Wiederanlage eines Schienenverbandes und/oder Anlage und/oder Wiederanlage einer Orthese.\n- Mindestens 3 Arzt-Patienten-Kontakte im Behandlungsfall.",
+      "facultative_services": "- Anleitung zur Durchführung von Bewegungsübungen.\n- Lokale Infiltrationsbehandlung.",
+      "billing_info": "Einmal im Behandlungsfall. Die Gebührenordnungsposition 07330 ist nur von Fachärzten für Chirurgie oder Plastische Chirurgie mit der Zusatzbezeichnung Handchirurgie und von Fachärzten für Chirurgie nach Antrag und Genehmigung durch die zuständige Kassenärztliche Vereinigung berechnungsfähig. Die Gebührenordnungsposition 07330 ist nicht neben den Gebührenordnungspositionen 02300 bis 02302 berechnungsfähig. Die Gebührenordnungsposition 07330 ist am Behandlungstag nicht neben den Gebührenordnungspositionen 31614 bis 31621 berechnungsfähig. Die Gebührenordnungsposition 07330 ist im Behandlungsfall nicht neben den Gebührenordnungspositionen 02340, 02341, 02344, 02350, 02360, 07310, 07311, 07320, 07340, 07345 und 18330 berechnungsfähig. Die Gebührenordnungsposition 07330 ist im Zeitraum von 21 Tagen nach Erbringung einer Leistung des Abschnitts 31.2 nicht neben den Gebührenordnungspositionen 31601, 31602 und 31608 bis 31637 berechnungsfähig."
+    },
+    {
+      "code": "07340",
+      "title": "Behandlung einer/eines/von sekundär heilenden Wunde(n), Verbrennung(en) ab 2. Grades, septischen Wundheilungsstörung(en), Abszesses/n, septischen Knochenprozesses/n und/oder Decubitalulcus (-ulcera)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 34.53,
+        "valuation_in_points": 271
+      },
+      "mandatory_services": "- Abtragung von Nekrosen und/oder Wunddebridement und/oder Anlage und/oder Wechsel eines Kompressionsverbandes und/oder Einbringung und/oder Wechsel einer Wundtamponade.\n- Mindestens 5 Arzt-Patienten-Kontakte im Behandlungsfall.",
+      "facultative_services": "- Einbringung, Wechsel oder Entfernung von Antibiotikaketten.\n- Anlage/Wechsel von Schienenverbänden.",
+      "billing_info": "Einmal im Behandlungsfall. Die Leistung nach der Nr. 07340 kann nicht berechnet werden beim diabetischen Fuß, beim chronisch venösen Ulcus cruris, bei der chronisch venösen Insuffizienz, beim postthrombotischen Syndrom, beim Lymphödem und bei oberflächlichen sowie tiefen Beinvenenthrombosen. Die Gebührenordnungsposition 07340 ist nicht neben den Gebührenordnungspositionen 02300 bis 02302, 02312 und 02313 berechnungsfähig. Die Gebührenordnungsposition 07340 ist am Behandlungstag nicht neben den Gebührenordnungspositionen 31614 bis 31621 berechnungsfähig. Die Gebührenordnungsposition 07340 ist im Behandlungsfall nicht neben den Gebührenordnungspositionen 02310, 02311, 02340, 02341, 02344, 02350, 02360, 07310, 07311, 07320, 07330 und 30214 berechnungsfähig. Die Gebührenordnungsposition 07340 ist im Zeitraum von 21 Tagen nach Erbringung einer Leistung des Abschnitts 31.2 nicht neben den Gebührenordnungspositionen des Abschnitts 31.4.3 berechnungsfähig."
+    },
+    {
+      "code": "07345",
+      "title": "Zusatzpauschale Behandlung und/oder Betreuung eines Patienten mit einer gesicherten onkologischen Erkrankung bei laufender onkologischer Therapie oder Betreuung im Rahmen der Nachsorge",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 24.33,
+        "valuation_in_points": 191
+      },
+      "mandatory_services": "- Behandlung und/oder Betreuung eines Patienten mit einer laboratoriumsmedizinisch oder histologisch/zytologisch gesicherten onkologischen Erkrankung.\n- Fortlaufende Beratung zum Umgang mit der onkologischen Erkrankung.\n- Verlaufskontrolle und Dokumentation des Therapieerfolges.\n- Erstellung, Überprüfung und Anpassung eines die onkologische Erkrankung begleitenden spezifischen Therapiekonzeptes unter Berücksichtigung individueller Faktoren.\n- Kontrolle und/oder Behandlung ggf. auftretender therapiebedingter Nebenwirkungen.\n- Planung und Koordination der komplementären Arznei-, Heil- und Hilfsmittelversorgung unter besonderer Berücksichtigung der gesicherten onkologischen Erkrankung.",
+      "facultative_services": "- Anleitung und Führung der Bezugs- und Betreuungsperson(en).\n- Fortlaufende Überprüfung des häuslichen, familiären und sozialen Umfelds im Hinblick auf die Grunderkrankung.\n- Konsiliarische Erörterung/Fachliche Beratung und regelmäßiger Informationsaustausch mit dem onkologisch verantwortlichen Arzt sowie mit weiteren mitbehandelnden Ärzten.\n- Überprüfung und Koordination supportiver Maßnahmen.\n- Einleitung und/oder Koordination der psychosozialen Betreuung des Patienten und seiner Familie und/oder Bezugs- und Betreuungsperson(en).\n- Ggf. Hinzuziehung komplementärer Dienste bzw. häuslicher Krankenpflege.",
+      "billing_info": "Einmal im Behandlungsfall. Die Gebührenordnungsposition 07345 ist nur bei mindestens einer der im Folgenden genannten Erkrankungen berechnungsfähig: Bösartige Neubildungen der Verdauungsorgane C15-C26, der Bronchien und der Lunge C34.-, des Herzens, des Mediastinums und der Pleura C38.-, Bösartige Neubildung sonstiger und ungenau bezeichneter Lokalisationen des Atmungssystems und sonstiger intrathorakaler Organe C39.-, Bösartige Neubildungen des Knochens und des Gelenkknorpels C40-C41, der Haut C43-C44, des mesothelialen Gewebes und des Weichteilgewebes C45-C49, der Brustdrüse C50.-, der Schilddrüse und sonstiger endokriner Drüsen C73-C75, Bösartige Neubildungen sonstiger und ungenau bezeichneter Lokalisation C76.-, Sekundäre und nicht näher bezeichnete bösartige Neubildungen C77-C80. Die Gebührenordnungsposition 07345 ist bei laufender medikamentöser, im Sinne einer systemischen Chemotherapie mit z. B. zytostatischen Substanzen, operativer und/oder strahlentherapeutischer Behandlung und/oder bei Betreuung im Rahmen der Nachsorge bis höchstens 2 Jahre nach Beendigung einer medikamentösen, operativen und/oder strahlentherapeutischen Behandlung eines Patienten mit gesicherter onkologischer Erkrankung berechnungsfähig. Die Gebührenordnungsposition 07345 ist im Behandlungsfall nicht neben den Kostenpauschalen 86510, 86512, 86514, 86516, 86520 und 86522 gemäß Anhang 2 der „Onkologie-Vereinbarung“ (Anlage 7 zum Bundesmantelvertrag-Ärzte (BMV-Ä)) berechnungsfähig. Die Gebührenordnungsposition 07345 ist im Behandlungsfall nicht neben den Gebührenordnungspositionen 07310, 07311, 07320 und 07330 berechnungsfähig."
+    }
+  ]
+}

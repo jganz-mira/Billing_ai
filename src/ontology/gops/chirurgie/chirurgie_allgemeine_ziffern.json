@@ -1,0 +1,316 @@
+{
+  "gops": [
+    {
+      "code": "01472",
+      "title": "Zusatzpauschale für die Verlaufskontrolle und die Auswertung der digitalen Gesundheitsanwendung (DiGA) Vivira gemäß dem Verzeichnis für digitale Gesundheitsanwendungen gemäß § 139e SGB V",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 8.15,
+        "valuation_in_points": 64
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Einmal im Behandlungsfall. Die Gebührenordnungsposition 01472 ist im Krankheitsfall höchstens zweimal berechnungsfähig. Die Gebührenordnungsposition 01472 ist im Behandlungsfall nicht neben der Gebührenordnungsposition 30781 berechnungsfähig."
+    },
+    {
+      "code": "01476",
+      "title": "Zusatzpauschale für die Auswahl und/oder Individualisierung von Inhalten der digitalen Gesundheitsanwendung (DiGA) Mawendo gemäß dem Verzeichnis für digitale Gesundheitsanwendungen gemäß § 139e SGB V",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 8.15,
+        "valuation_in_points": 64
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Einmal im Krankheitsfall. Die Gebührenordnungsposition 01476 ist ausschließlich bei Versicherten ab Vollendung des 12. Lebensjahres berechnungsfähig. Die Gebührenordnungsposition 01476 ist im Behandlungsfall nicht neben der Gebührenordnungsposition 01477 berechnungsfähig."
+    },
+    {
+      "code": "01477",
+      "title": "Zusatzpauschale für die Verlaufskontrolle und die Auswertung der digitalen Gesundheitsanwendung (DiGA) companion patella gemäß dem Verzeichnis für digitale Gesundheitsanwendungen gemäß § 139e SGB V",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 8.15,
+        "valuation_in_points": 64
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Einmal im Behandlungsfall. Die Gebührenordnungsposition 01477 ist ausschließlich bei Versicherten ab der Vollendung des 14. Lebensjahres bis zur Vollendung des 66. Lebensjahres berechnungsfähig. Die Gebührenordnungsposition 01477 ist im Behandlungsfall nicht neben der Gebührenordnungsposition 01476 berechnungsfähig."
+    },
+    {
+      "code": "01722",
+      "title": "Sonographische Untersuchung der Säuglingshüften entsprechend der Durchführungsempfehlung nach Abschnitt C Kapitel III der Kinder-Richtlinie",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 21.66,
+        "valuation_in_points": 170
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Die Berechnung der Gebührenordnungsposition 01722 setzt eine Genehmigung der Kassenärztlichen Vereinigung nach der Ultraschall-Vereinbarung gemäß § 135 Abs. 2 SGB V voraus. Die Gebührenordnungsposition 01722 ist nicht neben den Gebührenordnungspositionen 33050 und 33051 berechnungsfähig."
+    },
+    {
+      "code": "01799",
+      "title": "Beratung durch einen Facharzt für Kinder- und Jugendmedizin oder einen Facharzt für Kinderchirurgie gemäß Anlage I c II.2. der Mutterschafts-Richtlinie in Verbindung mit § 2a Absatz 1 Schwangerschaftskonfliktgesetz (SchKG)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 8.28,
+        "valuation_in_points": 65
+      },
+      "mandatory_services": "- Aufklärung und Beratung einer Schwangeren.",
+      "facultative_services": null,
+      "billing_info": "Je vollendete 5 Minuten. Die Gebührenordnungsposition 01799 ist nur durch den hinzugezogenen Arzt mit indikationsspezifischer Expertise für den Bereich der Diagnose gemäß § 2a Absatz 1 SchKG berechnungsfähig. Die Gebührenordnungsposition 01799 ist höchstens viermal im Behandlungsfall berechnungsfähig."
+    },
+    {
+      "code": "08320",
+      "title": "Stanzbiopsie(n) der Mamma unter Ultraschallsicht",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 50.32,
+        "valuation_in_points": 395
+      },
+      "mandatory_services": "- Stanzbiopsie(n) der Mamma.\n- Lokalanästhesie.\n- Mamma-Sonographie (Nr. 33041).\n- Veranlassung einer histologischen Untersuchung.",
+      "facultative_services": "- Optische Führungshilfe bei Sonographie (Nr. 33091).",
+      "billing_info": "Je Seite. Die Berechnung der Gebührenordnungsposition 08320 setzt eine Genehmigung der Kassenärztlichen Vereinigung nach der Ultraschall-Vereinbarung gemäß § 135 Abs. 2 SGB V voraus. Die Gebührenordnungsposition 08320 ist nicht neben den Gebührenordnungspositionen 02300 bis 02302, 02340, 02341, 02344, 33041, 33091 und 33092 berechnungsfähig."
+    },
+    {
+      "code": "13310",
+      "title": "Zusatzpauschale intermittierende fibrinolytische Therapie und/oder Prostanoid-Therapie im fortgeschrittenen Stadium (ab Stadium IIb) der peripheren arteriellen Verschlusskrankheit nach Fontaine",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 29.94,
+        "valuation_in_points": 235
+      },
+      "mandatory_services": "- Intermittierende fibrinolytische Therapie im fortgeschrittenen Stadium (ab Stadium IIb) der peripheren arteriellen Verschlusskrankheit nach Fontaine.\n- Und/oder Prostanoid-Therapie im fortgeschrittenen Stadium (ab Stadium IIb) der peripheren arteriellen Verschlusskrankheit nach Fontaine.",
+      "facultative_services": "- Nachbetreuung von mindestens 60 Minuten Dauer.\n- EKG-Monitoring.",
+      "billing_info": "Die Gebührenordnungsposition 13310 ist nicht neben den Gebührenordnungspositionen 01530 und 02100 bis 02102 berechnungsfähig. Die Gebührenordnungsposition 13310 ist am Behandlungstag nicht neben der Gebührenordnungsposition 01531 berechnungsfähig. Die Gebührenordnungsposition 13310 ist im Behandlungsfall nicht neben den Gebührenordnungspositionen 01520 bis 01522, 13210 bis 13212 und 36881 bis 36883 und nicht neben den Gebührenordnungspositionen der Abschnitte 13.2.2, 13.3.2, 13.3.3, 13.3.4, 13.3.5, 13.3.6, 13.3.7 und 13.3.8 berechnungsfähig."
+    },
+    {
+      "code": "13400",
+      "title": "Zusatzpauschale Ösophago-Gastroduodenoskopie",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 111.86,
+        "valuation_in_points": 878
+      },
+      "mandatory_services": "- Ösophagoskopie und/oder Ösophagogastroskopie und/oder Ösophagogastroduodenoskopie.\n- Patientenaufklärung zur Untersuchung und zu den möglichen therapeutischen Maßnahmen in derselben Sitzung in angemessenem Zeitabstand vor dem Eingriff.\n- Information zum Ablauf der vorbereitenden Maßnahmen vor dem Eingriff und zu einer möglichen Sedierung und/oder Prämedikation.\n- Nachbeobachtung und -betreuung.\n- Foto-/Videodokumentation(en).",
+      "facultative_services": "- ¹³C-Harnstoff-Atemtest (Nr. 02400).\n- Ureasenachweis, einschl. Kosten.\n- Probeexzision.\n- Probepunktion.\n- Fremdkörperentfernung(en).\n- Blutstillung(en).\n- Prämedikation/Sedierung.",
+      "billing_info": "Entgegen Nr. 4.3.2 der Allgemeinen Bestimmungen kann die Gebührenordnungsposition auch dann berechnet werden, wenn die Arztpraxis nicht über die Möglichkeit zur Durchführung des ¹³C-Harnstoff-Atemtests nach der Gebührenordnungsposition 02400 verfügt. Die Gebührenordnungsposition 13400 ist nicht neben den Gebührenordnungspositionen 02300 bis 02302, 02400, 13411, 13412, 13430 und 13431 berechnungsfähig. Die Gebührenordnungsposition 13400 ist im Behandlungsfall nicht neben den Gebührenordnungspositionen 13300, 13301, 13310, 13350, 13500 bis 13502, 13507, 13545, 13551, 13560, 13561, 13571, 13573 bis 13576, 13583, 13584, 13586, 13600 bis 13602, 13610 bis 13612, 13620 bis 13622, 13650 bis 13652, 13660 bis 13664, 13670, 13675, 13677, 13678, 13700, 13701 und 36881 bis 36883 und nicht neben den Gebührenordnungspositionen des Abschnitts 13.2.2.3 berechnungsfähig."
+    },
+    {
+      "code": "13401",
+      "title": "Zusätzliche Leistung(en) im Zusammenhang mit der Gebührenordnungsposition 13400",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 59.24,
+        "valuation_in_points": 465
+      },
+      "mandatory_services": "- Langzeit-pH-Metrie des Ösophagus von mindestens 12 Stunden Dauer mit Sondeneinführung.\n- Und/oder endoskopische Sklerosierungsbehandlung(en).\n- Und/oder Ligatur(en) bei Varizen und Ulzeration(en).\n- Und/oder Durchzugsmanometrie des Ösophagus.\n- Und/oder therapeutische Mukosektomie(n) mittels Hochfrequenzelektroschlinge.",
+      "facultative_services": null,
+      "billing_info": "Die Gebührenordnungsposition 13401 ist nicht neben den Gebührenordnungspositionen 02300 bis 02302 berechnungsfähig. Die Gebührenordnungsposition 13401 ist im Behandlungsfall nicht neben den Gebührenordnungspositionen 13210 bis 13212, 13251 bis 13258, 13260, 13490 bis 13492, 13500 bis 13502, 13507 und 36881 bis 36883 und nicht neben den Gebührenordnungspositionen der Abschnitte 13.3.1, 13.3.2, 13.3.5, 13.3.6, 13.3.7 und 13.3.8 berechnungsfähig."
+    },
+    {
+      "code": "13402",
+      "title": "Polypektomie(n) im Zusammenhang mit der Gebührenordnungsposition 13400",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 33.76,
+        "valuation_in_points": 265
+      },
+      "mandatory_services": "- Vollständige Entfernung eines oder mehrerer Polypen mittels Hochfrequenzdiathermieschlinge.\n- Veranlassung einer histologischen Untersuchung.",
+      "facultative_services": null,
+      "billing_info": "Die Gebührenordnungsposition 13402 ist nicht neben den Gebührenordnungspositionen 02300 bis 02302 und 13423 berechnungsfähig. Die Gebührenordnungsposition 13402 ist im Behandlungsfall nicht neben den Gebührenordnungspositionen 13300, 13301, 13310, 13350, 13500 bis 13502, 13507, 13545, 13551, 13560, 13561, 13571, 13573 bis 13576, 13583, 13584, 13586, 13600 bis 13602, 13610 bis 13612, 13620 bis 13622, 13650 bis 13652, 13660 bis 13664, 13670, 13675, 13677, 13678, 13700, 13701 und 36881 bis 36883 und nicht neben den Gebührenordnungspositionen des Abschnitts 13.2.2.3 berechnungsfähig."
+    },
+    {
+      "code": "13410",
+      "title": "Bougierung des Ösophagus oder Kardiasprengung",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 44.46,
+        "valuation_in_points": 349
+      },
+      "mandatory_services": "- Bougierung des Ösophagus und/oder Dehnung des unteren Ösophagussphinkters (Kardiasprengung).\n- Patientenaufklärung in angemessenem Zeitabstand vor dem Eingriff zur Untersuchung und zu den möglichen therapeutischen Maßnahmen in derselben Sitzung.\n- Information zum Ablauf der vorbereitenden Maßnahmen vor dem Eingriff und zu einer möglichen Sedierung und/oder Prämedikation.\n- Nachbeobachtung und -betreuung.",
+      "facultative_services": "- Prämedikation/Sedierung.",
+      "billing_info": "Die Gebührenordnungsposition 13410 ist nicht neben den Gebührenordnungspositionen 02300 bis 02302 berechnungsfähig. Die Gebührenordnungsposition 13410 ist im Behandlungsfall nicht neben den Gebührenordnungspositionen 13210 bis 13212, 13490 bis 13492, 13500 bis 13502, 13507 und 36881 bis 36883 und nicht neben den Gebührenordnungspositionen der Abschnitte 13.2.2, 13.3.1, 13.3.2, 13.3.5, 13.3.6, 13.3.7 und 13.3.8 berechnungsfähig."
+    },
+    {
+      "code": "13411",
+      "title": "Einsetzen einer Ösophagusprothese",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 151.74,
+        "valuation_in_points": 1191
+      },
+      "mandatory_services": "- Einsetzen einer Ösophagusprothese.\n- Gastroskopie (Nr. 13400).\n- Patientenaufklärung in angemessenem Zeitabstand vor dem Eingriff zur Untersuchung und zu den möglichen therapeutischen Maßnahmen in derselben Sitzung.\n- Information zum Ablauf der vorbereitenden Maßnahmen vor dem Eingriff und zu einer möglichen Sedierung und/oder Prämedikation.\n- Nachbeobachtung und -betreuung.",
+      "facultative_services": "- Prämedikation/Sedierung.",
+      "billing_info": "Die Gebührenordnungsposition 13411 ist nicht neben den Gebührenordnungspositionen 02300 bis 02302 und 13400 berechnungsfähig. Die Gebührenordnungsposition 13411 ist im Behandlungsfall nicht neben den Gebührenordnungspositionen 13210 bis 13212, 13490 bis 13492, 13500 bis 13502, 13507 und 36881 bis 36883 und nicht neben den Gebührenordnungspositionen der Abschnitte 13.2.2, 13.3.1, 13.3.2, 13.3.5, 13.3.6, 13.3.7 und 13.3.8 berechnungsfähig."
+    },
+    {
+      "code": "13412",
+      "title": "Perkutane Gastrostomie",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 152.5,
+        "valuation_in_points": 1197
+      },
+      "mandatory_services": "- Perkutane Gastrostomie.\n- Gastroskopie (Nr. 13400).\n- Patientenaufklärung in angemessenem Zeitabstand vor dem Eingriff zur Untersuchung und zu den möglichen therapeutischen Maßnahmen in derselben Sitzung.\n- Information zum Ablauf der vorbereitenden Maßnahmen vor dem Eingriff und zu einer möglichen Sedierung und/oder Prämedikation.\n- Nachbeobachtung und -betreuung.",
+      "facultative_services": "- Prämedikation/Sedierung.\n- Endoskopische Durchführung.\n- Lokalanästhesie.\n- Einführen einer Verweilsonde.",
+      "billing_info": "Die Gebührenordnungsposition 13412 ist nicht neben den Gebührenordnungspositionen 02300 bis 02302, 02320, 02340, 02341, 02344 und 13400 berechnungsfähig. Die Gebührenordnungsposition 13412 ist im Behandlungsfall nicht neben den Gebührenordnungspositionen 13210 bis 13212, 13490 bis 13492, 13500 bis 13502, 13507 und 36881 bis 36883 und nicht neben den Gebührenordnungspositionen der Abschnitte 13.2.2, 13.3.1, 13.3.2, 13.3.5, 13.3.6, 13.3.7 und 13.3.8 berechnungsfähig."
+    },
+    {
+      "code": "13421",
+      "title": "Zusatzpauschale Koloskopie",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 203.85,
+        "valuation_in_points": 1600
+      },
+      "mandatory_services": "- Totale Koloskopie mit Darstellung des Zökums.\n- Patientenaufklärung zur Koloskopie und zur Prämedikation in angemessenem Zeitabstand vor dem Eingriff.\n- Aufklärung zum Vorgehen und zu einer möglichen Polypenabtragung und anderer therapeutischer Maßnahmen in derselben Sitzung.\n- Information zu Ablauf und Dauer der Darmreinigung.\n- Foto-/Videodokumentation.\n- Nachbeobachtung und -betreuung.\n- Einhaltung der Maßnahmen der Überprüfung der Hygienequalität entsprechend der Qualitätssicherungsvereinbarung zur Koloskopie gemäß § 135 Abs. 2 SGB V.\n- Vorhaltung der geeigneten Notfallausstattung entsprechend der Qualitätssicherungsvereinbarung zur Koloskopie gemäß § 135 Abs. 2 SGB V.",
+      "facultative_services": "- Lagekontrolle durch ein bildgebendes Verfahren.\n- Probeexzision(en).\n- Aushändigung aller Substanzen zur Darmreinigung.\n- Gerinnungsuntersuchungen und kleines Blutbild.\n- Prämedikation/Sedierung.\n- Darstellung des terminalen Ileums.\n- Dokumentation gemäß Teil II. § 11 der oKFE-RL.",
+      "billing_info": "Die Berechnung der Gebührenordnungsposition 13421 setzt eine Genehmigung der Kassenärztlichen Vereinigung gemäß § 135 Abs. 2 SGB V voraus. Die Gebührenordnungsposition 13421 ist für die Koloskopie als Abklärungsdiagnostik nach Teil II. § 8 der Richtlinie für organisierte Krebsfrüherkennungsprogramme (oKFE-RL) berechnungsfähig. Dies ist durch Angabe einer bundeseinheitlich kodierten Zusatzkennzeichnung zu dokumentieren. Entgegen Nr. 2.1 der Allgemeinen Bestimmungen ist die Gebührenordnungsposition 13421 auch dann berechnungsfähig, wenn die Dokumentation als Bestandteil des Leistungsinhalts bis zum 15. Kalendertag des 2. Monats des jeweiligen Folgequartals vollständig übermittelt wird. Die Gebührenordnungsposition 13421 ist nicht neben den Gebührenordnungspositionen 01741, 02300 bis 02302, 02401, 13422, 13430 und 13431 berechnungsfähig. Die Gebührenordnungsposition 13421 ist im Behandlungsfall nicht neben den Gebührenordnungspositionen 13251 bis 13258, 13260, 13300, 13301, 13310, 13350, 13500 bis 13502, 13507, 13545, 13551, 13560, 13561, 13571, 13573 bis 13576, 13583, 13584, 13586, 13600 bis 13602, 13610 bis 13612, 13620 bis 13622, 13650 bis 13652, 13660 bis 13664, 13670, 13675, 13677, 13678, 13700, 13701 und 36881 bis 36883 berechnungsfähig."
+    },
+    {
+      "code": "13422",
+      "title": "Zusatzpauschale (Teil-)Koloskopie",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 125.11,
+        "valuation_in_points": 982
+      },
+      "mandatory_services": "- (Teil-)Koloskopie entsprechend der Gebührenordnungsposition 13421 mindestens mit Darstellung des Kolon transversum.",
+      "facultative_services": null,
+      "billing_info": "Die Berechnung der Gebührenordnungsposition 13422 setzt eine Genehmigung der Kassenärztlichen Vereinigung gemäß § 135 Abs. 2 SGB V voraus. Die Gebührenordnungsposition 13422 ist nicht neben den Gebührenordnungspositionen 01741, 02300 bis 02302 und 13421 berechnungsfähig. Die Gebührenordnungsposition 13422 ist im Behandlungsfall nicht neben den Gebührenordnungspositionen 04518, 13300, 13301, 13310, 13350, 13500 bis 13502, 13507, 13545, 13551, 13560, 13561, 13571, 13573 bis 13576, 13583, 13584, 13586, 13600 bis 13602, 13610 bis 13612, 13620 bis 13622, 13650 bis 13652, 13660 bis 13664, 13670, 13675, 13677, 13678, 13700, 13701 und 36881 bis 36883 und nicht neben den Gebührenordnungspositionen des Abschnitts 13.2.2.3 berechnungsfähig."
+    },
+    {
+      "code": "13423",
+      "title": "Zusätzliche Leistung(en) im Zusammenhang mit den Gebührenordnungspositionen 13421 oder 13422",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 29.69,
+        "valuation_in_points": 233
+      },
+      "mandatory_services": "- Fremdkörperentfernung(en).\n- Und/oder Polypektomie(n) von Polypen mit einer Größe > 5 mm mittels Hochfrequenzdiathermieschlinge.\n- Und/oder Schlingenbiopsie(n) mittels Hochfrequenzdiathermieschlinge.\n- Und/oder Blutstillung(en).",
+      "facultative_services": null,
+      "billing_info": "Die Gebührenordnungsposition 13423 ist nicht neben den Gebührenordnungspositionen 01742, 02300 bis 02302, 04520 und 13402 berechnungsfähig. Die Gebührenordnungsposition 13423 ist im Behandlungsfall nicht neben den Gebührenordnungspositionen 13300, 13301, 13310, 13350, 13500 bis 13502, 13507, 13545, 13551, 13560, 13561, 13571, 13573 bis 13576, 13583, 13584, 13586, 13600 bis 13602, 13610 bis 13612, 13620 bis 13622, 13650 bis 13652, 13660 bis 13664, 13670, 13675, 13677, 13678, 13700, 13701 und 36881 bis 36883 und nicht neben den Gebührenordnungspositionen des Abschnitts 13.2.2.3 berechnungsfähig."
+    },
+    {
+      "code": "13424",
+      "title": "Laservaporisation(en) und/oder Argon-Plasma-Koagulation(en) im Zusammenhang mit den Gebührenordnungspositionen 13400, 13421 und 13422",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 66.63,
+        "valuation_in_points": 523
+      },
+      "mandatory_services": "- Laservaporisation(en) und/oder Argon-Plasma-Koagulation(en).",
+      "facultative_services": null,
+      "billing_info": "Die Gebührenordnungsposition 13424 ist nicht neben den Gebührenordnungspositionen 02300 bis 02302 berechnungsfähig. Die Gebührenordnungsposition 13424 ist im Behandlungsfall nicht neben den Gebührenordnungspositionen 13210 bis 13212, 13490 bis 13492, 13500 bis 13502, 13507 und 36881 bis 36883 und nicht neben den Gebührenordnungspositionen der Abschnitte 13.2.2.3, 13.3.1, 13.3.2, 13.3.5, 13.3.6, 13.3.7 und 13.3.8 berechnungsfähig."
+    },
+    {
+      "code": "13662",
+      "title": "Bronchoskopie",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 145.5,
+        "valuation_in_points": 1142
+      },
+      "mandatory_services": "- Bronchoskopie.\n- Patientenaufklärung zur Untersuchung und zu den möglichen therapeutischen Maßnahmen in derselben Sitzung in angemessenem Zeitabstand vor dem Eingriff.\n- Information zum Ablauf der vorbereitenden Maßnahmen vor dem Eingriff und zu einer möglichen Sedierung und/oder Prämedikation.\n- Nachbeobachtung und -betreuung.\n- Oberflächenanästhesie.\n- Überwachung der Vitalparameter und der Sauerstoffsättigung.",
+      "facultative_services": "- Prämedikation/Sedierung.\n- Probeexzision(en).\n- Probepunktion(en).",
+      "billing_info": "Die Berechnung der Gebührenordnungsposition 13662 im Zusammenhang mit der Durchführung einer Erhebung gemäß § 5 der Richtlinie des Gemeinsamen Bundesausschusses über die Verordnung von außerklinischer Intensivpflege ist durch Angabe einer bundeseinheitlich kodierten Zusatzkennzeichnung zu dokumentieren. Die Gebührenordnungsposition 13662 ist nicht neben den Gebührenordnungspositionen 02300 bis 02302, 02340, 02341, 02343, 02344 und 09315 berechnungsfähig. Die Gebührenordnungsposition 13662 ist im Behandlungsfall nicht neben den Gebührenordnungspositionen 13210 bis 13212, 36882 und 36883 und nicht neben den Gebührenordnungspositionen der Abschnitte 13.2.2, 13.3.1, 13.3.2, 13.3.3, 13.3.4, 13.3.5, 13.3.6 und 13.3.8 berechnungsfähig."
+    },
+    {
+      "code": "13663",
+      "title": "Zuschlag zu der Gebührenordnungsposition 13662 für Fremdkörperentfernung und/oder Blutstillung und/oder perbronchiale Biopsie und/oder Sondierung von peripheren Rundherden und/oder broncho-alveoläre Lavage",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 28.54,
+        "valuation_in_points": 224
+      },
+      "mandatory_services": null,
+      "facultative_services": "- Gebührenordnungsposition 34240 und/oder 34241.",
+      "billing_info": "Die Gebührenordnungsposition 13663 ist nicht neben den Gebührenordnungspositionen 02300 bis 02302, 02340, 02341, 02343, 02344, 34240 und 34241 berechnungsfähig. Die Gebührenordnungsposition 13663 ist im Behandlungsfall nicht neben den Gebührenordnungspositionen 13210 bis 13212, 36882 und 36883 und nicht neben den Gebührenordnungspositionen der Abschnitte 13.2.2, 13.3.1, 13.3.2, 13.3.3, 13.3.4, 13.3.5, 13.3.6 und 13.3.8 berechnungsfähig."
+    },
+    {
+      "code": "13664",
+      "title": "Zuschlag zu der Gebührenordnungsposition 13662",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 57.71,
+        "valuation_in_points": 453
+      },
+      "mandatory_services": "- Laservaporisation(en) und/oder Argon-Plasma-Koagulation(en).",
+      "facultative_services": null,
+      "billing_info": "Die Gebührenordnungsposition 13664 ist im Behandlungsfall nicht neben den Gebührenordnungspositionen 13210 bis 13212, 13250 bis 13258, 13260, 13290 bis 13292, 13300, 13301, 13310, 13311, 13340 bis 13342, 13350, 13390 bis 13392, 13400 bis 13402, 13410 bis 13412, 13421 bis 13426, 13430, 13431, 13435, 13437, 13439, 13490 bis 13492, 13500 bis 13502, 13505, 13507, 13540 bis 13542, 13545, 13551, 13560, 13561, 13571, 13573 bis 13576, 13583, 13584, 13586, 13590 bis 13592, 13600 bis 13602, 13610 bis 13612, 13620 bis 13622, 13690 bis 13692, 13700, 13701, 36882 und 36883 berechnungsfähig."
+    },
+    {
+      "code": "13670",
+      "title": "Thorakoskopie",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 151.87,
+        "valuation_in_points": 1192
+      },
+      "mandatory_services": "- Endoskopische Untersuchung des Pleuraraums.\n- Gewebeentnahme aus der Pleura bzw. Lunge.\n- Einbringen der Drainage.\n- Patientenaufklärung zur Untersuchung und zu den möglichen therapeutischen Maßnahmen in derselben Sitzung in angemessenem Zeitabstand vor dem Eingriff.\n- Information zum Ablauf der vorbereitenden Maßnahmen vor dem Eingriff und zu einer möglichen Sedierung und/oder Prämedikation.\n- Nachbeobachtung und -betreuung.\n- Überwachung der Vitalparameter und der Sauerstoffsättigung.",
+      "facultative_services": "- Prämedikation/Sedierung.\n- Medikamentöse Pleurodese.\n- Probepunktion(en).",
+      "billing_info": "Die Gebührenordnungsposition 13670 ist nur von Fachärzten für Innere Medizin berechnungsfähig, die die Voraussetzungen gemäß § 115b SGB V erfüllen. Die Gebührenordnungsposition 13670 ist nicht neben den Gebührenordnungspositionen 02300 bis 02302, 02340, 02341, 02343 und 02344 berechnungsfähig. Die Gebührenordnungsposition 13670 ist im Behandlungsfall nicht neben den Gebührenordnungspositionen 13210 bis 13212, 36882 und 36883 und nicht neben den Gebührenordnungspositionen der Abschnitte 13.2.2, 13.3.1, 13.3.2, 13.3.3, 13.3.4, 13.3.5, 13.3.6 und 13.3.8 berechnungsfähig."
+    },
+    {
+      "code": "26310",
+      "title": "Urethro(-zysto)skopie des Mannes oder gemäß den Vorgaben der Allgemeinen Bestimmungen 4.2.1",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 95.17,
+        "valuation_in_points": 747
+      },
+      "mandatory_services": "- Urethro(-zysto)skopie des Mannes mit starrem Endoskop und/oder Urethro(-zysto)skopie des Mannes mit flexiblem Endoskop.\n- Patientenaufklärung zur Untersuchung und zu den möglichen therapeutischen Maßnahmen in derselben Sitzung in angemessenem Zeitabstand vor dem Eingriff.\n- Information zum Ablauf der vorbereitenden Maßnahmen vor dem Eingriff und zu einer möglichen Sedierung und/oder Prämedikation.\n- Nachbeobachtung und -betreuung.",
+      "facultative_services": "- Prämedikation/Sedierung.\n- Lokalanästhesie.\n- Probeexzision(en).\n- Schlitzung des/der Harnleiterostiums/-ostien.\n- Fremdkörperentfernung aus der männlichen Harnröhre unter urethroskopischer Sicht.",
+      "billing_info": "Die Gebührenordnungsposition 26310 ist nicht neben den Gebührenordnungspositionen des Abschnitts 36.2 berechnungsfähig. Die Gebührenordnungsposition 26310 ist im Behandlungsfall nicht neben der Gebührenordnungsposition 26313 berechnungsfähig."
+    },
+    {
+      "code": "26311",
+      "title": "Urethro(-zysto)skopie der Frau oder gemäß den Vorgaben der Allgemeinen Bestimmungen 4.2.1",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 35.8,
+        "valuation_in_points": 281
+      },
+      "mandatory_services": "- Urethro(-zysto)skopie der Frau.\n- Patientenaufklärung zur Untersuchung und zu den möglichen therapeutischen Maßnahmen in derselben Sitzung in angemessenem Zeitabstand vor dem Eingriff.\n- Information zum Ablauf der vorbereitenden Maßnahmen vor dem Eingriff und zu einer möglichen Sedierung und/oder Prämedikation.\n- Nachbeobachtung und -betreuung.",
+      "facultative_services": "- Prämedikation/Sedierung.\n- Lokalanästhesie.\n- Probeexzision(en).\n- Schlitzung des/der Harnleiterostiums/-ostien.\n- Fremdkörperentfernung aus der weiblichen Harnröhre unter urethroskopischer Sicht.",
+      "billing_info": "Die Gebührenordnungsposition 26311 ist nicht neben der Gebührenordnungsposition 08311 und nicht neben den Gebührenordnungspositionen des Abschnitts 36.2 berechnungsfähig. Die Gebührenordnungsposition 26311 ist im Behandlungsfall nicht neben der Gebührenordnungsposition 26313 berechnungsfähig."
+    },
+    {
+      "code": "26312",
+      "title": "Urethradruckprofilmessung mit fortlaufender Registrierung",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 34.4,
+        "valuation_in_points": 270
+      },
+      "mandatory_services": "- Elektromanometrische Druckmessung der Urethra.\n- Fortlaufende grafische Registrierung.",
+      "facultative_services": "- Physikalische(r) Funktionstest(s).",
+      "billing_info": "Die Gebührenordnungsposition 26312 ist im Behandlungsfall nicht neben der Gebührenordnungsposition 26313 berechnungsfähig."
+    },
+    {
+      "code": "26313",
+      "title": "Zusatzpauschale apparative Untersuchung bei Harninkontinenz oder neurogener Blasenentleerungsstörung",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 108.93,
+        "valuation_in_points": 855
+      },
+      "mandatory_services": "- Elektromanometrische Druckmessung der Blase und des Abdomens.\n- EMG.\n- Fortlaufende grafische Registrierung.",
+      "facultative_services": "- Urethro(zysto-)skopie Mann (Nr. 26310).\n- Urethro(zysto-)skopie Frau (Nr. 26311).\n- Urethradruckprofilmessung (Nr. 26312).\n- Physikalische Funktionsteste.",
+      "billing_info": "Einmal im Behandlungsfall. Die Gebührenordnungsposition 26313 ist nicht neben den Gebührenordnungspositionen 30420 und 30421 berechnungsfähig. Die Gebührenordnungsposition 26313 ist im Behandlungsfall nicht neben den Gebührenordnungspositionen 26310 bis 26312 und 26340 berechnungsfähig."
+    },
+    {
+      "code": "26320",
+      "title": "Ausräumung einer Bluttamponade der Harnblase im Zusammenhang mit der Erbringung der Leistungen nach den Gebührenordnungspositionen 26310 und 26311",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 17.71,
+        "valuation_in_points": 139
+      },
+      "mandatory_services": "- Ausräumung einer Bluttamponade der Harnblase.",
+      "facultative_services": null,
+      "billing_info": "Die Gebührenordnungsposition 26320 ist nicht neben den Gebührenordnungspositionen 02300 bis 02302 und 26350 bis 26352 und nicht neben den Gebührenordnungspositionen des Abschnitts 36.2 berechnungsfähig."
+    }
+  ]
+}

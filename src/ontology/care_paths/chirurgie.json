@@ -1,0 +1,85 @@
+{
+    "name": "chirurgie",
+    "steps": [
+        {
+            "expert_role": "Experte fuer Allgemeine Ziffern in der Chirurgie",
+            "model_type": "gpt-5-mini",
+            "prompt_template": "experte_basispauschalen",
+            "task_focus": "Dieser Experte konzentriert sich SOWOHL auf die Abrechnung von BASISPAUSCHALEN, als auch auf die abrechnung von Ziffern die sich aus dem Behandlungskontext ergeben.",
+            "knowledge_paths": [
+                "src/ontology/gops/chirurgie/chirurgie_allgemeine_ziffern.json"
+            ]
+        },
+        {
+            "expert_role": "Experte fuer fachspezifische Positionen in der Chirurgie",
+            "model_type": "gpt-5-mini",
+            "prompt_template": "experte_basispauschalen",
+            "task_focus": "Dieser Experte konzentriert sich SOWOHL auf die Abrechnung von BASISPAUSCHALEN, als auch auf die abrechnung von Ziffern die sich aus dem Behandlungskontext ergeben.",
+            "knowledge_paths": [
+                "src/ontology/gops/chirurgie/chirurgische_gebuehrenordnungspositionen.json"
+            ]
+        },
+        {
+            "expert_role": "Experte fuer spezielle Zusatzfiffern in der Chirurgie Teil 1",
+            "model_type": "gpt-5-mini",
+            "prompt_template": "experte_basispauschalen",
+            "task_focus": "Dieser Experte konzentriert sich SOWOHL auf die Abrechnung von BASISPAUSCHALEN, als auch auf die abrechnung von Ziffern die sich aus dem Behandlungskontext ergeben.",
+            "knowledge_paths": [
+                "src/ontology/gops/chirurgie/chirurgische_spezielle_zusatzziffern_1.json"
+            ]
+        },
+        {
+            "expert_role": "Experte fuer spezielle Zusatzfiffern in der Chirurgie Teil 2",
+            "model_type": "gpt-5-mini",
+            "prompt_template": "experte_basispauschalen",
+            "task_focus": "Dieser Experte konzentriert sich SOWOHL auf die Abrechnung von BASISPAUSCHALEN, als auch auf die abrechnung von Ziffern die sich aus dem Behandlungskontext ergeben.",
+            "knowledge_paths": [
+                "src/ontology/gops/chirurgie/chirurgische_spezielle_zusatzziffern_2.json"
+            ]
+        },
+        {
+            "expert_role": "Experte fuer spezielle Zusatzfiffern in der Chirurgie Teil 3",
+            "model_type": "gpt-5-mini",
+            "prompt_template": "experte_basispauschalen",
+            "task_focus": "Dieser Experte konzentriert sich SOWOHL auf die Abrechnung von BASISPAUSCHALEN, als auch auf die abrechnung von Ziffern die sich aus dem Behandlungskontext ergeben.",
+            "knowledge_paths": [
+                "src/ontology/gops/chirurgie/chirurgische_spezielle_zusatzziffern_3.json"
+            ]
+        },
+        {
+            "expert_role": "Experte fuer spezielle Zusatzfiffern in der Chirurgie Teil 4",
+            "model_type": "gpt-5-mini",
+            "prompt_template": "experte_basispauschalen",
+            "task_focus": "Dieser Experte konzentriert sich SOWOHL auf die Abrechnung von BASISPAUSCHALEN, als auch auf die abrechnung von Ziffern die sich aus dem Behandlungskontext ergeben.",
+            "knowledge_paths": [
+                "src/ontology/gops/chirurgie/chirurgische_spezielle_zusatzziffern_4.json"
+            ]
+        },
+        {
+            "expert_role": "Experte fuer Zusatzfiffern in der Chirurgie",
+            "model_type": "gpt-5-mini",
+            "prompt_template": "experte_basispauschalen",
+            "task_focus": "Dieser Experte konzentriert sich SOWOHL auf die Abrechnung von BASISPAUSCHALEN, als auch auf die abrechnung von Ziffern die sich aus dem Behandlungskontext ergeben.",
+            "knowledge_paths": [
+                "src/ontology/gops/chirurgie/chirurgische_zusatzziffern.json"
+            ]
+        }
+    ],
+    "final_step": {
+        "expert_role": "Konsolidierer fuer GOP-Abrechnungsvorschlaege",
+        "model_type": "gpt-5-mini",
+        "prompt_template": "gop_consolidation",
+        "task_focus": "Dedupliziere die GOP-Vorschlaege der Experten, pruefe Konflikte und erstelle eine finale GOP-Liste.",
+        "tools": [],
+        "knowledge_paths": [
+            "src/ontology/gops/chirurgie/chirurgie_allgemeine_ziffern.json",
+            "src/ontology/gops/chirurgie/chirurgische_gebuehrenordnungspositionen.json",
+            "src/ontology/gops/chirurgie/chirurgische_spezielle_zusatzziffern_1.json",
+            "src/ontology/gops/chirurgie/chirurgische_spezielle_zusatzziffern_2.json",
+            "src/ontology/gops/chirurgie/chirurgische_spezielle_zusatzziffern_3.json",
+            "src/ontology/gops/chirurgie/chirurgische_spezielle_zusatzziffern_4.json",
+            "src/ontology/gops/chirurgie/chirurgische_zusatzziffern.json"
+        ],
+        "reasoning_effort": "medium"
+    }
+}

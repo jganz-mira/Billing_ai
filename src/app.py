@@ -31,6 +31,7 @@ DEBUG_MODE: bool = any(argument in {"--debug", "debug"} for argument in sys.argv
 # German wording that matches the target workflow.
 MEDICAL_DISCIPLINE_LABELS: dict[str, str] = {
     "general_care": "Hausärztliche Versorgung",
+    "chirurgie": "Chirurgie",
 }
 CONTACT_TYPE_LABELS: dict[str, str] = {
     "personal_contact": "Persönlicher Kontakt",

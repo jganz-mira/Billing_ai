@@ -19,6 +19,14 @@
             ]
         },
         {
+            "expert_role": "Experte fuer spezielle hausaerztliche Zusatzziffern",
+            "model_type": "gpt-5-mini",
+            "prompt_template": "experte_spezielle_hausarztliche_Zusatzziffern",
+            "knowledge_paths": [
+                "src/ontology/gops/hausaerztlicher_versorgungsbereich/spezielle_hausärztliche_zusatzziffern.json"
+            ]
+        },
+        {
             "expert_role": "Experte fuer hausaerztliche Zusatzziffern",
             "model_type": "gpt-5-mini",
             "prompt_template": "experte_hausarztliche_zusatzziffern",
