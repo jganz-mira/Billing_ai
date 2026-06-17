@@ -2,10 +2,12 @@
 
 from __future__ import annotations
 
+from concurrent.futures import Future, ThreadPoolExecutor
 import json
 import os
 import sys
 import tempfile
+import threading
 from datetime import date, datetime
 from pathlib import Path
 from typing import Any
@@ -14,11 +16,13 @@ import streamlit as st
 
 from model_interface import ModelResponseGop, ModelResponseGopList, ValuationOutput
 from ontology.documentations import DOCUMENTATION
-from runner import ModelRunResult, run
+from runner import AnalysisCancelled, ModelRunResult, run
 
 
 TableRow = dict[str, Any]
 AppRecord = dict[str, Any]
+AnalysisJob = dict[str, Any]
+AnalysisJobResult = tuple[str, list[ModelRunResult] | str | None]
 
 
 BASE_DIR: Path = Path(__file__).resolve().parent
@@ -386,6 +390,134 @@ def write_temp_patient(patient: AppRecord) -> Path:
     return path
 
 
+def run_analysis_job(
+    *,
+    patient_path: str | Path,
+    physician_path: str | Path,
+    visit_documentation: str,
+    cancel_event: threading.Event,
+) -> AnalysisJobResult:
+    """Run the model analysis outside Streamlit's script thread."""
+    try:
+        return (
+            "completed",
+            run(
+                patient_path=patient_path,
+                physician_path=physician_path,
+                visit_documentation=visit_documentation,
+                care_path_dir=BASE_DIR / "ontology" / "care_paths",
+                parallel=True,
+                max_workers=3,
+                cancel_event=cancel_event,
+            ),
+        )
+    except AnalysisCancelled:
+        return "cancelled", None
+    except Exception as exc:
+        return "error", str(exc)
+
+
+def current_analysis_job() -> AnalysisJob | None:
+    """Return the active analysis job from Streamlit session state."""
+    job = st.session_state.get("analysis_job")
+    return job if isinstance(job, dict) else None
+
+
+def analysis_is_running() -> bool:
+    """Return True while the current analysis is still producing a result."""
+    job = current_analysis_job()
+    if job is None or job.get("cancel_requested"):
+        return False
+
+    future = job.get("future")
+    return isinstance(future, Future) and not future.done()
+
+
+def harvest_finished_analysis() -> None:
+    """Move a completed background analysis into user-visible session state."""
+    job = current_analysis_job()
+    if job is None:
+        return
+
+    future = job.get("future")
+    if not isinstance(future, Future) or not future.done():
+        return
+
+    try:
+        status, payload = future.result()
+    except Exception as exc:
+        status, payload = "error", str(exc)
+
+    if not job.get("cancel_requested"):
+        if status == "completed":
+            st.session_state.analysis_results = payload
+            st.session_state.analysis_run_id = (
+                st.session_state.get("analysis_run_id", 0) + 1
+            )
+            st.session_state.analysis_status = "completed"
+        elif status == "cancelled":
+            st.session_state.analysis_status = "cancelled"
+        else:
+            st.session_state.analysis_status = f"error:{payload}"
+
+    st.session_state.pop("analysis_job", None)
+
+
+def start_analysis(
+    *,
+    patient_path: str | Path,
+    physician_path: str | Path,
+    visit_documentation: str,
+) -> None:
+    """Submit a model analysis and keep the Future in Streamlit session state."""
+    if "analysis_executor" not in st.session_state:
+        st.session_state.analysis_executor = ThreadPoolExecutor(max_workers=2)
+
+    cancel_event = threading.Event()
+    future = st.session_state.analysis_executor.submit(
+        run_analysis_job,
+        patient_path=patient_path,
+        physician_path=physician_path,
+        visit_documentation=visit_documentation,
+        cancel_event=cancel_event,
+    )
+    st.session_state.analysis_job = {
+        "future": future,
+        "cancel_event": cancel_event,
+        "cancel_requested": False,
+    }
+    st.session_state.analysis_status = "running"
+
+
+def cancel_analysis() -> None:
+    """Request cancellation for the current analysis job."""
+    job = current_analysis_job()
+    if job is None:
+        return
+
+    cancel_event = job.get("cancel_event")
+    if isinstance(cancel_event, threading.Event):
+        cancel_event.set()
+
+    future = job.get("future")
+    if isinstance(future, Future):
+        future.cancel()
+
+    job["cancel_requested"] = True
+    st.session_state.analysis_status = "cancelled"
+
+
+@st.fragment(run_every="1s")
+def render_running_analysis_status() -> None:
+    """Poll background analysis without rerunning the full app."""
+    harvest_finished_analysis()
+    if analysis_is_running():
+        st.info("Analyse läuft...")
+        return
+
+    st.rerun(scope="app")
+
+
 def render_analysis_results(analysis_results: list[ModelRunResult]) -> None:
     """Render final and detailed analysis tables for runner-shaped results."""
     rows: list[TableRow] = result_rows(analysis_results)
@@ -469,6 +601,8 @@ if "previous_documentation_id" not in st.session_state and documentation_ids:
     st.session_state.previous_documentation_id = documentation_ids[0]
 if "visit_documentation" not in st.session_state and documentation_ids:
     st.session_state.visit_documentation = DOCUMENTATION[documentation_ids[0]]
+
+harvest_finished_analysis()
 
 if not physicians:
     st.error("Keine medizinischen Fachrichtungen gefunden.")
@@ -584,10 +718,30 @@ with st.expander("Dokumentation des Patienten Besuches", expanded=True):
         on_click=clear_visit_documentation,
     )
 
-analyze_clicked = st.button("Analyze", type="primary")
+is_analysis_running = analysis_is_running()
+button_col_analyze, button_col_cancel, button_col_debug = st.columns([1, 1, 5])
+with button_col_analyze:
+    analyze_clicked = st.button(
+        "Analyze",
+        type="primary",
+        disabled=is_analysis_running,
+    )
+cancel_clicked = False
+with button_col_cancel:
+    if is_analysis_running:
+        cancel_clicked = st.button("Cancel")
 debug_analyze_clicked = False
 if DEBUG_MODE:
-    debug_analyze_clicked = st.button("Debugging Analyze")
+    with button_col_debug:
+        debug_analyze_clicked = st.button(
+            "Debugging Analyze",
+            disabled=is_analysis_running,
+        )
+
+if cancel_clicked:
+    cancel_analysis()
+    st.warning("Analyse abgebrochen.")
+    st.rerun()
 
 if analyze_clicked or debug_analyze_clicked:
     if analyze_clicked and not st.session_state.visit_documentation.strip():
@@ -604,22 +758,27 @@ if analyze_clicked or debug_analyze_clicked:
         # runner.run owns the domain workflow: it loads ontology files, evaluates
         # conditional care-path steps, calls the model interface, and consolidates
         # expert outputs. The app only prepares inputs and renders the result.
-        with st.spinner("Analyse läuft..."):
-            try:
-                analysis_results = run(
-                    patient_path=patient_path,
-                    physician_path=selected_physician["path"],
-                    visit_documentation=st.session_state.visit_documentation,
-                    care_path_dir=BASE_DIR / "ontology" / "care_paths",
-                    parallel=True,
-                    max_workers=3,
-                )
-            except Exception as exc:
-                st.error(f"Analyse fehlgeschlagen: {exc}")
-                st.stop()
+        start_analysis(
+            patient_path=patient_path,
+            physician_path=selected_physician["path"],
+            visit_documentation=st.session_state.visit_documentation,
+        )
+        st.rerun()
 
-    st.session_state.analysis_results = analysis_results
-    st.session_state.analysis_run_id = st.session_state.get("analysis_run_id", 0) + 1
+    if debug_analyze_clicked:
+        st.session_state.analysis_results = analysis_results
+        st.session_state.analysis_run_id = (
+            st.session_state.get("analysis_run_id", 0) + 1
+        )
+
+analysis_status = st.session_state.get("analysis_status")
+if analysis_status == "cancelled":
+    st.warning("Analyse abgebrochen.")
+elif isinstance(analysis_status, str) and analysis_status.startswith("error:"):
+    st.error(f"Analyse fehlgeschlagen: {analysis_status[6:]}")
+
+if analysis_is_running():
+    render_running_analysis_status()
 
 if "analysis_results" in st.session_state:
     render_analysis_results(st.session_state.analysis_results)

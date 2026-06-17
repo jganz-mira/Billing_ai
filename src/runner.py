@@ -3,6 +3,7 @@ from __future__ import annotations
 from concurrent.futures import ThreadPoolExecutor, as_completed
 import json
 from pathlib import Path
+from threading import Event
 from typing import Any
 
 from pydantic import BaseModel
@@ -34,6 +35,10 @@ class ModelRunResult(BaseModel):
     error: str | None = None
 
 
+class AnalysisCancelled(RuntimeError):
+    """Raised when a running analysis is cancelled by the UI."""
+
+
 def run(
     *,
     patient_path: str | Path,
@@ -44,6 +49,7 @@ def run(
     verbose: bool = False,
     parallel: bool = False,
     max_workers: int = 2,
+    cancel_event: Event | None = None,
 ) -> list[ModelRunResult]:
     patient = Patient.model_validate(_load_json(patient_path))
     physician = Physician.model_validate(_load_json(physician_path))
@@ -53,6 +59,7 @@ def run(
     results: list[ModelRunResult | None] = [None] * len(care_path.steps)
     runnable_steps: list[tuple[int, Step]] = []
     for index, step in enumerate(care_path.steps):
+        _raise_if_cancelled(cancel_event)
         if not _condition_matches(step.condition, patient=patient, physician=physician):
             results[index] = _base_result(step, skipped=True)
             if verbose:
@@ -76,9 +83,11 @@ def run(
                 for index, step in runnable_steps
             }
             for future in as_completed(futures):
+                _raise_if_cancelled(cancel_event)
                 results[futures[future]] = future.result()
     else:
         for index, step in runnable_steps:
+            _raise_if_cancelled(cancel_event)
             results[index] = _run_expert_step(
                 step,
                 patient=patient,
@@ -90,6 +99,7 @@ def run(
 
     completed_results = [result for result in results if result is not None]
     if care_path.final_step is not None:
+        _raise_if_cancelled(cancel_event)
         completed_results.append(
             _run_final_step(
                 care_path.final_step,
@@ -104,6 +114,11 @@ def run(
         )
 
     return completed_results
+
+
+def _raise_if_cancelled(cancel_event: Event | None) -> None:
+    if cancel_event is not None and cancel_event.is_set():
+        raise AnalysisCancelled("Analyse wurde abgebrochen.")
 
 
 def _run_expert_step(
