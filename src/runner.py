@@ -7,12 +7,22 @@ from typing import Any
 
 from pydantic import BaseModel
 
-from model_interface import ModelInterface, ModelResponseGopList
-from ontology.schemas.care_path import ConditionalField, Model, ProcessingPath, Step
-from ontology.schemas.gop_list import GopList
-from ontology.schemas.patient import Patient
-from ontology.schemas.physician import Physician
-from prompts import GOP_CONSOLIDATION_PROMPT, GOP_EXTRACTION_BASE_PROMPT
+try:
+    from .model_interface import ModelInterface, ModelResponseGopList
+    from .ontology.schemas.care_path import ConditionalField, Model, ProcessingPath, Step
+    from .ontology.schemas.gop_list import GopList
+    from .ontology.schemas.patient import Patient
+    from .ontology.schemas.physician import Physician
+    from .prompts import GOP_CONSOLIDATION_PROMPT, GOP_EXTRACTION_BASE_PROMPT
+    from .tools import GopLookupTool
+except ImportError:
+    from model_interface import ModelInterface, ModelResponseGopList
+    from ontology.schemas.care_path import ConditionalField, Model, ProcessingPath, Step
+    from ontology.schemas.gop_list import GopList
+    from ontology.schemas.patient import Patient
+    from ontology.schemas.physician import Physician
+    from prompts import GOP_CONSOLIDATION_PROMPT, GOP_EXTRACTION_BASE_PROMPT
+    from tools import GopLookupTool
 
 
 class ModelRunResult(BaseModel):
@@ -84,6 +94,7 @@ def run(
             _run_final_step(
                 care_path.final_step,
                 previous_results=completed_results,
+                searchable_gop_paths=_searchable_gop_paths(care_path),
                 patient=patient,
                 physician=physician,
                 visit_documentation=visit_documentation,
@@ -130,6 +141,7 @@ def _run_final_step(
     step: Model,
     *,
     previous_results: list[ModelRunResult],
+    searchable_gop_paths: list[str],
     patient: Patient,
     physician: Physician,
     visit_documentation: str,
@@ -147,6 +159,12 @@ def _run_final_step(
     try:
         if verbose:
             print(f"Running final step {step.prompt_template}.\n")
+        # The final step uses its knowledge_paths as a searchable GOP corpus.
+        # Only GOPs proposed by expert steps are loaded into the consolidation prompt.
+        selected_gops = _load_selected_gops(
+            successful_outputs,
+            searchable_gop_paths=searchable_gop_paths,
+        )
         system_prompt = GOP_CONSOLIDATION_PROMPT.format(
             expert_role=step.expert_role,
             task_focus=step.task_focus or "Finale GOP-Liste erstellen.",
@@ -158,6 +176,7 @@ def _run_final_step(
             patient=patient,
             physician=physician,
             expert_outputs=successful_outputs,
+            gops=selected_gops,
             reasoning_effort=step.reasoning_effort,
         )
         return _base_result(step, output=output)
@@ -201,6 +220,47 @@ def _load_gops(paths: list[str]) -> GopList:
         gop_list = GopList.model_validate(_load_json(path))
         merged.extend(gop_list.gops)
     return GopList(gops=merged)
+
+
+def _load_selected_gops(
+    expert_outputs: list[ModelResponseGopList],
+    *,
+    searchable_gop_paths: list[str],
+) -> GopList | None:
+    if not searchable_gop_paths:
+        return None
+
+    codes: list[str] = []
+    for output in expert_outputs:
+        codes.extend(gop.code for gop in output.gops)
+
+    if not codes:
+        return None
+
+    return GopLookupTool(searchable_gop_paths).load_gops(codes)
+
+
+def _searchable_gop_paths(care_path: ProcessingPath) -> list[str]:
+    # final_step.knowledge_paths defines the GOP files that may be searched
+    # during consolidation. If omitted, all expert-step knowledge_paths are used.
+    if care_path.final_step is not None and care_path.final_step.knowledge_paths:
+        return _unique_paths(care_path.final_step.knowledge_paths)
+
+    paths: list[str] = []
+    for step in care_path.steps:
+        paths.extend(step.knowledge_paths)
+    return _unique_paths(paths)
+
+
+def _unique_paths(paths: list[str]) -> list[str]:
+    unique: list[str] = []
+    seen: set[str] = set()
+    for path in paths:
+        if path in seen:
+            continue
+        seen.add(path)
+        unique.append(path)
+    return unique
 
 
 def _condition_matches(

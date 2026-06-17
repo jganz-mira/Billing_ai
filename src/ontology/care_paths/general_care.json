@@ -19,6 +19,14 @@
             ]
         },
         {
+            "expert_role": "Experte fuer hausaerztliche Zusatzziffern",
+            "model_type": "gpt-5-mini",
+            "prompt_template": "experte_hausarztliche_zusatzziffern",
+            "knowledge_paths": [
+                "src/ontology/gops/hausaerztlicher_versorgungsbereich/hausärztliche_zusatzziffern.json"
+            ]
+        },
+        {
             "expert_role": "Experte fuer geriatrische hausaerztliche Leistungen",
             "model_type": "gpt-5-mini",
             "prompt_template": "experte_geriatrische_hausarztliche_leistungen",
@@ -66,6 +74,15 @@
         "model_type": "gpt-5-mini",
         "prompt_template": "gop_consolidation",
         "task_focus": "Dedupliziere die GOP-Vorschlaege der Experten, pruefe Konflikte und erstelle eine finale GOP-Liste.",
+        "tools": [],
+        "knowledge_paths": [
+            "src/ontology/gops/hausaerztlicher_versorgungsbereich/hausaerztliche_basispauschalen.json",
+            "src/ontology/gops/hausaerztlicher_versorgungsbereich/besondere_hausärztliche_leistungen.json",
+            "src/ontology/gops/hausaerztlicher_versorgungsbereich/hausärztliche_zusatzziffern.json",
+            "src/ontology/gops/hausaerztlicher_versorgungsbereich/hausärztliche_geriatrische_versorgung.json",
+            "src/ontology/gops/hausaerztlicher_versorgungsbereich/hausärztliche_palliativmedizinische_versorgung.json",
+            "src/ontology/gops/hausaerztlicher_versorgungsbereich/chroniker_ziffern.json"
+        ],
         "reasoning_effort": "medium"
     }
 }

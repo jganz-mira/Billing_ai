@@ -4,7 +4,11 @@ import json
 from typing import Any
 
 from pydantic import BaseModel, ConfigDict, Field
-from ontology.schemas.gop_list import StrictModel, Valuation
+
+try:
+    from .ontology.schemas.gop_list import StrictModel, Valuation
+except ImportError:
+    from ontology.schemas.gop_list import StrictModel, Valuation
 
 class ValuationOutput(StrictModel):
     valuation_in_euro: float = Field(
@@ -81,6 +85,7 @@ class ModelInterface:
         patient: Any,
         physician: Any,
         expert_outputs: list[Any],
+        gops: Any | None = None,
         reasoning_effort: str | None = None,
     ) -> ModelResponseGopList:
         allowed_codes = self._expert_output_codes(expert_outputs)
@@ -89,6 +94,7 @@ class ModelInterface:
             patient=patient,
             physician=physician,
             expert_outputs=expert_outputs,
+            gops=gops,
             allowed_codes=allowed_codes,
         )
 
@@ -189,27 +195,34 @@ class ModelInterface:
         patient: Any,
         physician: Any,
         expert_outputs: list[Any],
+        gops: Any | None,
         allowed_codes: set[str],
     ) -> str:
-        return "\n\n".join(
-            [
-                "Konsolidiere die GOP-Vorschlaege der Expertenmodelle.",
-                "Schlage ausschliesslich GOP-Codes vor, die in den Expertenoutputs vorkommen.",
-                f"Erlaubte GOP-Codes: {', '.join(sorted(allowed_codes))}",
-                "Falltext:",
-                case_text,
-                "Patient:",
-                json.dumps(ModelInterface._dump(patient), ensure_ascii=False, indent=2),
-                "Arzt:",
-                json.dumps(ModelInterface._dump(physician), ensure_ascii=False, indent=2),
-                "Expertenoutputs:",
-                json.dumps(
-                    [ModelInterface._dump(output) for output in expert_outputs],
-                    ensure_ascii=False,
-                    indent=2,
-                ),
-            ]
-        )
+        prompt_parts = [
+            "Konsolidiere die GOP-Vorschlaege der Expertenmodelle.",
+            "Schlage ausschliesslich GOP-Codes vor, die in den Expertenoutputs vorkommen.",
+            f"Erlaubte GOP-Codes: {', '.join(sorted(allowed_codes))}",
+            "Falltext:",
+            case_text,
+            "Patient:",
+            json.dumps(ModelInterface._dump(patient), ensure_ascii=False, indent=2),
+            "Arzt:",
+            json.dumps(ModelInterface._dump(physician), ensure_ascii=False, indent=2),
+            "Expertenoutputs:",
+            json.dumps(
+                [ModelInterface._dump(output) for output in expert_outputs],
+                ensure_ascii=False,
+                indent=2,
+            ),
+        ]
+        if gops is not None:
+            prompt_parts.extend(
+                [
+                    "GOP-Details zu den vorgeschlagenen Codes:",
+                    json.dumps(ModelInterface._dump(gops), ensure_ascii=False, indent=2),
+                ]
+            )
+        return "\n\n".join(prompt_parts)
 
     @staticmethod
     def _gop_codes(gops: Any) -> set[str]:

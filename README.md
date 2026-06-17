@@ -77,6 +77,9 @@ Ein einzelner Step kann diese Felder enthalten:
 - `prompt_template`: technischer Name des Prompt-Templates bzw. Schritts.
 - `task_focus`: optionaler Fokus fuer diesen Expertenschritt.
 - `knowledge_paths`: Liste repo-relativer GOP-Wissensdateien.
+- `tools`: reserviert fuer echte Modell-Tools der OpenAI-Pipeline. Aktuell
+  werden diese Tools noch nicht an `ModelInterface` verdrahtet und sollten leer
+  bleiben, wenn kein expliziter Tool-Calling-Code vorhanden ist.
 - `reasoning_effort`: optional, `low`, `medium` oder `high`.
 - `condition`: optional, steuert ob der Step fuer einen Fall ausgefuehrt wird.
 
@@ -129,6 +132,12 @@ Bedingungen werden in `runner.py` gegen Patient oder Arzt ausgewertet:
 7. Optional `final_step` definieren.
    - Dieser Schritt konsolidiert erfolgreiche Expertenoutputs, dedupliziert
      Vorschlaege und erstellt die finale GOP-Liste.
+   - `final_step.knowledge_paths` definiert standardmaessig den suchbaren GOP-
+     Korpus fuer die Konsolidierung. Der Runner laedt daraus nicht alle GOPs in
+     den Prompt, sondern nur die vollstaendigen GOP-Definitionen zu Codes, die
+     von Expertenschritten vorgeschlagen wurden.
+   - `final_step.tools` bleibt leer, solange echte OpenAI-Tool-Calls im
+     `ModelInterface` noch nicht implementiert sind.
 8. App im Debug-Modus starten und UI pruefen.
 9. Danach mit echtem LLM-Aufruf testen.
 
@@ -145,6 +154,13 @@ GOP-Wissensdateien folgen dem `GopList`-Schema aus
 Die Modelle bekommen diese GOP-Dateien als erlaubte Wissensbasis. In
 `model_interface.py` werden Modellantworten anschliessend auf erlaubte GOP-Codes
 gefiltert.
+
+Im `final_step` haben `knowledge_paths` eine besondere Bedeutung: Sie sind der
+verdrahtete Suchraum fuer GOP-Details im Aggregationsschritt. Der Runner sammelt
+die von den Experten vorgeschlagenen GOP-Codes und laedt ueber die GOP-Lade-
+Funktion nur diese Codes aus den dort referenzierten Dateien. Dadurch muss der
+Aggregator nicht alle GOP-JSONs komplett sehen, bekommt aber die vollstaendigen
+Definitionen zu den bereits vorgeschlagenen Codes.
 
 ## Model-Output und Ergebnistabellen
 

@@ -1,0 +1,1862 @@
+{
+  "gops": [
+    {
+      "code": "01100",
+      "title": "Unvorhergesehene Inanspruchnahme des Vertragsarztes durch einen Patienten - zwischen 19:00 und 22:00 Uhr - an Samstagen, Sonntagen und gesetzlichen Feiertagen, am 24.12. und 31.12. zwischen 07:00 und 19:00 Uhr",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 24.97,
+        "valuation_in_points": 196
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Die Gebührenordnungsposition 01100 ist nicht berechnungsfähig, wenn Sprechstunden vor 07:00 Uhr oder nach 19:00 Uhr stattfinden oder Patienten zu diesen Zeiten bestellt werden. Im Rahmen der unvorhergesehenen Inanspruchnahme des Vertragsarztes ist die Gebührenordnungsposition 01100 auch dann nur einmal berechnungsfähig, wenn es sich um eine Gruppenbehandlung handelt. Die Gebührenordnungsposition 01100 ist ausschließlich bei kurativer Behandlung berechnungsfähig. Die Gebührenordnungsposition 01100 ist nicht neben den Gebührenordnungspositionen 01101, 01102, 01205, 01207, 01210, 01212, 01214, 01216, 01218, 01410 bis 01413, 01415, 01418, 01949 bis 01951, 01953, 03373, 04373 und 37306 berechnungsfähig. Die Gebührenordnungsposition 01100 ist am Behandlungstag nicht neben den Gebührenordnungspositionen 01955 und 01956 berechnungsfähig."
+    },
+    {
+      "code": "01101",
+      "title": "Unvorhergesehene Inanspruchnahme des Vertragsarztes durch einen Patienten - zwischen 22:00 und 07:00 Uhr - an Samstagen, Sonntagen und gesetzlichen Feiertagen, am 24.12. und 31.12. zwischen 19:00 und 07:00 Uhr",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 39.88,
+        "valuation_in_points": 313
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Die Gebührenordnungsposition 01101 ist nicht berechnungsfähig, wenn Sprechstunden vor 07:00 Uhr oder nach 19:00 Uhr stattfinden oder Patienten zu diesen Zeiten bestellt werden. Im Rahmen der unvorhergesehenen Inanspruchnahme des Vertragsarztes ist die Gebührenordnungsposition 01101 auch dann nur einmal berechnungsfähig, wenn es sich um eine Gruppenbehandlung handelt. Die Gebührenordnungsposition 01101 ist ausschließlich bei kurativer Behandlung berechnungsfähig. Die Gebührenordnungsposition 01101 ist nicht neben den Gebührenordnungspositionen 01100, 01102, 01205, 01207, 01210, 01212, 01214, 01216, 01218, 01410 bis 01413, 01415, 01418, 01949 bis 01951, 01953, 03373, 04373 und 37306 berechnungsfähig. Die Gebührenordnungsposition 01101 ist am Behandlungstag nicht neben den Gebührenordnungspositionen 01955 und 01956 berechnungsfähig."
+    },
+    {
+      "code": "01102",
+      "title": "Inanspruchnahme des Vertragsarztes an Samstagen zwischen 07:00 und 19:00 Uhr Im Rahmen der Inanspruchnahme des Vertragsarztes ist",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 12.87,
+        "valuation_in_points": 101
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "die Gebührenordnungsposition 01102 auch dann nur einmal berechnungsfähig, wenn es sich um eine Gruppenbehandlung handelt. Die Gebührenordnungsposition 01102 ist nur dann neben der Gebührenordnungsposition 01413 berechnungsfähig, wenn die Inanspruchnahme nach der Nr. 01413 in beschützenden Wohnheimen bzw. Einrichtungen bzw. Pflege- oder Altenheimen mit Pflegepersonal auf besondere Anforderung erfolgt. Die Gebührenordnungsposition 01102 ist nicht neben den Gebührenordnungspositionen 01100, 01101, 01205, 01207, 01210, 01212, 01214, 01216, 01218, 01410 bis 01412, 01415, 01418, 01949 bis 01951, 01953, 03373, 04373, 04564 bis 04566, 04572, 04573, 13610 bis 13612, 13620 bis 13622 und 37306 berechnungsfähig. Die Gebührenordnungsposition 01102 ist am Behandlungstag nicht neben den Gebührenordnungspositionen 01955 und 01956 berechnungsfähig. 1.2 Gebührenordnungspositionen für die Versorgung im Notfall und im organisierten ärztlichen Not(-fall)dienst 1. Neben den Gebührenordnungspositionen dieses Abschnittes sind nur Gebührenordnungspositionen berechnungsfähig, die in unmittelbarem diagnostischen oder therapeutischen Zusammenhang mit der Notfallversorgung stehen. Die Nr. 1.5 der Allgemeinen Bestimmungen gilt für die Berechnung von im Rahmen der Notfallversorgung erbrachten Gebührenordnungspositionen nicht. 2. Bei der ersten persönlichen Inanspruchnahme im Notfall oder im organisierten Not(-fall)dienst ist die Gebührenordnungsposition 01205, 01207, 01210 oder 01212 entsprechend den in der Leistungslegende vorgegebenen Zeiten im Behandlungsfall zu berechnen. Die Gebührenordnungspositionen 01210 und 01212 sind im organisierten Not(-fall)dienst zudem auch bei erster Inanspruchnahme im Rahmen einer Videosprechstunde entsprechend den in der Leistungslegende vorgegebenen Zeiten im Behandlungsfall berechnungsfähig. Für jede weitere Inanspruchnahme im Notfall oder im organisierten Not(-fall)dienst im Behandlungsfall ist die Gebührenordnungsposition 01214, 01216 bzw. 01218 zu berechnen. Wird bei der ersten Inanspruchnahme im Notfall oder im organisierten Not(-fall)dienst die Gebührenordnungsposition 01205 oder 01207 berechnet, sind die Gebührenordnungspositionen 01214, 01216 und 01218 nur mit ausführlicher schriftlicher medizinischer Begründung berechnungsfähig. 3. Neben den Gebührenordnungspositionen 01205, 01207, 01210, 01212, 01214, 01216 und 01218 sind Beratungs-, Gesprächs- und Erörterungsleistungen nicht berechnungsfähig. 4. Nicht an der vertragsärztlichen Versorgung teilnehmende Ärzte, Institute und Krankenhäuser dürfen die Gebührenordnungspositionen 01210, 01212, 01214, 01216, 01218, 01223, 01224 und 01226 nur berechnen, wenn die Erkrankung des Patienten auf Grund ihrer Beschaffenheit einer sofortigen Maßnahme bedarf und die Versorgung durch einen Vertragsarzt entsprechend § 76 SGB V nicht möglich und/ oder auf Grund der Umstände nicht vertretbar ist. 5. Die Berechnung der Gebührenordnungspositionen 01205, 01207, 01210, 01212, 01214, 01216 und 01218 setzt die Angabe der Uhrzeit der Inanspruchnahme voraus. 6. Sofern im Zeitraum vom 1. Januar 2008 bis zum 31. März 2015 nicht für alle Behandlungsfälle des Quartals die Angabe der Uhrzeit der Inanspruchnahmen gemäß Nr. 5 im organisierten Not(-fall)dienst oder von nicht an der vertragsärztlichen Versorgung teilnehmenden Ärzten, Instituten und Krankenhäusern bei Inanspruchnahmen in diesem Quartal gegenüber der Kassenärztlichen Vereinigung erfolgt ist bzw. nachgewiesen werden kann, wird abweichend von Nr. 2 für alle Behandlungsfälle in diesem Quartal die erste Inanspruchnahme im Notfall oder im organisierten Not(-fall)dienst wie folgt bewertet: 01.01.2008 bis 31.12.2008: 430 Punkte, 01.01.2009 bis 30.09.2013: 475 Punkte, 01.10.2013 bis 31.03.2015: 168 Punkte. 7. Wenn die Erkrankung des Patienten auf Grund ihrer Beschaffenheit keiner sofortigen Maßnahme bedarf und die nachfolgende Versorgung durch einen Vertragsarzt außerhalb der Notfallversorgung möglich und/oder auf Grund der Umstände vertretbar ist, ist die Gebührenordnungsposition 01205 bzw. 01207 zu berechnen. 8. Die Gebührenordnungspositionen 01223 und 01224 sind ausschließlich bei Patienten berechnungsfähig, die aufgrund der Art, Schwere und Komplexität der Behandlungsdiagnose einer besonders aufwändigen Versorgung im Rahmen der Notfallversorgung bedürfen. Die Gebührenordnungspositionen 01223 und 01224 können nur bei Erfüllung mindestens einer der nachfolgenden gesicherten Behandlungsdiagnosen berechnet werden: - Frakturen im Bereich der Extremitäten proximal des Metacarpus und Metatarsus, - Schädel-Hirn-Trauma mit Bewusstlosigkeit von weniger als 30 Minuten (S06.0 und S06.70), - Akute tiefe Beinvenenthrombose, - Hypertensive Krise, - Angina pectoris (ausgenommen: ICD I20.9), - Pneumonie, - Akute Divertikulitis. In Fällen, in denen diese Kriterien nicht erfüllt werden, aber auf Grund der Art, Schwere und Komplexität der Behandlungsdiagnose eine besonders aufwändige Versorgung im Rahmen der Notfallversorgung notwendig ist, können die Gebührenordnungspositionen 01223 und 01224 mit ausführlicher schriftlicher medizinischer Begründung im Ausnahmefall berechnet werden. Hierbei ist insbesondere die Schwere und Komplexität der Behandlungsdiagnose darzulegen. 9. Die Gebührenordnungsposition 01226 ist nur berechnungsfähig bei - Neugeborenen, Säuglingen und Kleinkindern oder - Patienten mit krankheitsbedingt erheblich komplexer Beeinträchtigung kognitiver, emotionaler und verhaltensbezogener Art (ausgenommen Beeinträchtigung kognitiver, emotionaler und verhaltensbezogener Art infolge psychotroper Substanzen) und/oder - Patienten ab dem vollendeten 70. Lebensjahr mit geriatrischem Versorgungsbedarf und Frailty-Syndrom (Kombination von unbeabsichtigtem Gewichtsverlust, körperlicher und/oder geistiger Erschöpfung, muskulärer Schwäche, verringerter Ganggeschwindigkeit und verminderter körperlicher Aktivität) und/oder - Patienten mit einer der folgenden Erkrankungen: F00- F02 dementielle Erkrankungen, G30 Alzheimer-Erkrankung, G20.1 Primäres Parkinson-Syndrom mit mäßiger bis schwerer Beeinträchtigung und G20.2 Primäres Parkinson-Syndrom mit schwerster Beeinträchtigung."
+    },
+    {
+      "code": "01205",
+      "title": "Notfallpauschale im organisierten Not(-fall)dienst und für nicht an der vertragsärztlichen Versorgung teilnehmende Ärzte, Institute und Krankenhäuser für die Abklärung der Behandlungsnotwendigkeit bei Inanspruchnahme - zwischen 07:00 und 19:00 Uhr (außer an Samstagen, Sonntagen, gesetzlichen Feiertagen und am 24.12. und 31.12.)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 5.73,
+        "valuation_in_points": 45
+      },
+      "mandatory_services": "- Persönlicher Arzt-Patienten-Kontakt im organisierten Not(-fall)dienst und für nicht an der vertragsärztlichen Versorgung teilnehmende Ärzte, Institute und Krankenhäuser,\n- Bewertung der Dringlichkeit der Behandlungsnotwendigkeit,",
+      "facultative_services": "- Koordination der nachfolgenden Versorgung durch einen Vertragsarzt außerhalb der Notfallversorgung,\n- Erhebung Lokalbefund,",
+      "billing_info": "einmal im Behandlungsfall Gemäß der Nr. 7 der Bestimmung zum Abschnitt 1.2 ist die Gebührenordnungsposition 01205 zu berechnen, wenn die Erkrankung des Patienten auf Grund ihrer Beschaffenheit keiner sofortigen Maßnahme bedarf und die nachfolgende Versorgung durch einen Vertragsarzt außerhalb der Notfallversorgung möglich und/oder auf Grund der Umstände vertretbar ist. Neben der Gebührenordnungsposition 01205 ist für die Berechnung der jeweiligen arztgruppenspezifischen Versicherten-, Grund- oder Konsiliarpauschale in demselben Behandlungsfall mindestens ein weiterer persönlicher Arzt-Patienten-Kontakt bzw. Arzt-Patienten- Kontakt im Rahmen einer Videosprechstunde außerhalb des organisierten ärztlichen Not(-fall)dienstes notwendig. Die Gebührenordnungsposition 01205 ist nicht neben den Gebührenordnungspositionen 01100 bis 01102, 01214, 01216, 01218, 01411, 01412, 01414, 01415, 01871, 01872, 01949 bis 01951, 01953, 03030, 03373, 04030, 04355, 04356, 04373, 14220, 14221, 16220, 21220, 21221, 22220 bis 22222, 23220, 27310, 30930 bis 30933, 37306, 37500, 37510, 37600 und 37610 und nicht neben den Gebührenordnungspositionen der Kapitel 33, 34 und 35 berechnungsfähig. Die Gebührenordnungsposition 01205 ist am Behandlungstag nicht neben den Gebührenordnungspositionen 01626, 01955 und 01956 berechnungsfähig. Die Gebührenordnungsposition 01205 ist im Behandlungsfall nicht neben den Gebührenordnungspositionen 01207, 01210 und 01212 berechnungsfähig."
+    },
+    {
+      "code": "01207",
+      "title": "Notfallpauschale im organisierten Not(-fall)dienst und für nicht an der vertragsärztlichen Versorgung teilnehmende Ärzte, Institute und Krankenhäuser für die Abklärung der Behandlungsnotwendigkeit bei Inanspruchnahme - zwischen 19:00 und 07:00 Uhr des Folgetages - ganztägig an Samstagen, Sonntagen, gesetzlichen Feiertagen und am 24.12. und 31.12.",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 10.19,
+        "valuation_in_points": 80
+      },
+      "mandatory_services": "- Persönlicher Arzt-Patienten-Kontakt im organisierten Not(-fall)dienst und für nicht an der vertragsärztlichen Versorgung teilnehmende Ärzte, Institute und Krankenhäuser,\n- Bewertung der Dringlichkeit der Behandlungsnotwendigkeit,",
+      "facultative_services": "- Koordination der nachfolgenden Versorgung durch einen Vertragsarzt außerhalb der Notfallversorgung,\n- Erhebung Lokalbefund,",
+      "billing_info": "einmal im Behandlungsfall Gemäß der Nr. 7 der Bestimmung zum Abschnitt 1.2 ist die Gebührenordnungsposition 01207 zu berechnen, wenn die Erkrankung des Patienten auf Grund ihrer Beschaffenheit keiner sofortigen Maßnahme bedarf und die nachfolgende Versorgung durch einen Vertragsarzt außerhalb der Notfallversorgung möglich und/oder auf Grund der Umstände vertretbar ist. Neben der Gebührenordnungsposition 01207 ist für die Berechnung der jeweiligen arztgruppenspezifischen Versicherten-, Grund- oder Konsiliarpauschale in demselben Behandlungsfall mindestens ein weiterer persönlicher Arzt-Patienten-Kontakt bzw. Arzt-Patienten- Kontakt im Rahmen einer Videosprechstunde außerhalb des organisierten ärztlichen Not(-fall)dienstes notwendig. Die Gebührenordnungsposition 01207 ist nicht neben den Gebührenordnungspositionen 01100 bis 01102, 01214, 01216, 01218, 01411, 01412, 01414, 01415, 01871, 01872, 01949 bis 01951, 01953, 03030, 03373, 04030, 04355, 04356, 04373, 14220, 14221, 16220, 21220, 21221, 22220 bis 22222, 23220, 27310, 30930 bis 30933, 37306, 37500, 37510, 37600 und 37610 und nicht neben den Gebührenordnungspositionen der Kapitel 33, 34 und 35 berechnungsfähig. Die Gebührenordnungsposition 01207 ist am Behandlungstag nicht neben den Gebührenordnungspositionen 01626, 01955 und 01956 berechnungsfähig. Die Gebührenordnungsposition 01207 ist im Behandlungsfall nicht neben den Gebührenordnungspositionen 01205, 01210 und 01212 berechnungsfähig."
+    },
+    {
+      "code": "01210",
+      "title": "Notfallpauschale I im organisierten Not(-fall)dienst und für nicht an der vertragsärztlichen Versorgung teilnehmende Ärzte, Institute und Krankenhäuser bei Inanspruchnahme - zwischen 07:00 und 19:00 Uhr (außer an Samstagen, Sonntagen, gesetzlichen Feiertagen und am 24.12. und 31.12.)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 15.29,
+        "valuation_in_points": 120
+      },
+      "mandatory_services": "- Persönlicher Arzt-Patienten-Kontakt im organisierten Not(-fall)dienst und für nicht an der vertragsärztlichen Versorgung teilnehmende Ärzte, Institute und Krankenhäuser oder\n- Arzt-Patienten-Kontakt im Rahmen einer Videosprechstunde im organisierten Not(-fall)dienst,",
+      "facultative_services": "- In Anhang 1, Spalte GP, aufgeführte Leistungen,\n- Funktioneller Ganzkörperstatus (27310),",
+      "billing_info": "einmal im Behandlungsfall Neben der Gebührenordnungsposition 01210 ist für die Berechnung der jeweiligen arztgruppenspezifischen Versicherten-, Grund- oder Konsiliarpauschale in demselben Behandlungsfall mindestens ein weiterer persönlicher Arzt-Patienten-Kontakt bzw. Arzt-Patienten- Kontakt im Rahmen einer Videosprechstunde außerhalb des organisierten ärztlichen Not(-fall)dienstes notwendig. Bei Durchführung der Leistung im Rahmen einer Videosprechstunde ist dies durch Angabe einer bundeseinheitlich kodierten Zusatzkennzeichnung zu dokumentieren. Für die Abrechnung gelten die Anforderungen gemäß Anlage 31b zum BMV-Ä entsprechend. Die Gebührenordnungsposition 01210 ist nicht neben den Gebührenordnungspositionen 01100 bis 01102, 01214, 01216, 01218, 01411, 01412, 01414, 01415, 01949 bis 01951, 01953, 03030, 03373, 04030, 04355, 04356, 04373, 14220, 14221, 16220, 21220, 21221, 22220 bis 22222, 23220, 27310, 30930 bis 30933, 37306, 37500, 37510, 37600 und 37610 und nicht neben den Gebührenordnungspositionen des Kapitels 35 berechnungsfähig. Die Gebührenordnungsposition 01210 ist am Behandlungstag nicht neben den Gebührenordnungspositionen 01626, 01955 und 01956 berechnungsfähig. Die Gebührenordnungsposition 01210 ist im Behandlungsfall nicht neben den Gebührenordnungspositionen 01205, 01207 und 01212 berechnungsfähig."
+    },
+    {
+      "code": "01212",
+      "title": "Notfallpauschale II im organisierten Not(-fall)dienst und für nicht an der vertragsärztlichen Versorgung teilnehmende Ärzte, Institute und Krankenhäuser bei Inanspruchnahme - zwischen 19:00 und 07:00 Uhr des Folgetages - ganztägig an Samstagen, Sonntagen, gesetzlichen Feiertagen und am 24.12. und 31.12.",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 24.84,
+        "valuation_in_points": 195
+      },
+      "mandatory_services": "- Persönlicher Arzt-Patienten-Kontakt im organisierten Not(-fall)dienst und für nicht an der vertragsärztlichen Versorgung teilnehmende Ärzte, Institute und Krankenhäuser oder\n- Arzt-Patienten-Kontakt im Rahmen einer Videosprechstunde im organisierten Not(-fall)dienst,",
+      "facultative_services": "- In Anhang 1, Spalte GP, aufgeführte Leistungen,\n- Funktioneller Ganzkörperstatus (27310),",
+      "billing_info": "einmal im Behandlungsfall Neben der Gebührenordnungsposition 01212 ist für die Berechnung der jeweiligen arztgruppenspezifischen Versicherten-, Grund- oder Konsiliarpauschale in demselben Behandlungsfall mindestens ein weiterer persönlicher Arzt-Patienten-Kontakt bzw. Arzt-Patienten- Kontakt im Rahmen einer Videosprechstunde außerhalb des organisierten ärztlichen Not(-fall)dienstes notwendig. Bei Durchführung der Leistung im Rahmen einer Videosprechstunde ist dies durch Angabe einer bundeseinheitlich kodierten Zusatzkennzeichnung zu dokumentieren. Für die Abrechnung gelten die Anforderungen gemäß Anlage 31b zum BMV-Ä entsprechend. Die Gebührenordnungsposition 01212 ist nicht neben den Gebührenordnungspositionen 01100 bis 01102, 01214, 01216, 01218, 01411, 01412, 01414, 01415, 01949 bis 01951, 01953, 03030, 03373, 04030, 04355, 04356, 04373, 14220, 14221, 16220, 21220, 21221, 22220 bis 22222, 23220, 27310, 30930 bis 30933, 37306, 37500, 37510, 37600 und 37610 und nicht neben den Gebührenordnungspositionen des Kapitels 35 berechnungsfähig. Die Gebührenordnungsposition 01212 ist am Behandlungstag nicht neben den Gebührenordnungspositionen 01626, 01955 und 01956 berechnungsfähig. Die Gebührenordnungsposition 01212 ist im Behandlungsfall nicht neben den Gebührenordnungspositionen 01205, 01207 und 01210 berechnungsfähig."
+    },
+    {
+      "code": "01214",
+      "title": "Notfallkonsultationspauschale I im organisierten Not(-fall)dienst und für nicht an der vertragsärztlichen Versorgung teilnehmende Ärzte, Institute und Krankenhäuser",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 6.37,
+        "valuation_in_points": 50
+      },
+      "mandatory_services": "- Weiterer persönlicher oder anderer Arzt-Patienten-Kontakt gemäß 4.3.1 der Allgemeinen Bestimmungen im organisierten Not(-fall)dienst oder für nicht an der vertragsärztlichen Versorgung teilnehmende Ärzte, Institute und Krankenhäuser bei Inanspruchnahme außerhalb der in den Gebührenordnungspositionen 01216 und 01218 angegebenen Zeiten,",
+      "facultative_services": "- In Anhang 1, Spalte GP, aufgeführte Leistungen,\n- Funktioneller Ganzkörperstatus (27310),",
+      "billing_info": "je Arzt-Patienten-Kontakt Die Gebührenordnungsposition 01214 ist nicht neben den Gebührenordnungspositionen 01100 bis 01102, 01205, 01207, 01210, 01212, 01216, 01218, 01411, 01412, 01414, 01415, 01949 bis 01951, 01953, 03030, 03373, 04030, 04355, 04356, 04373, 14220, 14221, 16220, 21220, 21221, 22220 bis 22222, 23220, 27310, 30930 bis 30933, 37306, 37500, 37510, 37600 und 37610 und nicht neben den Gebührenordnungspositionen des Kapitels 35 berechnungsfähig. Die Gebührenordnungsposition 01214 ist am Behandlungstag nicht neben den Gebührenordnungspositionen 01626, 01955 und 01956 berechnungsfähig."
+    },
+    {
+      "code": "01216",
+      "title": "Notfallkonsultationspauschale II im organisierten Not(-fall)dienst und für nicht an der vertragsärztlichen Versorgung teilnehmende Ärzte, Institute und Krankenhäuser bei Inanspruchnahme - zwischen 19:00 und 22:00 Uhr - an Samstagen, Sonntagen und gesetzlichen Feiertagen, am 24.12. und 31.12. zwischen 07:00 und 19:00 Uhr",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 17.84,
+        "valuation_in_points": 140
+      },
+      "mandatory_services": "- Weiterer persönlicher oder anderer Arzt-Patienten-Kontakt gemäß 4.3.1 der Allgemeinen Bestimmungen im organisierten Not(- fall)dienst oder für nicht an der vertragsärztlichen Versorgung teilnehmende Ärzte, Institute und Krankenhäuser,",
+      "facultative_services": "- In Anhang 1, Spalte GP, aufgeführte Leistungen,\n- Funktioneller Ganzkörperstatus (27310),",
+      "billing_info": "je Arzt-Patienten-Kontakt Die Gebührenordnungsposition 01216 ist nicht neben den Gebührenordnungspositionen 01100 bis 01102, 01205, 01207, 01210, 01212, 01214, 01218, 01411, 01412, 01414, 01415, 01949 bis 01951, 01953, 03030, 03373, 04030, 04355, 04356, 04373, 14220, 14221, 16220, 21220, 21221, 22220 bis 22222, 23220, 27310, 30930 bis 30933, 37306, 37500, 37510, 37600 und 37610 und nicht neben den Gebührenordnungspositionen des Kapitels 35 berechnungsfähig. Die Gebührenordnungsposition 01216 ist am Behandlungstag nicht neben den Gebührenordnungspositionen 01626, 01955 und 01956 berechnungsfähig."
+    },
+    {
+      "code": "01218",
+      "title": "Notfallkonsultationspauschale III im organisierten Not(-fall)dienst und für nicht an der vertragsärztlichen Versorgung teilnehmende Ärzte, Institute und Krankenhäuser bei Inanspruchnahme - zwischen 22:00 und 7:00 Uhr - an Samstagen, Sonntagen und gesetzlichen Feiertagen, am 24.12. und 31.12. zwischen 19:00 und 7:00 Uhr",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 21.66,
+        "valuation_in_points": 170
+      },
+      "mandatory_services": "- Weiterer persönlicher oder anderer Arzt-Patienten-Kontakt gemäß 4.3.1 der Allgemeinen Bestimmungen im organisierten Not(fall)dienst oder für nicht an der vertragsärztlichen Versorgung teilnehmende Ärzte, Institute und Krankenhäuser,",
+      "facultative_services": "- In Anhang 1, Spalte GP, aufgeführte Leistungen,\n- Funktioneller Ganzkörperstatus (27310),",
+      "billing_info": "je Arzt-Patienten-Kontakt Die Gebührenordnungsposition 01218 ist nicht neben den Gebührenordnungspositionen 01100 bis 01102, 01205, 01207, 01210, 01212, 01214, 01216, 01411, 01412, 01414, 01415, 01949 bis 01951, 01953, 03030, 03373, 04030, 04355, 04356, 04373, 14220, 14221, 16220, 21220, 21221, 22220 bis 22222, 23220, 27310, 30930 bis 30933, 37306, 37500, 37510, 37600 und 37610 und nicht neben den Gebührenordnungspositionen des Kapitels 35 berechnungsfähig. Die Gebührenordnungsposition 01218 ist am Behandlungstag nicht neben den Gebührenordnungspositionen 01626, 01955 und 01956 berechnungsfähig."
+    },
+    {
+      "code": "01220",
+      "title": "Reanimationskomplex",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 130.84,
+        "valuation_in_points": 1027
+      },
+      "mandatory_services": "- Künstliche Beatmung und/oder extrathorakale Herzmassage",
+      "facultative_services": "- Infusion(en) (Nr. 02100),\n- Einführung einer Magenverweilsonde (Nr. 02320),\n- Legen und/oder Wechsel eines transurethralen Dauerkatheters (Nr. 02323),\n- Blutentnahme durch Arterienpunktion (Nr. 02330),\n- Intraarterielle Injektion(en) (Nr. 02331),\n- Punktion(en) I (Nr. 02340),\n- Punktion(en) II (Nr. 02341),\n- Ausspülungen des Magens",
+      "billing_info": "Die Gebührenordnungsposition 01220 kann für die Reanimation eines Neugeborenen unmittelbar nach der Geburt nur in Verbindung mit dem Zuschlag nach der Nr. 01221 berechnet werden. Die Gebührenordnungsposition 01220 ist nicht neben den Gebührenordnungspositionen 01500, 01501, 01856, 01913, 02100 bis 02102, 02320 bis 02323, 02330, 02331, 02340, 02341, 02344 und 05372 und nicht neben den Gebührenordnungspositionen der Abschnitte 5.3, 31.5 und 36.5 berechnungsfähig. Die Gebührenordnungsposition 01220 ist am Behandlungstag nicht neben der Gebührenordnungsposition 01626 berechnungsfähig."
+    },
+    {
+      "code": "01221",
+      "title": "Zuschlag zu der Gebührenordnungsposition 01220",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 25.86,
+        "valuation_in_points": 203
+      },
+      "mandatory_services": "- Koniotomie und/oder\n- Endotracheale Intubation(en)",
+      "facultative_services": null,
+      "billing_info": "Die Gebührenordnungsposition 01221 ist nicht neben den Gebührenordnungspositionen 01500, 01501, 01856, 01913, 02100 bis 02102, 02320 bis 02323, 02330, 02331, 02340, 02341, 02344 und 05372 und nicht neben den Gebührenordnungspositionen der Abschnitte 5.3, 31.5 und 36.5 berechnungsfähig. Die Gebührenordnungsposition 01221 ist am Behandlungstag nicht neben der Gebührenordnungsposition 01626 berechnungsfähig."
+    },
+    {
+      "code": "01222",
+      "title": "Zuschlag zu der Gebührenordnungsposition 01220",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 36.69,
+        "valuation_in_points": 288
+      },
+      "mandatory_services": "- Elektrodefibrillation(en) und/oder\n- Elektrostimulation(en) des Herzens",
+      "facultative_services": null,
+      "billing_info": "Die Gebührenordnungsposition 01222 ist nicht neben den Gebührenordnungspositionen 01500, 01501, 01856, 01913, 02100 bis 02102, 02320 bis 02323, 02330, 02331, 02340, 02341, 02344, 05372 und 13551 und nicht neben den Gebührenordnungspositionen der Abschnitte 5.3, 31.5 und 36.5 berechnungsfähig. Die Gebührenordnungsposition 01222 ist am Behandlungstag nicht neben der Gebührenordnungsposition 01626 berechnungsfähig."
+    },
+    {
+      "code": "01223",
+      "title": "Zuschlag zu der Gebührenordnungsposition 01210 bei Erfüllung der Voraussetzungen gemäß Nr. 8 der Bestimmung zum Abschnitt 1.2",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 16.31,
+        "valuation_in_points": 128
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "einmal im Behandlungsfall Die Berechnung der Gebührenordnungsposition 01223 setzt die Kodierung nach ICD-10-GM unter Angabe des Zusatzkennzeichens für die Diagnosensicherheit voraus. Die Gebührenordnungsposition 01223 ist ausschließlich bei einem persönlichen Arzt-Patienten-Kontakt berechnungsfähig. Die Gebührenordnungsposition 01223 ist am Behandlungstag nicht neben der Gebührenordnungsposition 01626 berechnungsfähig."
+    },
+    {
+      "code": "01224",
+      "title": "Zuschlag zu der Gebührenordnungsposition 01212 bei Erfüllung der Voraussetzungen gemäß Nr. 8 der Bestimmung zum Abschnitt 1.2",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 24.84,
+        "valuation_in_points": 195
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "einmal im Behandlungsfall Die Berechnung der Gebührenordnungsposition 01224 setzt die Kodierung nach ICD-10-GM unter Angabe des Zusatzkennzeichens für die Diagnosensicherheit voraus. Die Gebührenordnungsposition 01224 ist ausschließlich bei einem persönlichen Arzt-Patienten-Kontakt berechnungsfähig. Die Gebührenordnungsposition 01224 ist am Behandlungstag nicht neben der Gebührenordnungsposition 01626 berechnungsfähig. Die Gebührenordnungsposition 01224 ist im Behandlungsfall nicht neben der Gebührenordnungsposition 01226 berechnungsfähig."
+    },
+    {
+      "code": "01226",
+      "title": "Zuschlag zu der Gebührenordnungsposition 01212 bei Erfüllung der Voraussetzungen gemäß Nr. 9 der Bestimmung zum Abschnitt 1.2",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 11.47,
+        "valuation_in_points": 90
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "einmal im Behandlungsfall Die Berechnung der Gebührenordnungsposition 01226 setzt die Kodierung nach ICD-10-GM unter Angabe des Zusatzkennzeichens für die Diagnosensicherheit voraus. Die Gebührenordnungsposition 01226 ist ausschließlich bei einem persönlichen Arzt-Patienten-Kontakt berechnungsfähig. Die Gebührenordnungsposition 01226 ist am Behandlungstag nicht neben der Gebührenordnungsposition 01626 berechnungsfähig. Die Gebührenordnungsposition 01226 ist im Behandlungsfall nicht neben der Gebührenordnungsposition 01224 berechnungsfähig. 1.3 Grundpauschalen für ermächtigte Ärzte, Krankenhäuser bzw. Institute 1. Werden die in den Grundpauschalen enthaltenen Leistungen entsprechend den Gebührenordnungspositionen 01600 und 01601 durchgeführt, sind für die Versendung bzw. den Transport die Kostenpauschalen nach den Gebührenordnungspositionen 40110 und 40111 berechnungsfähig."
+    },
+    {
+      "code": "01320",
+      "title": "Grundpauschale für Ärzte, Institute und Krankenhäuser, die zur Erbringung von Leistungen innerhalb mindestens eines der Fachgebiete Anästhesiologie, Frauenheilkunde und Geburtshilfe, Haut- und Geschlechtskrankheiten, Mund-, Kiefer- und Gesichtschirurgie und Humangenetik ermächtigt sind",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 11.72,
+        "valuation_in_points": 92
+      },
+      "mandatory_services": "- Persönlicher Arzt-Patienten-Kontakt und/oder Arzt-Patienten- Kontakt im Rahmen einer Videosprechstunde gemäß Anlage 31b zum BMV-Ä,",
+      "facultative_services": "- Weitere persönliche oder andere Arzt-Patienten-Kontakte gemäß 4.3.1 der Allgemeinen Bestimmungen,\n- Beratung und Behandlung,\n- Ärztlicher Bericht entsprechend der Gebührenordnungsposition 01600,\n- Individueller Arztbrief entsprechend der Gebührenordnungsposition 01601,\n- In Anhang 1 Spalte GP aufgeführte Leistungen,",
+      "billing_info": "einmal im Behandlungsfall Die Berechnung der Gebührenordnungsposition 01320 richtet sich nach den Allgemeinen Bestimmungen. Entspricht der Ermächtigungsumfang dem eines zugelassenen Vertragsarztes, kann anstelle der Gebührenordnungsposition 01320 die Berechnung einer in den arztgruppenspezifischen Kapiteln genannten Versicherten-, Grund- oder Konsiliarpauschalen genehmigt werden. Ärzte der in der Gebührenordnungsposition 01320 aufgeführten Fachgebiete mit einer Ermächtigung nach § 24 Abs. 3 Ärzte-ZV berechnen anstelle der Gebührenordnungsposition 01320 die in den arztgruppenspezifischen Kapiteln genannten Versicherten-, Grund- oder Konsiliarpauschalen. Umfasst der Ermächtigungsumfang sowohl Leistungen innerhalb eines Fachgebietes der Gebührenordnungsposition 01320 als auch der Gebührenordnungsposition 01321 ist die Gebührenordnungsposition 01321 berechnungsfähig. Die Gebührenordnungsposition 01320 ist nicht neben der Gebührenordnungsposition 01436 berechnungsfähig. Die Gebührenordnungsposition 01320 ist im Behandlungsfall nicht neben den Gebührenordnungspositionen 01321, 01600, 01601, 37706 und 40091 bis 40095 berechnungsfähig. Die Gebührenordnungsposition 01320 ist im Arztfall nicht neben den Gebührenordnungspositionen 01437, 01700, 01701 und 12222 bis 12224 berechnungsfähig."
+    },
+    {
+      "code": "01321",
+      "title": "Grundpauschale für Ärzte, Institute und Krankenhäuser, die zur Erbringung von Leistungen innerhalb mindestens eines der nicht in der Gebührenordnungsposition 01320 aufgeführten Fachgebiete ermächtigt sind, mit Ausnahme der Ärzte, die nach § 13 Abs. 4 Bundesmantelvertrag-Ärzte (BMV-Ä) nur auf Überweisung in Anspruch genommen werden können",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 20.26,
+        "valuation_in_points": 159
+      },
+      "mandatory_services": "- Persönlicher Arzt-Patienten-Kontakt und/oder Arzt-Patienten- Kontakt im Rahmen einer Videosprechstunde gemäß Anlage 31b zum BMV-Ä,",
+      "facultative_services": "- Weitere persönliche oder andere Arzt-Patienten-Kontakte gemäß 4.3.1 der Allgemeinen Bestimmungen,\n- Beratung und Behandlung,\n- Ärztlicher Bericht entsprechend der Gebührenordnungsposition 01600,\n- Individueller Arztbrief entsprechend der Gebührenordnungsposition 01601,\n- In Anhang 1 Spalte GP aufgeführte Leistungen,",
+      "billing_info": "einmal im Behandlungsfall Die Berechnung der Gebührenordnungsposition 01321 richtet sich nach den Allgemeinen Bestimmungen. Entspricht der Ermächtigungsumfang dem eines zugelassenen Vertragsarztes, kann anstelle der Gebührenordnungsposition 01321 die Berechnung einer in den arztgruppenspezifischen Kapiteln genannten Versicherten-, Grund- oder Konsiliarpauschalen genehmigt werden. Ärzte der nicht in der Gebührenordnungsposition 01320 aufgeführten Fachgebiete mit einer Ermächtigung nach § 24 Abs. 3 Ärzte-ZV berechnen anstelle der Gebührenordnungsposition 01321 die in den arztgruppenspezifischen Kapiteln genannten Versicherten-, Grund- oder Konsiliarpauschalen. Umfasst der Ermächtigungsumfang sowohl Leistungen innerhalb eines Fachgebietes der Gebührenordnungsposition 01320 als auch der Gebührenordnungsposition 01321 ist die Gebührenordnungsposition 01321 berechnungsfähig. Die Gebührenordnungsposition 01321 ist nicht neben der Gebührenordnungsposition 01436 berechnungsfähig. Die Gebührenordnungsposition 01321 ist im Behandlungsfall nicht neben den Gebührenordnungspositionen 01320, 01600, 01601, 37706 und 40091 bis 40095 berechnungsfähig. Die Gebührenordnungsposition 01321 ist im Arztfall nicht neben den Gebührenordnungspositionen 01437, 01700, 01701 und 12222 bis 12224 berechnungsfähig."
+    },
+    {
+      "code": "01322",
+      "title": "Zuschlag zu der Gebührenordnungsposition 01320 für die Behandlung aufgrund einer TSS-Vermittlung und/oder Vermittlung durch den Hausarzt gemäß Allgemeiner Bestimmung 4.3.10.1, 4.3.10.2 oder 4.3.10.3",
+      "valuation": {
+        "type": "categorized",
+        "category_type": "tss_or_hausarztvermittlung_interval",
+        "categories": [
+          {
+            "label": "TSS-Terminfall oder Hausarztvermittlungsfall, gleicher bis 4. Kalendertag",
+            "valuation_in_euro": 11.72,
+            "valuation_in_points": 92
+          },
+          {
+            "label": "TSS-Terminfall oder Hausarztvermittlungsfall, 5. bis 14. Kalendertag",
+            "valuation_in_euro": 9.38,
+            "valuation_in_points": 74
+          },
+          {
+            "label": "TSS-Terminfall oder Hausarztvermittlungsfall, 15. bis 35. Kalendertag",
+            "valuation_in_euro": 4.69,
+            "valuation_in_points": 37
+          },
+          {
+            "label": "TSS-Akutfall",
+            "valuation_in_euro": 23.44,
+            "valuation_in_points": 184
+          }
+        ]
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "einmal im Arztgruppenfall Die Gebührenordnungsposition 01322 kann durch die zuständige Kassenärztliche Vereinigung zugesetzt werden. Die Gebührenordnungsposition 01322 ist im Arztgruppenfall nicht neben der Gebührenordnungsposition 01710 berechnungsfähig. Bewertung gemäß Allgemeiner Bestimmung 4.3.10: Aufschlag auf die Grundpauschale 01320; 100 %, 80 %, 40 % nach Zeitintervall bzw. 200 % im TSS-Akutfall."
+    },
+    {
+      "code": "01323",
+      "title": "Zuschlag zu der Gebührenordnungsposition 01321 für die Behandlung aufgrund einer TSS-Vermittlung und/oder Vermittlung durch den Hausarzt gemäß Allgemeiner Bestimmung 4.3.10.1, 4.3.10.2 oder 4.3.10.3",
+      "valuation": {
+        "type": "categorized",
+        "category_type": "tss_or_hausarztvermittlung_interval",
+        "categories": [
+          {
+            "label": "TSS-Terminfall oder Hausarztvermittlungsfall, gleicher bis 4. Kalendertag",
+            "valuation_in_euro": 20.26,
+            "valuation_in_points": 159
+          },
+          {
+            "label": "TSS-Terminfall oder Hausarztvermittlungsfall, 5. bis 14. Kalendertag",
+            "valuation_in_euro": 16.21,
+            "valuation_in_points": 127
+          },
+          {
+            "label": "TSS-Terminfall oder Hausarztvermittlungsfall, 15. bis 35. Kalendertag",
+            "valuation_in_euro": 8.1,
+            "valuation_in_points": 64
+          },
+          {
+            "label": "TSS-Akutfall",
+            "valuation_in_euro": 40.52,
+            "valuation_in_points": 318
+          }
+        ]
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "einmal im Arztgruppenfall Die Gebührenordnungsposition 01323 kann durch die zuständige Kassenärztliche Vereinigung zugesetzt werden. Die Gebührenordnungsposition 01323 ist im Arztgruppenfall nicht neben der Gebührenordnungsposition 01710 berechnungsfähig."
+    },
+    {
+      "code": "01410",
+      "title": "Besuch eines Kranken, wegen der Erkrankung ausgeführt",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 27.01,
+        "valuation_in_points": 212
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Die Berechnung der Gebührenordnungsposition 01410 im Zusammenhang mit der Versorgung gemäß den Leistungen des Abschnitts 37.6 (KJ-KSVPsych-RL) ist durch Angabe einer bundeseinheitlich kodierten Zusatzkennzeichnung zu dokumentieren. Die Gebührenordnungsposition 01410 ist nicht neben den Gebührenordnungspositionen 01100 bis 01102, 01411 bis 01415, 01418, 01721 und 05230 berechnungsfähig."
+    },
+    {
+      "code": "01411",
+      "title": "Dringender Besuch wegen der Erkrankung, unverzüglich nach Bestellung ausgeführt - zwischen 19:00 und 22:00 Uhr, oder an Samstagen, Sonntagen und gesetzlichen Feiertagen, am 24.12. und 31.12. zwischen 07:00 und 19:00 Uhr",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 59.75,
+        "valuation_in_points": 469
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Die Berechnung der Gebührenordnungsposition 01411 im Zusammenhang mit der Versorgung gemäß den Leistungen des Abschnitts 37.6 (KJ-KSVPsych-RL) ist durch Angabe einer bundeseinheitlich kodierten Zusatzkennzeichnung zu dokumentieren. Die Gebührenordnungsposition 01411 ist nicht neben den Gebührenordnungspositionen 01100 bis 01102, 01205, 01207, 01210, 01212, 01214, 01216, 01218, 01410, 01412 bis 01415, 01418, 01721 und 05230 berechnungsfähig."
+    },
+    {
+      "code": "01412",
+      "title": "Dringender Besuch / dringende Visite auf der Belegstation wegen der Erkrankung, unverzüglich nach Bestellung ausgeführt - Dringender Besuch zwischen 22:00 und 07:00 Uhr oder - Dringender Besuch an Samstagen, Sonntagen und gesetzlichen Feiertagen, am 24.12. und 31.12. zwischen 19:00 und 07:00 Uhr oder - Dringender Besuch bei Unterbrechen der Sprechstundentätigkeit mit Verlassen der Praxisräume oder - Dringende Visite auf der Belegstation bei Unterbrechen der Sprechstundentätigkeit mit Verlassen der Praxisräume",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 79.75,
+        "valuation_in_points": 626
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Die Gebührenordnungsposition 01412 ist für Besuche im Rahmen des organisierten Not(-fall)dienstes bzw. für Besuche im Rahmen der Notfallversorgung durch nicht an der vertragsärztlichen Versorgung teilnehmende Ärzte, Institute und Krankenhäuser nicht berechnungsfähig. Sofern die Partner der Gesamtverträge eigene Regelungen zur Vergütung der dringenden Visite auf der Belegstation bei Unterbrechen der Sprechstundentätigkeit mit Verlassen der Praxisräume getroffen haben, ist die Gebührenordnungsposition 01412 für die dringende Visite auf der Belegstation bei Unterbrechen der Sprechstundentätigkeit mit Verlassen der Praxisräume nicht berechnungsfähig. Die Berechnung der Gebührenordnungsposition 01412 im Zusammenhang mit der Versorgung gemäß den Leistungen des Abschnitts 37.6 (KJ-KSVPsych-RL) ist durch Angabe einer bundeseinheitlich kodierten Zusatzkennzeichnung zu dokumentieren. Die Gebührenordnungsposition 01412 ist nicht neben den Gebührenordnungspositionen 01100 bis 01102, 01205, 01207, 01210, 01212, 01214, 01216, 01218, 01410, 01411, 01413 bis 01415, 01418, 01721 und 05230 berechnungsfähig."
+    },
+    {
+      "code": "01413",
+      "title": "Besuch eines weiteren Kranken in derselben sozialen Gemeinschaft (z. B. Familie) und/oder in beschützenden Wohnheimen bzw. Einrichtungen bzw. Pflege- oder Altenheimen mit Pflegepersonal",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 13.5,
+        "valuation_in_points": 106
+      },
+      "mandatory_services": "- Besuch eines weiteren Kranken in derselben sozialen Gemeinschaft Einrichtungen bzw. Pflege- oder Altenheimen mit Pflegepersonal in unmittelbarem zeitlichen Zusammenhang mit einem Besuch nach den Nrn. 01410, 01411, 01412, 01415 oder 01418",
+      "facultative_services": null,
+      "billing_info": "Die Gebührenordnungsposition 01413 ist nur dann neben der Gebührenordnungsposition 01102 berechnungsfähig, wenn die Inanspruchnahme nach der Nr. 01413 in beschützenden Wohnheimen bzw. Einrichtungen bzw. Pflege- oder Altenheimen mit Pflegepersonal auf besondere Anforderung erfolgt. Die Gebührenordnungsposition 01413 ist entgegen der Leistungslegende auch im Zusammenhang mit der Durchführung von probatorischen Sitzungen im Krankenhaus gemäß § 12 Abs. 6 der Psychotherapie-Richtlinie berechnungsfähig. Die Berechnung der Gebührenordnungsposition 01413 im Zusammenhang mit der Versorgung gemäß den Leistungen des Abschnitts 37.6 (KJ-KSVPsych-RL) ist durch Angabe einer bundeseinheitlich kodierten Zusatzkennzeichnung zu dokumentieren. Die Gebührenordnungsposition 01413 ist nicht neben den Gebührenordnungspositionen 01100, 01101, 01410 bis 01412, 01414, 01415, 01418, 01721 und 05230 berechnungsfähig."
+    },
+    {
+      "code": "01414",
+      "title": "Visite auf der Belegstation",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 11.08,
+        "valuation_in_points": 87
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "je Patient Die Gebührenordnungsposition 01414 ist nicht neben den Gebührenordnungspositionen 01205, 01207, 01210, 01212, 01214, 01216, 01218, 01410 bis 01413, 01415, 01418 und 01721 berechnungsfähig."
+    },
+    {
+      "code": "01415",
+      "title": "Dringender Besuch eines Patienten in beschützenden Wohnheimen bzw. Einrichtungen bzw. Pflege- oder Altenheimen mit Pflegepersonal wegen der Erkrankung, noch am Tag der Bestellung ausgeführt",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 69.56,
+        "valuation_in_points": 546
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Die Gebührenordnungsposition 01415 ist im Rahmen des organisierten Not(-fall)dienstes nicht berechnungsfähig. Die Berechnung der Gebührenordnungsposition 01415 im Zusammenhang mit der Versorgung gemäß den Leistungen des Abschnitts 37.6 (KJ-KSVPsych-RL) ist durch Angabe einer bundeseinheitlich kodierten Zusatzkennzeichnung zu dokumentieren. Die Gebührenordnungsposition 01415 ist nicht neben den Gebührenordnungspositionen 01100 bis 01102, 01205, 01207, 01210, 01212, 01214, 01216, 01218, 01410 bis 01414, 01418, 01721 und 05230 berechnungsfähig."
+    },
+    {
+      "code": "01416",
+      "title": "Begleitung eines Kranken durch den behandelnden Arzt beim Transport zur unmittelbar notwendigen stationären Behandlung",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 14.91,
+        "valuation_in_points": 117
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "je vollendete 10 Minuten Die Gebührenordnungsposition 01416 ist nicht neben der Gebührenordnungsposition 01440 berechnungsfähig."
+    },
+    {
+      "code": "01418",
+      "title": "Besuch im organisierten Not(-fall)dienst",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 99.12,
+        "valuation_in_points": 778
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Die Gebührenordnungsposition 01418 ist nicht neben den Gebührenordnungspositionen 01100 bis 01102, 01410 bis 01415, 01721, 01949, 01950, 01953, 01955 und 05230 berechnungsfähig."
+    },
+    {
+      "code": "01425",
+      "title": "Erstverordnung der spezialisierten ambulanten Palliativversorgung gemäß der Richtlinie des Gemeinsamen Bundesausschusses nach § 37b SGB V",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 32.23,
+        "valuation_in_points": 253
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": null
+    },
+    {
+      "code": "01426",
+      "title": "Folgeverordnung zur Fortführung der spezialisierten ambulanten Palliativversorgung gemäß der Richtlinie des Gemeinsamen Bundesausschusses nach § 37b SGB V",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 19.37,
+        "valuation_in_points": 152
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "höchstens zweimal im Behandlungsfall"
+    },
+    {
+      "code": "01430",
+      "title": "Verwaltungskomplex",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 1.53,
+        "valuation_in_points": 12
+      },
+      "mandatory_services": "- Ausstellung von Wiederholungsrezepten ohne persönlichen Arzt- Patienten-Kontakt und/oder\n- Ausstellung von Überweisungsscheinen ohne persönlichen Arzt- Patienten-Kontakt und/oder\n- Übermittlung von Befunden oder ärztlichen Anordnungen an den Patienten im Auftrag des Arztes durch das Praxispersonal",
+      "facultative_services": "- Übermittlung mittels technischer Kommunikationseinrichtungen",
+      "billing_info": "Die Gebührenordnungsposition 01430 ist - mit Ausnahme der Gebührenordnungsposition 01431 - im Arztfall nicht neben anderen Gebührenordnungspositionen und nicht mehrfach an demselben Tag berechnungsfähig. Kommt in demselben Arztfall eine Versicherten-, Grund- und/oder Konsiliarpauschale zur Abrechnung, ist die Gebührenordnungsposition 01430 nicht berechnungsfähig."
+    },
+    {
+      "code": "01431",
+      "title": "Zusatzpauschale zu den Gebührenordnungspositionen 01430, 01435 und 01820 für ärztliche Tätigkeiten im Zusammenhang mit der elektronischen Patientenakte",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 0.38,
+        "valuation_in_points": 3
+      },
+      "mandatory_services": "- Erfassung und/oder Verarbeitung und/oder Speicherung von Daten nach § 341 Absatz 2 Nrn. 1 bis 5 und 10 bis 13 SGB V aus dem aktuellen Behandlungskontext für eine einrichtungs-, fach- und sektorenübergreifende Dokumentation über den Patienten in der elektronischen Patientenakte ohne persönlichen Arzt-Patienten- Kontakt,\n- Prüfung, ob erhebliche therapeutische Gründe oder sonstige erhebliche Rechte Dritter einer Übermittlung in die elektronische Patientenakte entgegenstehen,\n- Prüfung und ggf. Ergänzung der zu den Dokumenten gehörenden Metadaten",
+      "facultative_services": null,
+      "billing_info": "Die Gebührenordnungsposition 01431 ist höchstens 4-mal im Arztfall berechnungsfähig. Die Gebührenordnungsposition 01431 ist - mit Ausnahme der Gebührenordnungspositionen 01430, 01435 und 01820 - im Arztfall nicht neben anderen Gebührenordnungspositionen und nicht mehrfach an demselben Tag berechnungsfähig. Kommt in demselben Arztfall eine Versicherten-, Grund- und/oder Konsiliarpauschale zur Abrechnung, ist die Gebührenordnungsposition 01431 nicht berechnungsfähig."
+    },
+    {
+      "code": "01435",
+      "title": "Haus-/Fachärztliche Bereitschaftspauschale",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 11.21,
+        "valuation_in_points": 88
+      },
+      "mandatory_services": "- Telefonische Beratung des Patienten im Zusammenhang mit einer Erkrankung durch den Arzt bei Kontaktaufnahme durch den Patienten und/oder\n- Anderer mittelbarer Arzt-Patienten-Kontakt gemäß 4.3.1 der Allgemeinen Bestimmungen",
+      "facultative_services": null,
+      "billing_info": "einmal im Behandlungsfall Die Gebührenordnungsposition 01435 ist im organisierten Not(- fall)dienst nicht berechnungsfähig. Kommt in demselben Arztfall eine Versicherten-, Grund- und/oder Konsiliarpauschale zur Abrechnung, ist die Gebührenordnungsposition 01435 nicht berechnungsfähig. Die Gebührenordnungsposition 01435 ist - mit Ausnahme der Gebührenordnungspositionen 01431, 40128 und 40129 - nicht neben anderen Gebührenordnungspositionen berechnungsfähig. Die Gebührenordnungsposition 01435 ist bei Neugeborenen, Säuglingen, Kleinkindern und Kindern bis zum vollendeten 12. Lebensjahr zweimal im Behandlungsfall berechnungsfähig. Die Gebührenordnungsposition 01435 ist im Behandlungsfall nicht neben der Gebührenordnungsposition 01438 berechnungsfähig."
+    },
+    {
+      "code": "01436",
+      "title": "Konsultationspauschale",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 2.29,
+        "valuation_in_points": 18
+      },
+      "mandatory_services": "- Persönlicher Arzt-Patienten-Kontakt,\n- Diagnostik und/oder Behandlung einer/von Erkrankung(en) eines Patienten im Rahmen einer Überweisung zur Durchführung von Auftragsleistungen (Indikations- oder Definitionsauftrag gemäß § 24 Abs. 7 Nr. 1 Bundesmantelvertrag-Ärzte (BMV-Ä)) an nicht ausschließlich auf Überweisung tätige Ärzte gemäß § 13 Abs. 4 Bundesmantelvertrag-Ärzte (BMV-Ä) und/oder\n- Diagnostik einer/von Erkrankungen eines Patienten im Rahmen einer Überweisung zur Konsiliaruntersuchung, Mitbehandlung oder Weiterbehandlung gemäß § 24 Abs. 7 Nrn. 2, 3 oder 4 Bundesmantelvertrag-Ärzte (BMV-Ä) zur Erbringung von Leistungen entsprechend der Gebührenordnungspositionen des Abschnitts 31.1, ggf. in mehreren Sitzungen und/oder\n- Diagnostik und/oder Behandlung einer/von Erkrankung(en) eines Patienten im Rahmen einer Überweisung zur Konsiliaruntersuchung, Mitbehandlung oder Weiterbehandlung gemäß § 24 Abs. 7 Nrn. 2, 3 oder 4 Bundesmantelvertrag-Ärzte (BMV-Ä) innerhalb derselben Arztgruppe gemäß § 24 Abs. 4 Bundesmantelvertrag- Ärzte (BMV-Ä), zur Durchführung von Leistungen entsprechend der Gebührenordnungspositionen der Abschnitte 31.2 und/oder 31.5, ggf in mehreren Sitzungen und/oder\n- Diagnostik und/oder Behandlung einer/von Erkrankung(en) eines Patienten im Rahmen einer Überweisung zur Konsiliaruntersuchung, Mitbehandlung oder Weiterbehandlung gemäß § 24 Abs. 7 Nrn. 2, 3 oder 4 Bundesmantelvertrag-Ärzte (BMV-Ä) innerhalb derselben Arztgruppe gemäß § 24 Abs. 4 Bundesmantelvertrag- Ärzte (BMV-Ä), zur Durchführung von Leistungen entsprechend der Gebührenordnungspositionen des Abschnitts 31.4",
+      "facultative_services": null,
+      "billing_info": "Die Gebührenordnungsposition 01436 kann nicht neben Versicherten-, Grund- und/oder Konsiliarpauschalen berechnet werden. Neben der Gebührenordnungsposition 01436 ist für die Berechnung der jeweiligen arztgruppenspezifischen Versicherten-, Grund- und/ oder Konsiliarpauschale in demselben Behandlungsfall mindestens ein weiterer persönlicher Arzt-Patienten-Kontakt oder Arzt-Patienten- Kontakt im Rahmen einer Videosprechstunde gemäß Anlage 31b zum BMV-Ä notwendig. Die Gebührenordnungsposition 01436 ist nicht neben den Gebührenordnungspositionen 03000, 03030, 04000, 04030, 30700 und 37706 berechnungsfähig."
+    },
+    {
+      "code": "01437",
+      "title": "Grundpauschale für Vertragsärzte, die zur Versorgung gemäß Kapitel 3 bis 11 oder 13 bis 27 zugelassen sind, für Auftragsleistungen nach den Gebührenordnungspositionen 01840 und 01915 und Gebührenordnungspositionen der Abschnitte 32.2 und 32.3",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 0.64,
+        "valuation_in_points": 5
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "einmal im Behandlungsfall Die Gebührenordnungsposition 01437 wird ab dem 14001. Behandlungsfall mit 1 Punkt je Behandlungsfall bewertet. Die Abstaffelungsgrenzen der Gebührenordnungsposition 01437 sind für die in der Gebührenordnungsposition 01437 genannten Ärzte einer Arztpraxis unter Berücksichtigung des Tätigkeitsumfangs laut Zulassungs- bzw. Genehmigungsbescheid durch Summation gesamthaft zu ermitteln. Sofern ein Vertragsarzt im Quartal als Versicherten-, Grund- oder Konsiliarpauschale ausschließlich die Gebührenordnungsposition 01437 abrechnet und in einer Arztpraxis gemeinsam mit den in der Präambel 12.1 Nummer 1 genannten Vertragsärzten tätig ist, ist für die Höhe der Leistungsbewertung und Abstaffelung die Regelung nach den Gebührenordnungspositionen 12222 und 12223 anzuwenden. Die Gebührenordnungsposition 01437 ist nach Maßgabe der Kassenärztlichen Vereinigung zu kennzeichnen. Die Gebührenordnungsposition 01437 ist im Arztfall nicht neben den Versichertenpauschalen der Kapitel 3 und 4, den Grundpauschalen der Kapitel 5 bis 10, 13 bis 16, 18, 20 bis 23, 26, 27, 30 und 37, der Abschnitte 1.3 und 11.2 sowie den Konsiliarpauschalen 12210, 17210, 19210, 24210, 24211, 24212, 25210, 25211 und 25214 berechnungsfähig. Die Gebührenordnungsposition 01437 ist im Behandlungsfall nicht neben den Gebührenordnungspositionen 01698, 01700, 01701, 12210 und 12222 bis 12224 berechnungsfähig."
+    },
+    {
+      "code": "01442",
+      "title": "Videofallkonferenz mit der / den an der Versorgung des Patienten beteiligten Pflege(fach)kraft / Pflege(fach)kräften gemäß Anlage 31b zum Bundesmantelvertrag-Ärzte (BMV-Ä)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 10.96,
+        "valuation_in_points": 86
+      },
+      "mandatory_services": "- Patientenorientierte Videofallbesprechung zwischen dem behandelnden Vertragsarzt, der die Koordination von diagnostischen und/oder therapeutischen und/oder rehabilitativen Maßnahmen und/ oder der pflegerischen Versorgung für den Patienten durchführt und der Pflege(fach)kraft /den Pflege(fach)kräften, die an der Versorgung des Patienten in der Häuslichkeit des Patienten oder einer Pflegeeinrichtung oder einer beschützenden Einrichtung beteiligt ist/ sind in Bezug auf den chronisch pflegebedürftigen Patienten",
+      "facultative_services": null,
+      "billing_info": "Die Gebührenordnungsposition 01442 ist höchstens dreimal im Krankheitsfall berechnungsfähig. Die Gebührenordnungsposition 01442 ist nur berechnungsfähig, wenn im Zeitraum der letzten drei Quartale unter Einschluss des aktuellen Quartals ein persönlicher Arzt-Patienten-Kontakt in derselben Arztpraxis stattgefunden hat. Für die Abrechnung der Gebührenordnungsposition 01442 gelten die Anforderungen gemäß Anlage 31b zum BMV-Ä entsprechend. Die Gebührenordnungsposition 01442 ist nicht neben den Gebührenordnungspositionen 01443, 01758, 30210, 30706, 30948, 37120, 37320, 37400, 37720 und 37804 berechnungsfähig."
+    },
+    {
+      "code": "01443",
+      "title": "Videofallkonferenz mit den an der Versorgung des Patienten beteiligten Pflegefachkräften bzw. Pflegekräften",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 10.96,
+        "valuation_in_points": 86
+      },
+      "mandatory_services": "- Patientenorientierte Videofallbesprechung zwischen einem Vertragsarzt, der einen Patienten mitbehandelt und der Pflege(fach)kraft/den Pflege(fach)kräften, die an der Versorgung des Patienten in der Häuslichkeit des Patienten oder einer Pflegeeinrichtung oder einer beschützenden Einrichtung beteiligt ist/ sind in Bezug auf den chronisch pflegebedürftigen Patienten",
+      "facultative_services": null,
+      "billing_info": "Die Gebührenordnungsposition 01443 ist höchstens dreimal im Krankheitsfall berechnungsfähig. Die Gebührenordnungsposition 01443 ist nur berechnungsfähig, wenn im Zeitraum der letzten drei Quartale unter Einschluss des aktuellen Quartals ein persönlicher Arzt-Patienten-Kontakt in derselben Arztpraxis stattgefunden hat. Für die Abrechnung der Gebührenordnungsposition 01443 gelten die Anforderungen gemäß Anlage 31b zum BMV-Ä entsprechend. Die Gebührenordnungsposition 01443 ist nicht neben den Gebührenordnungspositionen 01442, 01758, 30210, 30706, 30948, 37120, 37320, 37400, 37720 und 37804 berechnungsfähig."
+    },
+    {
+      "code": "01444",
+      "title": "Zuschlag zu den Versichertenpauschalen nach den Gebührenordnungspositionen 03000 und 04000, zu den Grundpauschalen der Kapitel 5 bis 11, 13 bis 16, 18, 20 bis 23, 26 und 27 und zu den Gebührenordnungspositionen 01210, 01212, 01320, 01321, 17210, 25214, 30700 und 37706 für die Authentifizierung eines unbekannten Patienten gemäß Anlage 4b zum Bundesmantelvertrag-Ärzte (BMV-Ä) im Rahmen einer Videosprechstunde gemäß Anlage 31b zum BMV-Ä durch das Praxispersonal",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 1.27,
+        "valuation_in_points": 10
+      },
+      "mandatory_services": "- Praxispersonal-Patienten-Kontakt im Rahmen einer Videosprechstunde oder Videofallbesprechung gemäß Anlage 31b zum BMV-Ä bei Kontaktaufnahme durch den Patienten,\n- Überprüfung der vorgelegten eGK gemäß Anlage 4b zum BMV-Ä,\n- Erhebung der Stammdaten,",
+      "facultative_services": null,
+      "billing_info": "einmal im Behandlungsfall Die Gebührenordnungsposition 01444 ist nur für die Authentifizierung eines unbekannten Patienten berechnungsfähig, sofern im Behandlungsfall ausschließlich Arzt-Patienten-Kontakte im Rahmen einer Videosprechstunde gemäß Anlage 31b zum BMV-Ä stattfinden oder im Behandlungsfall ein Arzt-Patienten-Kontakt im Rahmen einer Videosprechstunde gemäß Anlage 31b zum BMV-Ä vor einem persönlichen Arzt-Patienten-Kontakt stattfindet."
+    },
+    {
+      "code": "01450",
+      "title": "Zuschlag im Zusammenhang mit den Versichertenpauschalen nach den Gebührenordnungspositionen 03000 und 04000, den Grundpauschalen der Kapitel 5 bis 11, 13 bis 16, 18, 20 bis 23, 26 und 27 und den Gebührenordnungspositionen 01210, 01212, 01214, 01216, 01218, 01320, 01321, 01442, 01443, 01670 bis 01672, 01682, 01880, 01881, 17210, 25214, 30210, 30700, 30706, 30932, 30933, 30948, 34371, 35110 bis 35113, 35141, 35142, 35152, 35173 bis 35178, 35401, 35402, 35405, 35411, 35412, 35415, 35421, 35422, 35425, 35431, 35432, 35435, 35503 bis 35508, 35513 bis 35518, 35523 bis 35528, 35533 bis 35538, 35543 bis 35548, 35553 bis 35558, 35600, 35601, 35703 bis 35708, 35713 bis 35718, 37120, 37320, 37400, 37550, 37650, 37655, 37700, 37706, 37720, 37804 und 37806 für die Betreuung eines Patienten im Rahmen einer Videosprechstunde oder für eine Videofallkonferenz gemäß Anlage 31b zum Bundesmantelvertrag-Ärzte (BMV-Ä) oder für ein Videokonsilium gemäß § 1 Absatz 5 der Telekonsilien-Vereinbarung",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 5.1,
+        "valuation_in_points": 40
+      },
+      "mandatory_services": "- Arzt-Patienten-Kontakt im Rahmen einer Videosprechstunde gemäß Anlage 31b zum BMV-Ä bei Kontaktaufnahme durch den Patienten oder\n- Videofallkonferenz gemäß Anlage 31b zum BMV-Ä oder\n- Videokonsilium gemäß § 1 Absatz 5 der Telekonsilien-Vereinbarung,",
+      "facultative_services": "- Dokumentation,\n- Erneute Einbestellung des Patienten,",
+      "billing_info": "je Arzt-Patienten-Kontakt im Rahmen einer Videosprechstunde oder Videofallkonferenz oder Videokonsilium Für die Gebührenordnungsposition 01450 wird ein Punktzahlvolumen je Vertragsarzt gebildet, aus dem alle gemäß der Gebührenordnungsposition 01450 durchgeführten Leistungen im Quartal zu vergüten sind. Der Höchstwert für das Punktzahlvolumen für die Gebührenordnungsposition 01450 beträgt 700 Punkte je abrechnendem Vertragsarzt. Die Gebührenordnungsposition 01450 ist als Zuschlag im Zusammenhang mit den Gebührenordnungspositionen 01442, 01443, 01881, 30210, 30706, 30948, 34371, 37120, 37320, 37400, 37550, 37650, 37655, 37720 und 37804 ausschließlich berechnungsfähig, sofern die Fallkonferenz bzw. Fallbesprechung als Videofallkonferenz durchgeführt wird, die die Anforderungen gemäß Anlage 31b zum BMV- Ä erfüllt. Die Gebührenordnungsposition 01450 ist nur vom Vertragsarzt, der die Videofallkonferenz initiiert, berechnungsfähig. Dabei gilt ein Höchstwert von 40 Punkten je Vertragsarzt und je Videofallkonferenz. Für die Gebührenordnungsposition 01450 gilt ein Höchstwert von 40 Punkten je Gruppenbehandlung nach den Gebührenordnungspositionen 14221, 21221, 22222, 30933, 35112, 35113, 35173 bis 35178, 35503 bis 35508, 35513 bis 35518, 35523 bis 35528, 35533 bis 35538, 35543 bis 35548, 35553 bis 35558, 35703 bis 35708 und 35713 bis 35718, aus dem alle gemäß der Gebührenordnungsposition 01450 durchgeführten Leistungen je Gruppenbehandlung zu vergüten sind. Die Gebührenordnungsposition 01450 ist als Zuschlag im Zusammenhang mit den Gebührenordnungspositionen 01670, 01671 und 01672 nur berechnungsfähig, sofern die Leistungen im Rahmen eines Videokonsiliums durchgeführt werden, das die Anforderungen gemäß Anlage 31b zum BMV-Ä erfüllt. Die Gebührenordnungsposition 01450 ist nur vom Vertragsarzt, der das Videokonsilium initiiert, berechnungsfähig. Die Gebührenordnungsposition 01450 ist auch von im Krankenhaus tätigen, nicht ermächtigten Ärzten oder Psychotherapeuten berechnungsfähig, sofern diese das Videokonsilium mit einem das Telekonsilium einholenden Vertragsarzt initiieren. Die Gebührenordnungsposition 01450 ist im Zusammenhang mit einer Videofallkonferenz nach der Gebührenordnungsposition 01682 nur berechnungsfähig, sofern der Videodienstanbieter des Vertragsarztes genutzt wird."
+    },
+    {
+      "code": "01452",
+      "title": "Zuschlag zu den Versichertenpauschalen nach den Gebührenordnungspositionen 03000 oder 04000, den Grundpauschalen der Kapitel 5 bis 11, 13 bis 16, 18, 20 bis 23, 26 und 27 oder den Gebührenordnungspositionen 01210, 01212, 01320, 01321, 17210, 25214 und 30700 für die Gewährleistung einer strukturierten Versorgung gemäß § 10 der Anlage 31c zum BMV-Ä",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 3.82,
+        "valuation_in_points": 30
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "einmal im Behandlungsfall Die Gebührenordnungsposition 01452 ist nur bei bekannten Patienten berechnungsfähig. Bekannte Patienten sind Versicherte, bei denen in mindestens einem der letzten drei Vorquartale ein persönlicher Arzt- Patienten-Kontakt gemäß Nr. 4.3.1 der Allgemeinen Bestimmungen in der Praxis des behandelnden Vertragsarztes stattgefunden hat. Die Gebührenordnungsposition 01452 ist nur im Behandlungsfall berechnungsfähig, sofern mindestens ein Arzt-Patienten-Kontakt im Rahmen einer Videosprechstunde, jedoch kein persönlicher Arzt- Patienten-Kontakt stattgefunden hat. Die Gebührenordnungsposition 01452 wird von der zuständigen Kassenärztlichen Vereinigung zugesetzt."
+    },
+    {
+      "code": "01471",
+      "title": "Zusatzpauschale für die Verlaufskontrolle und die Auswertung der digitalen Gesundheitsanwendung (DiGA) somnio gemäß dem Verzeichnis für digitale Gesundheitsanwendungen gemäß § 139e SGB V",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 8.15,
+        "valuation_in_points": 64
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "einmal im Behandlungsfall Die Gebührenordnungsposition 01471 ist auch bei Durchführung der Leistung im Rahmen einer Videosprechstunde berechnungsfähig und dies durch Angabe einer bundeseinheitlich kodierten Zusatzkennzeichnung zu dokumentieren. Für die Abrechnung gelten die Anforderungen gemäß Anlage 31b zum BMV-Ä entsprechend. Die Gebührenordnungsposition 01471 ist im Behandlungsfall nicht neben der Gebührenordnungsposition 30780 berechnungsfähig."
+    },
+    {
+      "code": "01472",
+      "title": "Zusatzpauschale für die Verlaufskontrolle und die Auswertung der digitalen Gesundheitsanwendung (DiGA) Vivira gemäß dem Verzeichnis für digitale Gesundheitsanwendungen gemäß § 139e SGB V",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 8.15,
+        "valuation_in_points": 64
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "einmal im Behandlungsfall Die Gebührenordnungsposition 01472 ist im Krankheitsfall höchstens zweimal berechnungsfähig. Die Gebührenordnungsposition 01472 ist im Behandlungsfall nicht neben der Gebührenordnungsposition 30781 berechnungsfähig."
+    },
+    {
+      "code": "01473",
+      "title": "Zusatzpauschale für die Verlaufskontrolle und die Auswertung der digitalen Gesundheitsanwendung (DiGA) zanadio gemäß dem Verzeichnis für digitale Gesundheitsanwendungen gemäß § 139e SGB V",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 8.15,
+        "valuation_in_points": 64
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "einmal im Behandlungsfall Die Gebührenordnungsposition 01473 ist nicht in zwei aufeinanderfolgenden Quartalen berechnungsfähig. Die Gebührenordnungsposition 01473 ist im Krankheitsfall höchstens zweimal berechnungsfähig. Die Gebührenordnungsposition 01473 ist im Behandlungsfall nicht neben der Gebührenordnungsposition 01475 berechnungsfähig."
+    },
+    {
+      "code": "01475",
+      "title": "Zusatzpauschale für die Verlaufskontrolle und die Auswertung der digitalen Gesundheitsanwendung (DiGA) Oviva Direkt für Adipositas gemäß dem Verzeichnis für digitale Gesundheitsanwendungen gemäß § 139e SGB V",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 8.15,
+        "valuation_in_points": 64
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "einmal im Krankheitsfall Die Gebührenordnungsposition 01475 ist im Behandlungsfall nicht neben der Gebührenordnungsposition 01473 berechnungsfähig."
+    },
+    {
+      "code": "01476",
+      "title": "Zusatzpauschale für die Auswahl und/oder Individualisierung von Inhalten der digitalen Gesundheitsanwendung (DiGA) Mawendo gemäß dem Verzeichnis für digitale Gesundheitsanwendungen gemäß § 139e SGB V",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 8.15,
+        "valuation_in_points": 64
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "einmal im Krankheitsfall Die Gebührenordnungsposition 01476 ist ausschließlich bei Versicherten ab Vollendung des 12. Lebensjahres berechnungsfähig. Die Gebührenordnungsposition 01476 ist im Behandlungsfall nicht neben der Gebührenordnungsposition 01477 berechnungsfähig."
+    },
+    {
+      "code": "01477",
+      "title": "Zusatzpauschale für die Verlaufskontrolle und die Auswertung der digitalen Gesundheitsanwendung (DiGA) companion patella gemäß dem Verzeichnis für digitale Gesundheitsanwendungen gemäß § 139e SGB V",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 8.15,
+        "valuation_in_points": 64
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "einmal im Behandlungsfall Die Gebührenordnungsposition 01477 ist ausschließlich bei Versicherten ab der Vollendung des 14. Lebensjahres bis zur Vollendung des 66. Lebensjahres berechnungsfähig. Die Gebührenordnungsposition 01477 ist im Behandlungsfall nicht neben der Gebührenordnungsposition 01476 berechnungsfähig."
+    },
+    {
+      "code": "01478",
+      "title": "Zusatzpauschale für die Verlaufskontrolle und die Auswertung der digitalen Gesundheitsanwendung (DiGA) Kranus Lutera gemäß dem Verzeichnis für digitale Gesundheitsanwendungen gemäß § 139e SGB V",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 8.15,
+        "valuation_in_points": 64
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "einmal im Krankheitsfall Die Gebührenordnungsposition 01478 ist ausschließlich bei männlichen Versicherten ab Vollendung des 18. Lebensjahres berechnungsfähig."
+    },
+    {
+      "code": "01480",
+      "title": "Beratung über Organ- und Gewebespenden gemäß § 2 Abs. 1a TPG",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 8.28,
+        "valuation_in_points": 65
+      },
+      "mandatory_services": "- Persönlicher Arzt-Patienten-Kontakt,\n- Beratung über Organ- und Gewebespenden gemäß § 2 Abs. 1a TPG",
+      "facultative_services": "- Aushändigung von Aufklärungsunterlagen,\n- Aushändigung eines Organspendeausweises,\n- Übertragung der Information, dass ein Organspendeausweis vorhanden ist, auf die elektronische Gesundheitskarte (eGK) des Patienten",
+      "billing_info": "Die Gebührenordnungsposition 01480 ist nur alle zwei Kalenderjahre berechnungsfähig. Die Gebührenordnungsposition 01480 ist bei Versicherten ab dem vollendeten 14. Lebensjahr berechnungsfähig. Bei der Nebeneinanderberechnung diagnostischer bzw. therapeutischer Gebührenordnungspositionen und der Gebührenordnungsposition 01480 ist eine mindestens 5 Minuten längere Arzt-Patienten-Kontaktzeit als in den entsprechenden Gebührenordnungspositionen angegeben Voraussetzung für die Berechnung der Gebührenordnungsposition 01480."
+    },
+    {
+      "code": "01481",
+      "title": "Zusatzpauschale für die Verlaufskontrolle und die Auswertung der digitalen Gesundheitsanwendung (DiGA) ProHerz gemäß dem Verzeichnis für digitale Gesundheitsanwendungen gemäß § 139e SGB V",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 8.15,
+        "valuation_in_points": 64
+      },
+      "mandatory_services": null,
+      "facultative_services": "- Individualisierung von Inhalten,",
+      "billing_info": "einmal im Behandlungsfall Die Gebührenordnungsposition 01481 ist ausschließlich bei Patienten ab Vollendung des 18. Lebensjahres berechnungsfähig. Die Gebührenordnungsposition 01481 ist im Krankheitsfall höchstens zweimal berechnungsfähig. Die Gebührenordnungsposition 01481 ist im Behandlungsfall nicht neben den Gebührenordnungspositionen 03325, 03326, 04325, 04326, 13578, 13579 und 13583 bis 13587 berechnungsfähig."
+    },
+    {
+      "code": "01482",
+      "title": "Zusatzpauschale für die Verlaufskontrolle und die Auswertung der digitalen Gesundheitsanwendung (DiGA) Kranus Mictera gemäß dem Verzeichnis für digitale Gesundheitsanwendungen gemäß § 139e SGB V",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 8.15,
+        "valuation_in_points": 64
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "einmal im Krankheitsfall Die Gebührenordnungsposition 01482 ist ausschließlich bei weiblichen Versicherten ab Vollendung des 18. Lebensjahres berechnungsfähig. 1.5 Ambulante Betreuung und Nachsorge 1. Haben an der Erbringung von Leistungen entsprechend den Gebührenordnungspositionen dieses Abschnitts mehrere Ärzte mitgewirkt, hat der die Gebührenordnungspositionen dieses Abschnitts abrechnende Vertragsarzt in einer der Quartalsabrechnung beizufügenden und von ihm zu unterzeichnenden Erklärung zu bestätigen, dass er mit den anderen Ärzten eine Vereinbarung darüber getroffen hat, wonach nur er allein in den jeweiligen Fällen diese Gebührenordnungspositionen abrechnet. 2. Die Gebührenordnungspositionen des Abschnitts 1.5 sind bei kurativ- stationärer (belegärztlicher) Behandlung nicht berechnungsfähig. 3. Die Gebührenordnungspositionen 01500 und 01501 sind ausschließlich im Zusammenhang mit den Leistungen nach den Gebührenordnungspositionen der Spalte 1 des Anhangs 8 EBM berechnungsfähig. Sofern in einer Leistung nach einer Gebührenordnungsposition der Spalte 1 des Anhangs 8 EBM bereits eine Nachbeobachtung enthalten ist, ist gemäß der jeweiligen Vorgabe in Spalte 3 des Anhangs 8 EBM lediglich die Gebührenordnungsposition 01502 oder 01503 berechnungsfähig. 4. Die Gebührenordnungspositionen 01500 und 01502, 01500 und 01503, 01501 und 01502 und 01501 und 01503 unterliegen einem gemeinsamen Höchstwert der Abrechnungshäufigkeit je Leistung entsprechend der Gebührenordnungsposition aus Spalte 1 des Anhangs 8 EBM. Bei mehreren Indikationen zur Nachbeobachtung oder Überwachung in einer Sitzung ist der Höchstwert mit der größten Stundenzahl für die Berechnungsfähigkeit maßgeblich. 5. Für die im Anhang 8 in Spalte 1 mit # gekennzeichneten Gebührenordnungspositionen sind die Leistungen für die Nachbeobachtung und/oder Überwachung nach den Gebührenordnungspositionen 01500, 01501, 01502 und/oder 01503 nur berechnungsfähig, sofern die entsprechende Prozedur im Abschnitt 2 der Anlage 1 zum Vertrag nach § 115b SGB V genannt und in Spalte 6 des Abschnitts 2 der Anlage 1 zum Vertrag nach § 115b SGB V ein Hinweis auf eine Nachbeobachtung und/oder Überwachung aufgeführt wird."
+    },
+    {
+      "code": "01500",
+      "title": "Beobachtung eines Patienten in unmittelbarem Anschluss an eine Leistung aus Spalte 1 des Anhangs 8",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 12.87,
+        "valuation_in_points": 101
+      },
+      "mandatory_services": "- Beobachtung,\n- Dauer 30 Minuten,",
+      "facultative_services": "- Überwachung der Vitalparameter,",
+      "billing_info": "einmal am Behandlungstag Die Gebührenordnungsposition 01500 ist nicht neben den Gebührenordnungspositionen 01220 bis 01222, 01440, 01510 bis 01512, 01520, 01521, 01530, 01531, 01540 bis 01546, 01857, 01910, 01911, 02100 bis 02102, 02340, 02342, 04564 bis 04566, 04572, 04573, 05350, 05360, 05361, 05370, 05371, 13610 bis 13612, 30326, 30708, 32247 und 36884 und nicht neben den Gebührenordnungspositionen der Abschnitte 31.3, 31.5, 36.3 und 36.5 berechnungsfähig."
+    },
+    {
+      "code": "01501",
+      "title": "Beobachtung und Betreuung eines Patienten in unmittelbarem Anschluss an eine Leistung aus Spalte 1 des Anhangs 8",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 17.96,
+        "valuation_in_points": 141
+      },
+      "mandatory_services": "- Beobachtung und Betreuung,\n- Überwachung der Vitalparameter,\n- Dauer 30 Minuten,",
+      "facultative_services": "- Infusion(en),",
+      "billing_info": "einmal am Behandlungstag Die Gebührenordnungsposition 01501 ist nicht neben den Gebührenordnungspositionen 01220 bis 01222, 01440, 01510 bis 01512, 01520, 01521, 01530, 01531, 01540 bis 01546, 01857, 01910, 01911, 02100 bis 02102, 02340, 02342, 04564 bis 04566, 04572, 04573, 05350, 05360, 05361, 05370, 05371, 13256, 13610 bis 13612, 30326, 30708, 32247 und 36884 und nicht neben den Gebührenordnungspositionen der Abschnitte 31.3, 31.5, 36.3 und 36.5 berechnungsfähig."
+    },
+    {
+      "code": "01502",
+      "title": "Zuschlag zu der Gebührenordnungsposition 01500 oder 01501 bei Fortsetzung der Beobachtung und/oder Zusatzpauschale für die weitere Beobachtung gemäß Anhang 8",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 8.92,
+        "valuation_in_points": 70
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "je vollendete 30 Minuten Die Gebührenordnungsposition 01502 ist nicht neben den Gebührenordnungspositionen 01910, 01911, 02101, 02102, 04564 bis 04566, 04572, 04573, 13610 bis 13612, 30320 bis 30323 und 30326 berechnungsfähig."
+    },
+    {
+      "code": "01503",
+      "title": "Zuschlag zu der Gebührenordnungsposition 01500 oder 01501 bei Fortsetzung der Beobachtung und Betreuung und/oder Zusatzpauschale für die weitere Beobachtung und Betreuung gemäß Anhang 8",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 13.63,
+        "valuation_in_points": 107
+      },
+      "mandatory_services": "- Beobachtung und Betreuung eines Kranken mit konsumierender Erkrankung (fortgeschrittenes Malignom, HIV-Erkrankung im Stadium AIDS) in einer Arztpraxis oder praxisklinischen Einrichtung gemäß § 115 Abs. 2 SGB V, in ermächtigten Einrichtungen oder durch einen ermächtigen Arzt gemäß §§ 31, 31a Ärzte-ZV unter parenteraler intravasaler Behandlung mittels Kathetersystem und/oder\n- Beobachtung und Betreuung eines Kranken in einer Arztpraxis oder praxisklinischen Einrichtung gemäß § 115 Abs. 2 SGB V, in ermächtigten Einrichtungen oder durch einen ermächtigen Arzt gemäß §§ 31, 31a Ärzte-ZV unter parenteraler intravasaler Behandlung mit Zytostatika und/oder monoklonalen Antikörpern und/ oder einer Enzymersatztherapie bei Morbus Pompe gemäß der jeweils aktuell gültigen Fachinformation und/oder\n- Beobachtung und Betreuung eines kachektischen Patienten mit konsumierender Erkrankung während enteraler Ernährung über eine Magensonde oder Gastrostomie (PEG) in einer Praxis oder praxisklinischen Einrichtung gemäß § 115 Abs. 2 SGB V, in ermächtigten Einrichtungen oder durch einen ermächtigen Arzt gemäß §§ 31, 31a Ärzte-ZV und/oder\n- Beobachtung und Betreuung einer Patientin, bei der ein i.v.- Zugang angelegt ist, am Tag der Follikelpunktion zur intendierten Eizellentnahme, entsprechend der Gebührenordnungspositionen 08537 oder 08637 und/oder\n- Beobachtung und Betreuung eines Patienten nach einer Punktion an Niere, Leber, Milz oder Pankreas und/oder\n- Beobachtung und Betreuung eines Kranken in einer Arztpraxis oder praxisklinischen Einrichtung gemäß § 115 Abs. 2 SGB V unter intravenöser Infusionstherapie mit hochdosierten Immunglobulinen (IVIG) zur Behandlung von Patienten mit neurologischen Autoimmunerkrankungen (multifokale motorische Neuropathie und chronisch inflammatorische Polyneuropathie)",
+      "facultative_services": "- Infusion(en)",
+      "billing_info": "je vollendete 30 Minuten Die Gebührenordnungsposition 01503 ist nicht neben den Gebührenordnungspositionen 01910, 01911, 02101, 02102, 04564 bis 04566, 04572, 04573, 13610 bis 13612, 30320 bis 30323 und 30326 berechnungsfähig. Zusatzpauschalen für Beobachtung und Betreuung"
+    },
+    {
+      "code": "01546",
+      "title": "Beobachtung und Betreuung eines Patienten unter Behandlung mit monoklonalen Antikörpern gegen SARS-CoV-2",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 62.56,
+        "valuation_in_points": 491
+      },
+      "mandatory_services": "- Beobachtung und Betreuung eines Patienten mit bestätigter COVID-19-Erkrankung unter intravenöser Infusionstherapie mit Sotrovimab gemäß aktuell gültiger Fachinformation,\n- Unterbringung des Patienten in einem separaten Bereich,\n- Dauer mindestens 90 Minuten Erfolgt über denselben liegenden Zugang (z. B. Kanüle, Katheter) mehr als eine Infusion nach den Gebührenordnungspositionen 01546, 02100 bis 02102 und/oder 30710, so sind die Gebührenordnungspositionen 01546, 02100 bis 02102 und/oder 30710 je Behandlungstag nur einmal berechnungsfähig.",
+      "facultative_services": null,
+      "billing_info": "Die Gebührenordnungsposition 01546 ist nicht neben den Gebührenordnungspositionen 01500, 01501, 01510 bis 01512, 01910, 01911, 02100 bis 02102, 04564 bis 04566, 04572, 04573, 13610 bis 13612 und 30326 berechnungsfähig."
+    },
+    {
+      "code": "01600",
+      "title": "Ärztlicher Bericht über das Ergebnis einer Patientenuntersuchung Der Höchstwert für die Gebührenordnungsposition 01600 und 01601 beträgt 258 Punkte je Behandlungsfall. Der Höchstwert ist auch auf den Arztfall anzuwenden.",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 7.01,
+        "valuation_in_points": 55
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Die Gebührenordnungsposition 01600 ist in den berechnungsfähigen Gebührenordnungspositionen der Abschnitte 8.5, 31.2, 32.2, 32.3, 36.2 und der Kapitel 11, 12, 17, 19, 24, 25 und 34 enthalten. Die Gebührenordnungsposition 01600 ist im Behandlungsfall nicht neben den Versicherten-, Grund- oder Konsiliarpauschalen berechnungsfähig. Die Gebührenordnungsposition 01600 ist am Behandlungstag nicht neben den Gebührenordnungspositionen 31010 bis 31013 berechnungsfähig. Die Gebührenordnungsposition 01600 ist im Behandlungsfall nicht neben den Gebührenordnungspositionen 01793, 01794, 01841, 03000, 03030, 04000, 04030, 25213, 30700, 34810, 34820, 34821 und 37706 berechnungsfähig. Die Gebührenordnungsposition 01600 ist im Krankheitsfall nicht neben der Gebührenordnungsposition 01842 berechnungsfähig."
+    },
+    {
+      "code": "01601",
+      "title": "Ärztlicher Brief in Form einer individuellen schriftlichen Information des Arztes an einen anderen Arzt über den Gesundheits- bzw. Krankheitszustand des Patienten",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 13.76,
+        "valuation_in_points": 108
+      },
+      "mandatory_services": "- Schriftliche Informationen zu\n- Anamnese,\n- Befund(e),\n- Epikritische Bewertung,\n- Schriftliche Informationen zur Therapieempfehlung Der Höchstwert für die Gebührenordnungspositionen 01600 und 01601 beträgt 258 Punkte je Behandlungsfall. Der Höchstwert ist auch auf den Arztfall anzuwenden.",
+      "facultative_services": null,
+      "billing_info": "Die Gebührenordnungsposition 01601 ist in den berechnungsfähigen Gebührenordnungspositionen der Abschnitte 8.5, 31.2, 32.2, 32.3, 36.2 und der Kapitel 11, 12, 17, 19, 24, 25 und 34 enthalten. Die Gebührenordnungsposition 01601 ist im Behandlungsfall nicht neben den Versicherten-, Grund- oder Konsiliarpauschalen berechnungsfähig. Die Gebührenordnungsposition 01601 ist am Behandlungstag nicht neben den Gebührenordnungspositionen 31010 bis 31013 berechnungsfähig. Die Gebührenordnungsposition 01601 ist im Behandlungsfall nicht neben den Gebührenordnungspositionen 01793, 01794, 01841, 03000, 03030, 04000, 04030, 25213, 25214, 30700, 34810, 34820, 34821 und 37706 berechnungsfähig. Die Gebührenordnungsposition 01601 ist im Krankheitsfall nicht neben der Gebührenordnungsposition 01842 berechnungsfähig."
+    },
+    {
+      "code": "01602",
+      "title": "Gebührenordnungsposition für die Mehrfertigung (z. B. Kopie) eines Berichtes oder Briefes nach den Gebührenordnungspositionen 01600, 01601, 01794, 01841 oder 08575 an den Hausarzt gemäß § 73 Abs. 1b SGB V Bei der Berechnung der Gebührenordnungsposition 01602 ist auf dem Behandlungsausweis die Arztabrechnungsnummer oder der Name des Hausarztes gemäß § 73 Abs. 1b SGB V anzugeben.",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 1.53,
+        "valuation_in_points": 12
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Die Gebührenordnungsposition 01602 für die Kopie eines Berichtes oder Briefes an den Hausarzt ist nur berechnungsfähig, wenn bereits ein Bericht oder Brief an einen anderen Arzt erfolgt ist. Die Gebührenordnungsposition 01602 ist im Behandlungsfall nicht neben den Gebührenordnungspositionen 17210, 19210, 24210 bis 24212, 25210, 25211, 25213 und 25214 berechnungsfähig."
+    },
+    {
+      "code": "01610",
+      "title": "Bescheinigung zur Feststellung der Belastungsgrenze (Muster 55)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 1.78,
+        "valuation_in_points": 14
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Die Gebührenordnungsposition 01610 ist im Behandlungsfall nicht neben den Gebührenordnungspositionen 03000, 03030, 04000 und 04030 berechnungsfähig."
+    },
+    {
+      "code": "01611",
+      "title": "Verordnung von medizinischer Rehabilitation unter Verwendung des Vordrucks Muster 61 gemäß der Richtlinie des Gemeinsamen Bundesausschusses über Leistungen zur medizinischen Rehabilitation (Rehabilitations-Richtlinie) nach § 92 Abs. 1 SGB V",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 40.13,
+        "valuation_in_points": 315
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Die Gebührenordnungsposition 01611 ist bei Vorliegen der Voraussetzungen gemäß § 1b der Rehabilitations-Richtlinie auch in einem Behandlungsfall berechnungsfähig, in dem kein persönlicher Arzt- Patienten-Kontakt, aber ein Arzt-Patienten-Kontakt im Rahmen einer Videosprechstunde stattgefunden hat. Dies ist durch Angabe einer bundeseinheitlich kodierten Zusatzkennzeichnung zu dokumentieren. Für die Abrechnung gelten die Anforderungen gemäß Anlage 31b zum BMV-Ä entsprechend."
+    },
+    {
+      "code": "01613",
+      "title": "Zuschlag im Zusammenhang mit der Beantragung einer geriatrischen Rehabilitation nach der Gebührenordnungsposition 01611",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 9.56,
+        "valuation_in_points": 75
+      },
+      "mandatory_services": "- Durchführung von mindestens zwei Funktionstests gemäß der Richtlinie des Gemeinsamen Bundesausschusses über Leistungen zur medizinischen Rehabilitation (Rehabilitations-Richtlinie),",
+      "facultative_services": null,
+      "billing_info": "einmal im Krankheitsfall Die Berechnung der Gebührenordnungsposition 01613 erfordert im Regelfall einen persönlichen Arzt-Patienten-Kontakt. Von den in Anlage 2 der Rehabilitations-Richtlinie aufgeführten Funktionstests können beispielhaft die Funktionstests zum Schädigungsbereich „Mentale Funktionen“ oder das Erstellen der visuellen Schmerzskala in Einzelfällen im Rahmen einer Videosprechstunde durchgeführt werden. Die Gebührenordnungsposition 01613 ist am Behandlungstag nicht neben den Gebührenordnungspositionen 03242, 16340 und 21340 berechnungsfähig. Die Gebührenordnungsposition 01613 ist im Behandlungsfall nicht neben den Gebührenordnungspositionen 03360 und 30984 berechnungsfähig."
+    },
+    {
+      "code": "01615",
+      "title": "Feststellung der medizinischen Notwendigkeit einer Mitaufnahme einer Begleitperson im Vorfeld einer nicht geplanten Krankenhausbehandlung und formlose Bescheinigung gemäß § 3 Abs. 2 der Krankenhausbegleitungs-Richtlinie des Gemeinsamen Bundesausschusses",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 3.82,
+        "valuation_in_points": 30
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "einmal im Krankheitsfall"
+    },
+    {
+      "code": "01620",
+      "title": "Kurze Bescheinigung oder kurzes Zeugnis, nur auf besonderes Verlangen der Krankenkasse oder Ausstellung des vereinbarten Vordrucks nach dem Muster 50",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 3.82,
+        "valuation_in_points": 30
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Die Gebührenordnungsposition 01620 ist nicht neben der Gebührenordnungsposition 01735 berechnungsfähig."
+    },
+    {
+      "code": "01621",
+      "title": "Krankheitsbericht, nur auf besonderes Verlangen der Krankenkasse oder Ausstellung der vereinbarten Vordrucke nach den Mustern 11, 53 oder 56",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 5.61,
+        "valuation_in_points": 44
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Die Gebührenordnungsposition 01621 ist nicht neben der Gebührenordnungsposition 01735 berechnungsfähig."
+    },
+    {
+      "code": "01622",
+      "title": "Ausführlicher schriftlicher Kurplan oder begründetes schriftliches Gutachten oder schriftliche gutachterliche Stellungnahme, nur auf besonderes Verlangen der Krankenkasse oder Ausstellung der vereinbarten Vordrucke nach den Mustern 20 a-d, 51, 52 oder 65",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 10.57,
+        "valuation_in_points": 83
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": null
+    },
+    {
+      "code": "01623",
+      "title": "Kurvorschlag des Arztes zum Antrag auf ambulante Kur, Ausstellung des vereinbarten Vordrucks nach Muster 25",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 6.75,
+        "valuation_in_points": 53
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": null
+    },
+    {
+      "code": "01624",
+      "title": "Verordnung medizinischer Vorsorge für Mütter oder Väter gemäß § 24 SGB V unter Verwendung des Vordrucks Muster 64",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 26.75,
+        "valuation_in_points": 210
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": null
+    },
+    {
+      "code": "01626",
+      "title": "Ärztliche Stellungnahme für die Krankenkasse bei der Beantragung einer Genehmigung gemäß § 31 Absatz 6 SGB V zur Verordnung von - Cannabis in Form von getrockneten Blüten oder - Cannabis in Form von Extrakten oder - Arzneimitteln mit dem Wirkstoff Dronabinol oder - Arzneimitteln mit dem Wirkstoff Nabilon",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 18.22,
+        "valuation_in_points": 143
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "einmal je Erstverordnung Die Gebührenordnungsposition 01626 ist höchstens viermal im Krankheitsfall berechnungsfähig. Die Gebührenordnungsposition 01626 ist am Behandlungstag nicht neben den Gebührenordnungspositionen des Abschnitts 1.2 berechnungsfähig."
+    },
+    {
+      "code": "01630",
+      "title": "Zuschlag zu den Gebührenordnungspositionen 03000, 04000, 07345, 08345, 09345, 10345, 13435, 13437, 13439, 13561, 13601, 13675, 13677, 15345, 26315 und 30700 für die Erstellung eines Medikationsplans gemäß § 29a Bundesmantelvertrag-Ärzte (BMV-Ä)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 4.97,
+        "valuation_in_points": 39
+      },
+      "mandatory_services": "- Erstellen eines Medikationsplans,\n- Aushändigung des Medikationsplans in Papierform an den Patienten oder dessen Bezugsperson",
+      "facultative_services": "- Übertragung des elektronischen Medikationsplans auf die elektronische Gesundheitskarte (eGK) des Patienten",
+      "billing_info": "Die Gebührenordnungsposition 01630 kann im Laufe von vier Quartalen nur von einem Vertragsarzt einmalig abgerechnet werden. Die Gebührenordnungspositionen 03222, 03362, 04222, 05227, 06227, 07227, 08227, 09227, 10227, 13227, 13297, 13347, 13397, 13497, 13547, 13597, 13647, 13697, 14217, 16218, 18227, 20227, 21227, 21228, 22219, 26227, 27227 und 30701 sind in den drei Quartalen, die der Berechnung der Gebührenordnungsposition 01630 unmittelbar folgen, nicht berechnungsfähig. Die Gebührenordnungsposition 01630 ist im Behandlungsfall nicht neben den Gebührenordnungspositionen 03220 bis 03222, 03362, 04220 bis 04222, 05227, 06227, 07227, 08227, 09227, 10227, 13227, 13297, 13347, 13397, 13497, 13547, 13597, 13647, 13697, 14217, 16218, 18227, 20227, 21227, 21228, 22219, 26227, 27227 und 30701 berechnungsfähig."
+    },
+    {
+      "code": "01640",
+      "title": "Zuschlag zu den Versichertenpauschalen der Kapitel 3 und 4, den Grundpauschalen der Kapitel 5 bis 11, 13 bis 16, 18, 20 bis 23, 26 und 27, den Konsiliarpauschalen der Kapitel 12, 17, 19, 24 und 25 und der Gebührenordnungsposition 30700 für die Anlage eines Notfalldatensatzes gemäß Anhang 2 der Anlage 4a zum Bundesmantelvertrag-Ärzte (BMV-Ä)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 10.19,
+        "valuation_in_points": 80
+      },
+      "mandatory_services": "- Persönlicher Arzt-Patienten-Kontakt,\n- Überprüfung der Notwendigkeit zur Anlage eines Notfalldatensatzes,\n- Einholung der Einwilligung des Patienten zur Anlage eines Notfalldatensatzes und Anlage eines Notfalldatensatzes mit Eintragungen zu medizinisch notfallrelevanten Informationen über den Patienten,\n- Übertragung des Notfalldatensatzes auf die elektronische Gesundheitskarte (eGK) des Patienten,",
+      "facultative_services": "- Aufklärung über die Hintergründe, Ziele, Inhalte und Vorgehensweise zur Erstellung von Notfalldatensätzen gemäß § 334 Absatz 1 Satz 2 Nummer 5 SGB V,\n- Erläuterung des Notfalldatensatzes gegenüber dem Patienten und/ oder einer Bezugsperson,",
+      "billing_info": "einmal im Krankheitsfall Sofern die Vertragsarztpraxis noch nicht an die Telematikinfrastruktur angeschlossen ist und nach Kenntnis der zuständigen Kassenärztlichen Vereinigung die technischen Voraussetzungen zur Nutzung der Anwendung gemäß § 334 Absatz 1 Satz 2 Nummer 5 SGB V i. V. m. Anlage 4a zum BMV-Ä noch nicht vorliegen, ist die Gebührenordnungsposition 01640 nicht berechnungsfähig. Die Gebührenordnungsposition 01640 ist nur berechnungsfähig, sofern die Anlage des Notfalldatensatzes auf der eGK medizinisch notwendig ist und erstmalig zur Erfassung medizinisch notfallrelevanter Informationen über den Patienten (Befunddaten (z. B. zu Diagnosen oder Allergien/Unverträglichkeiten oder besonderen Hinweisen) und/oder der Medikation) erfolgt. Die Gebührenordnungsposition 01640 ist nicht berechnungsfähig, sofern die Anlage des Notfalldatensatzes auf der eGK ausschließlich zur Erfassung von Kommunikationsdaten (Versichertendaten, Angaben zu behandelnden Ärzten, Eintragungen zu im Notfall zu kontaktierenden Personen) und/oder freiwilligen Zusatzinformationen gemäß der Spezifikation der gematik zum Informationsmodell Notfalldaten- Management auf Wunsch des Patienten erfolgt. Die Gebührenordnungsposition 01640 ist nicht berechnungsfähig, sofern auf der eGK des Patienten bereits ein Notfalldatensatz mit Eintragungen zu medizinisch notfallrelevanten Informationen über den Patienten (Befunddaten (z. B. zu Diagnosen oder Allergien/Unverträglichkeiten oder besonderen Hinweisen) und/oder Angaben der Medikation) vorhanden ist. Sofern für den Patienten bereits ein Notfalldatensatz mit Eintragungen zu medizinisch notfallrelevanten Informationen über den Patienten (Befunddaten (z. B. zu Diagnosen oder Allergien/Unverträglichkeiten oder besonderen Hinweisen)) auf einer eGK angelegt wurde, die z. B. ausgetauscht oder verloren wurde, ist die Gebührenordnungsposition 01640 für die Übertragung des in der Vertragsarztpraxis bestehenden Notfalldatensatzes auf die neue eGK des Patienten nicht berechnungsfähig. Die Gebührenordnungsposition 01640 ist in den drei Quartalen, die der Berechnung der Gebührenordnungsposition 01642 zur Löschung eines Notfalldatensatzes unmittelbar folgen, nicht berechnungsfähig. Die Gebührenordnungsposition 01640 ist im Behandlungsfall nicht neben den Gebührenordnungspositionen 01642 und 01643 berechnungsfähig."
+    },
+    {
+      "code": "01642",
+      "title": "Löschen eines Notfalldatensatzes gemäß Anlage 4a zum Bundesmantelvertrag-Ärzte (BMV-Ä)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 0.13,
+        "valuation_in_points": 1
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "einmal im Behandlungsfall Sofern die Vertragsarztpraxis noch nicht an die Telematikinfrastruktur angeschlossen ist und nach Kenntnis der zuständigen Kassenärztlichen Vereinigung die technischen Voraussetzungen zur Nutzung der Anwendung gemäß § 334 Absatz 1 Satz 2 Nummer 5 SGB V i. V. m. Anlage 4a zum Bundesmantelvertrag-Ärzte (BMV-Ä) noch nicht vorliegen, ist die Gebührenordnungsposition 01642 nicht berechnungsfähig. Die Gebührenordnungsposition 01642 ist nur berechnungsfähig, sofern ein Notfalldatensatz mit medizinisch notfallrelevanten Informationen auf der eGK vorhanden ist und der Patient die Löschung sämtlicher Einträge ausdrücklich wünscht. Die Gebührenordnungsposition 01640 ist in den drei Quartalen, die der Berechnung der Gebührenordnungsposition 01642 unmittelbar folgen, nicht berechnungsfähig. Die Gebührenordnungsposition 01642 ist im Behandlungsfall nicht neben den Gebührenordnungspositionen 01640 und 01643 berechnungsfähig."
+    },
+    {
+      "code": "01643",
+      "title": "Aktualisierung eines Notfalldatensatzes gemäß Anlage 4a zum Bundesmantelvertrag-Ärzte (BMV-Ä)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 4.97,
+        "valuation_in_points": 39
+      },
+      "mandatory_services": "- Persönlicher Arzt-Patienten-Kontakt,\n- Aktualisierung medizinisch relevanter Informationen im Notfalldatensatz auf der elektronischen Gesundheitskarte (eGK) einschließlich des Auslesens des gespeicherten Notfalldatensatzes und der Übertragung des aktualisierten Notfalldatensatzes auf die eGK des Patienten und/oder\n- erstmalige Anlage eines Notfalldatensatzes mit ausschließlichen Eintragungen von Kommunikationsdaten (Versichertendaten, Angaben zu behandelnden Ärzten, Eintragungen zu im Notfall zu kontaktierenden Personen) und Übertragung auf die eGK des Patienten und/oder\n- Übertragung des in der Vertragsarztpraxis bestehenden Notfalldatensatzes, z. B. bei einem Austausch oder Verlust der eGK des Patienten,",
+      "facultative_services": "- Erläuterung der Aktualisierung des Notfalldatensatzes gegenüber dem Patienten und/oder der betreuenden Person,",
+      "billing_info": "einmal im Krankheitsfall Sofern die Vertragsarztpraxis noch nicht an die Telematikinfrastruktur angeschlossen ist und nach Kenntnis der zuständigen Kassenärztlichen Vereinigung die technischen Voraussetzungen zur Nutzung der Anwendung gemäß § 334 Absatz 1 Satz 2 Nummer 5 SGB V i. V. m. Anlage 4a zum BMV-Ä noch nicht vorliegen, ist die Gebührenordnungsposition 01643 nicht berechnungsfähig. Die Gebührenordnungsposition 01643 ist im Behandlungsfall nicht neben den Gebührenordnungspositionen 01640 und 01642 berechnungsfähig."
+    },
+    {
+      "code": "01645",
+      "title": "Aufklärung und Beratung im Zusammenhang mit einem ärztlichen Zweitmeinungsverfahren sowie die Zusammenstellung, Mehrfertigung und Aushändigung von Befundmitteilungen, Berichten, Arztbriefen und anderen patientenbezogenen Unterlagen an den Patienten gemäß § 6 Abs. 4 der Richtlinie des Gemeinsamen Bundesausschusses zum Zweitmeinungsverfahren",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 9.56,
+        "valuation_in_points": 75
+      },
+      "mandatory_services": "- Aufklärung über den Anspruch auf eine ärztliche Zweitmeinung gemäß § 27b Abs. 2 SGB V,\n- Beratung im Zusammenhang mit einer ärztlichen Zweitmeinung gemäß § 27b Abs. 2 SGB V,\n- Aushändigung des Informationsblattes des Gemeinsamen Bundesausschusses zum Zweitmeinungsverfahren,\n- Zusammenstellung, Mehrfertigung und Aushändigung von Befundmitteilungen, Berichten, Arztbriefen und anderen patientenbezogenen Unterlagen an den Patienten,\n- Information zu geeigneten Zweitmeinungsärzten,",
+      "facultative_services": "- Zusammenführung und ggf. Aufbereitung der patientenbezogenen Unterlagen,\n- Beratung nach ärztlicher Zweitmeinung,",
+      "billing_info": "je dokumentierter Indikation einmal im Krankheitsfall Die Gebührenordnungsposition 01645 ist nur durch den indikationsstellenden Arzt gemäß § 6 der Richtlinie des Gemeinsamen Bundesausschusses zum Zweitmeinungsverfahren berechnungsfähig. Die Berechnung der Gebührenordnungsposition 01645 setzt die eingriffsspezifische Dokumentation gemäß der bundeseinheitlich kodierten Zusatzkennzeichnung voraus."
+    },
+    {
+      "code": "01647",
+      "title": "Zusatzpauschale zu den Versichertenpauschalen der Kapitel 3 und 4, den Grundpauschalen der Kapitel 5 bis 11, 13 bis 16, 18, 20 bis 23, 26 und 27, zu den Konsiliarpauschalen der Kapitel 12, 17, 19, 24 und 25, den Gebührenordnungspositionen 01320, 01321, 01436 und 30700 und den Leistungen des Abschnitts 1.7 (ausgenommen in-vitrodiagnostische Leistungen) im Zusammenhang mit der elektronischen Patientenakte",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 1.91,
+        "valuation_in_points": 15
+      },
+      "mandatory_services": "- Erfassung und/oder Verarbeitung und/oder Speicherung von Daten nach § 341 Absatz 2 Nrn. 1 bis 5 und 10 bis 13 SGB V aus dem aktuellen Behandlungskontext für eine einrichtungs-, fach- und sektorenübergreifende Dokumentation über den Patienten in der elektronischen Patientenakte,\n- Prüfung, ob erhebliche therapeutische Gründe oder sonstige erhebliche Rechte Dritter einer Übermittlung in die elektronische Patientenakte entgegenstehen,\n- Prüfung und ggf. Ergänzung der zu den Dokumenten gehörenden Metadaten,",
+      "facultative_services": "- Einholung der Zugriffsberechtigung vom Patienten zur Datenverarbeitung in dessen elektronischer Patientenakte,",
+      "billing_info": "einmal im Behandlungsfall Die Gebührenordnungsposition 01647 ist im Behandlungsfall nicht neben der Gebührenordnungsposition 01648 berechnungsfähig."
+    },
+    {
+      "code": "01648",
+      "title": "Sektorenübergreifende Erstbefüllung einer elektronischen Patientenakte",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 11.34,
+        "valuation_in_points": 89
+      },
+      "mandatory_services": "- Speicherung von Daten gemäß der ePA-Erstbefüllungsvereinbarung nach § 346 Absatz 5 SGB V in der elektronischen Patientenakte,\n- Prüfung, ob erhebliche therapeutische Gründe oder sonstige erhebliche Rechte Dritter einer Übermittlung in die elektronische Patientenakte entgegenstehen,\n- Prüfung und ggf. Ergänzung der zu den Dokumenten gehörenden Metadaten,",
+      "facultative_services": "- Einholung der Zugriffsberechtigung vom Patienten zur Datenverarbeitung in dessen elektronischer Patientenakte,\n- Erfassung und/oder Verarbeitung und/oder Speicherung von (weiteren) Daten nach § 341 Absatz 2 Nrn. 1 bis 5 und 10 bis 13 SGB V aus dem aktuellen Behandlungskontext für eine einrichtungs-, fach- und sektorenübergreifende Dokumentation über den Patienten in der elektronischen Patientenakte im selben Behandlungsfall,",
+      "billing_info": "einmalig je Versicherten Die Gebührenordnungsposition 01648 ist im Behandlungsfall nicht neben der Gebührenordnungsposition 01647 berechnungsfähig."
+    },
+    {
+      "code": "01670",
+      "title": "Zuschlag im Zusammenhang mit den Versicherten-, Grund- oder Konsiliarpauschalen für die Einholung eines Telekonsiliums",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 14.01,
+        "valuation_in_points": 110
+      },
+      "mandatory_services": "- Beschreibung der medizinischen Fragestellung,\n- Zusammenstellung und elektronische Übermittlung aller für die telekonsiliarische Beurteilung der patientenbezogenen, medizinischen Fragestellung relevanten Informationen,\n- Einholung der Einwilligung des Patienten bzw. Überprüfung des Vorliegens einer Einwilligung,",
+      "facultative_services": "- Abstimmung mit dem konsiliarisch tätigen Arzt, Zahnarzt bzw. Psychotherapeuten, zweimal im Behandlungsfall Die Beauftragung nach Nr. 6 des Abschnitts 1.6 ist gemäß der Vereinbarung nach § 367 SGB V über technische Verfahren zu telemedizinischen Konsilien (Telekonsilien-Vereinbarung) vorzunehmen.",
+      "billing_info": "Die Gebührenordnungsposition 01670 ist nicht neben der Gebührenordnungsposition 34371 berechnungsfähig. Die Gebührenordnungsposition 01670 ist am Behandlungstag nicht neben den Gebührenordnungspositionen des Abschnitts 34.8 berechnungsfähig. Die Gebührenordnungsposition 01670 ist im Behandlungsfall nicht neben den Gebührenordnungspositionen 01671 und 01672 berechnungsfähig."
+    },
+    {
+      "code": "01671",
+      "title": "Telekonsiliarische Beurteilung einer medizinischen Fragestellung",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 16.31,
+        "valuation_in_points": 128
+      },
+      "mandatory_services": "- Konsiliarische Beurteilung der medizinischen Fragestellung gemäß der Gebührenordnungsposition 01670 bzw. der entsprechenden Leistung nach dem Bewertungsmaßstab zahnärztlicher Leistungen,\n- Erstellung eines schriftlichen Konsiliarberichtes und elektronische Übermittlung an den das Telekonsilium einholenden Vertragsarzt oder Vertragszahnarzt,\n- Dauer mindestens 10 Minuten,",
+      "facultative_services": "- Abstimmung mit dem das Telekonsilium einholenden Vertragsarzt oder Vertragszahnarzt,",
+      "billing_info": "einmal im Arztgruppenfall Die Durchführung des Telekonsiliums ist gemäß der Vereinbarung nach § 367 SGB V über technische Verfahren zu telemedizinischen Konsilien (Telekonsilien-Vereinbarung) vorzunehmen. Die Gebührenordnungsposition 01671 ist nicht neben der Gebührenordnungsposition 34371 berechnungsfähig. Die Gebührenordnungsposition 01671 ist am Behandlungstag nicht neben der Gebührenordnungsposition 37714 und nicht neben den Gebührenordnungspositionen des Abschnitts 34.8 berechnungsfähig. Die Gebührenordnungsposition 01671 ist im Behandlungsfall nicht neben der Gebührenordnungsposition 01670 berechnungsfähig."
+    },
+    {
+      "code": "01672",
+      "title": "Zuschlag zur Gebührenordnungsposition 01671 für die Fortsetzung der telekonsiliarischen Beurteilung",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 8.28,
+        "valuation_in_points": 65
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "je weitere vollendete 5 Minuten, bis zu dreimal im Arztgruppenfall Die Gebührenordnungsposition 01672 ist nicht neben der Gebührenordnungsposition 34371 berechnungsfähig. Die Gebührenordnungsposition 01672 ist am Behandlungstag nicht neben den Gebührenordnungspositionen des Abschnitts 34.8 berechnungsfähig. Die Gebührenordnungsposition 01672 ist im Behandlungsfall nicht neben der Gebührenordnungsposition 01670 berechnungsfähig."
+    },
+    {
+      "code": "01681",
+      "title": "Meldung von Anhaltspunkten einer möglichen Kindeswohlgefährdung an das Jugendamt im Rahmen von Kooperationsvereinbarungen zum Kinder- und Jugendschutz",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 13.0,
+        "valuation_in_points": 102
+      },
+      "mandatory_services": "- Erstellung und Übermittlung der Anhaltspunkte einer möglichen Kindeswohlgefährdung an das Jugendamt anhand des Meldebogens gemäß der in der jeweiligen KV geschlossenen Kooperationsvereinbarung nach § 73c SGB V mit mindestens\n- Beschreibung der Anhaltspunkte und Darstellung der Beobachtungen,\n- Beschreibung ggf. bereits erfolgter Maßnahmen zur Abwendung der Kindeswohlgefährdung,\n- Angaben zum ggf. bereits erfolgten Einbezug weiterer Stellen,",
+      "facultative_services": "- Anonyme Besprechung der Anhaltspunkte mit zuständigen Stellen,\n- Übergabe von Kontaktinformationen forensischer Stellen zur Durchführung einer forensischen Dokumentation,\n- Empfang und Verarbeitung einer Rückmeldung des Jugendamtes gemäß der in der jeweiligen KV geschlossenen Kooperationsvereinbarung nach § 73c SGB V zum weiteren Fortgang des Verfahrens der Gefährdungseinschätzung,",
+      "billing_info": "einmal im Behandlungsfall"
+    },
+    {
+      "code": "01682",
+      "title": "Fallbesprechung mit dem Jugendamt im Rahmen von Kooperationsvereinbarungen zum Kinder- und Jugendschutz",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 16.31,
+        "valuation_in_points": 128
+      },
+      "mandatory_services": "- Patientenorientierte Fallbesprechung zur Gefährdungseinschätzung im Rahmen von Kooperationsvereinbarungen zum Kinder- und Jugendschutz nach § 73c SGB V,",
+      "facultative_services": null,
+      "billing_info": "je vollendete 10 Minuten Die Gebührenordnungsposition 01682 ist höchstens achtmal im Krankheitsfall berechnungsfähig. Die Fallbesprechung nach der Gebührenordnungsposition 01682 kann persönlich, telefonisch oder im Rahmen einer Videofallkonferenz durchgeführt werden. Bei Durchführung der Leistung als Videofallkonferenz ist dies durch Angabe einer bundeseinheitlich kodierten Zusatzkennzeichnung zu dokumentieren. Für die Abrechnung gelten die Anforderungen gemäß Anlage 31b zum BMV-Ä entsprechend. Die Fallbesprechung nach der Gebührenordnungsposition 01682 kann nur berechnet werden, wenn diese vom Jugendamt initiiert worden ist. 1.7 Gesundheits- und Früherkennungsuntersuchungen, Mutterschaftsvorsorge, Empfängnisregelung, Schwangerschaftsabbruch, HIV-Präexpositionsprophylaxe und RSV- Prophylaxe 1. Für die Berechnung der in diesem Abschnitt genannten Gebührenordnungspositionen sind - mit Ausnahme der Gebührenordnungspositionen der Abschnitte 1.7.8 und 1.7.10 - die entsprechenden Richtlinien des Gemeinsamen Bundesausschusses maßgeblich. 2. Die gemäß diesen Richtlinien vorgeschriebenen (Bild-) Dokumentationen, notwendigen Bescheinigungen und Ultraschalluntersuchungen sind - soweit sie nicht gesondert in diesem Abschnitt aufgeführt sind - Bestandteil der Gebührenordnungspositionen. 3. Die Gebührenordnungspositionen der Abschnitte 1.7.4, 1.7.5 und 1.7.7 - mit Ausnahme der Gebührenordnungspositionen 01776, 01777, 01783, 01788 bis 01790, 01793 bis 01796, 01799, 01800, 01802 bis 01812, 01816, 01820 bis 01824, 01826, 01828, 01833, 01840 bis 01842, 01869, 01870, 01900, 01903, 01913, 01915 - sind vorbehaltlich der Regelung in Nummer 4 nur von Fachärzten für Frauenheilkunde berechnungsfähig. Die Gebührenordnungspositionen 01852, 01856, 01869, 01870, 01903 und 01913 sind nicht von Fachärzten für Frauenheilkunde berechnungsfähig. Die Gebührenordnungspositionen 01910 und 01911 können von allen Vertragsärzten - soweit dies berufsrechtlich zulässig ist - berechnet werden. Haben an der Erbringung der Gebührenordnungspositionen 01910 und 01911 mehrere Ärzte mitgewirkt, so hat der die Gebührenordnungsposition 01910 oder 01911 abrechnende Arzt in einer der Quartalsabrechnung beizufügenden und von ihm zu unterzeichnenden Erklärung zu bestätigen, dass er mit den anderen Ärzten eine Vereinbarung darüber getroffen hat, wonach nur er allein in den jeweiligen Fällen diese Gebührenordnungsposition abrechnet. 4. Die Gebührenordnungspositionen 01793 bis 01796, 01841 und 01842 sind nur von Ärzten berechnungsfähig, die berechtigt sind, Gebührenordnungspositionen des Kapitels 11 abzurechnen. 5. Die Berechnung der Gebührenordnungspositionen 01738, 01763, 01767, 01769, 01783, 01800, 01802 bis 01811, 01816, 01833, 01840, 01865 bis 01867, 01869, 01915 und 01931 bis 01936 setzt eine Genehmigung der Kassenärztlichen Vereinigung nach der Qualitätssicherungsvereinbarung Spezial-Labor gemäß § 135 Abs. 2 SGB V voraus. 6. Für die Berechnung der Gebührenordnungspositionen 01852, 01856, 01857, 01903 und 01913 sind die Bestimmungen des Kapitels 5 maßgeblich. 7. Sind neben den Gebührenordnungspositionen dieses Abschnitts weitere ärztliche Leistungen gemäß den Richtlinien des Gemeinsamen Bundesausschusses notwendig, so sind diese nach den übrigen Gebührenordnungspositionen anzusetzen. 8. In einem ausschließlich präventiv-ambulanten Behandlungsfall sind die Versicherten-, Grund- oder Konsiliarpauschalen von den in der Präambel der entsprechenden arztgruppenspezifischen oder arztgruppenübergreifenden Kapitel genannten Vertragsärzten nicht berechnungsfähig."
+    },
+    {
+      "code": "01702",
+      "title": "Beratung im Rahmen des Pulsoxymetrie-Screenings gemäß Abschnitt C Kapitel V der Kinder-Richtlinie des Gemeinsamen Bundesausschusses",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 3.57,
+        "valuation_in_points": 28
+      },
+      "mandatory_services": "- Aufklärung der Eltern (mindestens eines Personensorgeberechtigten) des Neugeborenen zu Sinn, Zweck und Ziel des Pulsoxymetrie-Screenings,\n- Aushändigung des Informationsblattes gemäß Anlage 6 der Kinder- Richtlinie (Elterninformation zum Pulsoxymetrie-Screening)",
+      "facultative_services": null,
+      "billing_info": "Die Gebührenordnungsposition 01702 kann bis zur U2, sofern noch kein Pulsoxymetrie-Screening im Kinderuntersuchungsheft dokumentiert ist, berechnet werden. Die Gebührenordnungspositionen 01702 und 01703 sind nicht bei demselben Neugeborenen berechnungsfähig."
+    },
+    {
+      "code": "01703",
+      "title": "Pulsoxymetrie-Screening gemäß Abschnitt C Kapitel V der Kinder- Richtlinie des Gemeinsamen Bundesausschusses",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 20.0,
+        "valuation_in_points": 157
+      },
+      "mandatory_services": "- Persönlicher Arzt-Patienten-Kontakt,\n- Funktionelle Pulsoxymetrie am Fuß,\n- Dokumentation des Pulsoxymetrie-Screenings im Kinderuntersuchungsheft",
+      "facultative_services": "- Aufklärung und Beratung der Eltern (mindestens eines Personensorgeberechtigten) des Neugeborenen zu Sinn, Zweck und Ziel des Pulsoxymetrie-Screenings,\n- Aushändigung des Informationsblattes gemäß Anlage 6 der Kinder- Richtlinie (Elterninformation zum Pulsoxymetrie-Screening),\n- Funktionelle Pulsoxymetrie am Fuß innerhalb von 2 Stunden nach einem kontrollbedürftigen Messergebnis der Erstmessung,\n- Bei positivem Screeningergebnis Veranlassung der Abklärungsdiagnostik bei einem Facharzt für Kinder- und Jugendmedizin möglichst mit der Schwerpunktbezeichnung Kinderkardiologie oder Neonatologie,\n- Dokumentation der Kontrollmessung im Kinderuntersuchungsheft",
+      "billing_info": "Die Gebührenordnungsposition 01703 kann bis zur U2, sofern noch kein Pulsoxymetrie-Screening im Kinderuntersuchungsheft dokumentiert ist, berechnet werden. Die Gebührenordnungspositionen 01702 und 01703 sind nicht bei demselben Neugeborenen berechnungsfähig."
+    },
+    {
+      "code": "01704",
+      "title": "Zuschlag für die Beratung im Rahmen des Neugeborenen- Hörscreenings gemäß Abschnitt C Kapitel IV der Kinder-Richtlinie des Gemeinsamen Bundesausschusses im Zusammenhang mit der Erbringung der Gebührenordnungsposition 01711",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 3.57,
+        "valuation_in_points": 28
+      },
+      "mandatory_services": "- Aufklärung der Eltern (mindestens eines Personensorgeberechtigten) des Neugeborenen zu Sinn, Zweck und Ziel des Neugeborenen-Hörscreenings,\n- Aushändigung des Informationsblattes gemäß Anlage 5 der Kinder- Richtlinie (Merkblatt des G-BA zum Neugeborenen-Hörscreening) Die Beratung zum Neugeborenen-Hörscreening soll möglichst vor dem 2. Lebenstag des Neugeborenen erfolgen.",
+      "facultative_services": null,
+      "billing_info": "Die Gebührenordnungsposition 01704 ist im Krankheitsfall nicht neben den Gebührenordnungspositionen 01705 und 01706 berechnungsfähig."
+    },
+    {
+      "code": "01707",
+      "title": "Erweitertes Neugeborenen-Screening gemäß Abschnitt C Kapitel I und II der Kinder-Richtlinie des Gemeinsamen Bundesausschusses",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 23.44,
+        "valuation_in_points": 184
+      },
+      "mandatory_services": "- Eingehende Aufklärung der Eltern bzw. der (des) Personensorgeberechtigten des Neugeborenen zu Sinn, Zweck und Ziel des erweiterten Neugeborenen-Screenings gemäß Abschnitt C Kapitel I und des Screenings auf Mukoviszidose gemäß Abschnitt C Kapitel II,\n- Aushändigung des Informationsblattes gemäß Anlage 3 der Kinder-Richtlinie (Elterninformation zum erweiterten Neugeborenen- Screening),\n- Aushändigung des Informationsblattes gemäß Anlage 2 der Kinder- Richtlinie (Elterninformation zum Screening auf Mukoviszidose)",
+      "facultative_services": "- Probenentnahme(n) von nativem Venen- oder Fersenblut als erste Blutprobe oder Kontrollblutprobe mit Probenaufbereitung im Rahmen des erweiterten Neugeborenen-Screenings und im Rahmen des Screenings auf Mukoviszidose gemäß Abschnitt C Kapitel I und II der Kinder-Richtlinie, ggf. in einer anderen Sitzung,\n- Screeningdokumentation gemäß Anlage 4 der Kinder-Richtlinie,\n- Versendung an das Screening-Labor",
+      "billing_info": "Die Gebührenordnungsposition 01707 kann bis zur U3, sofern noch kein Erweitertes Neugeborenen-Screening im Kinderuntersuchungsheft dokumentiert ist, berechnet werden. Neben der Gebührenordnungsposition 01707 können für die Versendung des Untersuchungsmaterials an das Screening-Labor die Kostenpauschale 40110 sowie der Zuschlag 40102 des Kapitels 40 berechnet werden. Die Gebührenordnungsposition 01707 ist im Behandlungsfall nicht neben der Gebührenordnungsposition 01709 berechnungsfähig."
+    },
+    {
+      "code": "01709",
+      "title": "Screening auf Mukoviszidose gemäß Abschnitt C Kapitel II der Kinder-Richtlinie des Gemeinsamen Bundesausschusses",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 6.37,
+        "valuation_in_points": 50
+      },
+      "mandatory_services": "- Eingehende Aufklärung der Eltern bzw. der (des) Personensorgeberechtigten des Neugeborenen zu Sinn, Zweck und Ziel des Screenings auf Mukoviszidose,\n- Aushändigung des Informationsblattes gemäß Anlage 2 der Kinder- Richtlinie (Elterninformation zum Screening auf Mukoviszidose)",
+      "facultative_services": "- Probenentnahme von nativem Venen- oder Fersenblut mit Probenaufbereitung im Rahmen des Screenings auf Mukoviszidose, ggf. in einer anderen Sitzung,\n- Screeningdokumentation gemäß Anlage 4 der Kinder-Richtlinie,\n- Versendung an das Screening-Labor",
+      "billing_info": "Die Gebührenordnungsposition 01709 kann bis zum vollendeten 28. Lebenstag, sofern noch kein Screening auf Mukoviszidose im Kinderuntersuchungsheft dokumentiert ist, berechnet werden. Neben der Gebührenordnungsposition 01709 können für die Versendung des Untersuchungsmaterials an das Screening-Labor die Kostenpauschale 40110 sowie der Zuschlag 40102 des Kapitels 40 berechnet werden. Die Gebührenordnungsposition 01709 ist im Behandlungsfall nicht neben der Gebührenordnungsposition 01707 berechnungsfähig."
+    },
+    {
+      "code": "01710",
+      "title": "Zusatzpauschale für die Durchführung von Früherkennungsuntersuchungen bei Kindern aufgrund einer TSS- Vermittlung gemäß Allgemeiner Bestimmung 4.3.10.1",
+      "valuation": {
+        "type": "categorized",
+        "category_type": "tss_interval",
+        "categories": [
+          {
+            "label": "TSS-Terminfall, gleicher bis 4. Kalendertag",
+            "valuation_in_euro": 27.63,
+            "valuation_in_points": 217
+          },
+          {
+            "label": "TSS-Terminfall, 5. bis 14. Kalendertag",
+            "valuation_in_euro": 22.03,
+            "valuation_in_points": 173
+          },
+          {
+            "label": "TSS-Terminfall, 15. bis 35. Kalendertag",
+            "valuation_in_euro": 11.08,
+            "valuation_in_points": 87
+          }
+        ]
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "einmal im Arztgruppenfall Die Gebührenordnungsposition 01710 kann durch die zuständige Kassenärztliche Vereinigung zugesetzt werden. Die Gebührenordnungsposition 01710 ist nicht berechnungsfähig, wenn der vermittelte Patient bei der die Früherkennungsuntersuchung durchführenden Arztgruppe derselben Praxis in demselben Quartal bereits behandelt wurde. Die Gebührenordnungsposition 01710 ist am Behandlungstag nicht neben einer Versicherten- oder Grundpauschale berechnungsfähig. Die Gebührenordnungsposition 01710 ist im Arztgruppenfall nicht neben den Gebührenordnungspositionen 01322, 01323, 03010, 04010, 05228, 06228, 07228, 08228, 09228, 10228, 11228, 13228, 13298, 13348, 13398, 13498, 13548, 13598, 13648, 13698, 14218, 15228, 16228, 17228, 18228, 20228, 21236, 21237, 22228, 23228, 23229, 24228, 25228 bis 25230, 26228, 27228 und 30705 berechnungsfähig."
+    },
+    {
+      "code": "01711",
+      "title": "Neugeborenen-Erstuntersuchung (U1)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 16.05,
+        "valuation_in_points": 126
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": null
+    },
+    {
+      "code": "01712",
+      "title": "Neugeborenen-Basisuntersuchung am 3. bis 10. Lebenstag (U2), einschließlich der Überprüfung der erfolgten Blutentnahme zum erweiterten Neugeborenen-Screening",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 51.09,
+        "valuation_in_points": 401
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": null
+    },
+    {
+      "code": "01713",
+      "title": "Untersuchung in der 4. bis 5. Lebenswoche (U3)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 51.22,
+        "valuation_in_points": 402
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": null
+    },
+    {
+      "code": "01714",
+      "title": "Untersuchung im 3. bis 4. Lebensmonat (U4)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 51.22,
+        "valuation_in_points": 402
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": null
+    },
+    {
+      "code": "01715",
+      "title": "Untersuchung im 6. bis 7. Lebensmonat (U5)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 51.22,
+        "valuation_in_points": 402
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": null
+    },
+    {
+      "code": "01716",
+      "title": "Untersuchung im 10. bis 12. Lebensmonat (U6)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 51.22,
+        "valuation_in_points": 402
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": null
+    },
+    {
+      "code": "01717",
+      "title": "Untersuchung im 21. bis 24. Lebensmonat (U7)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 51.22,
+        "valuation_in_points": 402
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": null
+    },
+    {
+      "code": "01718",
+      "title": "Untersuchung im 46. bis 48. Lebensmonat (U8)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 51.22,
+        "valuation_in_points": 402
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": null
+    },
+    {
+      "code": "01719",
+      "title": "Untersuchung im 60. bis 64. Lebensmonat (U9)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 51.22,
+        "valuation_in_points": 402
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": null
+    },
+    {
+      "code": "01720",
+      "title": "Jugendgesundheitsuntersuchung (J1)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 45.36,
+        "valuation_in_points": 356
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": null
+    },
+    {
+      "code": "01721",
+      "title": "Besuch im Rahmen einer Kinderfrüherkennungsuntersuchung nach den Gebührenordnungspositionen 01711 und 01712",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 25.23,
+        "valuation_in_points": 198
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Die Gebührenordnungsposition 01721 kann im Rahmen einer Kinderfrüherkennungsuntersuchung nach der Gebührenordnungsposition 01712 im Belegkrankenhaus durch einen Facharzt für Kinder- und Jugendmedizin an demselben Tag nur einmal berechnet werden, auch wenn bei mehreren Kindern eine Früherkennungsuntersuchung durchgeführt wird. Die Gebührenordnungsposition 01721 ist nicht neben den Gebührenordnungspositionen 01410 bis 01415 und 01418 berechnungsfähig."
+    },
+    {
+      "code": "01722",
+      "title": "Sonographische Untersuchung der Säuglingshüften entsprechend der Durchführungsempfehlung nach Abschnitt C Kapitel III der Kinder-Richtlinie",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 21.66,
+        "valuation_in_points": 170
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Die Berechnung der Gebührenordnungsposition 01722 setzt eine Genehmigung der Kassenärztlichen Vereinigung nach der Ultraschall- Vereinbarung gemäß § 135 Abs. 2 SGB V voraus. Die Gebührenordnungsposition 01722 ist nicht neben den Gebührenordnungspositionen 33050 und 33051 berechnungsfähig. Laboruntersuchungen gemäß Abschnitt C Kapitel I und II der Kinder-Richtlinie, einschließlich der Befundübermittlung und Trackingverfahren, gilt für die Gebührenordnungspositionen 01724 bis 01727, je Untersuchung"
+    },
+    {
+      "code": "01723",
+      "title": "Untersuchung im 34. bis 36. Lebensmonat (U7a)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 51.22,
+        "valuation_in_points": 402
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Die Gebührenordnungspositionen 01711 bis 01717 und 01719 sind nicht neben den Gebührenordnungspositionen 03350, 03351, 04350 bis 04353, 22230, 27310 und 27311 berechnungsfähig. Die Gebührenordnungsposition 01718 ist nicht neben den Gebührenordnungspositionen 03335, 03350, 03351, 04335, 04350 bis 04353, 22230, 27310 und 27311 berechnungsfähig. Die Gebührenordnungsposition 01720 ist nicht neben den Gebührenordnungspositionen 03351, 04352, 04353 und 27310 berechnungsfähig. Die Gebührenordnungsposition 01723 ist nicht neben den Gebührenordnungspositionen 03350, 03351, 04350, 04351, 04353, 22230, 27310 und 27311 berechnungsfähig. Die Gebührenordnungspositionen 01711 bis 01720 und 01723 sind im Behandlungsfall nicht neben der Gebührenordnungsposition 04431 berechnungsfähig."
+    },
+    {
+      "code": "01731",
+      "title": "Untersuchung zur Früherkennung von Krebserkrankungen beim Mann gemäß Abschnitt C. § 25 der Krebsfrüherkennungs-Richtlinie",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 18.35,
+        "valuation_in_points": 144
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": null
+    },
+    {
+      "code": "01732",
+      "title": "Gesundheitsuntersuchung bei Erwachsenen ab dem vollendeten 18. Lebensjahr gemäß Teil B I. der Gesundheitsuntersuchungs- Richtlinie Im Zusammenhang mit der Gebührenordnungsposition 01732 sind die Gebührenordnungspositionen 32880 bis 32882 in Abhängigkeit der in Anlage 1 der Gesundheitsuntersuchungs-Richtlinie jeweils geforderten Laboruntersuchungen berechnungsfähig.",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 41.53,
+        "valuation_in_points": 326
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Die Gebührenordnungsposition 01732 ist nicht neben den Gebührenordnungspositionen 27310, 32025, 32033, 32057, 32060 bis 32063 und 37800 berechnungsfähig. Die Gebührenordnungsposition 01732 ist im Behandlungsfall nicht neben der Gebührenordnungsposition 01745 berechnungsfähig."
+    },
+    {
+      "code": "01734",
+      "title": "Zuschlag zur Gebührenordnungsposition 01732 für das Screening auf Hepatitis-B- und/oder auf Hepatitis-C-Virusinfektion gemäß Teil B. III. der Gesundheitsuntersuchungs-Richtlinie",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 5.22,
+        "valuation_in_points": 41
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Die Gebührenordnungsposition 01734 ist bei Versicherten ab dem vollendeten 35. Lebensjahr einmalig berechnungsfähig."
+    },
+    {
+      "code": "01735",
+      "title": "Beratung gemäß § 4 der Richtlinie des Gemeinsamen Bundesausschusses zur Umsetzung der Regelungen in § 62 SGB V für schwerwiegend chronisch Erkrankte (\"Chroniker-Richtlinie\") zu Früherkennungsuntersuchungen für nach dem 1. April 1987 geborene Frauen",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 13.12,
+        "valuation_in_points": 103
+      },
+      "mandatory_services": "- Beratung gemäß § 4 der Richtlinie des Gemeinsamen über die Teilnahme und Motivation zur Teilnahme am Programm zur Früherkennung von Krebserkrankungen bei der Frau gemäß Abschnitt B. II. § 6 der Krebsfrüherkennungs-Richtlinie,\n- Information über Inhalt, Ziel und Zweck des Programms, Häufigkeit und Krankheitsbild, Effektivität und Wirksamkeit der Früherkennungsmaßnahme,\n- Information über Nachteile, Risiken und Vorgehensweise bei einem positiven Befund,\n- Ausgabe des krankheitsbezogenen Merkblattes des Gemeinsamen Bundesausschusses,\n- Ausstellung der Bescheinigung",
+      "facultative_services": null,
+      "billing_info": "Die Gebührenordnungsposition 01735 kann gemäß Richtlinie nur von Ärzten berechnet werden, die berechtigt sind, die entsprechenden Untersuchungen durchzuführen. Die Gebührenordnungsposition 01735 kann gemäß Richtlinie nur einmalig im Zeitraum von 2 Jahren nach Erreichen der Anspruchsberechtigung berechnet werden. Bis zur Vereinbarung des Dokumentationsvordrucks für die Dokumentation gemäß § 4 der Chroniker-Richtlinie kann die Bescheinigung auf Muster 16 erfolgen. Im Quartal der Berechnung der Gebührenordnungsposition 01735 und im Folgequartal sind die Gebührenordnungspositionen 01760 und 01761 nicht berechnungsfähig. Die Gebührenordnungsposition 01735 ist nicht neben den Gebührenordnungspositionen 01620 und 01621 berechnungsfähig."
+    },
+    {
+      "code": "01737",
+      "title": "Ausgabe und Weiterleitung eines Stuhlprobenentnahmesystems gemäß Teil II. § 6 der Richtlinie für organisierte Krebsfrüherkennungsprogramme (oKFE-RL), inkl. Beratung",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 7.26,
+        "valuation_in_points": 57
+      },
+      "mandatory_services": "- Ausgabe und Rücknahme des Stuhlprobenentnahmesystems,\n- Veranlassung der Untersuchung der Stuhlprobe auf occultes Blut im Stuhl",
+      "facultative_services": null,
+      "billing_info": "Die Gebührenordnungsposition 01737 ist im Behandlungsfall nicht neben der Gebührenordnungsposition 32457 berechnungsfähig."
+    },
+    {
+      "code": "01740",
+      "title": "Beratung zur Früherkennung des kolorektalen Karzinoms gemäß Teil II. § 5 der Richtlinie für organisierte Krebsfrüherkennungsprogramme (oKFE-RL)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 14.78,
+        "valuation_in_points": 116
+      },
+      "mandatory_services": "- Einmalige Beratung frühzeitig nach Vollendung des 50. Lebensjahres anhand der Versicherteninformation über Ziel und Zweck des Programms zur Früherkennung von Darmkrebs",
+      "facultative_services": null,
+      "billing_info": null
+    },
+    {
+      "code": "01745",
+      "title": "Früherkennungsuntersuchung auf Hautkrebs gemäß Abschnitt D. II. der Krebsfrüherkennungs-Richtlinie",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 32.23,
+        "valuation_in_points": 253
+      },
+      "mandatory_services": "- Anamnese,\n- Visuelle Ganzkörperinspektion der gesamten Haut einschließlich des behaarten Kopfes sowie aller Intertrigines,\n- Befundmitteilung einschließlich diesbezüglicher Beratung,\n- Dokumentation gemäß Abschnitt D. II. der Krebsfrüherkennungs- Richtlinie",
+      "facultative_services": "- Beratung über weitergehende Maßnahmen,\n- Auflichtmikroskopie/Dermatoskopie Erfolgt die Erstuntersuchung nicht durch einen Facharzt für Haut- und Geschlechtskrankheiten, so muss der Patient im Falle eines auffälligen Befundes zur Zweituntersuchung an einen entsprechenden Facharzt weitergeleitet werden. Die visuelle Untersuchung mittels vergrößernden Sehhilfen ist Bestandteil der Gebührenordnungsposition 01745.",
+      "billing_info": "Die Gebührenordnungsposition 01745 ist im Behandlungsfall nicht neben den Gebührenordnungspositionen 01732 und 01746 berechnungsfähig."
+    },
+    {
+      "code": "01746",
+      "title": "Zuschlag zur Gebührenordnungsposition 01732 für die Früherkennungsuntersuchung auf Hautkrebs gemäß Abschnitt D. II. der Krebsfrüherkennungs-Richtlinie",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 26.63,
+        "valuation_in_points": 209
+      },
+      "mandatory_services": "- Anamnese,\n- Visuelle Ganzkörperinspektion der gesamten Haut einschließlich des behaarten Kopfes sowie aller Intertrigines,\n- Befundmitteilung einschließlich diesbezüglicher Beratung,\n- Dokumentation gemäß Abschnitt D. II. der Krebsfrüherkennungs- Richtlinie",
+      "facultative_services": "- Beratung über weitergehende Maßnahmen,\n- Auflichtmikroskopie/Dermatoskopie Die visuelle Untersuchung mittels vergrößernden Sehhilfen ist Bestandteil der Gebührenordnungsposition 01746.",
+      "billing_info": "Die Gebührenordnungsposition 01746 ist im Behandlungsfall nicht neben der Gebührenordnungsposition 01745 berechnungsfähig."
+    },
+    {
+      "code": "01747",
+      "title": "Beratung zum Ultraschallscreening auf Bauchaortenaneurysmen gemäß Teil B. II. der Gesundheitsuntersuchungs-Richtlinie (GU-RL)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 10.45,
+        "valuation_in_points": 82
+      },
+      "mandatory_services": "- Persönlicher Arzt-Patienten-Kontakt,\n- Ausgabe der Versicherteninformation gemäß Anlage 3 zur GU-RL,\n- Ärztliche Aufklärung zum Screening auf Bauchaortenaneurysmen",
+      "facultative_services": "- Veranlassung einer sonographischen Untersuchung der Bauchaorta gemäß Teil B. II. § 4 der GU-RL",
+      "billing_info": "Die Gebührenordnungsposition 01747 ist bei männlichen Patienten ab dem Alter von 65 Jahren einmalig berechnungsfähig."
+    },
+    {
+      "code": "01748",
+      "title": "Sonographische Untersuchung auf Bauchaortenaneurysmen gemäß Teil B. II. der Gesundheitsuntersuchungs-Richtlinie (GU-RL)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 15.8,
+        "valuation_in_points": 124
+      },
+      "mandatory_services": "- Sonographische Untersuchung der Bauchaorta gemäß Teil B. II. § 4 der GU-RL",
+      "facultative_services": "- Aufklärung und Beratung zu Behandlungsmöglichkeiten bei auffälligem Befund",
+      "billing_info": "Die Berechnung der Gebührenordnungsposition 01748 setzt eine Genehmigung der Kassenärztlichen Vereinigung nach der Ultraschall- Vereinbarung gemäß § 135 Abs. 2 SGB V voraus. Die Gebührenordnungsposition 01748 ist bei männlichen Patienten ab dem Alter von 65 Jahren einmalig berechnungsfähig. Sofern die Gebührenordnungsposition 01748 neben der Gebührenordnungsposition 33042 berechnet wird, ist ein Abschlag von 70 Punkten auf die Gebührenordnungsposition 33042 vorzunehmen. Sofern die Gebührenordnungsposition 01748 neben der Gebührenordnungsposition 33043 berechnet wird, ist ein Abschlag von 7 Punkten auf die Gebührenordnungsposition 33043 vorzunehmen. Die Gebührenordnungsposition 01748 ist am Behandlungstag nicht neben den Gebührenordnungspositionen 31682 bis 31689, 33040 und 33081 berechnungsfähig."
+    },
+    {
+      "code": "01758",
+      "title": "Teilnahme an einer multidisziplinären Fallkonferenz gemäß § 13 der Anlage 9.2 des Bundesmantelvertrags-Ärzte (BMV-Ä), ggf. auch Teilnahme des behandelnden Frauen- und Hausarztes",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 10.96,
+        "valuation_in_points": 86
+      },
+      "mandatory_services": "- Teilnahme an einer multidisziplinären Fallkonferenz Behandelnde Frauen- und Hausärzte dürfen die Gebührenordnungsposition 01758 unter Angabe des programmverantwortlichen Arztes auch ohne Genehmigung durch die Kassenärztliche Vereinigung gemäß den Richtlinien des Gemeinsamen Bundesausschusses über die Früherkennung von Krebserkrankungen berechnen. Die Teilnahme der Frauen- und Hausärzte kann auch durch telefonische Zuschaltung erfolgen.",
+      "facultative_services": null,
+      "billing_info": "Die Gebührenordnungsposition 01758 ist nicht neben den Gebührenordnungspositionen 01442, 01443 und 37804 berechnungsfähig."
+    },
+    {
+      "code": "01760",
+      "title": "Untersuchung zur Früherkennung von Krebserkrankungen bei der Frau gemäß Abschnitt B. II. §§ 6 und 8 der Krebsfrüherkennungs- Richtlinie Im Quartal der Berechnung der Gebührenordnungsposition 01760 und im Folgequartal ist die Gebührenordnungsposition 01735 nicht berechnungsfähig.",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 20.26,
+        "valuation_in_points": 159
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Die Gebührenordnungsposition 01760 ist im Kalenderjahr nicht neben der Gebührenordnungsposition 01761 berechnungsfähig."
+    },
+    {
+      "code": "01761",
+      "title": "Untersuchung zur Früherkennung des Zervixkarzinoms gemäß Teil III. C. § 6 der Richtlinie für organisierte Krebsfrüherkennungsprogramme (oKFE-RL) Im Quartal der Berechnung der Gebührenordnungsposition 01761 und im Folgequartal ist die Gebührenordnungsposition 01735 nicht berechnungsfähig.",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 27.39,
+        "valuation_in_points": 215
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Die Gebührenordnungsposition 01761 ist nicht neben der Gebührenordnungsposition 01825 berechnungsfähig. Die Gebührenordnungsposition 01761 ist am Behandlungstag nicht neben der Gebührenordnungsposition 01764 berechnungsfähig. Die Gebührenordnungsposition 01761 ist im Kalenderjahr nicht neben der Gebührenordnungsposition 01760 berechnungsfähig."
+    },
+    {
+      "code": "01764",
+      "title": "Abklärungsdiagnostik gemäß Teil III. C. § 7 der Richtlinie für organisierte Krebsfrüherkennungsprogramme (oKFE-RL)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 11.85,
+        "valuation_in_points": 93
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Die Gebührenordnungsposition 01764 ist nicht neben der Gebührenordnungsposition 01825 berechnungsfähig. Die Gebührenordnungsposition 01764 ist am Behandlungstag nicht neben der Gebührenordnungsposition 01761 berechnungsfähig."
+    },
+    {
+      "code": "01776",
+      "title": "Vortest auf Gestationsdiabetes gemäß § 2 Abs. 11a der Richtlinie des Gemeinsamen Bundesausschusses (G-BA) über die ärztliche Betreuung während der Schwangerschaft und nach der Geburt (Mutterschafts-Richtlinie/Mu-RL)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 13.25,
+        "valuation_in_points": 104
+      },
+      "mandatory_services": "- Orale Gabe von 50 g Glukoselösung (unabhängig vom Zeitpunkt der letzten Mahlzeit),\n- Entnahme von Venenblut 1h nach Gabe von 50 g Glukoselösung,\n- Veranlassung der Bestimmung der Plasmaglukosekonzentration,\n- Beratung zum Gestationsdiabetes,\n- Dokumentation im Mutterpass,",
+      "facultative_services": "- Veranlassung eines zeitnah durchzuführenden oralen Glukosetoleranztests (oGTT) einschließlich diesbezüglicher Beratung der Schwangeren bei Überschreitung des dafür in der o.g. Richtlinie des G-BA aufgeführten unteren Grenzwerts,\n- Veranlassung der weiteren Betreuung der Schwangeren in enger Zusammenarbeit mit einem diabetologisch qualifizierten Arzt bei Überschreitung des in der o.g. Richtlinie des G-BA aufgeführten oberen Grenzwerts,",
+      "billing_info": "höchstens zweimal im Krankheitsfall Die Gebührenordnungsposition 01776 ist nur einmal je Schwangerschaft berechnungsfähig. In der Gebührenordnungsposition 01776 sind die Kosten für die Glukoselösung nicht enthalten."
+    },
+    {
+      "code": "01777",
+      "title": "Oraler Glukosetoleranztest (oGTT) zum Ausschluss/Nachweis eines Gestationsdiabetes gemäß § 2 Abs. 11a der Richtlinie des Gemeinsamen Bundesausschusses (G-BA) über die ärztliche Betreuung während der Schwangerschaft und nach der Geburt (Mutterschafts-Richtlinie/Mu-RL)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 15.03,
+        "valuation_in_points": 118
+      },
+      "mandatory_services": "- Orale Gabe von 75 g Glukoselösung nach Einhaltung von mindestens 8h Nahrungskarenz,\n- Dreimalige Entnahme von Venenblut (nüchtern, 1h sowie 2h nach Gabe der Glukoselösung),\n- Veranlassung der Bestimmung der Plasmaglukosekonzentration,\n- Beratung zum Gestationsdiabetes,\n- Dokumentation im Mutterpass,",
+      "facultative_services": "- Veranlassung der weiteren Betreuung der Schwangeren in enger Zusammenarbeit mit einem diabetologisch qualifizierten Arzt bei Überschreiten der in der o.g. Richtlinie des G-BA aufgeführten Grenzwerte,",
+      "billing_info": "höchstens zweimal im Krankheitsfall Die Gebührenordnungsposition 01777 ist nur einmal je Schwangerschaft berechnungsfähig. In der Gebührenordnungsposition 01777 sind die Kosten für die Glukoselösung nicht enthalten. Die Gebührenordnungsposition 01777 ist nur berechnungsfähig bei Schwangeren, deren Plasmaglukosekonzentration im Venenblut im Vortest auf Gestationsdiabetes nach der Gebührenordnungsposition 01776 in dem in der o.g. Richtlinie des G-BA für die Durchführung eines oGTT vorgesehenen Bereich lag."
+    },
+    {
+      "code": "01812",
+      "title": "Glukosebestimmung im venösen Plasma im Rahmen des Screenings auf Gestationsdiabetes nach den Gebührenordnungspositionen 01776 und 01777 zum Ausschluss/ Nachweis eines Gestationsdiabetes gemäß § 2 Abs. 11a der Richtlinie des Gemeinsamen Bundesausschusses (G-BA) über die ärztliche Betreuung während der Schwangerschaft und nach der Geburt(Mutterschafts-Richtlinie/Mu-RL)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 0.89,
+        "valuation_in_points": 7
+      },
+      "mandatory_services": "- Bestimmung der Plasmaglukosekonzentration im Venenblut mittels standardgerechter und qualitätsgesicherter Glukosemessmethodik,\n- Angabe des Messergebnisses als Glukosekonzentration im venösen Plasma,",
+      "facultative_services": null,
+      "billing_info": "je Untersuchung Die Gebührenordnungsposition 01812 ist am Behandlungstag nicht neben den Gebührenordnungspositionen 32025 und 32057 berechnungsfähig."
+    },
+    {
+      "code": "01820",
+      "title": "Ausstellung von Wiederholungsrezepten, Überweisungsscheinen oder Übermittlung von Befunden oder ärztlichen Anordnungen an den Patienten im Auftrag des Arztes durch das Praxispersonal, auch mittels technischer Kommunikationseinrichtungen, im Zusammenhang mit Empfängnisregelung, Sterilisation oder Schwangerschaftsabbruch",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 1.4,
+        "valuation_in_points": 11
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Die Gebührenordnungsposition 01820 ist - mit Ausnahme der Gebührenordnungsposition 01431 - nicht neben anderen Gebührenordnungspositionen und nicht mehrfach an demselben Tag berechnungsfähig."
+    },
+    {
+      "code": "01821",
+      "title": "Beratung im Rahmen der Empfängnisregelung",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 9.05,
+        "valuation_in_points": 71
+      },
+      "mandatory_services": "- Leistungen gemäß den Richtlinien zur Empfängnisregelung und zum Schwangerschaftsabbruch des Gemeinsamen Bundesausschusses,",
+      "facultative_services": null,
+      "billing_info": "einmal im Behandlungsfall Vertragsärzte im hausärztlichen Versorgungsbereich können die Gebührenordnungsposition 01821 berechnen, wenn sie nachweisen, dass sie diese Leistung bereits vor dem 31.12.2002 abgerechnet haben oder über eine mindestens einjährige gynäkologische Weiterbildung verfügen. Die Gebührenordnungsposition 01821 ist nicht neben den Gebührenordnungspositionen 01850 und 01900 berechnungsfähig. Die Gebührenordnungsposition 01821 ist im Behandlungsfall nicht neben der Gebührenordnungsposition 01822 berechnungsfähig."
+    },
+    {
+      "code": "01822",
+      "title": "Beratung einschließlich Untersuchung im Rahmen der Empfängnisregelung",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 14.4,
+        "valuation_in_points": 113
+      },
+      "mandatory_services": "- Leistungen gemäß den Richtlinien zur Empfängnisregelung und zum Schwangerschaftsabbruch des Gemeinsamen Bundesausschusses,\n- Beratung im Rahmen der Empfängnisregelung (Nr. 01821),\n- Untersuchung gemäß den Richtlinien zur Empfängnisregelung und zum Schwangerschaftsabbruch des Gemeinsamen Bundesausschusses,",
+      "facultative_services": null,
+      "billing_info": "höchstens zweimal im Krankheitsfall Vertragsärzte im hausärztlichen Versorgungsbereich können die Gebührenordnungsposition 01822 berechnen, wenn sie nachweisen, dass sie diese Leistung bereits vor dem 31.12.2002 abgerechnet haben oder über eine mindestens einjährige gynäkologische Weiterbildung verfügen. Die Gebührenordnungsposition 01822 ist nicht neben der Gebührenordnungsposition 01850 berechnungsfähig. Die Gebührenordnungsposition 01822 ist im Behandlungsfall nicht neben der Gebührenordnungsposition 01821 berechnungsfähig."
+    },
+    {
+      "code": "01823",
+      "title": "Zuschlag zu den Gebührenordnungspositionen 01821 und 01822 für die Beratung zum Chlamydienscreening gemäß Abschnitt B Nr. 6 der Richtlinie zur Empfängnisregelung und zum Schwangerschaftsabbruch des Gemeinsamen Bundesausschusses bei Patientinnen bis zum vollendeten 25. Lebensjahr",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 6.37,
+        "valuation_in_points": 50
+      },
+      "mandatory_services": "- Aufklärung zu Sinn, Zweck und Ziel einer Untersuchung auf genitale Chlamydia trachomatis-Infektionen (Chlamydien-Screening),\n- Aushändigung des Merkblattes gemäß Anlage I der Richtlinie zur Empfängnisregelung und zum Schwangerschaftsabbruch,",
+      "facultative_services": "- Empfehlungen zur medikamentösen Therapie, ggf. Empfehlungen zur Mitbehandlung des Sexualpartners,",
+      "billing_info": "einmal im Krankheitsfall"
+    },
+    {
+      "code": "01824",
+      "title": "Veranlassung der Untersuchung der Urinprobe auf Chlamydia trachomatis nach der Gebührenordnungsposition 01840",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 6.37,
+        "valuation_in_points": 50
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "einmal im Krankheitsfall Voraussetzung für die Berechnung der Gebührenordnungsposition 01824 ist die Erreichung der Durchführungsquote zum Chlamydienscreening. Die Durchführungsquote zum Chlamydienscreening je Praxis und Quartal wird wie folgt festgelegt: 01.04.2020 - 31.12.2020: 30 % 01.01.2021 - 31.12.2021: 40 % Ab 01.01.2022: 50 % Für die Bestimmung der Durchführungsquote ist der Anteil der Gebührenordnungsposition 01824 im Verhältnis zur Anzahl Behandlungsfälle mit Gebührenordnungsposition 01823 je Praxis und Quartal zu ermitteln. Die Gebührenordnungsposition 01824 ist auch bei Durchführung der Leistung nach der Gebührenordnungsposition 01840 in der das Chlamydienscreening durchführenden Praxis berechnungsfähig."
+    },
+    {
+      "code": "01828",
+      "title": "Entnahme von Venenblut für den Varicella-Zoster-Virus-Antikörper- Nachweis im Rahmen der Empfängnisregelung",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 2.42,
+        "valuation_in_points": 19
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "einmal im Krankheitsfall Vertragsärzte im hausärztlichen Versorgungsbereich können die Gebührenordnungsposition 01828 berechnen, wenn sie nachweisen, dass sie diese Leistung bereits vor dem 31.12.2002 abgerechnet haben oder über eine mindestens einjährige gynäkologische Weiterbildung verfügen. Die Gebührenordnungsposition 01828 ist am Behandlungstag nicht neben den Gebührenordnungspositionen 08210 bis 08212 berechnungsfähig."
+    },
+    {
+      "code": "01875",
+      "title": "Erstellung eines Berichts gemäß Abschnitt D. III. der Krebsfrüherkennungs-Richtlinie",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 4.97,
+        "valuation_in_points": 39
+      },
+      "mandatory_services": "- Erstellung und Aushändigung des Berichts gemäß § 39 Nr. 1 der Krebsfrüherkennungs-Richtlinie und der Selbsterklärung über die Erfüllung der Voraussetzungen gemäß § 6 Abs. 3 Lungenkrebs- Früherkennungs-Verordnung (LuKrFrühErkV) im Zusammenhang mit der Überweisung zu einer Niedrigdosis-Computertomographie zur Früherkennung von Lungenkrebs gemäß Abschnitt D. III. der Krebsfrüherkennungs-Richtlinie,",
+      "facultative_services": null,
+      "billing_info": "einmal im Krankheitsfall"
+    },
+    {
+      "code": "01876",
+      "title": "Erstberatung zur Früherkennung von Lungenkrebs gemäß Abschnitt D. III. der Krebsfrüherkennungs-Richtlinie",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 11.08,
+        "valuation_in_points": 87
+      },
+      "mandatory_services": "- Einmalige Erstberatung des Versicherten zur Früherkennung von Lungenkrebs gemäß § 40 der Krebsfrüherkennungs-Richtlinie,\n- Ausgabe der Versicherteninformation gemäß § 40 der Krebsfrüherkennungs-Richtlinie,",
+      "facultative_services": null,
+      "billing_info": "je vollendete 5 Minuten Die Gebührenordnungsposition 01876 ist höchstens dreimal in einer Sitzung berechnungsfähig. Die Erstberatung ist nur einmalig je Versicherten berechnungsfähig. Die Gebührenordnungsposition 01876 ist ausschließlich zur III. der Krebsfrüherkennungs-Richtlinie berechnungsfähig. Die Gebührenordnungsposition 01876 ist nur bei Versicherten gemäß § 38 der Krebsfrüherkennungs-Richtlinie berechnungsfähig."
+    },
+    {
+      "code": "01941",
+      "title": "Prophylaxe gegen Respiratorische Synzytial Viren (RSV) gemäß § 1 RSV-Prophylaxeverordnung",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 9.56,
+        "valuation_in_points": 75
+      },
+      "mandatory_services": "- Persönlicher Arzt-Patienten-Kontakt,\n- Aufklärung und Beratung der Eltern bzw. der (des) Personensorgeberechtigten des Neugeborenen oder Säuglings zu Sinn, Zweck und Ziel der RSV-Prophylaxe,\n- Intramuskuläre Injektion von Nirsevimab,",
+      "facultative_services": "- In mehreren Sitzungen,",
+      "billing_info": "einmal im Krankheitsfall Die Gebührenordnungsposition 01941 kann nur bei Versicherten bis zum vollendeten ersten Lebensjahr, sofern noch keine RSV-Prophylaxe mit Nirsevimab in der RSV-Saison durchgeführt wurde, berechnet werden. Die Gebührenordnungsposition 01943 ist bei einem Versicherten am Behandlungstag nicht neben der Gebührenordnungsposition 01941 und zeitlich nicht nach der Durchführung der Leistung nach der Gebührenordnungsposition 01941 berechnungsfähig. Sofern die Gebührenordnungsposition 01941 bei einem Versicherten zeitlich nach der Gebührenordnungsposition 01943 berechnet wird, ist durch die Kassenärztliche Vereinigung ein Abschlag von 32 Punkten auf die Gebührenordnungsposition 01941 vorzunehmen und die Prüfzeit um 2 Minuten zu reduzieren."
+    },
+    {
+      "code": "01942",
+      "title": "Zuschlag zu der Gebührenordnungsposition 01941 für zusätzliche Aufgaben im Rahmen der Injektion der RSV-Prophylaxe gemäß § 1 RSV-Prophylaxeverordnung",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 4.33,
+        "valuation_in_points": 34
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "einmal im Krankheitsfall Die Gebührenordnungsposition 01942 ist als Zuschlag zu der Gebührenordnungsposition 01941 nicht berechnungsfähig, wenn der monoklonale Antikörper Nirsevimab über den regional vereinbarten Sprechstundenbedarf bezogen werden kann. Die Gebührenordnungsposition 01942 wird durch die zuständige Kassenärztliche Vereinigung zugesetzt."
+    },
+    {
+      "code": "01943",
+      "title": "Aufklärung und Beratung zur Prophylaxe gegen Respiratorische Synzytial Viren (RSV) gemäß § 1 RSV-Prophylaxeverordnung ohne nachfolgende intramuskuläre Injektion",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 4.08,
+        "valuation_in_points": 32
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "einmal im Krankheitsfall Die Gebührenordnungsposition 01943 kann nur bei Versicherten bis zum vollendeten ersten Lebensjahr, sofern noch keine RSV-Prophylaxe mit Nirsevimab in der RSV-Saison durchgeführt wurde, berechnet werden. Die Gebührenordnungsposition 01943 ist bei einem Versicherten am Behandlungstag nicht neben der Gebührenordnungsposition 01941 und zeitlich nicht nach der Durchführung der Leistung nach der Gebührenordnungsposition 01941 berechnungsfähig. Sofern die Gebührenordnungsposition 01941 bei einem Versicherten zeitlich nach der Gebührenordnungsposition 01943 berechnet wird, ist durch die Kassenärztliche Vereinigung ein Abschlag von 32 Punkten auf die Gebührenordnungsposition 01941 vorzunehmen und die Prüfzeit um 2 Minuten zu reduzieren. Die Gebührenordnungsposition 01943 kann im Laufe von vier Quartalen unter Einschluss des aktuellen Quartals nur von einem Vertragsarzt einmalig abgerechnet werden."
+    },
+    {
+      "code": "01949",
+      "title": "Substitutionsgestützte Behandlung Opioidabhängiger gemäß Nr. 2 Anlage I \"Anerkannte Untersuchungs- oder Behandlungsmethoden\" der Richtlinie Methoden vertragsärztliche Versorgung des Gemeinsamen Bundesausschusses im Rahmen einer Take-Home-Vergabe gemäß § 5 Abs. 9 Betäubungsmittel- Verschreibungsverordnung (BtMVV)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 10.7,
+        "valuation_in_points": 84
+      },
+      "mandatory_services": "- Persönlicher Arzt-Patienten-Kontakt,\n- Prüfung der Voraussetzungen für die Behandlung im Rahmen der Take-Home-Vergabe gemäß § 5 Abs. 9 BtMVV,\n- Verordnung des Substitutionsmittels,",
+      "facultative_services": null,
+      "billing_info": "je Behandlungstag Die Gebührenordnungsposition 01949 ist höchstens zweimal in der Behandlungswoche berechnungsfähig. Die Gebührenordnungsposition 01949 ist nur mit medizinischer Begründung in der Behandlungswoche neben der Gebührenordnungsposition 01950 berechnungsfähig. Die Gebührenordnungspositionen 01411, 01412, 01414, 01415, 01420, 01430 und 01440 sind in demselben Behandlungsfall nur dann neben der Gebührenordnungsposition 01949 berechnungsfähig, wenn der Kranke aufgrund nicht in Zusammenhang mit der Substitutionsbehandlung stehenden Krankheitsbildern im Rahmen von Besuchen oder Visiten behandelt werden muss, weil er die Arztpraxis nicht aufsuchen kann. Die Gebührenordnungspositionen 01410 und 01413 sind in demselben Behandlungsfall nur dann neben der Gebührenordnungsposition 01949 berechnungsfähig, wenn aufgrund des Vorliegens einer nachgewiesenen chronischen Pflegebedürftigkeit (Vorliegen eines Pflegegrades) bei dem Patienten eine Substitutionsbehandlung in der Arztpraxis nicht möglich ist oder wenn der Kranke aufgrund von nicht in Zusammenhang mit der Substitutionsbehandlung stehenden Krankheitsbildern im Rahmen von Besuchen oder Visiten behandelt werden muss, weil er die Arztpraxis nicht aufsuchen kann. Die Gebührenordnungsposition 01949 ist nicht neben den Gebührenordnungspositionen 01100 bis 01102, 01205, 01207, 01210, 01212, 01214, 01216, 01218 und 01418 berechnungsfähig. Die Gebührenordnungsposition 01949 ist am Behandlungstag nicht neben den Gebührenordnungspositionen 01950, 01953, 01955, 01956 und 01960 berechnungsfähig."
+    },
+    {
+      "code": "01950",
+      "title": "Substitutionsgestützte Behandlung Opioidabhängiger gemäß Nr. 2 Anlage I \"Anerkannte Untersuchungs- oder Behandlungsmethoden\" der Richtlinie Methoden vertragsärztliche Versorgung des Gemeinsamen Bundesausschusses",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 5.86,
+        "valuation_in_points": 46
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "je Behandlungstag Neben der Gebührenordnungsposition 01950 sind arztgruppenspezifische Versicherten-, Grund- und Konsiliarpauschalen sowie die Gebührenordnungspositionen 01320, 01321 und 37706 nicht berechnungsfähig. Die Gebührenordnungsposition 01950 ist nur bei persönlichem Arzt- Patienten-Kontakt berechnungsfähig. Die Gebührenordnungspositionen 01411, 01412, 01414, 01415, 01420, 01430 und 01440 sind in demselben Behandlungsfall nur dann neben der Gebührenordnungsposition 01950 berechnungsfähig, wenn der Kranke aufgrund von nicht in Zusammenhang mit der Substitutionsbehandlung stehenden Krankheitsbildern im Rahmen von Besuchen oder Visiten behandelt werden muss, weil er die Arztpraxis nicht aufsuchen kann. Die Gebührenordnungspositionen 01410 und 01413 sind in demselben Behandlungsfall nur dann neben der Gebührenordnungsposition 01950 berechnungsfähig, wenn aufgrund des Vorliegens einer nachgewiesenen chronischen Pflegebedürftigkeit (Vorliegen eines Pflegegrades) bei dem Patienten eine Substitutionsbehandlung in der Arztpraxis nicht möglich ist oder wenn der Kranke aufgrund von nicht in Zusammenhang mit der Substitutionsbehandlung stehenden Krankheitsbildern im Rahmen von Besuchen oder Visiten behandelt werden muss, weil er die Arztpraxis nicht aufsuchen kann. Die Gebührenordnungsposition 01950 ist nicht neben den Gebührenordnungspositionen 01100 bis 01102, 01205, 01207, 01210, 01212, 01214, 01216, 01218 und 01418 berechnungsfähig. Die Gebührenordnungsposition 01950 ist am Behandlungstag nicht neben den Gebührenordnungspositionen 01949, 01953, 01955, 01956 und 01960 berechnungsfähig."
+    },
+    {
+      "code": "01951",
+      "title": "Zuschlag zu den Gebührenordnungspositionen 01949 und 01950 für die Behandlung an Samstagen, an Sonn- und gesetzlichen Feiertagen, am 24. und 31. Dezember",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 12.87,
+        "valuation_in_points": 101
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Die Gebührenordnungsposition 01951 ist nicht neben den Gebührenordnungspositionen 01100 bis 01102, 01205, 01207, 01210, 01212, 01214, 01216 und 01218 berechnungsfähig. Die Gebührenordnungsposition 01951 ist am Behandlungstag nicht neben der Gebührenordnungsposition 01956 berechnungsfähig."
+    },
+    {
+      "code": "01952",
+      "title": "Zuschlag im Zusammenhang mit den Gebührenordnungspositionen 01949, 01950, 01953 oder 01955 für das therapeutische Gespräch",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 19.62,
+        "valuation_in_points": 154
+      },
+      "mandatory_services": "- Dauer mindestens 10 Minuten,",
+      "facultative_services": "- Beratung und Instruktion der Bezugsperson(en),",
+      "billing_info": "je vollendete 10 Minuten Die Gebührenordnungsposition 01952 ist höchstens viermal im Behandlungsfall berechnungsfähig. Die Gebührenordnungsposition 01952 ist am Behandlungstag nicht neben der Gebührenordnungsposition 01960 berechnungsfähig."
+    },
+    {
+      "code": "01953",
+      "title": "Substitutionsgestützte Behandlung Opioidabhängiger gemäß Nr. 2 Anlage I \"Anerkannte Untersuchungs- oder Behandlungsmethoden\" der Richtlinie Methoden vertragsärztliche Versorgung des Gemeinsamen Bundesausschusses mit einem Depotpräparat",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 16.56,
+        "valuation_in_points": 130
+      },
+      "mandatory_services": "- Persönlicher Arzt-Patienten-Kontakt,\n- subkutane Applikation eines Depotpräparates und/oder\n- Betreuung im Rahmen der Nachsorge bei Behandlung mit einem Depotpräparat,",
+      "facultative_services": "- Veranlassung klinischer Untersuchung(en),",
+      "billing_info": "je Behandlungswoche Neben der Gebührenordnungsposition 01953 sind arztgruppenspezifische Versicherten-, Grund- und Konsiliarpauschalen sowie die Gebührenordnungspositionen 01320, 01321 und 37706 nicht berechnungsfähig. Die Gebührenordnungspositionen 01411, 01412, 01414, 01415, 01420, 01430 und 01440 sind in demselben Behandlungsfall nur dann neben der Gebührenordnungsposition 01953 berechnungsfähig, wenn der Kranke aufgrund von nicht in Zusammenhang mit der Substitutionsbehandlung stehenden Krankheitsbildern im Rahmen von Besuchen oder Visiten behandelt werden muss, weil er die Arztpraxis nicht aufsuchen kann. Die Gebührenordnungspositionen 01410 und 01413 sind in demselben Behandlungsfall nur dann neben der Gebührenordnungsposition 01953 berechnungsfähig, wenn aufgrund des Vorliegens einer nachgewiesenen chronischen Pflegebedürftigkeit (Vorliegen eines Pflegegrades) bei dem Patienten eine Substitutionsbehandlung in der Arztpraxis nicht möglich ist oder wenn der Kranke aufgrund von nicht in Zusammenhang mit der Substitutionsbehandlung stehenden Krankheitsbildern im Rahmen von Besuchen oder Visiten behandelt werden muss, weil er die Arztpraxis nicht aufsuchen kann. Die Gebührenordnungsposition 01953 ist nicht neben den Gebührenordnungspositionen 01100 bis 01102, 01205, 01207, 01210, 01212, 01214, 01216, 01218 und 01418 berechnungsfähig. Die Gebührenordnungsposition 01953 ist am Behandlungstag nicht neben den Gebührenordnungspositionen 01949, 01950, 01955, 01956 und 01960 berechnungsfähig."
+    },
+    {
+      "code": "01955",
+      "title": "Diamorphingestützte Behandlung Opioidabhängiger gemäß Nr. 2 Anlage I \"Anerkannte Untersuchungs- oder Behandlungsmethoden\" der Richtlinie Methoden vertragsärztliche Versorgung des Gemeinsamen Bundesausschusses und der Betäubungsmittelverschreibungsverordnung (BtMVV), einschl. Kosten",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 42.17,
+        "valuation_in_points": 331
+      },
+      "mandatory_services": "- Parenterale Diamorphinabgabe(n),\n- Alkoholatemtest (Nr. 32148) vor jeder Diamorphinabgabe,\n- Postexpositionelle Überwachung nach jeder Diamorphinabgabe,\n- Persönlicher Arzt-Patienten-Kontakt bei jeder Diamorphinabgabe,",
+      "facultative_services": "- zusätzliche Methadonsubstitution (Nr. 01950),",
+      "billing_info": "je Behandlungstag Neben der Gebührenordnungsposition 01955 sind arztgruppenspezifische Versicherten-, Grund- und Konsiliarpauschalen sowie die Gebührenordnungspositionen 01320, 01321 und 37706 nicht berechnungsfähig. Die Gebührenordnungspositionen 01410 bis 01415, 01420, 01430 und 01440 sind in demselben Behandlungsfall nur dann neben der Gebührenordnungsposition 01955 berechnungsfähig, wenn der Kranke aufgrund nicht in Zusammenhang mit der diamorphingestützten Behandlung stehenden Krankheitsbildern im Rahmen von Besuchen oder Visiten behandelt werden muss, weil er die Arztpraxis/Einrichtung nicht aufsuchen kann. Die Gebührenordnungsposition 01955 ist nicht neben der Gebührenordnungsposition 01418 berechnungsfähig. Die Gebührenordnungsposition 01955 ist am Behandlungstag nicht neben den Gebührenordnungspositionen 01100 bis 01102, 01205, 01207, 01210, 01212, 01214, 01216, 01218, 01949, 01950, 01953, 01960 und 32148 berechnungsfähig."
+    },
+    {
+      "code": "01956",
+      "title": "Zuschlag zu der Gebührenordnungsposition 01955 für die Behandlung an Samstagen, an Sonn- und gesetzlichen Feiertagen, am 24. und 31. Dezember",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 25.86,
+        "valuation_in_points": 203
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "je Behandlungstag Die Gebührenordnungsposition 01956 ist am Behandlungstag nicht neben den Gebührenordnungspositionen 01100 bis 01102, 01205, 01207, 01210, 01212, 01214, 01216, 01218, 01949 bis 01951 und 01953 berechnungsfähig."
+    },
+    {
+      "code": "01960",
+      "title": "Konsiliarische Untersuchung und Beratung eines Patienten im Rahmen des Konsiliariusverfahrens gemäß § 5 Abs. 4 Betäubungsmittel-Verschreibungsverordnung",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 14.01,
+        "valuation_in_points": 110
+      },
+      "mandatory_services": "- Persönlicher Arzt-Patienten-Kontakt,\n- Dauer mindestens 10 Minuten,",
+      "facultative_services": null,
+      "billing_info": "einmal im Behandlungsfall Neben der Gebührenordnungsposition 01960 sind arztgruppenspezifische Versicherten-, Grund- und Konsiliarpauschalen sowie die Gebührenordnungspositionen 01320, 01321 und 37706 nicht berechnungsfähig. Die Gebührenordnungsposition 01960 ist am Behandlungstag nicht neben den Gebührenordnungspositionen 01949, 01950, 01952, 01953 und 01955 berechnungsfähig. 1.9 Meldungen implantatbezogener Maßnahmen gemäß den Vorgaben des Implantateregistergesetzes 1. Die Gebührenordnungsposition 01965 ist nur von Fachärzten für Frauenheilkunde und Geburtshilfe und Fachärzten für Chirurgie berechnungsfähig. 2. Die Gebührenordnungsposition 01966 ist nur von Fachärzten für Chirurgie, Fachärzten für Orthopädie und Fachärzten für Orthopädie und Unfallchirurgie berechnungsfähig."
+    },
+    {
+      "code": "02300",
+      "title": "Kleinchirurgischer Eingriff I und/oder primäre Wundversorgung und/oder Epilation",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 8.66,
+        "valuation_in_points": 68
+      },
+      "mandatory_services": "- Operativer Eingriff mit einer Dauer von bis zu 5 Minuten und/oder\n- Primäre Wundversorgung und/oder\n- Epilation durch Elektrokoagulation im Gesicht und/oder an den Händen bei krankhaftem und entstellendem Haarwuchs,",
+      "facultative_services": null,
+      "billing_info": "einmal am Behandlungstag Die Gebührenordnungsposition 02300 ist bei Neugeborenen, Säuglingen, Kleinkindern und Kindern bis zum vollendeten 12. Lebensjahr nach der Gebührenordnungsposition 31101 oder nach der Gebührenordnungsposition 36101 berechnungsfähig, sofern der Eingriff in Narkose erfolgt. Die Voraussetzungen gemäß § 115b SGB V müssen dabei nicht erfüllt sein, sofern die Eingriffe nicht im Katalog zum Vertrag nach § 115b SGB V genannt sind. In diesen Fällen ist die postoperative Behandlung nach den Gebührenordnungspositionen des Abschnitts 31.4 nicht berechnungsfähig. Die in der Präambel 31.2.1 Nr. 8 bzw. Präambel 36.2.1 Nr. 4 benannten Einschränkungen entfallen in diesen Fällen, es gelten die Abrechnungsausschlüsse der Gebührenordnungsposition 02300 entsprechend. Die Gebührenordnungsposition 02300 ist nicht neben den Gebührenordnungspositionen 01741, 02301, 02302, 02311, 02321 bis 02323, 02325, 02326, 02330, 02331, 02340 bis 02344, 02350, 02360, 03331, 04331, 04410, 04511 bis 04514, 04516, 04518, 04520, 05320, 05330, 05331, 05340, 05341, 06331, 06332, 06340, 06350 bis 06352, 07310, 07311, 07330, 07340, 08311, 08320, 08330 bis 08334, 08340, 08341, 09310, 09315 bis 09317, 09350, 09351, 09360 bis 09362, 10320, 10322, 10324, 10340 bis 10342, 13257, 13260, 13400 bis 13402, 13410 bis 13412, 13421 bis 13424, 13430, 13431, 13435, 13545, 13551, 13662, 13663, 13670, 15310, 15321 bis 15323, 16232, 20334, 26320 bis 26325, 26330, 26340, 26341, 26350 bis 26352, 30214, 30601, 30610, 30611 und 36882 und nicht neben den Gebührenordnungspositionen der Abschnitte 18.3, 30.5, 31.5.3, 34.5 und 36.5.3 berechnungsfähig. Die Gebührenordnungsposition 02300 ist am Behandlungstag nicht neben den Gebührenordnungspositionen 09329, 10343 und 10344 berechnungsfähig. Die Gebührenordnungsposition 02300 ist im Behandlungsfall nicht neben den Gebührenordnungspositionen 02310, 02312, 10330 und 34291 berechnungsfähig. Die Gebührenordnungsposition 02300 ist im Zeitraum von 21 Tagen nach Erbringung einer Leistung des Abschnitts 31.2 nicht neben den Gebührenordnungspositionen des Abschnitts 31.4 berechnungsfähig."
+    },
+    {
+      "code": "02301",
+      "title": "Kleinchirurgischer Eingriff II und/oder primäre Wundversorgung mittels Naht",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 16.94,
+        "valuation_in_points": 133
+      },
+      "mandatory_services": "- Primäre Wundversorgung bei Säuglingen, Kleinkindern und Kindern und/oder\n- Primäre Wundversorgung mittels Naht und/oder Gewebekleber und/oder\n- Koagulation und/oder Kauterisation krankhafter Haut- und/oder Schleimhautveränderungen und/oder\n- Operative Entfernung einer oder mehrerer Geschwülste an der Harnröhrenmündung und/oder\n- Operative Entfernung eines unter der Oberfläche von Haut oder Schleimhaut gelegenen Fremdkörpers nach Aufsuchen durch Schnitt und/oder\n- Öffnung eines Körperkanalverschlusses an der Körperoberfläche oder Eröffnung eines Abszesses oder Exzision eines Furunkels und/oder\n- Verschiebeplastik zur Deckung eines Hautdefektes und/oder\n- Eröffnung eines subcutanen Panaritiums oder einer Paronychie,",
+      "facultative_services": null,
+      "billing_info": "einmal am Behandlungstag Die Gebührenordnungsposition 02301 ist bei Neugeborenen, Säuglingen, Kleinkindern und Kindern bis zum vollendeten 12. Lebensjahr nach der Gebührenordnungsposition 31101 oder nach der Gebührenordnungsposition 36101 berechnungsfähig, sofern der Eingriff in Narkose erfolgt. Die Voraussetzungen gemäß § 115b SGB V müssen dabei nicht erfüllt sein, sofern die Eingriffe nicht im Katalog zum Vertrag nach § 115b SGB V genannt sind. In diesen Fällen ist die postoperative Behandlung nach den Gebührenordnungspositionen des Abschnitts 31.4 nicht berechnungsfähig. Die in der Präambel 31.2.1 Nr. 8 bzw. Präambel 36.2.1 Nr. 4 benannten Einschränkungen entfallen in diesen Fällen, es gelten die Abrechnungsausschlüsse der Gebührenordnungsposition 02301 entsprechend. Die Gebührenordnungsposition 02301 ist nicht neben den Gebührenordnungspositionen 01741, 02300, 02302, 02311, 02321, 02322, 02331, 02340 bis 02344, 02350, 02360, 03331, 04331, 04410, 04511 bis 04514, 04516, 04518, 04520, 05320, 05330, 05331, 05340, 05341, 06331, 06332, 06340, 06350 bis 06352, 07310, 07311, 07330, 07340, 08311, 08320, 08330 bis 08334, 08340, 08341, 09310, 09315 bis 09317, 09350, 09351, 09360 bis 09362, 10320, 10322, 10324, 10340 bis 10342, 13257, 13260, 13400 bis 13402, 13410 bis 13412, 13421 bis 13424, 13430, 13431, 13545, 13551, 13662, 13663, 13670, 15310, 15321 bis 15323, 16232, 18310, 18311, 18320, 18330, 18331, 18340, 18700, 20334, 26320 bis 26325, 26330, 26340, 26341, 26350 bis 26352, 30214, 30601, 30610, 30611, 31820 bis 31828, 31840, 31841, 34500, 34501, 34503 bis 34505, 36820 bis 36829, 36840, 36841 und 36882 und nicht neben den Gebührenordnungspositionen des Abschnitts 30.5 berechnungsfähig. Die Gebührenordnungsposition 02301 ist am Behandlungstag nicht neben den Gebührenordnungspositionen 09329, 10343 und 10344 berechnungsfähig. Die Gebührenordnungsposition 02301 ist im Behandlungsfall nicht neben den Gebührenordnungspositionen 02310, 02312, 10330 und 34291 berechnungsfähig. Die Gebührenordnungsposition 02301 ist im Zeitraum von 21 Tagen nach Erbringung einer Leistung des Abschnitts 31.2 nicht neben den Gebührenordnungspositionen des Abschnitts 31.4 berechnungsfähig."
+    },
+    {
+      "code": "02302",
+      "title": "Kleinchirurgischer Eingriff III und/oder primäre Wundversorgung bei Säuglingen, Kleinkindern und Kindern",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 29.3,
+        "valuation_in_points": 230
+      },
+      "mandatory_services": "- Primäre Wundversorgung mittels Naht bei Säuglingen, Kleinkindern und Kindern und/oder\n- Exzision eines Bezirkes oder einer intradermalen Geschwulst aus der Haut des Gesichts mit Wundverschluss und/oder\n- Hochtouriges Schleifen von Bezirken der Haut bei schweren Entstellungen durch Naevi oder Narben und/oder\n- Exzision eines großen Bezirkes aus Haut und/oder Schleimhaut oder einer kleinen unter der Haut und/oder Schleimhaut gelegenen Geschwulst und/oder\n- Exzision und/oder Probeexzision von tiefliegendem Körpergewebe (z. B. Fettgewebe) und/oder aus einem Organ ohne Eröffnung einer Körperhöhle und/oder\n- Emmert-Plastik und/oder\n- Venae sectio und/oder\n- Biopsie ohne Inzision am Endometrium: Diagnostische Mikrokürettage (Strichkürettage) oder Aspirationskürettage,",
+      "facultative_services": null,
+      "billing_info": "einmal am Behandlungstag Die Gebührenordnungsposition 02302 ist bei Neugeborenen, Säuglingen, Kleinkindern und Kindern bis zum vollendeten 12. Lebensjahr nach der Gebührenordnungsposition 31101 oder nach der Gebührenordnungsposition 36101 berechnungsfähig, sofern der Eingriff in Narkose erfolgt. Die Voraussetzungen gemäß § 115b SGB V müssen dabei nicht erfüllt sein, sofern die Eingriffe nicht im Katalog zum Vertrag nach § 115b SGB V genannt sind. In diesen Fällen ist die postoperative Behandlung nach den Gebührenordnungspositionen des Abschnitts 31.4 nicht berechnungsfähig. Die in der Präambel 31.2.1 Nr. 8 bzw. Präambel 36.2.1 Nr. 4 benannten Einschränkungen entfallen in diesen Fällen, es gelten die Abrechnungsausschlüsse der Gebührenordnungsposition 02302 entsprechend. Die Gebührenordnungsposition 02302 ist nicht neben den Gebührenordnungspositionen 01741, 02300, 02301, 02311, 02321, 02322, 02331, 02340 bis 02344, 02350, 02360, 03331, 04331, 04410, 04511 bis 04514, 04516, 04518, 04520, 05320, 05330, 05331, 05340, 05341, 06331, 06332, 06340, 06350 bis 06352, 07310, 07311, 07330, 07340, 08311, 08320, 08330 bis 08334, 08340, 08341, 09310, 09315 bis 09317, 09350, 09351, 09360 bis 09362, 10320, 10322, 10324, 10340 bis 10342, 13260, 13400 bis 13402, 13410 bis 13412, 13421 bis 13424, 13430, 13431, 13545, 13551, 13662, 13663, 13670, 15310, 15321 bis 15323, 16232, 18310, 18311, 18330, 18340, 18700, 20334, 26320 bis 26325, 26330, 26340, 26341, 26350 bis 26352, 30214, 30601, 30610, 30611, 31820 bis 31828, 31840, 31841, 34500, 34501, 34503 bis 34505, 36820 bis 36829, 36840, 36841 und 36882 und nicht neben den Gebührenordnungspositionen des Abschnitts 30.5 berechnungsfähig. Die Gebührenordnungsposition 02302 ist am Behandlungstag nicht neben den Gebührenordnungspositionen 09329, 10343 und 10344 berechnungsfähig. Die Gebührenordnungsposition 02302 ist im Behandlungsfall nicht neben den Gebührenordnungspositionen 02310, 02312, 10330 und 34291 berechnungsfähig. Die Gebührenordnungsposition 02302 ist im Zeitraum von 21 Tagen nach Erbringung einer Leistung des Abschnitts 31.2 nicht neben den Gebührenordnungspositionen des Abschnitts 31.4 berechnungsfähig."
+    },
+    {
+      "code": "02310",
+      "title": "Behandlung einer/eines/von sekundär heilenden Wunde(n) und/ oder Decubitalulcus (-ulcera)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 27.01,
+        "valuation_in_points": 212
+      },
+      "mandatory_services": "- Abtragung von Nekrosen und/oder\n- Wunddebridement und/oder\n- Anlage und/oder Wechsel eines Kompressionsverbandes und/oder\n- Einbringung und/oder Wechsel einer Wundtamponade,\n- Mindestens 3 persönliche Arzt-Patienten-Kontakte im Behandlungsfall,",
+      "facultative_services": "- Einbringung, Wechsel oder Entfernung von Antibiotikaketten,\n- Anlage/Wechsel von Schienenverbänden,",
+      "billing_info": "einmal im Behandlungsfall Die Gebührenordnungsposition 02310 kann nicht berechnet werden beim diabetischen Fuß, beim chronisch venösen Ulcus cruris, bei der chronisch venösen Insuffizienz, beim postthrombotischen Syndrom, beim Lymphödem und bei oberflächlichen sowie tiefen Beinvenenthrombosen. Die Gebührenordnungsposition 02310 ist nicht neben den Gebührenordnungspositionen 02312, 02313, 02350 und 15323 berechnungsfähig. Die Gebührenordnungsposition 02310 ist im Behandlungsfall nicht neben den Gebührenordnungspositionen 02300 bis 02302, 02311, 02340, 02341, 02344, 02360, 07340, 10330, 10340 bis 10342, 18340, 30214 und 34291 berechnungsfähig. Die Gebührenordnungsposition 02310 ist im Zeitraum von 21 Tagen nach Erbringung einer Leistung des Abschnitts 31.2 nicht neben den Gebührenordnungspositionen des Abschnitts 31.4 berechnungsfähig."
+    },
+    {
+      "code": "02311",
+      "title": "Behandlung des diabetischen Fußes",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 17.58,
+        "valuation_in_points": 138
+      },
+      "mandatory_services": "- Abtragung ausgedehnter Nekrosen der unteren Extremität beim diabetischen Fuß,\n- Überprüfung und/oder Verordnung von geeignetem Schuhwerk,",
+      "facultative_services": "- Verband,",
+      "billing_info": "je Bein, je Sitzung Die Gebührenordnungsposition 02311 kann nur dann berechnet werden, wenn der Vertragsarzt - im Durchschnitt der letzten 4 Quartale vor Antragstellung - je Quartal die Behandlung von mindestens 100 Patienten mit Diabetes mellitus durchgeführt hat und die Qualifikation zur Durchführung von programmierten Schulungen für Diabetiker nachweisen kann. Fachärzte für Chirurgie, Orthopädie und Dermatologie können diese Leistung auch dann berechnen, wenn sie die Qualifikation zur Durchführung von programmierten Schulungen für Diabetiker nicht nachweisen können. Die Gebührenordnungsposition 02311 ist nicht neben den Gebührenordnungspositionen 02300 bis 02302, 02313, 02350, 02360, 10340 bis 10342, 30214, 30500 und 30501 berechnungsfähig. Die Gebührenordnungsposition 02311 ist im Behandlungsfall nicht neben den Gebührenordnungspositionen 02310, 02312, 07310, 07311, 07340, 10330, 18310, 18311 und 18340 berechnungsfähig."
+    },
+    {
+      "code": "02312",
+      "title": "Behandlungskomplex eines oder mehrerer chronisch venösen/r Ulcus/Ulcera cruris",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 7.01,
+        "valuation_in_points": 55
+      },
+      "mandatory_services": "- Abtragung von Nekrosen,\n- Lokaltherapie unter Anwendung von Verbänden,\n- Entstauende phlebologische Funktionsverbände,\n- Fotodokumentation zu Beginn der Behandlung, danach alle 4 Wochen,",
+      "facultative_services": "- Thromboseprophylaxe,\n- Teilbäder,",
+      "billing_info": "je Bein, je Sitzung Die Gebührenordnungsposition 02312 unterliegt einer Höchstpunktzahl im Behandlungsfall von 4.244 Punkten. Der Höchstwert ist auch auf den Arztfall anzuwenden. Die Gebührenordnungsposition 02312 ist nicht neben den Gebührenordnungspositionen 02310, 02350, 02360, 07340, 10330 und 18340 berechnungsfähig. Die Gebührenordnungsposition 02312 ist im Behandlungsfall nicht neben den Gebührenordnungspositionen 02300 bis 02302, 02311, 07310, 07311, 10340 bis 10342, 18310, 18311 und 30214 berechnungsfähig."
+    },
+    {
+      "code": "02313",
+      "title": "Kompressionstherapie bei der chronisch venösen Insuffizienz, beim postthrombotischen Syndrom, bei oberflächlichen und tiefen Beinvenenthrombosen und/oder beim Lymphödem",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 6.37,
+        "valuation_in_points": 50
+      },
+      "mandatory_services": "- Kompressionstherapie,\n- Dokumentation des Beinumfangs an mindestens drei Messpunkten zu Beginn der Behandlung, danach alle vier Wochen,",
+      "facultative_services": null,
+      "billing_info": "je Bein, je Sitzung Die Gebührenordnungsposition 02313 unterliegt einer Höchstpunktzahl im Behandlungsfall von 3.750 Punkten. Der Höchstwert ist auch auf den Arztfall anzuwenden. Die Gebührenordnungsposition 02313 ist nicht neben den Gebührenordnungspositionen 02310, 02311, 02350, 07340, 10330, 18340, 30214 und 30501 berechnungsfähig."
+    },
+    {
+      "code": "02314",
+      "title": "Zusatzpauschale für die Vakuumversiegelungstherapie zum intendierten sekundären Wundverschluss gemäß Nr. 33 der Anlage I \"Anerkannte Untersuchungs- oder Behandlungsmethoden\" der Richtlinie Methoden vertragsärztliche Versorgung des Gemeinsamen Bundesausschusses",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 17.2,
+        "valuation_in_points": 135
+      },
+      "mandatory_services": "- Persönlicher Arzt-Patienten-Kontakt,\n- Anlage und/oder Wechsel eines Systems zur Vakuumversiegelung im unmittelbaren Anschluss an eine Wundversorgung,",
+      "facultative_services": "- Einweisung des Patienten in die Pumpenbedienung,\n- interdisziplinäre Abstimmung,\n- Einstellen der Pumpe,\n- Behälterwechsel,",
+      "billing_info": "einmal am Behandlungstag Die Gebührenordnungsposition 02314 ist nur bei Patienten berechnungsfähig, bei denen aufgrund wund- oder patientenspezifischer Risikofaktoren unter einer Standardwundbehandlung keine ausreichende Heilung zu erwarten ist. Die Gebührenordnungsposition 02314 ist am Behandlungstag nicht neben den Gebührenordnungspositionen 31401 und 36401 berechnungsfähig."
+    },
+    {
+      "code": "02500",
+      "title": "Einzelinhalationstherapie",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 1.53,
+        "valuation_in_points": 12
+      },
+      "mandatory_services": "- Intermittierende Überdruckbeatmung und/oder\n- Inhalation mittels alveolengängiger Teilchen (z. B. Ultraschallvernebelung),",
+      "facultative_services": null,
+      "billing_info": "je Sitzung Die Gebührenordnungsposition 02500 ist nicht neben der Gebührenordnungsposition 02501 berechnungsfähig."
+    },
+    {
+      "code": "02501",
+      "title": "Einzelinhalationstherapie mit speziellem Verneblersystem zur Pneumocystis carinii Prophylaxe",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 5.61,
+        "valuation_in_points": 44
+      },
+      "mandatory_services": "- Einzelinhalationstherapie mit speziellem Verneblersystem zur Pneumocystis carinii Prophylaxe,",
+      "facultative_services": null,
+      "billing_info": "je Sitzung Die Gebührenordnungsposition 02501 ist nicht neben der Gebührenordnungsposition 02500 berechnungsfähig."
+    },
+    {
+      "code": "02510",
+      "title": "Wärmetherapie",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 2.68,
+        "valuation_in_points": 21
+      },
+      "mandatory_services": "- Mittels Packungen mit Paraffinen und/oder\n- Mittels Peloiden und/oder\n- Mittels Heißluft und/oder\n- Mittels Kurz-, Dezimeterwelle und/oder\n- Mittels Mikrowelle und/oder\n- Mittels Hochfrequenzstrom und/oder\n- Mittels Infrarotbestrahlung und/oder\n- Mittels Ultraschall mit einer Leistungsdichte von weniger als 3 Watt 2 pro cm ,",
+      "facultative_services": null,
+      "billing_info": "je Sitzung"
+    },
+    {
+      "code": "02511",
+      "title": "Elektrotherapie unter Anwendung niederfrequenter und/oder mittelfrequenter Ströme",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 1.15,
+        "valuation_in_points": 9
+      },
+      "mandatory_services": "- Galvanisation und/oder\n- Reizstrom und/oder\n- Neofaradischer Schwellstrom und/oder\n- Iontophorese und/oder\n- Amplituden-modulierte Mittelfrequenztherapie und/oder\n- Schwellstromtherapie und/oder\n- Interferenzstromtherapie,",
+      "facultative_services": null,
+      "billing_info": "je Sitzung Die Gebührenordnungsposition 02511 ist im Behandlungsfall höchstens achtmal berechnungsfähig. Die Gebührenordnungsposition 02511 ist nicht neben den Gebührenordnungspositionen 07310, 07311, 16232, 18310 und 18311 berechnungsfähig."
+    },
+    {
+      "code": "02512",
+      "title": "Gezielte Elektrostimulation bei spastischen und/oder schlaffen Lähmungen",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 2.29,
+        "valuation_in_points": 18
+      },
+      "mandatory_services": "- Elektrostimulation,\n- Festlegung der Reizparameter,",
+      "facultative_services": null,
+      "billing_info": "je Sitzung"
+    },
+    {
+      "code": "02520",
+      "title": "Phototherapie eines Neugeborenen",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 12.23,
+        "valuation_in_points": 96
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "je Behandlungstag"
+    },
+    {
+      "code": "30706",
+      "title": "Teilnahme an einer schmerztherapeutischen Fallkonferenz gemäß § 5 Abs. 3 der Qualitätssicherungsvereinbarung Schmerztherapie",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 10.96,
+        "valuation_in_points": 86
+      },
+      "mandatory_services": "- Teilnahme an einer multidisziplinären Fallkonferenz",
+      "facultative_services": null,
+      "billing_info": "Die Gebührenordnungsposition 30706 ist nur in Behandlungsfällen berechnungsfähig, in denen die Grundpauschale 30700 berechnet worden ist. Hausärzte sowie weitere komplementär behandelnde Ärzte oder Psychotherapeuten dürfen die Gebührenordnungsposition unter Angabe des primär schmerztherapeutisch verantwortlichen Arztes berechnen. Die Gebührenordnungsposition 30706 ist auch bei Durchführung der Fallkonferenz als Videofallkonferenz berechnungsfähig. Für die Abrechnung gelten die Anforderungen gemäß Anlage 31b zum BMV-Ä entsprechend. Die Gebührenordnungsposition 30706 ist nicht neben den Gebührenordnungspositionen 01442, 01443, 37720 und 37804 berechnungsfähig. Die Gebührenordnungsposition 30706 ist im Behandlungsfall nicht neben den Gebührenordnungspositionen 03040, 03220, 03221, 04040, 04220, 04221 und 37320 berechnungsfähig."
+    }
+  ]
+}
