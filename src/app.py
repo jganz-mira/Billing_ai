@@ -436,6 +436,15 @@ def analysis_is_running() -> bool:
     return isinstance(future, Future) and not future.done()
 
 
+def reset_analysis_output() -> None:
+    """Clear user-visible analysis output before starting a fresh run."""
+    st.session_state.pop("analysis_results", None)
+    st.session_state.pop("analysis_status", None)
+    for key in list(st.session_state.keys()):
+        if isinstance(key, str) and key.startswith("final_gop_selection_"):
+            st.session_state.pop(key, None)
+
+
 def harvest_finished_analysis() -> None:
     """Move a completed background analysis into user-visible session state."""
     job = current_analysis_job()
@@ -476,6 +485,7 @@ def start_analysis(
     if "analysis_executor" not in st.session_state:
         st.session_state.analysis_executor = ThreadPoolExecutor(max_workers=2)
 
+    reset_analysis_output()
     cancel_event = threading.Event()
     future = st.session_state.analysis_executor.submit(
         run_analysis_job,
@@ -515,7 +525,8 @@ def render_running_analysis_status() -> None:
     """Poll background analysis without rerunning the full app."""
     harvest_finished_analysis()
     if analysis_is_running():
-        st.info("Analyse läuft...")
+        dot_count = datetime.now().second % 3 + 1
+        st.info(f"Analyse{'.' * dot_count}")
         return
 
     st.rerun(scope="app")
@@ -752,6 +763,7 @@ if analyze_clicked or debug_analyze_clicked:
         st.stop()
 
     if debug_analyze_clicked:
+        reset_analysis_output()
         analysis_results = debug_analysis_results()
     else:
         patient_path: str | Path | None = selected_patient["path"]
@@ -773,6 +785,7 @@ if analyze_clicked or debug_analyze_clicked:
         st.session_state.analysis_run_id = (
             st.session_state.get("analysis_run_id", 0) + 1
         )
+        st.session_state.analysis_status = "completed"
 
 analysis_status = st.session_state.get("analysis_status")
 if analysis_status == "cancelled":
