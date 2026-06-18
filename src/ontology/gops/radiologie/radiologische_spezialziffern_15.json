@@ -1,0 +1,1204 @@
+{
+  "gops": [
+    {
+      "code": "36202",
+      "title": "Eingriff am Gefäßsystem der Kategorie K2",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 119.5,
+        "valuation_in_points": 938
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "36202 Eingriff am Gefäßsystem der Kategorie K2\nObligater Leistungsinhalt\n- Chirurgischer Eingriff am Gefäßsystem der Kategorie K2\nentsprechend Anhang 2\nIm Anschluss an die Leistung nach der Nr. 36202 kann für die\npostoperative Überwachung die Gebührenordnungsposition 36503\nberechnet werden."
+    },
+    {
+      "code": "36203",
+      "title": "Eingriff am Gefäßsystem der Kategorie K3",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 176.58,
+        "valuation_in_points": 1386
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "36203 Eingriff am Gefäßsystem der Kategorie K3\nObligater Leistungsinhalt\n- Chirurgischer Eingriff am Gefäßsystem der Kategorie K3\nentsprechend Anhang 2\nIm Anschluss an die Leistung nach der Nr. 36203 kann für die\npostoperative Überwachung die Gebührenordnungsposition 36505\nberechnet werden."
+    },
+    {
+      "code": "36204",
+      "title": "Eingriff am Gefäßsystem der Kategorie K4",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 289.33,
+        "valuation_in_points": 2271
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "36204 Eingriff am Gefäßsystem der Kategorie K4\nObligater Leistungsinhalt\n- Chirurgischer Eingriff am Gefäßsystem der Kategorie K4\nentsprechend Anhang 2\nIm Anschluss an die Leistung nach der Nr. 36204 kann für die\npostoperative Überwachung die Gebührenordnungsposition 36505\nberechnet werden."
+    },
+    {
+      "code": "36205",
+      "title": "Eingriff am Gefäßsystem der Kategorie K5",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 427.82,
+        "valuation_in_points": 3358
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "36205 Eingriff am Gefäßsystem der Kategorie K5\nObligater Leistungsinhalt\n- Chirurgischer Eingriff am Gefäßsystem der Kategorie K5\nentsprechend Anhang 2\nIm Anschluss an die Leistung nach der Nr. 36205 kann für die\npostoperative Überwachung die Gebührenordnungsposition 36506\nberechnet werden."
+    },
+    {
+      "code": "36206",
+      "title": "Eingriff am Gefäßsystem der Kategorie K6",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 645.3,
+        "valuation_in_points": 5065
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "36206 Eingriff am Gefäßsystem der Kategorie K6\nObligater Leistungsinhalt\n- Chirurgischer Eingriff am Gefäßsystem der Kategorie K6\nentsprechend Anhang 2\nIm Anschluss an die Leistung nach der Nr. 36206 kann für die\npostoperative Überwachung die Gebührenordnungsposition 36507\nberechnet werden."
+    },
+    {
+      "code": "36207",
+      "title": "Eingriff am Gefäßsystem der Kategorie K7",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 818.19,
+        "valuation_in_points": 6422
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "36207 Eingriff am Gefäßsystem der Kategorie K7\nObligater Leistungsinhalt\n- Chirurgischer Eingriff am Gefäßsystem der Kategorie K7\nentsprechend Anhang 2\nIm Anschluss an die Leistung nach der Nr. 36207 kann für die\npostoperative Überwachung die Gebührenordnungsposition 36507\nberechnet werden."
+    },
+    {
+      "code": "36208",
+      "title": "Zuschlag zu den Gebührenordnungspositionen 36201 bis 36206 bei Simultaneingriffen und zu der Gebührenordnungsposition 36207",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 57.84,
+        "valuation_in_points": 454
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "36208 Zuschlag zu den Gebührenordnungspositionen 36201 bis 36206 bei\nSimultaneingriffen und zu der Gebührenordnungsposition 36207\nObligater Leistungsinhalt\n- Schnitt-Naht-Zeit je weitere vollendete 15 Minuten\n- Nachweis der Schnitt-Naht-Zeit über das Anästhesieprotokoll oder\nden OP-Bericht\nje weitere vollendete 15 Minuten Schnitt-Naht-Zeit\nDie Gebührenordnungsposition 36208 kann entsprechend Anhang\n2, Präambel 2.1, Nr. 14 als Zuschlag zu anderen belegärztlichen\nOperationen des Abschnitts 36.2 abgerechnet werden."
+    },
+    {
+      "code": "36211",
+      "title": "Eingriff der Kategorie L1",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 84.72,
+        "valuation_in_points": 665
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "36211 Eingriff der Kategorie L1\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie L1 entsprechend Anhang 2\nIm Anschluss an die Leistung nach der Nr. 36211 kann für die\npostoperative Überwachung die Gebührenordnungsposition 36503\nberechnet werden."
+    },
+    {
+      "code": "36212",
+      "title": "Eingriff der Kategorie L2",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 130.33,
+        "valuation_in_points": 1023
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "36212 Eingriff der Kategorie L2\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie L2 entsprechend Anhang 2\nIm Anschluss an die Leistung nach der Nr. 36212 kann für die\npostoperative Überwachung die Gebührenordnungsposition 36503\nberechnet werden."
+    },
+    {
+      "code": "36213",
+      "title": "Eingriff der Kategorie L3",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 187.41,
+        "valuation_in_points": 1471
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "36213 Eingriff der Kategorie L3\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie L3 entsprechend Anhang 2\nIm Anschluss an die Leistung nach der Nr. 36213 kann für die\npostoperative Überwachung die Gebührenordnungsposition 36505\nberechnet werden."
+    },
+    {
+      "code": "36214",
+      "title": "Eingriff der Kategorie L4",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 278.76,
+        "valuation_in_points": 2188
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "36214 Eingriff der Kategorie L4\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie L4 entsprechend Anhang 2\nIm Anschluss an die Leistung nach der Nr. 36214 kann für die\npostoperative Überwachung die Gebührenordnungsposition 36505\nberechnet werden."
+    },
+    {
+      "code": "36215",
+      "title": "Eingriff der Kategorie L5",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 460.82,
+        "valuation_in_points": 3617
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "36215 Eingriff der Kategorie L5\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie L5 entsprechend Anhang 2\nIm Anschluss an die Leistung nach der Nr. 36215 kann für die\npostoperative Überwachung die Gebührenordnungsposition 36506\nberechnet werden."
+    },
+    {
+      "code": "36216",
+      "title": "Eingriff der Kategorie L6",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 614.6,
+        "valuation_in_points": 4824
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "36216 Eingriff der Kategorie L6\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie L6 entsprechend Anhang 2\nIm Anschluss an die Leistung nach der Nr. 36216 kann für die\npostoperative Überwachung die Gebührenordnungsposition 36507\nberechnet werden."
+    },
+    {
+      "code": "36217",
+      "title": "Eingriff der Kategorie L7",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 729.77,
+        "valuation_in_points": 5728
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "36217 Eingriff der Kategorie L7\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie L7 entsprechend Anhang 2\nIm Anschluss an die Leistung nach der Nr. 36217 kann für die\npostoperative Überwachung die Gebührenordnungsposition 36507\nberechnet werden."
+    },
+    {
+      "code": "36218",
+      "title": "Zuschlag zu den Gebührenordnungspositionen 36211 bis 36216 bei Simultaneingriffen und zu der Gebührenordnungsposition 36217",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 57.84,
+        "valuation_in_points": 454
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "36218 Zuschlag zu den Gebührenordnungspositionen 36211 bis 36216 bei\nSimultaneingriffen und zu der Gebührenordnungsposition 36217\nObligater Leistungsinhalt\n- Schnitt-Naht-Zeit je weitere vollendete 15 Minuten\n- Nachweis der Schnitt-Naht-Zeit über das Anästhesieprotokoll oder\nden OP-Bericht\nje weitere vollendete 15 Minuten Schnitt-Naht-Zeit\nDie Gebührenordnungsposition 36218 kann entsprechend Anhang\n2, Präambel 2.1, Nr. 14 als Zuschlag zu anderen belegärztlichen\nOperationen des Abschnitts 36.2 abgerechnet werden.\n36.2.8 Definierte operative Eingriffe der Mund-, Kiefer- und\nGesichtschirurgie\n1. Die Extraktion von bis zu vier einwurzeligen Zähnen oder bis\nzu zwei mehrwurzeligen Zähnen oder von einem mehrwurzeligen\nund bis zu vier einwurzeligen Zähnen muss nach den\nGebührenordnungspositionen 15321 bis 15324 berechnet werden."
+    },
+    {
+      "code": "36221",
+      "title": "Eingriff der MKG-Chirurgie der Kategorie M1",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 53.89,
+        "valuation_in_points": 423
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "36221 Eingriff der MKG-Chirurgie der Kategorie M1\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie M1 entsprechend Anhang 2\nIm Anschluss an die Leistung nach der Nr. 36221 kann für die\npostoperative Überwachung die Gebührenordnungsposition 36502\nberechnet werden."
+    },
+    {
+      "code": "36222",
+      "title": "Eingriff der MKG-Chirurgie der Kategorie M2",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 96.95,
+        "valuation_in_points": 761
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "36222 Eingriff der MKG-Chirurgie der Kategorie M2\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie M2 entsprechend Anhang 2\nIm Anschluss an die Leistung nach der Nr. 36222 kann für die\npostoperative Überwachung die Gebührenordnungsposition 36503\nberechnet werden."
+    },
+    {
+      "code": "36223",
+      "title": "Eingriff der MKG-Chirurgie der Kategorie M3",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 163.71,
+        "valuation_in_points": 1285
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "36223 Eingriff der MKG-Chirurgie der Kategorie M3\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie M3 entsprechend Anhang 2\nIm Anschluss an die Leistung nach der Nr. 36223 kann für die\npostoperative Überwachung die Gebührenordnungsposition 36504\nberechnet werden."
+    },
+    {
+      "code": "36224",
+      "title": "Eingriff der MKG-Chirurgie der Kategorie M4",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 258.63,
+        "valuation_in_points": 2030
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "36224 Eingriff der MKG-Chirurgie der Kategorie M4\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie M4 entsprechend Anhang 2\nIm Anschluss an die Leistung nach der Nr. 36224 kann für die\npostoperative Überwachung die Gebührenordnungsposition 36504\nberechnet werden."
+    },
+    {
+      "code": "36225",
+      "title": "Eingriff der MKG-Chirurgie der Kategorie M5",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 367.18,
+        "valuation_in_points": 2882
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "36225 Eingriff der MKG-Chirurgie der Kategorie M5\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie M5 entsprechend Anhang 2\nIm Anschluss an die Leistung nach der Nr. 36225 kann für die\npostoperative Überwachung die Gebührenordnungsposition 36505\nberechnet werden."
+    },
+    {
+      "code": "36226",
+      "title": "Eingriff der MKG-Chirurgie der Kategorie M6",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 547.58,
+        "valuation_in_points": 4298
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "36226 Eingriff der MKG-Chirurgie der Kategorie M6\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie M6 entsprechend Anhang 2\nIm Anschluss an die Leistung nach der Nr. 36226 kann für die\npostoperative Überwachung die Gebührenordnungsposition 36506\nberechnet werden."
+    },
+    {
+      "code": "36227",
+      "title": "Eingriff der MKG-Chirurgie der Kategorie M7",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 621.09,
+        "valuation_in_points": 4875
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "36227 Eingriff der MKG-Chirurgie der Kategorie M7\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie M7 entsprechend Anhang 2\nIm Anschluss an die Leistung nach der Nr. 36227 kann für die\npostoperative Überwachung die Gebührenordnungsposition 36507\nberechnet werden."
+    },
+    {
+      "code": "36228",
+      "title": "Zuschlag zu den Gebührenordnungspositionen 36221 bis 36226 bei Simultaneingriffen und zur Gebührenordnungsposition 36227",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 49.05,
+        "valuation_in_points": 385
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "36228 Zuschlag zu den Gebührenordnungspositionen 36221 bis 36226 bei\nSimultaneingriffen und zur Gebührenordnungsposition 36227\nObligater Leistungsinhalt\n- Schnitt-Naht-Zeit je weitere vollendete 15 Minuten\n- Nachweis der Schnitt-Naht-Zeit über das Anästhesieprotokoll oder\nden OP-Bericht\nje weitere vollendete 15 Minuten Schnitt-Naht-Zeit\nDie Gebührenordnungsposition 36228 kann entsprechend Anhang\n2, Präambel 2.1, Nr. 14 als Zuschlag zu anderen belegärztlichen\nOperationen des Abschnitts 36.2 abgerechnet werden.\n36.2.9 Definierte operative Eingriffe der HNO-Chirurgie\n1. Abweichend von Nr. 3 der Präambel zu Anhang 2 kann bei\nDurchführung der Leistung \"Plastische Korrektur abstehender\nOhren: Concharotation\" (OPS: 5-184.3) im Zusammenhang mit\nden Leistungen 5-184.0, 5-184.1 und 5-184.2 auch dann ein\nSimultaneingriff abgerechnet werden, wenn nur ein operativer Zugang\nvorliegt."
+    },
+    {
+      "code": "36231",
+      "title": "Eingriffe der HNO-Chirurgie der Kategorie N1",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 60.9,
+        "valuation_in_points": 478
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "36231 Eingriffe der HNO-Chirurgie der Kategorie N1\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie N1 entsprechend Anhang 2\nIm Anschluss an die Leistung nach der Nr. 36231 kann für die\npostoperative Überwachung die Gebührenordnungsposition 36502\nberechnet werden."
+    },
+    {
+      "code": "36232",
+      "title": "Eingriffe der HNO-Chirurgie der Kategorie N2",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 106.25,
+        "valuation_in_points": 834
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "36232 Eingriffe der HNO-Chirurgie der Kategorie N2\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie N2 entsprechend Anhang 2\nIm Anschluss an die Leistung nach der Nr. 36232 kann für die\npostoperative Überwachung die Gebührenordnungsposition 36503\nberechnet werden.\nAbweichend davon kann im Anschluss an die Leistung nach der Nr.\n36232 in Verbindung mit dem OPS-Kode 5-281.5 für die postoperative\nÜberwachung die Gebührenordnungsposition 36504 berechnet werden."
+    },
+    {
+      "code": "36233",
+      "title": "Eingriffe der HNO-Chirurgie der Kategorie N3",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 169.96,
+        "valuation_in_points": 1334
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "36233 Eingriffe der HNO-Chirurgie der Kategorie N3\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie N3 entsprechend Anhang 2\nIm Anschluss an die Leistung nach der Nr. 36233 kann für die\npostoperative Überwachung die Gebührenordnungsposition 36504\nberechnet werden."
+    },
+    {
+      "code": "36234",
+      "title": "Eingriffe der HNO-Chirurgie der Kategorie N4",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 268.57,
+        "valuation_in_points": 2108
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "36234 Eingriffe der HNO-Chirurgie der Kategorie N4\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie N4 entsprechend Anhang 2\nIm Anschluss an die Leistung nach der Nr. 36234 kann für die\npostoperative Überwachung die Gebührenordnungsposition 36504\nberechnet werden."
+    },
+    {
+      "code": "36235",
+      "title": "Eingriffe der HNO-Chirurgie der Kategorie N5",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 401.58,
+        "valuation_in_points": 3152
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "36235 Eingriffe der HNO-Chirurgie der Kategorie N5\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie N5 entsprechend Anhang 2\nIm Anschluss an die Leistung nach der Nr. 36235 kann für die\npostoperative Überwachung die Gebührenordnungsposition 36505\nberechnet werden."
+    },
+    {
+      "code": "36236",
+      "title": "Eingriffe der HNO-Chirurgie der Kategorie N6",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 547.07,
+        "valuation_in_points": 4294
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "36236 Eingriffe der HNO-Chirurgie der Kategorie N6\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie N6 entsprechend Anhang 2\nIm Anschluss an die Leistung nach der Nr. 36236 kann für die\npostoperative Überwachung die Gebührenordnungsposition 36506\nberechnet werden."
+    },
+    {
+      "code": "36237",
+      "title": "Eingriffe der HNO-Chirurgie der Kategorie N7",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 721.49,
+        "valuation_in_points": 5663
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "36237 Eingriffe der HNO-Chirurgie der Kategorie N7\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie N7 entsprechend Anhang 2\nIm Anschluss an die Leistung nach der Nr. 36237 kann für die\npostoperative Überwachung die Gebührenordnungsposition 36507\nberechnet werden."
+    },
+    {
+      "code": "36238",
+      "title": "Zuschlag zu den Gebührenordnungspositionen 36231 bis 36236 bei Simultaneingriffen und zu der Gebührenordnungsposition 36237",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 55.42,
+        "valuation_in_points": 435
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "36238 Zuschlag zu den Gebührenordnungspositionen 36231 bis 36236 bei\nSimultaneingriffen und zu der Gebührenordnungsposition 36237\nObligater Leistungsinhalt\n- Schnitt-Naht-Zeit je weitere vollendete 15 Minuten\n- Nachweis der Schnitt-Naht-Zeit über das Anästhesieprotokoll oder\nden OP-Bericht\nje weitere vollendete 15 Minuten Schnitt-Naht-Zeit\nDie Gebührenordnungsposition 36238 kann entsprechend Anhang\n2, Präambel 2.1, Nr. 14 als Zuschlag zu anderen belegärztlichen\nOperationen des Abschnitts 36.2 abgerechnet werden.\n36.2.10 Definierte operative Eingriffe der Neurochirurgie\n1. Eingriffe, die nach den OPS-Kodes 5-010.00 bis\n5-010.14 sowie 5-030.40 bis 5-032.42 kodiert werden, sind nur als\nselbstständige Leistung berechnungsfähig."
+    },
+    {
+      "code": "36241",
+      "title": "Peripherer neurochirurgischer Eingriff der Kategorie O1",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 61.66,
+        "valuation_in_points": 484
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "36241 Peripherer neurochirurgischer Eingriff der Kategorie O1\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie O1 entsprechend Anhang 2\nIm Anschluss an die Leistung nach der Nr. 36241 kann für die\npostoperative Überwachung die Gebührenordnungsposition 36502\nberechnet werden."
+    },
+    {
+      "code": "36242",
+      "title": "Peripherer neurochirurgischer Eingriff der Kategorie O2",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 106.51,
+        "valuation_in_points": 836
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "36242 Peripherer neurochirurgischer Eingriff der Kategorie O2\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie O2 entsprechend Anhang 2\nIm Anschluss an die Leistung nach der Nr. 36242 kann für die\npostoperative Überwachung die Gebührenordnungsposition 36503\nberechnet werden."
+    },
+    {
+      "code": "36243",
+      "title": "Peripherer neurochirurgischer Eingriff der Kategorie O3",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 168.05,
+        "valuation_in_points": 1319
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "36243 Peripherer neurochirurgischer Eingriff der Kategorie O3\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie O3 entsprechend Anhang 2\nIm Anschluss an die Leistung nach der Nr. 36243 kann für die\npostoperative Überwachung die Gebührenordnungsposition 36504\nberechnet werden."
+    },
+    {
+      "code": "36244",
+      "title": "Peripherer neurochirurgischer Eingriff der Kategorie O4",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 287.68,
+        "valuation_in_points": 2258
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "36244 Peripherer neurochirurgischer Eingriff der Kategorie O4\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie O4 entsprechend Anhang 2\nIm Anschluss an die Leistung nach der Nr. 36244 kann für die\npostoperative Überwachung die Gebührenordnungsposition 36504\nberechnet werden."
+    },
+    {
+      "code": "36245",
+      "title": "Peripherer neurochirurgischer Eingriff der Kategorie O5",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 421.58,
+        "valuation_in_points": 3309
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "36245 Peripherer neurochirurgischer Eingriff der Kategorie O5\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie O5 entsprechend Anhang 2\nIm Anschluss an die Leistung nach der Nr. 36245 kann für die\npostoperative Überwachung die Gebührenordnungsposition 36505\nberechnet werden."
+    },
+    {
+      "code": "36246",
+      "title": "Peripherer neurochirurgischer Eingriff der Kategorie O6",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 569.37,
+        "valuation_in_points": 4469
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "36246 Peripherer neurochirurgischer Eingriff der Kategorie O6\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie O6 entsprechend Anhang 2\nIm Anschluss an die Leistung nach der Nr. 36246 kann für die\npostoperative Überwachung die Gebührenordnungsposition 36506\nberechnet werden."
+    },
+    {
+      "code": "36247",
+      "title": "Peripherer neurochirurgischer Eingriff der Kategorie O7",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 678.81,
+        "valuation_in_points": 5328
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "36247 Peripherer neurochirurgischer Eingriff der Kategorie O7\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie O7 entsprechend Anhang 2\nIm Anschluss an die Leistung nach der Nr. 36247 kann für die\npostoperative Überwachung die Gebührenordnungsposition 36507\nberechnet werden."
+    },
+    {
+      "code": "36248",
+      "title": "Zuschlag zu den Gebührenordnungspositionen 36241 bis 36246 bei Simultaneingriffen und zu der Gebührenordnungsposition 36247",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 57.84,
+        "valuation_in_points": 454
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "36248 Zuschlag zu den Gebührenordnungspositionen 36241 bis 36246 bei\nSimultaneingriffen und zu der Gebührenordnungsposition 36247\nObligater Leistungsinhalt\n- Schnitt-Naht-Zeit je weitere vollendete 15 Minuten\n- Nachweis der Schnitt-Naht-Zeit über das Anästhesieprotokoll oder\nden OP-Bericht\nje weitere vollendete 15 Minuten Schnitt-Naht-Zeit\nDie Gebührenordnungsposition 36248 kann entsprechend Anhang\n2, Präambel 2.1, Nr. 14 als Zuschlag zu anderen belegärztlichen\nOperationen des Abschnitts 36.2 abgerechnet werden."
+    },
+    {
+      "code": "36251",
+      "title": "Zentraler neurochirurgischer Eingriff der Kategorie P1",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 87.14,
+        "valuation_in_points": 684
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "36251 Zentraler neurochirurgischer Eingriff der Kategorie P1\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie P1 entsprechend Anhang 2\nIm Anschluss an die Leistung nach der Nr. 36251 kann für die\npostoperative Überwachung die Gebührenordnungsposition 36504\nberechnet werden."
+    },
+    {
+      "code": "36252",
+      "title": "Zentraler neurochirurgischer Eingriff der Kategorie P2",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 159.13,
+        "valuation_in_points": 1249
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "36252 Zentraler neurochirurgischer Eingriff der Kategorie P2\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie P2 entsprechend Anhang 2\nIm Anschluss an die Leistung nach der Nr. 36252 kann für die\npostoperative Überwachung die Gebührenordnungsposition 36504\nberechnet werden."
+    },
+    {
+      "code": "36253",
+      "title": "Zentraler neurochirurgischer Eingriff der Kategorie P3",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 220.92,
+        "valuation_in_points": 1734
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "36253 Zentraler neurochirurgischer Eingriff der Kategorie P3\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie P3 entsprechend Anhang 2\nIm Anschluss an die Leistung nach der Nr. 36253 kann für die\npostoperative Überwachung die Gebührenordnungsposition 36504\nberechnet werden."
+    },
+    {
+      "code": "36254",
+      "title": "Zentraler neurochirurgischer Eingriff der Kategorie P4",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 324.75,
+        "valuation_in_points": 2549
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "36254 Zentraler neurochirurgischer Eingriff der Kategorie P4\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie P4 entsprechend Anhang 2\nIm Anschluss an die Leistung nach der Nr. 36254 kann für die\npostoperative Überwachung die Gebührenordnungsposition 36504\nberechnet werden."
+    },
+    {
+      "code": "36255",
+      "title": "Zentraler neurochirurgischer Eingriff der Kategorie P5",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 459.42,
+        "valuation_in_points": 3606
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "36255 Zentraler neurochirurgischer Eingriff der Kategorie P5\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie P5 entsprechend Anhang 2\nIm Anschluss an die Leistung nach der Nr. 36255 kann für die\npostoperative Überwachung die Gebührenordnungsposition 36505\nberechnet werden."
+    },
+    {
+      "code": "36256",
+      "title": "Zentraler neurochirurgischer Eingriff der Kategorie P6",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 627.08,
+        "valuation_in_points": 4922
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "36256 Zentraler neurochirurgischer Eingriff der Kategorie P6\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie P6 entsprechend Anhang 2\nIm Anschluss an die Leistung nach der Nr. 36256 kann für die\npostoperative Überwachung die Gebührenordnungsposition 36506\nberechnet werden."
+    },
+    {
+      "code": "36257",
+      "title": "Zentraler neurochirurgischer Eingriff der Kategorie P7",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 746.71,
+        "valuation_in_points": 5861
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "36257 Zentraler neurochirurgischer Eingriff der Kategorie P7\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie P7 entsprechend Anhang 2"
+    },
+    {
+      "code": "36258",
+      "title": "Zuschlag zu den Gebührenordnungspositionen 36251 bis 36256 bei Simultaneingriffen und zur Gebührenordnungsposition 36257",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 68.54,
+        "valuation_in_points": 538
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "36258 Zuschlag zu den Gebührenordnungspositionen 36251 bis 36256 bei\nSimultaneingriffen und zur Gebührenordnungsposition 36257\nObligater Leistungsinhalt\n- Schnitt-Naht-Zeit je weitere vollendete 15 Minuten\n- Nachweis der Schnitt-Naht-Zeit über das Anästhesieprotokoll oder\nden OP-Bericht\nje weitere vollendete 15 Minuten Schnitt-Naht-Zeit\nDie Gebührenordnungsposition 36258 kann entsprechend Anhang\n2, Präambel 2.1, Nr. 14 als Zuschlag zu anderen belegärztlichen\nOperationen des Abschnitts 36.2 abgerechnet werden."
+    },
+    {
+      "code": "36261",
+      "title": "Stereotaktischer neurochirurgischer Eingriff der Kategorie PP1",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 173.91,
+        "valuation_in_points": 1365
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "36261 Stereotaktischer neurochirurgischer Eingriff der Kategorie PP1\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie PP1 entsprechend Anhang 2\nIm Anschluss an die Leistung nach der Nr. 36261 kann für die\npostoperative Überwachung die Gebührenordnungsposition 36504\nberechnet werden."
+    },
+    {
+      "code": "36262",
+      "title": "Stereotaktischer neurochirurgischer Eingriff der Kategorie PP2",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 221.17,
+        "valuation_in_points": 1736
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "36262 Stereotaktischer neurochirurgischer Eingriff der Kategorie PP2\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie PP2 entsprechend Anhang 2\nIm Anschluss an die Leistung nach der Nr. 36262 kann für die\npostoperative Überwachung die Gebührenordnungsposition 36504\nberechnet werden."
+    },
+    {
+      "code": "36263",
+      "title": "Stereotaktischer neurochirurgischer Eingriff der Kategorie PP3",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 294.3,
+        "valuation_in_points": 2310
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "36263 Stereotaktischer neurochirurgischer Eingriff der Kategorie PP3\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie PP3 entsprechend Anhang 2"
+    },
+    {
+      "code": "36264",
+      "title": "Stereotaktischer neurochirurgischer Eingriff der Kategorie PP4",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 414.06,
+        "valuation_in_points": 3250
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "36264 Stereotaktischer neurochirurgischer Eingriff der Kategorie PP4\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie PP4 entsprechend Anhang 2"
+    },
+    {
+      "code": "36265",
+      "title": "Stereotaktischer neurochirurgischer Eingriff der Kategorie PP5",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 549.11,
+        "valuation_in_points": 4310
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "36265 Stereotaktischer neurochirurgischer Eingriff der Kategorie PP5\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie PP5 entsprechend Anhang 2"
+    },
+    {
+      "code": "36266",
+      "title": "Stereotaktischer neurochirurgischer Eingriff der Kategorie PP6",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 708.11,
+        "valuation_in_points": 5558
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "36266 Stereotaktischer neurochirurgischer Eingriff der Kategorie PP6\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie PP6 entsprechend Anhang 2"
+    },
+    {
+      "code": "36267",
+      "title": "Stereotaktischer neurochirurgischer Eingriff der Kategorie PP7",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 828.38,
+        "valuation_in_points": 6502
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "36267 Stereotaktischer neurochirurgischer Eingriff der Kategorie PP7\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie PP7 entsprechend Anhang 2"
+    },
+    {
+      "code": "36268",
+      "title": "Zuschlag zu den Gebührenordnungspositionen 36261 bis 36266 bei Simultaneingriffen und zu der Gebührenordnungsposition 36267",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 68.03,
+        "valuation_in_points": 534
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "36268 Zuschlag zu den Gebührenordnungspositionen 36261 bis 36266 bei\nSimultaneingriffen und zu der Gebührenordnungsposition 36267\nObligater Leistungsinhalt\n- Schnitt-Naht-Zeit je weitere vollendete 15 Minuten\n- Nachweis der Schnitt-Naht-Zeit über das Anästhesieprotokoll oder\nden OP-Bericht\nje weitere vollendete 15 Minuten Schnitt-Naht-Zeit\nDie Gebührenordnungsposition 36268 kann entsprechend Anhang\n2, Präambel 2.1, Nr. 14 als Zuschlag zu anderen belegärztlichen\nOperationen des Abschnitts 36.2 abgerechnet werden.\n36.2.11 Definierte operative Eingriffe an der Niere und dem Urogenitalsystem\nDie Durchführung und Berechnung von Leistungen dieses Abschnittes\nmit dem Ziel der Sterilisation des Mannes ist nicht berechnungsfähig. Die\nBerechnung von Leistungen zur Sterilisation des Mannes erfolgt nach der\nGebührenordnungsposition 01854."
+    },
+    {
+      "code": "36271",
+      "title": "Urologischer Eingriff der Kategorie Q1",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 62.94,
+        "valuation_in_points": 494
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "36271 Urologischer Eingriff der Kategorie Q1\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie Q1 entsprechend Anhang 2\nIm Anschluss an die Leistung nach der Nr. 36271 kann für die\npostoperative Überwachung die Gebührenordnungsposition 36502\nberechnet werden."
+    },
+    {
+      "code": "36272",
+      "title": "Urologischer Eingriff der Kategorie Q2",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 111.1,
+        "valuation_in_points": 872
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "36272 Urologischer Eingriff der Kategorie Q2\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie Q2 entsprechend Anhang 2\nIm Anschluss an die Leistung nach der Nr. 36272 kann für die\npostoperative Überwachung die Gebührenordnungsposition 36503\nberechnet werden."
+    },
+    {
+      "code": "36273",
+      "title": "Urologischer Eingriff der Kategorie Q3",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 200.53,
+        "valuation_in_points": 1574
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "36273 Urologischer Eingriff der Kategorie Q3\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie Q3 entsprechend Anhang 2\nIm Anschluss an die Leistung nach der Nr. 36273 kann für die\npostoperative Überwachung die Gebührenordnungsposition 36505\nberechnet werden."
+    },
+    {
+      "code": "36274",
+      "title": "Urologischer Eingriff der Kategorie Q4",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 323.86,
+        "valuation_in_points": 2542
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "36274 Urologischer Eingriff der Kategorie Q4\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie Q4 entsprechend Anhang 2\nIm Anschluss an die Leistung nach der Nr. 36274 kann für die\npostoperative Überwachung die Gebührenordnungsposition 36505\nberechnet werden."
+    },
+    {
+      "code": "36275",
+      "title": "Urologischer Eingriff der Kategorie Q5",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 507.96,
+        "valuation_in_points": 3987
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "36275 Urologischer Eingriff der Kategorie Q5\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie Q5 entsprechend Anhang 2\nIm Anschluss an die Leistung nach der Nr. 36275 kann für die\npostoperative Überwachung die Gebührenordnungsposition 36506\nberechnet werden."
+    },
+    {
+      "code": "36276",
+      "title": "Urologischer Eingriff der Kategorie Q6",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 736.27,
+        "valuation_in_points": 5779
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "36276 Urologischer Eingriff der Kategorie Q6\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie Q6 entsprechend Anhang 2\nIm Anschluss an die Leistung nach der Nr. 36276 kann für die\npostoperative Überwachung die Gebührenordnungsposition 36507\nberechnet werden."
+    },
+    {
+      "code": "36277",
+      "title": "Urologischer Eingriff der Kategorie Q7",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 867.75,
+        "valuation_in_points": 6811
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "36277 Urologischer Eingriff der Kategorie Q7\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie Q7 entsprechend Anhang 2\nIm Anschluss an die Leistung nach der Nr. 36277 kann für die\npostoperative Überwachung die Gebührenordnungsposition 36507\nberechnet werden."
+    },
+    {
+      "code": "36278",
+      "title": "Zuschlag zu den Gebührenordnungspositionen 36271 bis 36276 bei Simultaneingriffen und zu der Gebührenordnungsposition 36277",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 82.43,
+        "valuation_in_points": 647
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "36278 Zuschlag zu den Gebührenordnungspositionen 36271 bis 36276 bei\nSimultaneingriffen und zu der Gebührenordnungsposition 36277\nObligater Leistungsinhalt\n- Schnitt-Naht-Zeit je weitere vollendete 15 Minuten\n- Nachweis der Schnitt-Naht-Zeit über das Anästhesieprotokoll oder\nden OP-Bericht\nje weitere vollendete 15 Minuten Schnitt-Naht-Zeit\nDie Gebührenordnungsposition 36278 kann entsprechend Anhang\n2, Präambel 2.1, Nr. 14 als Zuschlag zu anderen belegärztlichen\nOperationen des Abschnitts 36.2 abgerechnet werden."
+    },
+    {
+      "code": "36281",
+      "title": "Endoskopischer urologischer Eingriff der Kategorie R1",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 71.98,
+        "valuation_in_points": 565
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "36281 Endoskopischer urologischer Eingriff der Kategorie R1\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie R1 entsprechend Anhang 2\nIm Anschluss an die Leistung nach der Nr. 36281 kann für die\npostoperative Überwachung die Gebührenordnungsposition 36502\nberechnet werden."
+    },
+    {
+      "code": "36282",
+      "title": "Endoskopischer urologischer Eingriff der Kategorie R2",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 113.64,
+        "valuation_in_points": 892
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "36282 Endoskopischer urologischer Eingriff der Kategorie R2\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie R2 entsprechend Anhang 2\nIm Anschluss an die Leistung nach der Nr. 36282 kann für die\npostoperative Überwachung die Gebührenordnungsposition 36503\nberechnet werden."
+    },
+    {
+      "code": "36283",
+      "title": "Endoskopischer urologischer Eingriff der Kategorie R3",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 172.25,
+        "valuation_in_points": 1352
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "36283 Endoskopischer urologischer Eingriff der Kategorie R3\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie R3 entsprechend Anhang 2\nIm Anschluss an die Leistung nach der Nr. 36283 kann für die\npostoperative Überwachung die Gebührenordnungsposition 36505\nberechnet werden."
+    },
+    {
+      "code": "36284",
+      "title": "Endoskopischer urologischer Eingriff der Kategorie R4",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 263.47,
+        "valuation_in_points": 2068
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "36284 Endoskopischer urologischer Eingriff der Kategorie R4\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie R4 entsprechend Anhang 2\nIm Anschluss an die Leistung nach der Nr. 36284 kann für die\npostoperative Überwachung die Gebührenordnungsposition 36505\nberechnet werden."
+    },
+    {
+      "code": "36285",
+      "title": "Endoskopischer urologischer Eingriff der Kategorie R5",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 463.62,
+        "valuation_in_points": 3639
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "36285 Endoskopischer urologischer Eingriff der Kategorie R5\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie R5 entsprechend Anhang 2\nIm Anschluss an die Leistung nach der Nr. 36285 kann für die\npostoperative Überwachung die Gebührenordnungsposition 36506\nberechnet werden."
+    },
+    {
+      "code": "36286",
+      "title": "Endoskopischer urologischer Eingriff der Kategorie R6",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 722.64,
+        "valuation_in_points": 5672
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "36286 Endoskopischer urologischer Eingriff der Kategorie R6\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie R6 entsprechend Anhang 2\nIm Anschluss an die Leistung nach der Nr. 36286 kann für die\npostoperative Überwachung die Gebührenordnungsposition 36507\nberechnet werden."
+    },
+    {
+      "code": "36287",
+      "title": "Endoskopischer urologischer Eingriff der Kategorie R7",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 848.13,
+        "valuation_in_points": 6657
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "36287 Endoskopischer urologischer Eingriff der Kategorie R7\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie R7 entsprechend Anhang 2\nIm Anschluss an die Leistung nach der Nr. 36287 kann für die\npostoperative Überwachung die Gebührenordnungsposition 36507\nberechnet werden."
+    },
+    {
+      "code": "36288",
+      "title": "Zuschlag zu den Gebührenordnungspositionen 36281 bis 36286 bei Simultaneingriffen und zu der Gebührenordnungsposition 36287",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 56.69,
+        "valuation_in_points": 445
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "36288 Zuschlag zu den Gebührenordnungspositionen 36281 bis 36286 bei\nSimultaneingriffen und zu der Gebührenordnungsposition 36287\nObligater Leistungsinhalt\n- Schnitt-Naht-Zeit je weitere vollendete 15 Minuten\n- Nachweis der Schnitt-Naht-Zeit über das Anästhesieprotokoll oder\nden OP-Bericht\nje weitere vollendete 15 Minuten Schnitt-Naht-Zeit\nDie Gebührenordnungsposition 36288 kann entsprechend Anhang\n2, Präambel 2.1, Nr. 14 als Zuschlag zu anderen belegärztlichen\nOperationen des Abschnitts 36.2 abgerechnet werden."
+    },
+    {
+      "code": "36289",
+      "title": "Laserendoskopischer urologischer Eingriff der Kategorie RW3",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 272.13,
+        "valuation_in_points": 2136
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "36289 Laserendoskopischer urologischer Eingriff der Kategorie RW3\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie RW3 entsprechend Anhang 2 mit\neiner Schnitt-Naht-Zeit bis 45 Minuten\nIm Anschluss an die Leistung nach der Nr. 36289 kann für die\npostoperative Überwachung die Gebührenordnungsposition 36505\nberechnet werden.\nDie Berechnung der Gebührenordnungsposition 36289 setzt eine\nGenehmigung der Kassenärztlichen Vereinigung nach der Vereinbarung\nvon Qualitätssicherungsmaßnahmen nach § 135 Abs. 2 SGB V zu Nicht-\nmedikamentösen, lokalen Verfahren zur Laserbehandlung des benignen\nProstatasyndroms (bPS) voraus."
+    },
+    {
+      "code": "36290",
+      "title": "Zuschlag zu der Gebührenordnungsposition 36289",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 59.12,
+        "valuation_in_points": 464
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "36290 Zuschlag zu der Gebührenordnungsposition 36289\nObligater Leistungsinhalt\n- Schnitt-Naht-Zeit je weitere vollendete 15 Minuten\n- Nachweis der Schnitt-Naht-Zeit über das Anästhesieprotokoll oder\nden OP-Bericht\nje weitere vollendete 15 Minuten Schnitt-Naht-Zeit\nDie Berechnung der Gebührenordnungsposition 36290 setzt eine\nGenehmigung der Kassenärztlichen Vereinigung nach der Vereinbarung\nvon Qualitätssicherungsmaßnahmen nach § 135 Abs. 2 SGB V zu Nicht-\nmedikamentösen, lokalen Verfahren zur Laserbehandlung des benignen\nProstatasyndroms (bPS) voraus.\nDie Gebührenordnungsposition 36290 ist je Eingriff höchstens dreimal\nberechnungsfähig."
+    },
+    {
+      "code": "36291",
+      "title": "(Endoskopischer) urologischer Eingriff mit Bildwandler der Kategorie RR1",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 71.98,
+        "valuation_in_points": 565
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "36291 (Endoskopischer) urologischer Eingriff mit Bildwandler der\nKategorie RR1\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie RR1 entsprechend Anhang 2\n- Durchleuchtung\n- Bilddokumentation des prä- und postoperativen Befundes\nIm Anschluss an die Leistung nach der Nr. 36291 kann für die\npostoperative Überwachung die Gebührenordnungsposition 36503\nberechnet werden.\nDie Berechnung der Gebührenordnungsposition 36291 setzt eine\nGenehmigung der Kassenärztlichen Vereinigung nach der Vereinbarung\nzur Strahlendiagnostik und -therapie gemäß § 135 Abs. 2 SGB V voraus."
+    },
+    {
+      "code": "36292",
+      "title": "(Endoskopischer) urologischer Eingriff mit Bildwandler der Kategorie RR2",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 141.42,
+        "valuation_in_points": 1110
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "36292 (Endoskopischer) urologischer Eingriff mit Bildwandler der\nKategorie RR2\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie RR2 entsprechend Anhang 2\n- Durchleuchtung\n- Bilddokumentation des prä- und postoperativen Befundes\nIm Anschluss an die Leistung nach der Nr. 36292 kann für die\npostoperative Überwachung die Gebührenordnungsposition 36503\nberechnet werden.\nDie Berechnung der Gebührenordnungsposition 36292 setzt eine\nGenehmigung der Kassenärztlichen Vereinigung nach der Vereinbarung\nzur Strahlendiagnostik und -therapie gemäß § 135 Abs. 2 SGB V voraus."
+    },
+    {
+      "code": "36293",
+      "title": "(Endoskopischer) urologischer Eingriff mit Bildwandler der Kategorie RR3",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 210.22,
+        "valuation_in_points": 1650
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "36293 (Endoskopischer) urologischer Eingriff mit Bildwandler der\nKategorie RR3\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie RR3 entsprechend Anhang 2\n- Durchleuchtung\n- Bilddokumentation des prä- und postoperativen Befundes\nIm Anschluss an die Leistung nach der Nr. 36293 kann für die\npostoperative Überwachung die Gebührenordnungsposition 36505\nberechnet werden.\nDie Berechnung der Gebührenordnungsposition 36293 setzt eine\nGenehmigung der Kassenärztlichen Vereinigung nach der Vereinbarung\nzur Strahlendiagnostik und -therapie gemäß § 135 Abs. 2 SGB V voraus."
+    },
+    {
+      "code": "36294",
+      "title": "(Endoskopischer) urologischer Eingriff mit Bildwandler der Kategorie RR4",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 329.98,
+        "valuation_in_points": 2590
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "36294 (Endoskopischer) urologischer Eingriff mit Bildwandler der\nKategorie RR4\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie RR4 entsprechend Anhang 2\n- Durchleuchtung\n- Bilddokumentation des prä- und postoperativen Befundes\nIm Anschluss an die Leistung nach der Nr. 36294 kann für die\npostoperative Überwachung die Gebührenordnungsposition 36505\nberechnet werden.\nDie Berechnung der Gebührenordnungsposition 36294 setzt eine\nGenehmigung der Kassenärztlichen Vereinigung nach der Vereinbarung\nzur Strahlendiagnostik und -therapie gemäß § 135 Abs. 2 SGB V voraus."
+    },
+    {
+      "code": "36295",
+      "title": "(Endoskopischer) urologischer Eingriff mit Bildwandler der Kategorie RR5",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 463.88,
+        "valuation_in_points": 3641
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "36295 (Endoskopischer) urologischer Eingriff mit Bildwandler der\nKategorie RR5\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie RR5 entsprechend Anhang 2\n- Durchleuchtung\n- Bilddokumentation des prä- und postoperativen Befundes\nIm Anschluss an die Leistung nach der Nr. 36295 kann für die\npostoperative Überwachung die Gebührenordnungsposition 36506\nberechnet werden.\nDie Berechnung der Gebührenordnungsposition 36295 setzt eine\nGenehmigung der Kassenärztlichen Vereinigung nach der Vereinbarung\nzur Strahlendiagnostik und -therapie gemäß § 135 Abs. 2 SGB V voraus."
+    },
+    {
+      "code": "36296",
+      "title": "(Endoskopischer) urologischer Eingriff mit Bildwandler der Kategorie RR6",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 684.54,
+        "valuation_in_points": 5373
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "36296 (Endoskopischer) urologischer Eingriff mit Bildwandler der\nKategorie RR6\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie RR6 entsprechend Anhang 2\n- Durchleuchtung\n- Bilddokumentation des prä- und postoperativen Befundes\nIm Anschluss an die Leistung nach der Nr. 36296 kann für die\npostoperative Überwachung die Gebührenordnungsposition 36507\nberechnet werden.\nDie Berechnung der Gebührenordnungsposition 36296 setzt eine\nGenehmigung der Kassenärztlichen Vereinigung nach der Vereinbarung\nzur Strahlendiagnostik und -therapie gemäß § 135 Abs. 2 SGB V voraus."
+    },
+    {
+      "code": "36297",
+      "title": "(Endoskopischer) urologischer Eingriff mit Bildwandler der Kategorie RR7",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 745.31,
+        "valuation_in_points": 5850
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "36297 (Endoskopischer) urologischer Eingriff mit Bildwandler der\nKategorie RR7\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie RR7 entsprechend Anhang 2\n- Durchleuchtung\n- Bilddokumentation des prä- und postoperativen Befundes\nIm Anschluss an die Leistung nach der Nr. 36297 kann für die\npostoperative Überwachung die Gebührenordnungsposition 36507\nberechnet werden.\nDie Berechnung der Gebührenordnungsposition 36297 setzt eine\nGenehmigung der Kassenärztlichen Vereinigung nach der Vereinbarung\nzur Strahlendiagnostik und -therapie gemäß § 135 Abs. 2 SGB V voraus."
+    },
+    {
+      "code": "36298",
+      "title": "Zuschlag zu den Gebührenordnungspositionen 36291 bis 36296 bei Simultaneingriffen und zu der Gebührenordnungsposition 36297",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 65.49,
+        "valuation_in_points": 514
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "36298 Zuschlag zu den Gebührenordnungspositionen 36291 bis 36296 bei\nSimultaneingriffen und zu der Gebührenordnungsposition 36297\nObligater Leistungsinhalt\n- Schnitt-Naht-Zeit je weitere vollendete 15 Minuten\n- Nachweis der Schnitt-Naht-Zeit über das Anästhesieprotokoll oder\nden OP-Bericht\nje weitere vollendete 15 Minuten Schnitt-Naht-Zeit\nDie Gebührenordnungsposition 36298 kann entsprechend Anhang\n2, Präambel 2.1, Nr. 14 als Zuschlag zu anderen belegärztlichen\nOperationen des Abschnitts 36.2 abgerechnet werden.\n36.2.12 Definierte operative Eingriffe der Gynäkologie\n1. Die Durchführung und Berechnung von Leistungen dieses Abschnittes\nmit dem Ziel der Sterilisation der Frau ist nicht berechnungsfähig. Die\nBerechnung von Leistungen zur Sterilisation der Frau erfolgt nach der\nGebührenordnungsposition 01855.\n2. Die Leistung: \"Exzision und Destruktion von erkranktem Gewebe\ndes Uterus: Endometriumablation: Hochfrequenzablation\" (OPS:\n5-681.53) gemäß Nr. 39 der Anlage I \"Anerkannte\nUntersuchungs- oder Behandlungsmethoden\" der Richtlinie Methoden\nvertragsärztliche Versorgung des Gemeinsamen Bundesausschusses\nmit der Kategorie TT2 beinhaltet die Durchführung einer\ndiagnostischen Hysteroskopie in derselben Sitzung. Diese ist über die\nzusätzliche Angabe \"Diagnostische Hysteroskopie\" (OPS: 1-672) zu\ndokumentieren.\nBei Durchführung der Leistung: \"Exzision und Destruktion\nvon erkranktem Gewebe des Uterus: Endometriumablation:\nHochfrequenzablation\" (OPS: 5-681.53) ohne \"Diagnostische\nHysteroskopie\" (OPS: 1-672) in derselben Sitzung sind folgende\nAbschläge vorzunehmen.\nGOP Abschlag in Punkten\n36319 710\n36503 29\n36822 232"
+    },
+    {
+      "code": "36301",
+      "title": "Gynäkologischer Eingriff der Kategorie S1",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 55.17,
+        "valuation_in_points": 433
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "36301 Gynäkologischer Eingriff der Kategorie S1\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie S1 entsprechend Anhang 2\nIm Anschluss an die Leistung nach der Nr. 36301 kann für die\npostoperative Überwachung die Gebührenordnungsposition 36502\nberechnet werden."
+    },
+    {
+      "code": "36302",
+      "title": "Gynäkologischer Eingriff der Kategorie S2",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 93.51,
+        "valuation_in_points": 734
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "36302 Gynäkologischer Eingriff der Kategorie S2\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie S2 entsprechend Anhang 2\nIm Anschluss an die Leistung nach der Nr. 36302 kann für die\npostoperative Überwachung die Gebührenordnungsposition 36503\nberechnet werden."
+    },
+    {
+      "code": "36303",
+      "title": "Gynäkologischer Eingriff der Kategorie S3",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 169.32,
+        "valuation_in_points": 1329
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "36303 Gynäkologischer Eingriff der Kategorie S3\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie S3 entsprechend Anhang 2\nIm Anschluss an die Leistung nach der Nr. 36303 kann für die\npostoperative Überwachung die Gebührenordnungsposition 36505\nberechnet werden."
+    },
+    {
+      "code": "36304",
+      "title": "Gynäkologischer Eingriff der Kategorie S4",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 242.32,
+        "valuation_in_points": 1902
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "36304 Gynäkologischer Eingriff der Kategorie S4\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie S4 entsprechend Anhang 2\nIm Anschluss an die Leistung nach der Nr. 36304 kann für die\npostoperative Überwachung die Gebührenordnungsposition 36505\nberechnet werden."
+    },
+    {
+      "code": "36305",
+      "title": "Gynäkologischer Eingriff der Kategorie S5",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 356.09,
+        "valuation_in_points": 2795
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "36305 Gynäkologischer Eingriff der Kategorie S5\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie S5 entsprechend Anhang 2\nIm Anschluss an die Leistung nach der Nr. 36305 kann für die\npostoperative Überwachung die Gebührenordnungsposition 36506\nberechnet werden."
+    },
+    {
+      "code": "36306",
+      "title": "Gynäkologischer Eingriff der Kategorie S6",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 482.22,
+        "valuation_in_points": 3785
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "36306 Gynäkologischer Eingriff der Kategorie S6\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie S6 entsprechend Anhang 2\nIm Anschluss an die Leistung nach der Nr. 36306 kann für die\npostoperative Überwachung die Gebührenordnungsposition 36507\nberechnet werden."
+    },
+    {
+      "code": "36307",
+      "title": "Gynäkologischer Eingriff der Kategorie S7",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 573.7,
+        "valuation_in_points": 4503
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "36307 Gynäkologischer Eingriff der Kategorie S7\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie S7 entsprechend Anhang 2\nIm Anschluss an die Leistung nach der Nr. 36307 kann für die\npostoperative Überwachung die Gebührenordnungsposition 36507\nberechnet werden."
+    },
+    {
+      "code": "36308",
+      "title": "Zuschlag zu den Gebührenordnungspositionen 36301 bis 36306 bei Simultaneingriffen und zu der Gebührenordnungsposition 36307",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 41.02,
+        "valuation_in_points": 322
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "36308 Zuschlag zu den Gebührenordnungspositionen 36301 bis 36306 bei\nSimultaneingriffen und zu der Gebührenordnungsposition 36307\nObligater Leistungsinhalt\n- Schnitt-Naht-Zeit je weitere vollendete 15 Minuten\n- Nachweis der Schnitt-Naht-Zeit über das Anästhesieprotokoll oder\nden OP-Bericht\nje weitere vollendete 15 Minuten Schnitt-Naht-Zeit\nDie Gebührenordnungsposition 36308 kann entsprechend Anhang\n2, Präambel 2.1, Nr. 14 als Zuschlag zu anderen belegärztlichen\nOperationen des Abschnitts 36.2 abgerechnet werden."
+    },
+    {
+      "code": "36311",
+      "title": "Endoskopischer gynäkologischer Eingriff der Kategorie T1",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 76.31,
+        "valuation_in_points": 599
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "36311 Endoskopischer gynäkologischer Eingriff der Kategorie T1\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie T1 entsprechend Anhang 2\nIm Anschluss an die Leistung nach der Nr. 36311 kann für die\npostoperative Überwachung die Gebührenordnungsposition 36503\nberechnet werden."
+    },
+    {
+      "code": "36312",
+      "title": "Endoskopischer gynäkologischer Eingriff der Kategorie T2",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 145.62,
+        "valuation_in_points": 1143
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "36312 Endoskopischer gynäkologischer Eingriff der Kategorie T2\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie T2 entsprechend Anhang 2\nIm Anschluss an die Leistung nach der Nr. 36312 kann für die\npostoperative Überwachung die Gebührenordnungsposition 36503\nberechnet werden."
+    },
+    {
+      "code": "36313",
+      "title": "Endoskopischer gynäkologischer Eingriff der Kategorie T3",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 226.4,
+        "valuation_in_points": 1777
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "36313 Endoskopischer gynäkologischer Eingriff der Kategorie T3\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie T3 entsprechend Anhang 2\nIm Anschluss an die Leistung nach der Nr. 36313 kann für die\npostoperative Überwachung die Gebührenordnungsposition 36505\nberechnet werden."
+    },
+    {
+      "code": "36314",
+      "title": "Endoskopischer gynäkologischer Eingriff der Kategorie T4",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 352.14,
+        "valuation_in_points": 2764
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "36314 Endoskopischer gynäkologischer Eingriff der Kategorie T4\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie T4 entsprechend Anhang 2\nIm Anschluss an die Leistung nach der Nr. 36314 kann für die\npostoperative Überwachung die Gebührenordnungsposition 36505\nberechnet werden."
+    },
+    {
+      "code": "36315",
+      "title": "Endoskopischer gynäkologischer Eingriff der Kategorie T5",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 484.77,
+        "valuation_in_points": 3805
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "36315 Endoskopischer gynäkologischer Eingriff der Kategorie T5\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie T5 entsprechend Anhang 2\nIm Anschluss an die Leistung nach der Nr. 36315 kann für die\npostoperative Überwachung die Gebührenordnungsposition 36506\nberechnet werden."
+    },
+    {
+      "code": "36316",
+      "title": "Endoskopischer gynäkologischer Eingriff der Kategorie T6",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 606.19,
+        "valuation_in_points": 4758
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "36316 Endoskopischer gynäkologischer Eingriff der Kategorie T6\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie T6 entsprechend Anhang 2\nIm Anschluss an die Leistung nach der Nr. 36316 kann für die\npostoperative Überwachung die Gebührenordnungsposition 36507\nberechnet werden."
+    },
+    {
+      "code": "36317",
+      "title": "Endoskopischer gynäkologischer Eingriff der Kategorie T7",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 733.08,
+        "valuation_in_points": 5754
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "36317 Endoskopischer gynäkologischer Eingriff der Kategorie T7\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie T7 entsprechend Anhang 2\nIm Anschluss an die Leistung nach der Nr. 36317 kann für die\npostoperative Überwachung die Gebührenordnungsposition 36507\nberechnet werden."
+    },
+    {
+      "code": "36318",
+      "title": "Zuschlag zu den Gebührenordnungspositionen 36311 bis 36316 bei Simultaneingriffen und zu der Gebührenordnungsposition 36317",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 67.01,
+        "valuation_in_points": 526
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "36318 Zuschlag zu den Gebührenordnungspositionen 36311 bis 36316 bei\nSimultaneingriffen und zu der Gebührenordnungsposition 36317\nObligater Leistungsinhalt\n- Schnitt-Naht-Zeit je weitere 15 Minuten\n- Nachweis der Schnitt-Naht-Zeit über das Anästhesieprotokoll oder\nden OP-Bericht\nje weitere vollendete 15 Minuten Schnitt-Naht-Zeit\nDie Gebührenordnungsposition 36318 kann entsprechend Anhang\n2, Präambel 2.1, Nr. 14 als Zuschlag zu anderen belegärztlichen\nOperationen des Abschnitts 36.2 abgerechnet werden."
+    },
+    {
+      "code": "36319",
+      "title": "Endoskopischer gynäkologischer Eingriff der Kategorie TT2",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 145.62,
+        "valuation_in_points": 1143
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "36319 Endoskopischer gynäkologischer Eingriff der Kategorie TT2\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie TT2 entsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 36319 kann für die\npostoperative Überwachung die Gebührenordnungsposition 36503\nberechnet werden.\n36.2.13 Definierte operative Eingriffe der Ophthalmochirurgie\n1. Ophthalmochirurgische Eingriffe gemäß dem OPS-Kode 5-126.8 sind\nnur bei Patienten berechnungsfähig, bei denen gemäß der Richtlinie\ndes Gemeinsamen Bundesausschusses (§ 2 der Nr. 27 der Anlage\nI \"Anerkannte Untersuchungs- oder Behandlungsmethoden\" der\nRichtlinie Methoden vertragsärztliche Versorgung) ein Keratokonus\nund eine subjektive Sehverschlechterung vorliegen sowie anhand\nmindestens eines der folgenden Kriterien eine Progredienz innerhalb\nder letzten 12 Monate festgestellt wurde:\n- Zunahme der maximalen Hornhautbrechkraft um >= 1 dpt\n- Zunahme des durch die subjektive Refraktion bestimmten\nAstigmatismus um >= 1 dpt\n- Abnahme der Basiskurve der bestsitzenden Kontaktlinse um >=\n0,1 mm.\n2. Die Gebührenordnungsposition 36364 gemäß dem OPS-Kode\n5-126.8 ist nur nach Durchführung einer topographischen\nUntersuchung gemäß Anhang 1 zur Indikationsstellung gemäß\nder Richtlinie des Gemeinsamen Bundesausschusses (§ 3 Abs.\n2 der Nr. 27 der Anlage I \"Anerkannte Untersuchungs- oder\nBehandlungsmethoden\" der Richtlinie Methoden vertragsärztliche\nVersorgung) berechnungsfähig, bei der die Ermittlung der Zunahme\nder maximalen Hornhautbrechkraft anhand des Vergleichs von\nzwei Messwerten erfolgt, die mit demselben Messgerät oder mit\nMessgeräten erhoben werden, deren Messungen vergleichbar sind.\n3. Die Gebührenordnungsposition 36364 gemäß dem OPS-Kode\n5-126.8 ist nur nach Durchführung einer tomographischen\nUntersuchung nach der Gebührenordnungsposition 06362 gemäß\nder Richtlinie des Gemeinsamen Bundesausschusses (§ 2\nder Nr. 27 der Anlage I \"Anerkannte Untersuchungs- oder\nBehandlungsmethoden\" der Richtlinie Methoden vertragsärztliche\nVersorgung) berechnungsfähig, bei der die zu bestimmende\nHornhautdicke an der dünnsten Stelle bei Beginn der Bestrahlung\nmindestens 400 µm beträgt. Die Durchführung der tomographischen\nUntersuchung darf nicht länger als zwei Quartale zurückliegen."
+    },
+    {
+      "code": "36321",
+      "title": "Extraocularer Eingriff der Kategorie U1",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 60.39,
+        "valuation_in_points": 474
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "36321 Extraocularer Eingriff der Kategorie U1\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie U1 entsprechend Anhang 2\nIm Anschluss an die Leistung nach der Nr. 36321 kann für die\npostoperative Überwachung die Gebührenordnungsposition 36502\nberechnet werden."
+    },
+    {
+      "code": "36322",
+      "title": "Extraocularer Eingriff der Kategorie U2",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 110.84,
+        "valuation_in_points": 870
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "36322 Extraocularer Eingriff der Kategorie U2\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie U2 entsprechend Anhang 2\nIm Anschluss an die Leistung nach der Nr. 36322 kann für die\npostoperative Überwachung die Gebührenordnungsposition 36503\nberechnet werden."
+    }
+  ]
+}

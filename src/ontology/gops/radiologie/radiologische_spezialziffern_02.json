@@ -1,0 +1,1204 @@
+{
+  "gops": [
+    {
+      "code": "31123",
+      "title": "Eingriff der Kategorie C3",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 283.09,
+        "valuation_in_points": 2222
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31123 Eingriff der Kategorie C3\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie C3 entsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31123 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31504, für\ndie postoperative Behandlung die Gebührenordnungsposition 31616\noder 31617 berechnet werden."
+    },
+    {
+      "code": "31124",
+      "title": "Eingriff der Kategorie C4",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 377.37,
+        "valuation_in_points": 2962
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31124 Eingriff der Kategorie C4\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie C4 entsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31124 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31504, für\ndie postoperative Behandlung die Gebührenordnungsposition 31618\noder 31619 berechnet werden."
+    },
+    {
+      "code": "31125",
+      "title": "Eingriff der Kategorie C5",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 528.85,
+        "valuation_in_points": 4151
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31125 Eingriff der Kategorie C5\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie C5 entsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31125 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31505, für\ndie postoperative Behandlung die Gebührenordnungsposition 31618\noder 31619 berechnet werden."
+    },
+    {
+      "code": "31126",
+      "title": "Eingriff der Kategorie C6",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 701.49,
+        "valuation_in_points": 5506
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31126 Eingriff der Kategorie C6\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie C6 entsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31126 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31506, für\ndie postoperative Behandlung die Gebührenordnungsposition 31620\noder 31621 berechnet werden."
+    },
+    {
+      "code": "31127",
+      "title": "Eingriff der Kategorie C7",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 889.53,
+        "valuation_in_points": 6982
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31127 Eingriff der Kategorie C7\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie C7 entsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31127 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31507, für\ndie postoperative Behandlung die Gebührenordnungsposition 31620\noder 31621 berechnet werden."
+    },
+    {
+      "code": "31128",
+      "title": "Zuschlag zu den Gebührenordnungspositionen 31121 bis 31126 bei Simultaneingriffen sowie zu der Gebührenordnungsposition 31127",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 82.94,
+        "valuation_in_points": 651
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31128 Zuschlag zu den Gebührenordnungspositionen 31121 bis 31126 bei\nSimultaneingriffen sowie zu der Gebührenordnungsposition 31127\nObligater Leistungsinhalt\n- Schnitt-Naht-Zeit je weitere vollendete 15 Minuten\n- Nachweis der Schnitt-Naht-Zeit über das Anästhesieprotokoll oder\nden OP-Bericht\nje weitere vollendete 15 Minuten Schnitt-Naht-Zeit\nDie Gebührenordnungsposition 31128 kann entsprechend Anhang 2\nPräambel 2.1, Nr. 14 als Zuschlag zu anderen ambulanten Operationen\ndes Abschnitts 31.2 abgerechnet werden\n31.2.4 Definierte operative Eingriffe an Knochen und Gelenken\n1. Abweichend von Nr. 3 der Präambel zu Anhang 2 kann\nbei Durchführung der Leistung: \"Andere gelenkplastische\nEingriffe: Pfannendachplastik am Hüftgelenk\" (OPS: 5-829.1) im\nZusammenhang mit den Leistungen 5-820.* und 5-821.* auch dann ein\nSimultaneingriff abgerechnet werden, wenn nur ein operativer Zugang\nvorliegt.\n2. Die intraartikuläre Einbringung von Karbonfaserstiften und die\nSachkosten für Karbonfaserstifte sind nicht berechnungsfähig.\n3. Operative Eingriffe an Knochen und Gelenken zur Revision von\nOsteosynthesematerial mit Reosteosynthese entsprechend den\nOPS-Kodes 5-78a.00, 5-78a.01, 5-78a.02, 5-78a.03, 5-78a.04\n5-78a.05, 5-78a.06, 5-78a.07, 5-78a.08, 5-78a.09, 5-78a.0a\n5-78a.0b, 5-78a.0c, 5-78a.0d, 5-78a.0e, 5-78a.0f, 5-78a.0g, 5-78a.0h\n5-78a.0j, 5-78a.0k, 5-78a.0m, 5-78a.0n, 5-78a.0p, 5-78a.0q, 5-78a.0r\n5-78a.0s, 5-78a.0t, 5-78a.0u, 5-78a.0v, 5-78a.0w, 5-78a.0z, 5-78a.10\n5-78a.11, 5-78a.12, 5-78a.13, 5-78a.14, 5-78a.15, 5-78a.16, 5-78a.17\n5-78a.18, 5-78a.19, 5-78a.1a, 5-78a.1b, 5-78a.1c, 5-78a.1d, 5-78a.1e\n5-78a.1f, 5-78a.1g, 5-78a.1h, 5-78a.1j, 5-78a.1k, 5-78a.1m, 5-78a.1n\n5-78a.1p, 5-78a.1q, 5-78a.1r, 5-78a.1s, 5-78a.1t, 5-78a.1u, 5-78a.1v\n5-78a.1w, 5-78a.1z, 5-78a.20, 5-78a.21, 5-78a.22, 5-78a.23\n5-78a.24, 5-78a.25, 5-78a.26, 5-78a.27, 5-78a.28, 5-78a.29\n5-78a.2a, 5-78a.2b, 5-78a.2c, 5-78a.2d, 5-78a.2f, 5-78a.2g, 5-78a.2h\n5-78a.2j, 5-78a.2k, 5-78a.2m, 5-78a.2n, 5-78a.2p, 5-78a.2q, 5-78a.2r\n5-78a.2s, 5-78a.2t, 5-78a.2u, 5-78a.2v, 5-78a.2w, 5-78a.2z, 5-78a.31\n5-78a.33, 5-78a.3e, 5-78a.3f, 5-78a.3h, 5-78a.3k, 5-78a.3n, 5-78a.4e\n5-78a.4f, 5-78a.4h, 5-78a.4k, 5-78a.54, 5-78a.57, 5-78a.59, 5-78a.5n\n5-78a.5p, 5-78a.5r, 5-78a.61, 5-78a.62, 5-78a.63, 5-78a.64, 5-78a.65\n5-78a.66, 5-78a.67, 5-78a.68, 5-78a.69, 5-78a.6e, 5-78a.6f, 5-78a.6g\n5-78a.6h, 5-78a.6k, 5-78a.6m, 5-78a.6n, 5-78a.6p, 5-78a.6q, 5-78a.6r\n5-78a.72, 5-78a.75, 5-78a.78, 5-78a.7b, 5-78a.7g, 5-78a.7m\n5-78a.7q, 5-78a.7v, 5-78a.80, 5-78a.81, 5-78a.82, 5-78a.83, 5-78a.84\n5-78a.85, 5-78a.86, 5-78a.87, 5-78a.88, 5-78a.89, 5-78a.8a\n5-78a.8b, 5-78a.8c, 5-78a.8d, 5-78a.8f, 5-78a.8g, 5-78a.8h, 5-78a.8k\n5-78a.8m, 5-78a.8n, 5-78a.8p, 5-78a.8q, 5-78a.8r, 5-78a.8s, 5-78a.8t\n5-78a.8u, 5-78a.8v, 5-78a.8w, 5-78a.90, 5-78a.91, 5-78a.92, 5-78a.93\n5-78a.94, 5-78a.95, 5-78a.96, 5-78a.97, 5-78a.98, 5-78a.99\n5-78a.9a, 5-78a.9b, 5-78a.9c, 5-78a.9d, 5-78a.9e, 5-78a.9f, 5-78a.9g\n5-78a.9h, 5-78a.9j, 5-78a.9k, 5-78a.9m, 5-78a.9n, 5-78a.9p, 5-78a.9q\n5-78a.9r, 5-78a.9s, 5-78a.9t, 5-78a.9u, 5-78a.9v, 5-78a.9w, 5-78a.9z\n5-78a.c1, 5-78a.c2, 5-78a.c3, 5-78a.c4, 5-78a.c5, 5-78a.c6, 5-78a.c7\n5-78a.c8, 5-78a.c9, 5-78a.ce, 5-78a.cf, 5-78a.cg, 5-78a.ch, 5-78a.ck\n5-78a.cm, 5-78a.cn, 5-78a.cp, 5-78a.cq, 5-78a.cr, 5-78a.e0, 5-78a.ea\n5-78a.eb, 5-78a.ec, 5-78a.ef, 5-78a.eh, 5-78a.ej, 5-78a.ek, 578a.en\n5-78a.ep, 5-78a.er, 5-78a.es, 5-78a.et, 5-78a.eu, 5-78a.ev, 5-78a.ew\n5-78a.ez, 5-78a.g0, 5-78a.g1, 5-78a.g2, 5-78a.g3, 5-78a.g4, 5-78a.g5\n5-78a.g6, 5-78a.g7, 5-78a.g8, 5-78a.g9, 5-78a.ga, 5-78a.gb\n5-78a.gc, 5-78a.ge, 5-78a.gf, 5-78a.gg, 5-78a.gh, 5-78a.gk, 5-78a.gm\n5-78a.gn, 5-78a.gp, 5-78a.gq, 5-78a.gr, 5-78a.gu, 5-78a.gv, 5-78a.gw\n5-78a.k0, 5-78a.k1, 5-78a.k2, 5-78a.k5, 5-78a.k6, 5-78a.k7, 5-78a.k8\n5-78a.k9, 5-78a.ka, 5-78a.kb, 5-78a.kc, 5-78a.kg, 5-78a.kh, 5-78a.kk\n5-78a.km, 5-78a.kn, 5-78a.kq, 5-78a.ks, 5-78a.kt, 5-78a.ku, 5-78a.kv\n5-78a.kw, 5-78a.kz, 5-78a.m1, 5-78a.m4, 5-78a.m5, 5-78a.m6\n5-78a.m7, 5-78a.m8, 5-78a.m9, 5-78a.ma, 5-78a.md, 5-78a.mf\n5-78a.mh, 5-78a.mm, 5-78a.mt, 5-78a.mu, 5-78a.n1, 5-78a.n3\n5-78a.n4, 5-78a.n6, 5-78a.n7, 5-78a.n9, 5-78a.nf, 5-78a.nh, 5-78a.nk\n5-78a.nn, 5-78a.np, 5-78a.nr, 5-78a.q0, 5-78a.q1, 5-78a.q2, 5-78a.q5\n5-78a.q6, 5-78a.q7, 5-78a.q8, 5-78a.q9, 5-78a.qa, 5-78a.qb, 5-78a.qc\n5-78a.qg, 5-78a.qh, 5-78a.qk, 5-78a.qm, 5-78a.qn, 5-78a.qq, 5-78a.qr\n5-78a.qs, 5-78a.qt, 5-78a.qu, 5-78a.qv, 5-78a.qw, 5-78a.qz sind nur\nberechnungsfähig sofern ein operativer Verfahrenswechsel durch\naufgetretene Komplikationen stattgefunden hat.\nDie Entfernung von Osteosynthesematerial ist nicht gesondert\nberechnungsfähig."
+    },
+    {
+      "code": "31131",
+      "title": "Eingriff an Knochen und Gelenken der Kategorie D1",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 138.62,
+        "valuation_in_points": 1088
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31131 Eingriff an Knochen und Gelenken der Kategorie D1\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie D1 entsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31131 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31502, für\ndie postoperative Behandlung die Gebührenordnungsposition 31614\noder 31615 berechnet werden."
+    },
+    {
+      "code": "31132",
+      "title": "Eingriff an Knochen und Gelenken der Kategorie D2",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 226.01,
+        "valuation_in_points": 1774
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31132 Eingriff an Knochen und Gelenken der Kategorie D2\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie D2 entsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31132 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31503, für\ndie postoperative Behandlung die Gebührenordnungsposition 31614\noder 31615 berechnet werden."
+    },
+    {
+      "code": "31133",
+      "title": "Eingriff an Knochen und Gelenken der Kategorie D3",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 336.22,
+        "valuation_in_points": 2639
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31133 Eingriff an Knochen und Gelenken der Kategorie D3\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie D3 entsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31133 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31504, für\ndie postoperative Behandlung die Gebührenordnungsposition 31616\noder 31617 berechnet werden."
+    },
+    {
+      "code": "31134",
+      "title": "Eingriff an Knochen und Gelenken der Kategorie D4",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 446.04,
+        "valuation_in_points": 3501
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31134 Eingriff an Knochen und Gelenken der Kategorie D4\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie D4 entsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31134 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31504, für\ndie postoperative Behandlung die Gebührenordnungsposition 31618\noder 31619 berechnet werden."
+    },
+    {
+      "code": "31135",
+      "title": "Eingriff an Knochen und Gelenken der Kategorie D5",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 672.57,
+        "valuation_in_points": 5279
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31135 Eingriff an Knochen und Gelenken der Kategorie D5\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie D5 entsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31135 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31505, für\ndie postoperative Behandlung die Gebührenordnungsposition 31618\noder 31619 berechnet werden."
+    },
+    {
+      "code": "31136",
+      "title": "Eingriff an Knochen und Gelenken der Kategorie D6",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 838.83,
+        "valuation_in_points": 6584
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31136 Eingriff an Knochen und Gelenken der Kategorie D6\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie D6 entsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31136 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31506, für\ndie postoperative Behandlung die Gebührenordnungsposition 31620\noder 31621 berechnet werden."
+    },
+    {
+      "code": "31137",
+      "title": "Eingriff an Knochen und Gelenken der Kategorie D7",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 1059.87,
+        "valuation_in_points": 8319
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31137 Eingriff an Knochen und Gelenken der Kategorie D7\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie D7 entsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31137 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31507, für\ndie postoperative Behandlung die Gebührenordnungsposition 31620\noder 31621 berechnet werden."
+    },
+    {
+      "code": "31138",
+      "title": "Zuschlag zu den Gebührenordnungspositionen 31131 bis 31136 bei Simultaneingriffen sowie zu der Gebührenordnungsposition 31137",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 90.97,
+        "valuation_in_points": 714
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31138 Zuschlag zu den Gebührenordnungspositionen 31131 bis 31136 bei\nSimultaneingriffen sowie zu der Gebührenordnungsposition 31137\nObligater Leistungsinhalt\n- Schnitt-Naht-Zeit je weitere vollendete 15 Minuten\n- Nachweis der Schnitt-Naht-Zeit über das Anästhesieprotokoll oder\nden OP-Bericht\nje weitere vollendete 15 Minuten Schnitt-Naht-Zeit\nDie Gebührenordnungsposition 31138 kann entsprechend Anhang 2\nPräambel 2.1, Nr. 14 als Zuschlag zu anderen ambulanten Operationen\ndes Abschnitts 31.2 abgerechnet werden\n31.2.5 Endoskopische Gelenkeingriffe (Arthroskopien)\n1. Bei arthroskopischen Operationen ist die Videodokumentation (Tape\noder Print) des präoperativen Befundes und des postoperativen\nErgebnisses obligater Bestandteil der Leistungen.\n2. Die intraartikuläre Einbringung von Karbonfaserstiften und die\nSachkosten für Karbonfaserstifte sind nicht berechnungsfähig.\n3. Die Gebührenordnungspositionen 31141 bis 31147 beinhalten die\nKosten für Implantate bei rekonstruktiven Bandersatzoperationen\nbis zu einer Höhe von 25,56 Euro. Darüber hinausgehende\nImplantatkosten sind über die KV mit der zuständigen Krankenkasse\nabzurechnen.\n4. Die Gebührenordnungspositionen 31142 bis 31145 sind für\ntherapeutische arthroskopische Eingriffe, die primär aufgrund der\nDiagnose Gonarthrose durchgeführt wurden, gemäß Nr. 53 der\nAnlage II der Richtlinie Methoden vertragsärztliche Versorgung\ndes Gemeinsamen Bundesausschusses nicht berechnungsfähig.\nUnberührt von diesem Ausschluss bleiben Eingriffe, die\naufgrund von Traumen, einer akuten Gelenkblockade oder einer\nmeniskusbezogenen Indikation erfolgen, bei der die bestehende\nGonarthrose lediglich als Begleiterkrankung anzusehen ist, sofern\ndie vorliegenden Symptome zuverlässig auf die genannten\nVeränderungen an der Synovialis, den Gelenkknorpeln und Menisken\nzurückzuführen und durch eine arthroskopische Intervention zu\nbeeinflussen sind. Unberührt von diesem Ausschluss bleiben\nzudem diejenigen arthroskopischen Eingriffe, die im Rahmen\nder matrixassoziierten autologen Chondrozytenimplantation (M-ACI)\ngemäß Nr. 38 der Anlage I der Richtlinien Methoden vertragsärztliche\nVersorgung des Gemeinsamen Bundesausschusses durchgeführt\nwerden. Die Nr. 53 der Anlage II der Richtlinie Methoden\nvertragsärztliche Versorgung des Gemeinsamen Bundesausschusses\nbeinhaltet Methoden, die nicht als vertragsärztliche Leistungen zu\nLasten der Krankenkassen erbracht werden dürfen.\n5. Arthroskopische Operationen zur Knochentransplantation und -\ntransposition entsprechend den OPS-Kodes 5-784.c0, 5-784.c2\n5-784.c5, 5-784.c8, 5-784.ca bis 5-784.cd, 5-784.cg, 5-784.cm\n5-784.cq, 5-784.ct bis 5-784.cw, 5-784.d0, 5-784.d2, 5-784.d5\n5-784.d8, 5-784.da bis 5-784.dd, 5-784.dg, 5-784.dm, 5-784.dq\n5-784.dt bis 5-784.dw, 5-784.e0, 5-784.e2, 5-784.e5, 5-784.e8\n5-784.ea bis 5-784.ed, 5-784.eg, 5-784.em, 5-784.eq, 5-784.et bis\n5-784.ew, 5-784.f0, 5-784.f2, 5-784.f5, 5-784.f8, 5-784.fa bis 5-784.fd\n5-784.fg, 5-784.fm, 5-784.fq und 5-784.ft bis 5-784.fw beinhalten\ndie Leistung der geschlossenen Reposition einer Fraktur oder\nEpiphysenlösung mit Osteosynthese. Die Entnahme von Spongiosa\nund/oder kortikospongiösen Spänen ist gesondert berechnungsfähig.\n6. Operationen zur Exzision von erkranktem Bandscheibengewebe\nentsprechend den OPS-Kodes 5-831.01, 5-831.03, 5-831.21\n5-831.23, 5-831.31, 5-831.33, 5-831.91 und 5-831.93 sind unabhängig\nvon dem Vorliegen einer Genehmigung nach der Arthroskopie-\nVereinbarung gemäß § 135 Abs. 2 SGB V berechnungsfähig."
+    },
+    {
+      "code": "31141",
+      "title": "Endoskopischer Gelenkeingriff (Arthroskopie) der Kategorie E1",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 193.4,
+        "valuation_in_points": 1518
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31141 Endoskopischer Gelenkeingriff (Arthroskopie) der Kategorie E1\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie E1 entsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31141 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31502, für\ndie postoperative Behandlung die Gebührenordnungsposition 31601\noder 31602 berechnet werden."
+    },
+    {
+      "code": "31142",
+      "title": "Endoskopischer Gelenkeingriff (Arthroskopie) der Kategorie E2",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 279.4,
+        "valuation_in_points": 2193
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31142 Endoskopischer Gelenkeingriff (Arthroskopie) der Kategorie E2\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie E2 entsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31142 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31503, für\ndie postoperative Behandlung die Gebührenordnungsposition 31614\noder 31615 berechnet werden."
+    },
+    {
+      "code": "31143",
+      "title": "Endoskopischer Gelenkeingriff (Arthroskopie) der Kategorie E3",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 397.88,
+        "valuation_in_points": 3123
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31143 Endoskopischer Gelenkeingriff (Arthroskopie) der Kategorie E3\n3123 Punkte\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie E3 entsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31143 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31504, für\ndie postoperative Behandlung die Gebührenordnungsposition 31616\noder 31617 berechnet werden."
+    },
+    {
+      "code": "31144",
+      "title": "Endoskopischer Gelenkeingriff (Arthroskopie) der Kategorie E4",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 525.8,
+        "valuation_in_points": 4127
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31144 Endoskopischer Gelenkeingriff (Arthroskopie) der Kategorie E4\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie E4 entsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31144 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31504, für\ndie postoperative Behandlung die Gebührenordnungsposition 31618\noder 31619 berechnet werden."
+    },
+    {
+      "code": "31145",
+      "title": "Endoskopischer Gelenkeingriff (Arthroskopie) der Kategorie E5",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 692.31,
+        "valuation_in_points": 5434
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31145 Endoskopischer Gelenkeingriff (Arthroskopie) der Kategorie E5\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie E5 entsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31145 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31505, für\ndie postoperative Behandlung die Gebührenordnungsposition 31618\noder 31619 berechnet werden."
+    },
+    {
+      "code": "31146",
+      "title": "Endoskopischer Gelenkeingriff (Arthroskopie) der Kategorie E6",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 883.42,
+        "valuation_in_points": 6934
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31146 Endoskopischer Gelenkeingriff (Arthroskopie) der Kategorie E6\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie E6 entsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31146 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31506, für\ndie postoperative Behandlung die Gebührenordnungsposition 31620\noder 31621 berechnet werden."
+    },
+    {
+      "code": "31147",
+      "title": "Endoskopischer Gelenkeingriff (Arthroskopie) der Kategorie E7",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 1009.8,
+        "valuation_in_points": 7926
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31147 Endoskopischer Gelenkeingriff (Arthroskopie) der Kategorie E7\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie E7 entsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31147 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31507, für\ndie postoperative Behandlung die Gebührenordnungsposition 31620\noder 31621 berechnet werden."
+    },
+    {
+      "code": "31148",
+      "title": "Zuschlag zu den Gebührenordnungspositionen 31141 bis 31146 bei Simultaneingriffen sowie zu der Gebührenordnungsposition 31147",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 103.32,
+        "valuation_in_points": 811
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31148 Zuschlag zu den Gebührenordnungspositionen 31141 bis 31146 bei\nSimultaneingriffen sowie zu der Gebührenordnungsposition 31147\nObligater Leistungsinhalt\n- Schnitt-Naht-Zeit je weitere vollendete 15 Minuten\n- Nachweis der Schnitt-Naht-Zeit über das Anästhesieprotokoll oder\nden OP-Bericht\nje weitere vollendete 15 Minuten Schnitt-Naht-Zeit\nDie Gebührenordnungsposition 31148 kann entsprechend Anhang 2\nPräambel 2.1, Nr. 14 als Zuschlag zu anderen ambulanten Operationen\ndes Abschnitts 31.2 abgerechnet werden\n31.2.6 Definierte operative visceralchirurgische Eingriffe\n1. Abweichend von Nr. 3 der Präambel 2.1 zum Anhang 2 kann bei\nDurchführung der Leistung: \"Andere Operationen an Schilddrüse\nund Nebenschilddrüsen: Monitoring des N. recurrens im Rahmen\neiner anderen Operation\" (OPS: 5-069.40 (Nicht kontinuierlich\n[IONM]), 5-069.41 (Kontinuierlich [CIONM])) im Zusammenhang mit\nder Leistung 5-061.0 auch dann ein Simultaneingriff abgerechnet\nwerden, wenn nur ein operativer Zugang vorliegt.\n2. Proktologische Eingriffe entsprechend des OPS-Kodes 5-490.1 sind\nnur bei Vorliegen eines periproktitischen Abszesses (ICD-10-GM\nK61.-) berechnungsfähig.\n3. Bei proktologischen Eingriffen entsprechend der OPS-Kodes\n5-492.00, 5-492.01 und 5-492.02 ist der histologische Befund\nvorzuhalten.\n4. Proktologische Eingriffe entsprechend den OPS-Kodes 5-493.01 und\n5-493.02 sind nur bei Hämorrhoiden 3. Grades berechnungsfähig.\n5. Visceralchirurgische Eingriffe entsprechend dem OPS-Kode\n5-431.30 sind nur bei Vorliegen eines Buried-Bumper-Syndroms\nberechnungsfähig."
+    },
+    {
+      "code": "31151",
+      "title": "Visceralchirurgischer Eingriff der Kategorie F1",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 114.79,
+        "valuation_in_points": 901
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31151 Visceralchirurgischer Eingriff der Kategorie F1\nObligater Leistungsinhalt\n- Visceralchirurgischer Eingriff der Kategorie F1 entsprechend Anhang\n2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31151 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31503, für\ndie postoperative Behandlung die Gebührenordnungsposition 31601\noder 31602 berechnet werden."
+    },
+    {
+      "code": "31152",
+      "title": "Visceralchirurgischer Eingriff der Kategorie F2",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 190.6,
+        "valuation_in_points": 1496
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31152 Visceralchirurgischer Eingriff der Kategorie F2\nObligater Leistungsinhalt\n- Visceralchirurgischer Eingriff der Kategorie F2 entsprechend Anhang\n2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31152 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31503, für\ndie postoperative Behandlung die Gebührenordnungsposition 31608\noder 31609 berechnet werden."
+    },
+    {
+      "code": "31153",
+      "title": "Visceralchirurgischer Eingriff der Kategorie F3",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 287.55,
+        "valuation_in_points": 2257
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31153 Visceralchirurgischer Eingriff der Kategorie F3\nObligater Leistungsinhalt\n- Visceralchirurgischer Eingriff der Kategorie F3 entsprechend Anhang\n2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31153 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31505, für\ndie postoperative Behandlung die Gebührenordnungsposition 31608\noder 31609 berechnet werden."
+    },
+    {
+      "code": "31154",
+      "title": "Visceralchirurgischer Eingriff der Kategorie F4",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 379.54,
+        "valuation_in_points": 2979
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31154 Visceralchirurgischer Eingriff der Kategorie F4\nObligater Leistungsinhalt\n- Visceralchirurgischer Eingriff der Kategorie F4 entsprechend Anhang\n2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31154 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31505, für\ndie postoperative Behandlung die Gebührenordnungsposition 31610\noder 31611 berechnet werden."
+    },
+    {
+      "code": "31155",
+      "title": "Visceralchirurgischer Eingriff der Kategorie F5",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 540.96,
+        "valuation_in_points": 4246
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31155 Visceralchirurgischer Eingriff der Kategorie F5\nObligater Leistungsinhalt\n- Visceralchirurgischer Eingriff der Kategorie F5 entsprechend Anhang\n2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31155 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31506, für\ndie postoperative Behandlung die Gebührenordnungsposition 31610\noder 31611 berechnet werden."
+    },
+    {
+      "code": "31156",
+      "title": "Visceralchirurgischer Eingriff der Kategorie F6",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 727.09,
+        "valuation_in_points": 5707
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31156 Visceralchirurgischer Eingriff der Kategorie F6\nObligater Leistungsinhalt\n- Visceralchirurgischer Eingriff der Kategorie F6 entsprechend Anhang\n2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31156 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31507, für\ndie postoperative Behandlung die Gebührenordnungsposition 31612\noder 31613 berechnet werden."
+    },
+    {
+      "code": "31157",
+      "title": "Visceralchirurgischer Eingriff der Kategorie F7",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 870.81,
+        "valuation_in_points": 6835
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31157 Visceralchirurgischer Eingriff der Kategorie F7\nObligater Leistungsinhalt\n- Visceralchirurgischer Eingriff der Kategorie F7 entsprechend Anhang\n2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31157 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31507, für\ndie postoperative Behandlung die Gebührenordnungsposition 31612\noder 31613 berechnet werden."
+    },
+    {
+      "code": "31158",
+      "title": "Zuschlag zu den Gebührenordnungspositionen 31151 bis 31156 bei Simultaneingriffen sowie zu der Gebührenordnungsposition 31157",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 88.67,
+        "valuation_in_points": 696
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31158 Zuschlag zu den Gebührenordnungspositionen 31151 bis 31156 bei\nSimultaneingriffen sowie zu der Gebührenordnungsposition 31157\nObligater Leistungsinhalt\n- Schnitt-Naht-Zeit je weitere vollendete 15 Minuten\n- Nachweis der Schnitt-Naht-Zeit über das Anästhesieprotokoll der den\nOP-Bericht\nje weitere vollendete 15 Minuten Schnitt-Naht-Zeit\nDie Gebührenordnungsposition 31158 kann entsprechend Anhang 2\nPräambel 2.1, Nr. 14 als Zuschlag zu anderen ambulanten Operationen\ndes Abschnitts 31.2 abgerechnet werden"
+    },
+    {
+      "code": "31161",
+      "title": "Endoskopischer Visceralchirurgischer Eingriff der Kategorie G1",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 143.97,
+        "valuation_in_points": 1130
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31161 Endoskopischer Visceralchirurgischer Eingriff der Kategorie G1\nObligater Leistungsinhalt\n- Endoskopisch-visceralchirurgischer Eingriff der Kategorie G1\nentsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31161 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31503, für\ndie postoperative Behandlung die Gebührenordnungsposition 31601\noder 31602 berechnet werden."
+    },
+    {
+      "code": "31162",
+      "title": "Endoskopischer Visceralchirurgischer Eingriff der Kategorie G2",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 215.44,
+        "valuation_in_points": 1691
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31162 Endoskopischer Visceralchirurgischer Eingriff der Kategorie G2\nObligater Leistungsinhalt\n- Endoskopisch-visceralchirurgischer Eingriff der Kategorie G2\nentsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31162 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31503, für\ndie postoperative Behandlung die Gebührenordnungsposition 31608\noder 31609 berechnet werden."
+    },
+    {
+      "code": "31163",
+      "title": "Endoskopischer Visceralchirurgischer Eingriff der Kategorie G3",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 309.21,
+        "valuation_in_points": 2427
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31163 Endoskopischer Visceralchirurgischer Eingriff der Kategorie G3\nObligater Leistungsinhalt\n- Endoskopisch-visceralchirurgischer Eingriff der Kategorie G3\nentsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31163 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31505, für\ndie postoperative Behandlung die Gebührenordnungsposition 31608\noder 31609 berechnet werden."
+    },
+    {
+      "code": "31164",
+      "title": "Endoskopischer Visceralchirurgischer Eingriff der Kategorie G4",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 411.64,
+        "valuation_in_points": 3231
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31164 Endoskopischer Visceralchirurgischer Eingriff der Kategorie G4\nObligater Leistungsinhalt\n- Endoskopisch-visceralchirurgischer Eingriff der Kategorie G4\nentsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31164 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31505, für\ndie postoperative Behandlung die Gebührenordnungsposition 31610\noder 31611 berechnet werden."
+    },
+    {
+      "code": "31165",
+      "title": "Endoskopischer Visceralchirurgischer Eingriff der Kategorie G5",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 566.18,
+        "valuation_in_points": 4444
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31165 Endoskopischer Visceralchirurgischer Eingriff der Kategorie G5\nObligater Leistungsinhalt\n- Endoskopisch-visceralchirurgischer Eingriff der Kategorie G5\nentsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31165 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31506, für\ndie postoperative Behandlung die Gebührenordnungsposition 31610\noder 31611 berechnet werden."
+    },
+    {
+      "code": "31166",
+      "title": "Endoskopischer Visceralchirurgischer Eingriff der Kategorie G6",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 744.42,
+        "valuation_in_points": 5843
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31166 Endoskopischer Visceralchirurgischer Eingriff der Kategorie G6\nObligater Leistungsinhalt\n- Endoskopisch-visceralchirurgischer Eingriff der Kategorie G6\nentsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31166 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31507, für\ndie postoperative Behandlung die Gebührenordnungsposition 31612\noder 31613 berechnet werden."
+    },
+    {
+      "code": "31167",
+      "title": "Endoskopischer Visceralchirurgischer Eingriff der Kategorie G7",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 876.54,
+        "valuation_in_points": 6880
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31167 Endoskopischer Visceralchirurgischer Eingriff der Kategorie G7\nObligater Leistungsinhalt\n- Endoskopisch-visceralchirurgischer Eingriff der Kategorie G7\nentsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31167 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31507, für\ndie postoperative Behandlung die Gebührenordnungsposition 31612\noder 31613 berechnet werden."
+    },
+    {
+      "code": "31168",
+      "title": "Zuschlag zu den Gebührenordnungspositionen 31161 bis 31166 bei Simultaneingriffen und zu der Gebührenordnungsposition 31167",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 84.72,
+        "valuation_in_points": 665
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31168 Zuschlag zu den Gebührenordnungspositionen 31161 bis 31166 bei\nSimultaneingriffen und zu der Gebührenordnungsposition 31167\nObligater Leistungsinhalt\n- Schnitt-Naht-Zeit je weitere vollendete 15 Minuten\n- Nachweis der Schnitt-Naht-Zeit über das Anästhesieprotokoll oder\nden OP-Bericht\nje weitere vollendete 15 Minuten Schnitt-Naht-Zeit\nDie Gebührenordnungsposition 31168 kann entsprechend Anhang 2\nPräambel 2.1, Nr. 14 als Zuschlag zu anderen ambulanten Operationen\ndes Abschnitts 31.2 abgerechnet werden"
+    },
+    {
+      "code": "31171",
+      "title": "Proktologischer Eingriff der Kategorie H1",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 142.44,
+        "valuation_in_points": 1118
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31171 Proktologischer Eingriff der Kategorie H1\nObligater Leistungsinhalt\n- Proktologischer Eingriff der Kategorie H1 entsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31171 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31503, für\ndie postoperative Behandlung die Gebührenordnungsposition 31622\noder 31623 berechnet werden."
+    },
+    {
+      "code": "31172",
+      "title": "Proktologischer Eingriff der Kategorie H2",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 205.63,
+        "valuation_in_points": 1614
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31172 Proktologischer Eingriff der Kategorie H2\nObligater Leistungsinhalt\n- Proktologischer Eingriff der Kategorie H2 entsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31172 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31503, für\ndie postoperative Behandlung die Gebührenordnungsposition 31624\noder 31625 berechnet werden."
+    },
+    {
+      "code": "31173",
+      "title": "Proktologischer Eingriff der Kategorie H3",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 279.14,
+        "valuation_in_points": 2191
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31173 Proktologischer Eingriff der Kategorie H3\nObligater Leistungsinhalt\n- Proktologischer Eingriff der Kategorie H3 entsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31173 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31505, für\ndie postoperative Behandlung die Gebührenordnungsposition 31624\noder 31625 berechnet werden."
+    },
+    {
+      "code": "31174",
+      "title": "Proktologischer Eingriff der Kategorie H4",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 364.25,
+        "valuation_in_points": 2859
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31174 Proktologischer Eingriff der Kategorie H4\nObligater Leistungsinhalt\n- Proktologischer Eingriff der Kategorie H4 entsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31174 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31505, für\ndie postoperative Behandlung die Gebührenordnungsposition 31626\noder 31627 berechnet werden."
+    },
+    {
+      "code": "31175",
+      "title": "Proktologischer Eingriff der Kategorie H5",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 526.94,
+        "valuation_in_points": 4136
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31175 Proktologischer Eingriff der Kategorie H5\nObligater Leistungsinhalt\n- Proktologischer Eingriff der Kategorie H5 entsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31175 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31506, für\ndie postoperative Behandlung die Gebührenordnungsposition 31626\noder 31627 berechnet werden."
+    },
+    {
+      "code": "31176",
+      "title": "Proktologischer Eingriff der Kategorie H6",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 719.45,
+        "valuation_in_points": 5647
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31176 Proktologischer Eingriff der Kategorie H6\nObligater Leistungsinhalt\n- Proktologischer Eingriff der Kategorie H6 entsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31176 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31507, für\ndie postoperative Behandlung die Gebührenordnungsposition 31628\noder 31629 berechnet werden."
+    },
+    {
+      "code": "31177",
+      "title": "Proktologischer Eingriff der Kategorie H7",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 850.04,
+        "valuation_in_points": 6672
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31177 Proktologischer Eingriff der Kategorie H7\nObligater Leistungsinhalt\n- Proktologischer Eingriff der Kategorie H7 entsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31177 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31507, für\ndie postoperative Behandlung die Gebührenordnungsposition 31628\noder 31629 berechnet werden."
+    },
+    {
+      "code": "31178",
+      "title": "Zuschlag zu den Gebührenordnungspositionen 31171 bis 31176 bei Simultaneingriffen sowie zu der Gebührenordnungsposition 31177",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 84.21,
+        "valuation_in_points": 661
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31178 Zuschlag zu den Gebührenordnungspositionen 31171 bis 31176 bei\nSimultaneingriffen sowie zu der Gebührenordnungsposition 31177\nObligater Leistungsinhalt\n- Schnitt-Naht-Zeit je weitere vollendete 15 Minuten\n- Nachweis der Schnitt-Naht-Zeit über das Anästhesieprotokoll oder\nden OP-Bericht\nje weitere vollendete 15 Minuten Schnitt-Naht-Zeit\nDie Gebührenordnungsposition 31178 kann entsprechend Anhang 2\nPräambel 2.1, Nr. 14 als Zuschlag zu anderen ambulanten Operationen\ndes Abschnitts 31.2 abgerechnet werden.\n31.2.7 Definierte operative Eingriffe der Herz-, Thorax- und Gefäßchirurgie"
+    },
+    {
+      "code": "31181",
+      "title": "Kardiochirurgischer Eingriff der Kategorie I1",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 241.69,
+        "valuation_in_points": 1897
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31181 Kardiochirurgischer Eingriff der Kategorie I1\nObligater Leistungsinhalt\n- Kardiochirurgischer Eingriff der Kategorie I1 entsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31181 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31504, für\ndie postoperative Behandlung die Gebührenordnungsposition 31601\noder 31602 berechnet werden."
+    },
+    {
+      "code": "31182",
+      "title": "Kardiochirurgischer Eingriff der Kategorie I2",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 302.84,
+        "valuation_in_points": 2377
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31182 Kardiochirurgischer Eingriff der Kategorie I2\nObligater Leistungsinhalt\n- Kardiochirurgischer Eingriff der Kategorie I2 entsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31182 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31504, für\ndie postoperative Behandlung die Gebührenordnungsposition 31608\noder 31609 berechnet werden."
+    },
+    {
+      "code": "31183",
+      "title": "Kardiochirurgischer Eingriff der Kategorie I3",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 379.66,
+        "valuation_in_points": 2980
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31183 Kardiochirurgischer Eingriff der Kategorie I3\nObligater Leistungsinhalt\n- Kardiochirurgischer Eingriff der Kategorie I3 entsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31183 kann für die\npostoperative Behandlung die Gebührenordnungsposition 31608 oder\n31609 berechnet werden."
+    },
+    {
+      "code": "31184",
+      "title": "Kardiochirurgischer Eingriff der Kategorie I4",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 476.49,
+        "valuation_in_points": 3740
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31184 Kardiochirurgischer Eingriff der Kategorie I4\nObligater Leistungsinhalt\n- Kardiochirurgischer Eingriff der Kategorie I4 entsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31184 kann für die\npostoperative Behandlung die Gebührenordnungsposition 31610 oder\n31611 berechnet werden."
+    },
+    {
+      "code": "31185",
+      "title": "Kardiochirurgischer Eingriff der Kategorie I5",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 704.67,
+        "valuation_in_points": 5531
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31185 Kardiochirurgischer Eingriff der Kategorie I5\nObligater Leistungsinhalt\n- Kardiochirurgischer Eingriff der Kategorie I5 entsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31185 kann für die\npostoperative Behandlung die Gebührenordnungsposition 31610 oder\n31611 berechnet werden."
+    },
+    {
+      "code": "31186",
+      "title": "Kardiochirurgischer Eingriff der Kategorie I6",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 898.96,
+        "valuation_in_points": 7056
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31186 Kardiochirurgischer Eingriff der Kategorie I6\nObligater Leistungsinhalt\n- Kardiochirurgischer Eingriff der Kategorie I6 entsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31186 kann für die\npostoperative Behandlung die Gebührenordnungsposition 31612 oder\n31613 berechnet werden."
+    },
+    {
+      "code": "31187",
+      "title": "Kardiochirurgischer Eingriff der Kategorie I7",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 1053.76,
+        "valuation_in_points": 8271
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31187 Kardiochirurgischer Eingriff der Kategorie I7\nObligater Leistungsinhalt\n- Kardiochirurgischer Eingriff der Kategorie I7 entsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31187 kann für die\npostoperative Behandlung die Gebührenordnungsposition 31612 oder\n31613 berechnet werden."
+    },
+    {
+      "code": "31188",
+      "title": "Zuschlag zu den Gebührenordnungspositionen 31181 bis 31186 bei Simultaneingriffen sowie zu der Gebührenordnungsposition 31187",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 97.59,
+        "valuation_in_points": 766
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31188 Zuschlag zu den Gebührenordnungspositionen 31181 bis 31186 bei\nSimultaneingriffen sowie zu der Gebührenordnungsposition 31187\nObligater Leistungsinhalt\n- Schnitt-Naht-Zeit je weitere vollendete 15 Minuten\n- Nachweis der Schnitt-Naht-Zeit über das Anästhesieprotokoll oder\nden OP-Bericht\nje weitere vollendete 15 Minuten Schnitt-Naht-Zeit\nDie Gebührenordnungsposition 31188 kann entsprechend Anhang 2\nPräambel 2.1, Nr. 14 als Zuschlag zu anderen ambulanten Operationen\ndes Abschnitts 31.2 abgerechnet werden."
+    },
+    {
+      "code": "31191",
+      "title": "Thoraxchirurgischer Eingriff der Kategorie J1",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 223.59,
+        "valuation_in_points": 1755
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31191 Thoraxchirurgischer Eingriff der Kategorie J1\nObligater Leistungsinhalt\n- Thoraxchirurgischer Eingriff der Kategorie J1 entsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31191 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31504, für\ndie postoperative Behandlung die Gebührenordnungsposition 31601\noder 31602 berechnet werden."
+    },
+    {
+      "code": "31192",
+      "title": "Thoraxchirurgischer Eingriff der Kategorie J2",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 291.5,
+        "valuation_in_points": 2288
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31192 Thoraxchirurgischer Eingriff der Kategorie J2\nObligater Leistungsinhalt\n- Thoraxchirurgischer Eingriff der Kategorie J2 entsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31192 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31504, für\ndie postoperative Behandlung die Gebührenordnungsposition 31608\noder 31609 berechnet werden."
+    },
+    {
+      "code": "31193",
+      "title": "Thoraxchirurgischer Eingriff der Kategorie J3",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 376.1,
+        "valuation_in_points": 2952
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31193 Thoraxchirurgischer Eingriff der Kategorie J3\nObligater Leistungsinhalt\n- Thoraxchirurgischer Eingriff der Kategorie J3 entsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31193 kann für die\npostoperative Behandlung die Gebührenordnungsposition 31608 oder\n31609 berechnet werden."
+    },
+    {
+      "code": "31194",
+      "title": "Thoraxchirurgischer Eingriff der Kategorie J4",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 482.48,
+        "valuation_in_points": 3787
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31194 Thoraxchirurgischer Eingriff der Kategorie J4\nObligater Leistungsinhalt\n- Thoraxchirurgischer Eingriff der Kategorie J4 entsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31194 kann für die\npostoperative Behandlung die Gebührenordnungsposition 31610 oder\n31611 berechnet werden."
+    },
+    {
+      "code": "31195",
+      "title": "Thoraxchirurgischer Eingriff der Kategorie J5",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 659.32,
+        "valuation_in_points": 5175
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31195 Thoraxchirurgischer Eingriff der Kategorie J5\nObligater Leistungsinhalt\n- Thoraxchirurgischer Eingriff der Kategorie J5 entsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31195 kann für die\npostoperative Behandlung die Gebührenordnungsposition 31610 oder\n31611 berechnet werden."
+    },
+    {
+      "code": "31196",
+      "title": "Thoraxchirurgischer Eingriff der Kategorie J6",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 852.46,
+        "valuation_in_points": 6691
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31196 Thoraxchirurgischer Eingriff der Kategorie J6\nObligater Leistungsinhalt\n- Thoraxchirurgischer Eingriff der Kategorie J6 entsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31196 kann für die\npostoperative Behandlung die Gebührenordnungsposition 31612 oder\n31613 berechnet werden."
+    },
+    {
+      "code": "31197",
+      "title": "Thoraxchirurgischer Eingriff der Kategorie J7",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 1005.34,
+        "valuation_in_points": 7891
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31197 Thoraxchirurgischer Eingriff der Kategorie J7\nObligater Leistungsinhalt\n- Thoraxchirurgischer Eingriff der Kategorie J7 entsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31197 kann für die\npostoperative Behandlung die Gebührenordnungsposition 31612 oder\n31613 berechnet werden."
+    },
+    {
+      "code": "31198",
+      "title": "Zuschlag zu den Gebührenordnungspositionen 31191 bis 31196 bei Simultaneingriffen sowie zu der Gebührenordnungsposition 31197",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 97.59,
+        "valuation_in_points": 766
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31198 Zuschlag zu den Gebührenordnungspositionen 31191 bis 31196 bei\nSimultaneingriffen sowie zu der Gebührenordnungsposition 31197\nObligater Leistungsinhalt\n- Schnitt-Naht-Zeit je weitere vollendete 15 Minuten\n- Nachweis der Schnitt-Naht-Zeit über das Anästhesieprotokoll oder\nden OP-Bericht\nje weitere vollendete 15 Minuten Schnitt-Naht-Zeit\nDie Gebührenordnungsposition 31198 kann entsprechend Anhang 2\nPräambel 2.1, Nr. 14 als Zuschlag zu anderen ambulanten Operationen\ndes Abschnitts 31.2 abgerechnet werden."
+    },
+    {
+      "code": "31201",
+      "title": "Eingriff am Gefäßsystem der Kategorie K1",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 144.6,
+        "valuation_in_points": 1135
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31201 Eingriff am Gefäßsystem der Kategorie K1\nObligater Leistungsinhalt\n- Chirurgischer Eingriff am Gefäßsystem der Kategorie K1\nentsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31201 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31503, für\ndie postoperative Behandlung die Gebührenordnungsposition 31630\noder 31631 berechnet werden."
+    },
+    {
+      "code": "31202",
+      "title": "Eingriff am Gefäßsystem der Kategorie K2",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 211.11,
+        "valuation_in_points": 1657
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31202 Eingriff am Gefäßsystem der Kategorie K2\nObligater Leistungsinhalt\n- Chirurgischer Eingriff am Gefäßsystem der Kategorie K2\nentsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31202 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31503, für\ndie postoperative Behandlung die Gebührenordnungsposition 31632\noder 31633 berechnet werden."
+    },
+    {
+      "code": "31203",
+      "title": "Eingriff am Gefäßsystem der Kategorie K3",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 284.49,
+        "valuation_in_points": 2233
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31203 Eingriff am Gefäßsystem der Kategorie K3\nObligater Leistungsinhalt\n- Chirurgischer Eingriff am Gefäßsystem der Kategorie K3\nentsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31203 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31505, für\ndie postoperative Behandlung die Gebührenordnungsposition 31632\noder 31633 berechnet werden."
+    },
+    {
+      "code": "31204",
+      "title": "Eingriff am Gefäßsystem der Kategorie K4",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 389.47,
+        "valuation_in_points": 3057
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31204 Eingriff am Gefäßsystem der Kategorie K4\nObligater Leistungsinhalt\n- Chirurgischer Eingriff am Gefäßsystem der Kategorie K4\nentsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31204 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31505, für\ndie postoperative Behandlung die Gebührenordnungsposition 31634\noder 31635 berechnet werden."
+    },
+    {
+      "code": "31205",
+      "title": "Eingriff am Gefäßsystem der Kategorie K5",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 560.71,
+        "valuation_in_points": 4401
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31205 Eingriff am Gefäßsystem der Kategorie K5\nObligater Leistungsinhalt\n- Chirurgischer Eingriff am Gefäßsystem der Kategorie K5\nentsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31205 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31506, für\ndie postoperative Behandlung die Gebührenordnungsposition 31634\noder 31635 berechnet werden."
+    },
+    {
+      "code": "31206",
+      "title": "Eingriff am Gefäßsystem der Kategorie K6",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 740.34,
+        "valuation_in_points": 5811
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31206 Eingriff am Gefäßsystem der Kategorie K6\nObligater Leistungsinhalt\n- Chirurgischer Eingriff am Gefäßsystem der Kategorie K6\nentsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31206 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31507, für\ndie postoperative Behandlung die Gebührenordnungsposition 31636\noder 31637 berechnet werden."
+    },
+    {
+      "code": "31207",
+      "title": "Eingriff am Gefäßsystem der Kategorie K7",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 891.7,
+        "valuation_in_points": 6999
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31207 Eingriff am Gefäßsystem der Kategorie K7\nObligater Leistungsinhalt\n- Chirurgischer Eingriff am Gefäßsystem der Kategorie K7\nentsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31207 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31507, für\ndie postoperative Behandlung die Gebührenordnungsposition 31636\noder 31637 berechnet werden."
+    },
+    {
+      "code": "31208",
+      "title": "Zuschlag zu den Gebührenordnungspositionen 31201 bis 31206 bei Simultaneingriffen und zu der Gebührenordnungsposition 31207",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 85.62,
+        "valuation_in_points": 672
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31208 Zuschlag zu den Gebührenordnungspositionen 31201 bis 31206 bei\nSimultaneingriffen und zu der Gebührenordnungsposition 31207\nObligater Leistungsinhalt\n- Schnitt-Naht-Zeit je weitere vollendete 15 Minuten\n- Nachweis der Schnitt-Naht-Zeit über das Anästhesieprotokoll oder\nden OP-Bericht\nje weitere vollendete 15 Minuten Schnitt-Naht-Zeit\nDie Gebührenordnungsposition 31208 kann entsprechend Anhang 2\nPräambel 2.1, Nr. 14 als Zuschlag zu anderen ambulanten Operationen\ndes Abschnitts 31.2 abgerechnet werden"
+    },
+    {
+      "code": "31211",
+      "title": "Eingriff der Kategorie L1",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 174.54,
+        "valuation_in_points": 1370
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31211 Eingriff der Kategorie L1\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie L1 entsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31211 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31503, für\ndie postoperative Behandlung die Gebührenordnungsposition 31601\noder 31602 berechnet werden."
+    },
+    {
+      "code": "31212",
+      "title": "Eingriff der Kategorie L2",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 235.06,
+        "valuation_in_points": 1845
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31212 Eingriff der Kategorie L2\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie L2 entsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31212 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31503, für\ndie postoperative Behandlung die Gebührenordnungsposition 31608\noder 31609 berechnet werden."
+    },
+    {
+      "code": "31213",
+      "title": "Eingriff der Kategorie L3",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 327.17,
+        "valuation_in_points": 2568
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31213 Eingriff der Kategorie L3\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie L3 entsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31213 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31505, für\ndie postoperative Behandlung die Gebührenordnungsposition 31608\noder 31609 berechnet werden."
+    },
+    {
+      "code": "31214",
+      "title": "Eingriff der Kategorie L4",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 423.75,
+        "valuation_in_points": 3326
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31214 Eingriff der Kategorie L4\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie L4 entsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31214 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31505, für\ndie postoperative Behandlung die Gebührenordnungsposition 31610\noder 31611 berechnet werden."
+    },
+    {
+      "code": "31215",
+      "title": "Eingriff der Kategorie L5",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 610.65,
+        "valuation_in_points": 4793
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31215 Eingriff der Kategorie L5\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie L5 entsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31215 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31506, für\ndie postoperative Behandlung die Gebührenordnungsposition 31610\noder 31611 berechnet werden."
+    },
+    {
+      "code": "31216",
+      "title": "Eingriff der Kategorie L6",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 794.49,
+        "valuation_in_points": 6236
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31216 Eingriff der Kategorie L6\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie L6 entsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31216 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31507, für\ndie postoperative Behandlung die Gebührenordnungsposition 31612\noder 31613 berechnet werden."
+    },
+    {
+      "code": "31217",
+      "title": "Eingriff der Kategorie L7",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 939.48,
+        "valuation_in_points": 7374
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31217 Eingriff der Kategorie L7\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie L7 entsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31217 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31507, für\ndie postoperative Behandlung die Gebührenordnungsposition 31612\noder 31613 berechnet werden."
+    },
+    {
+      "code": "31218",
+      "title": "Zuschlag zu den Gebührenordnungspositionen 31211 bis 31216 bei Simultaneingriffen und zu der Gebührenordnungsposition 31217",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 93.0,
+        "valuation_in_points": 730
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31218 Zuschlag zu den Gebührenordnungspositionen 31211 bis 31216 bei\nSimultaneingriffen und zu der Gebührenordnungsposition 31217\nObligater Leistungsinhalt\n- Schnitt-Naht-Zeit je weitere vollendete 15 Minuten\n- Nachweis der Schnitt-Naht-Zeit über das Anästhesieprotokoll oder\nden OP-Bericht\nje weitere vollendete 15 Minuten Schnitt-Naht-Zeit\nDie Gebührenordnungsposition 31218 kann entsprechend Anhang 2\nPräambel 2.1, Nr. 14 als Zuschlag zu anderen ambulanten Operationen\ndes Abschnitts 31.2 abgerechnet werden.\n31.2.8 Definierte operative Eingriffe der Mund-, Kiefer- und Gesichts-\nChirurgie\n1. Die Extraktion von bis zu vier einwurzeligen Zähnen oder bis\nzu zwei mehrwurzeligen Zähnen oder von einem mehrwurzeligen\nund bis zu vier einwurzeligen Zähnen muss nach den\nGebührenordnungspositionen 15321 bis 15324 berechnet werden."
+    },
+    {
+      "code": "31221",
+      "title": "Eingriff der MKG-Chirurgie der Kategorie M1",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 103.96,
+        "valuation_in_points": 816
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31221 Eingriff der MKG-Chirurgie der Kategorie M1\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie M1 entsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31221 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31502, für\ndie postoperative Behandlung die Gebührenordnungsposition 31643\noder 31644 berechnet werden."
+    },
+    {
+      "code": "31222",
+      "title": "Eingriff der MKG-Chirurgie der Kategorie M2",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 180.02,
+        "valuation_in_points": 1413
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31222 Eingriff der MKG-Chirurgie der Kategorie M2\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie M2 entsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31222 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31503, für\ndie postoperative Behandlung die Gebührenordnungsposition 31643\noder 31644 berechnet werden."
+    },
+    {
+      "code": "31223",
+      "title": "Eingriff der MKG-Chirurgie der Kategorie M3",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 270.86,
+        "valuation_in_points": 2126
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31223 Eingriff der MKG-Chirurgie der Kategorie M3\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie M3 entsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31223 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31504, für\ndie postoperative Behandlung die Gebührenordnungsposition 31645\noder 31646 berechnet werden."
+    },
+    {
+      "code": "31224",
+      "title": "Eingriff der MKG-Chirurgie der Kategorie M4",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 368.2,
+        "valuation_in_points": 2890
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31224 Eingriff der MKG-Chirurgie der Kategorie M4\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie M4 entsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31224 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31504, für\ndie postoperative Behandlung die Gebührenordnungsposition 31647\noder 31648 berechnet werden."
+    },
+    {
+      "code": "31225",
+      "title": "Eingriff der MKG-Chirurgie der Kategorie M5",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 506.56,
+        "valuation_in_points": 3976
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31225 Eingriff der MKG-Chirurgie der Kategorie M5\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie M5 entsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31225 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31505, für\ndie postoperative Behandlung die Gebührenordnungsposition 31647\noder 31648 berechnet werden."
+    },
+    {
+      "code": "31226",
+      "title": "Eingriff der MKG-Chirurgie der Kategorie M6",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 687.85,
+        "valuation_in_points": 5399
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31226 Eingriff der MKG-Chirurgie der Kategorie M6\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie M6 entsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31226 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31506, für\ndie postoperative Behandlung die Gebührenordnungsposition 31649\noder 31650 berechnet werden."
+    },
+    {
+      "code": "31227",
+      "title": "Eingriff der MKG-Chirurgie der Kategorie M7",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 775.13,
+        "valuation_in_points": 6084
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31227 Eingriff der MKG-Chirurgie der Kategorie M7\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie M7 entsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31227 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31507, für\ndie postoperative Behandlung die Gebührenordnungsposition 31649\noder 31650 berechnet werden."
+    },
+    {
+      "code": "31228",
+      "title": "Zuschlag zu den Gebührenordnungspositionen 31221 bis 31226 bei Simultaneingriffen und zu der Gebührenordnungsposition 31227",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 74.4,
+        "valuation_in_points": 584
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31228 Zuschlag zu den Gebührenordnungspositionen 31221 bis 31226 bei\nSimultaneingriffen und zu der Gebührenordnungsposition 31227\nObligater Leistungsinhalt\n- Schnitt-Naht-Zeit je weitere vollendete 15 Minuten\n- Nachweis der Schnitt-Naht-Zeit über das Anästhesieprotokoll oder\nden OP-Bericht\nje weitere vollendete 15 Minuten Schnitt-Naht-Zeit\nDie Gebührenordnungsposition 31228 kann entsprechend Anhang 2\nPräambel 2.1, Nr. 14 als Zuschlag zu anderen ambulanten Operationen\ndes Abschnitts 31.2 abgerechnet werden.\n31.2.9 Definierte operative Eingriffe der HNO-Chirurgie\n1. Abweichend von Nr. 3 der Präambel zu Anhang 2 kann bei\nDurchführung der Leistung \"Plastische Korrektur abstehender\nOhren: Concharotation\" (OPS: 5-184.3) im Zusammenhang mit\nden Leistungen 5-184.0, 5-184.1 und 5-184.2 auch dann ein\nSimultaneingriff abgerechnet werden, wenn nur ein operativer Zugang\nvorliegt."
+    },
+    {
+      "code": "31231",
+      "title": "Eingriffe der HNO-Chirurgie der Kategorie N1",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 118.49,
+        "valuation_in_points": 930
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31231 Eingriffe der HNO-Chirurgie der Kategorie N1\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie N1 entsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31231 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31502, für\ndie postoperative Behandlung die Gebührenordnungsposition 31656\noder 31657 berechnet werden."
+    },
+    {
+      "code": "31232",
+      "title": "Eingriffe der HNO-Chirurgie der Kategorie N2",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 192.89,
+        "valuation_in_points": 1514
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31232 Eingriffe der HNO-Chirurgie der Kategorie N2\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie N2 entsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31232 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31503, für\ndie postoperative Behandlung die Gebührenordnungsposition 31658\noder 31659 berechnet werden.\nAbweichend davon kann im Anschluss an die Leistung nach der Nr.\n31232 in Verbindung mit dem OPS-Kode 5-281.5 für die postoperative\nÜberwachung die Gebührenordnungsposition 31504 berechnet werden."
+    },
+    {
+      "code": "31233",
+      "title": "Eingriffe der HNO-Chirurgie der Kategorie N3",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 290.86,
+        "valuation_in_points": 2283
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31233 Eingriffe der HNO-Chirurgie der Kategorie N3\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie N3 entsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31233 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31504, für\ndie postoperative Behandlung die Gebührenordnungsposition 31658\noder 31659 berechnet werden."
+    },
+    {
+      "code": "31234",
+      "title": "Eingriffe der HNO-Chirurgie der Kategorie N4",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 405.91,
+        "valuation_in_points": 3186
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31234 Eingriffe der HNO-Chirurgie der Kategorie N4\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie N4 entsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31234 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31504, für\ndie postoperative Behandlung die Gebührenordnungsposition 31660\noder 31661 berechnet werden."
+    },
+    {
+      "code": "31235",
+      "title": "Eingriffe der HNO-Chirurgie der Kategorie N5",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 565.55,
+        "valuation_in_points": 4439
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31235 Eingriffe der HNO-Chirurgie der Kategorie N5\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie N5 entsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31235 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31505, für\ndie postoperative Behandlung die Gebührenordnungsposition 31660\noder 31661 berechnet werden."
+    },
+    {
+      "code": "31236",
+      "title": "Eingriffe der HNO-Chirurgie der Kategorie N6",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 751.56,
+        "valuation_in_points": 5899
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31236 Eingriffe der HNO-Chirurgie der Kategorie N6\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie N6 entsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31236 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31506, für\ndie postoperative Behandlung die Gebührenordnungsposition 31662\noder 31663 berechnet werden."
+    },
+    {
+      "code": "31237",
+      "title": "Eingriffe der HNO-Chirurgie der Kategorie N7",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 925.72,
+        "valuation_in_points": 7266
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31237 Eingriffe der HNO-Chirurgie der Kategorie N7\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie N7 entsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31237 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31507, für\ndie postoperative Behandlung die Gebührenordnungsposition 31662\noder 31663 berechnet werden."
+    },
+    {
+      "code": "31238",
+      "title": "Zuschlag zu den Gebührenordnungspositionen nach den Nrn. 31231 bis 31236 bei Simultaneingriffen und zu der Gebührenordnungsposition",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 82.05,
+        "valuation_in_points": 644
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31238 Zuschlag zu den Gebührenordnungspositionen nach den Nrn. 31231\nbis 31236 bei Simultaneingriffen und zu der Gebührenordnungsposition\n31237\nObligater Leistungsinhalt\n- Schnitt-Naht-Zeit je weitere vollendete 15 Minuten\n- Nachweis der Schnitt-Naht-Zeit über das Anästhesieprotokoll oder\nden OP-Bericht\nje weitere vollendete 15 Minuten Schnitt-Naht-Zeit\nDie Gebührenordnungsposition 31238 kann entsprechend Anhang 2\nPräambel 2.1, Nr. 14 als Zuschlag zu anderen ambulanten Operationen\ndes Abschnitts 31.2 abgerechnet werden.\n31.2.10 Definierte operative Eingriffe der Neurochirurgie\n1. Eingriffe, die nach den OPS-Kodes 5-010.00 bis\n5-010.14 sowie 5-030.40 bis 5-032.42 kodiert werden, sind nur als\nselbstständige Leistung berechnungsfähig."
+    },
+    {
+      "code": "31241",
+      "title": "Peripherer neurochirurgischer Eingriff der Kategorie O1",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 111.61,
+        "valuation_in_points": 876
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31241 Peripherer neurochirurgischer Eingriff der Kategorie O1\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie O1 entsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31241 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31502, für\ndie postoperative Behandlung die Gebührenordnungsposition 31614\noder 31615 berechnet werden."
+    },
+    {
+      "code": "31242",
+      "title": "Peripherer neurochirurgischer Eingriff der Kategorie O2",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 181.42,
+        "valuation_in_points": 1424
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31242 Peripherer neurochirurgischer Eingriff der Kategorie O2\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie O2 entsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31242 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31503, für\ndie postoperative Behandlung die Gebührenordnungsposition 31614\noder 31615 berechnet werden."
+    },
+    {
+      "code": "31243",
+      "title": "Peripherer neurochirurgischer Eingriff der Kategorie O3",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 271.88,
+        "valuation_in_points": 2134
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31243 Peripherer neurochirurgischer Eingriff der Kategorie O3\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie O3 entsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31243 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31504, für\ndie postoperative Behandlung die Gebührenordnungsposition 31616\noder 31617 berechnet werden."
+    },
+    {
+      "code": "31244",
+      "title": "Peripherer neurochirurgischer Eingriff der Kategorie O4",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 374.95,
+        "valuation_in_points": 2943
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31244 Peripherer neurochirurgischer Eingriff der Kategorie O4\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie O4 entsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31244 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31504, für\ndie postoperative Behandlung die Gebührenordnungsposition 31618\noder 31619 berechnet werden."
+    },
+    {
+      "code": "31245",
+      "title": "Peripherer neurochirurgischer Eingriff der Kategorie O5",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 543.0,
+        "valuation_in_points": 4262
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31245 Peripherer neurochirurgischer Eingriff der Kategorie O5\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie O5 entsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31245 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31505, für\ndie postoperative Behandlung die Gebührenordnungsposition 31618\noder 31619 berechnet werden."
+    },
+    {
+      "code": "31246",
+      "title": "Peripherer neurochirurgischer Eingriff der Kategorie O6",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 719.45,
+        "valuation_in_points": 5647
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31246 Peripherer neurochirurgischer Eingriff der Kategorie O6\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie O6 entsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31246 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31506, für\ndie postoperative Behandlung die Gebührenordnungsposition 31620\noder 31621 berechnet werden."
+    }
+  ]
+}

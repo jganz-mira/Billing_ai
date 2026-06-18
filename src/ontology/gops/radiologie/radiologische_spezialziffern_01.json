@@ -1,0 +1,1204 @@
+{
+  "gops": [
+    {
+      "code": "30210",
+      "title": "Teilnahme an einer multidisziplinären Fallkonferenz zur Indikationsüberprüfung eines Patienten mit diabetischem Fußsyndrom vor Überweisung an ein Druckkammerzentrum gemäß der Richtlinie des Gemeinsamen Bundesausschusses (Nr. 22 der Anlage I \"Anerkannte Untersuchungs- oder Behandlungsmethoden\" der Richtlinie Methoden vertragsärztliche Versorgung)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 10.96,
+        "valuation_in_points": 86
+      },
+      "mandatory_services": "- Teilnahme an einer multidisziplinären Fallkonferenz,\n- Abwägung und Feststellung oder Ausschluss des Bestehens von Therapiealternativen (insbesondere Evaluation der Möglichkeit einer gefäßchirurgischen oder interventionell- radiologischen Gefäßintervention/-rekonstruktion, leitliniengerechte Wundversorgung von mindestens 4\n- 5 Wochen, alternative adjuvante Verfahren),",
+      "facultative_services": null,
+      "billing_info": "Indikationsüberprüfung eines Patienten mit diabetischem Fußsyndrom vor Überweisung an ein Druckkammerzentrum gemäß der Richtlinie des Gemeinsamen Bundesausschusses (Nr. 22 der Anlage I \"Anerkannte Untersuchungs- oder Behandlungsmethoden\" der Richtlinie Methoden vertragsärztliche Versorgung) einmal im Krankheitsfall Die Teilnahme an der Fallkonferenz kann auch durch telefonische Zuschaltung erfolgen, sofern allen Teilnehmern die erforderlichen Dokumentationen vorliegen. Die Gebührenordnungsposition 30210 ist auch bei Durchführung der Fallkonferenz als Videofallkonferenz berechnungsfähig. Für die Abrechnung gelten die Anforderungen gemäß Anlage 31b zum BMV-Ä entsprechend. Eine zweifache Berechnung der Gebührenordnungsposition 30210 im Krankheitsfall ist mit schriftlicher Begründung bei Vorliegen (einer) zum Zeitpunkt der Erstberechnung nicht behandlungsrelevanter/n Wunde(n) zulässig. Die zweifache Berechnung der Gebührenordnungsposition 30210 im Krankheitsfall für die gleiche(n) Wunde(n) ist mit ausführlicher Begründung der medizinischen Notwendigkeit im Einzelfall zulässig. Die Gebührenordnungsposition 30210 ist nicht neben den Gebührenordnungspositionen 01442, 01443 und 37804 berechnungsfähig."
+    },
+    {
+      "code": "30212",
+      "title": "Indikationsüberprüfung eines Patienten mit diabetischem Fußsyndrom vor Überweisung an ein Druckkammerzentrum gemäß der Richtlinie des Gemeinsamen Bundesausschusses (Nr. 22 der Anlage I \"Anerkannte Untersuchungs- oder Behandlungsmethoden\" der Richtlinie Methoden vertragsärztliche Versorgung)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 43.7,
+        "valuation_in_points": 343
+      },
+      "mandatory_services": "- Beratung und Erörterung des Befundes,\n- Berücksichtigung des Ergebnisses der interdisziplinären Fallkonferenz nach der Gebührenordnungsposition 30210,\n- Dokumentation des Fußstatus einschließlich Pulsstatus, Sensibilitätsprüfung, Beurteilung von Fußdeformitäten/ Hyperkeratose(n),\n- Beurteilung des Lokalbefundes einschließlich Tiefe des Ulkus und Beurteilung einer Wundinfektion,\n- Überprüfung der bisher durchgeführten Wundversorgung in einer zur Behandlung des diabetischen Fußes qualifizierten Einrichtung gemäß Nr. 4 dieses Abschnitts,\n- Beurteilung der Wundheilungstendenzen der bisherigen leitliniengerechten Wundversorgung,\n- Beurteilung der Wirksamkeit bereits durchgeführter antibiotischer Therapien,\n- Beurteilung der bereits durchgeführten angioplastischen Maßnahmen,\n- Beurteilung der vorliegenden Befunde der bereits durchgeführten chirurgischen Maßnahmen,\n- Dokumentation (u. a. des Wundabstrichs, eines ggf. vorhandenen Infektionsverlaufs inklusive Laborparametern und des Behandlungskonzeptes) und Fotodokumentation,\n- Feststellung der Transportfähigkeit,\n- Befundbericht,",
+      "facultative_services": "- Verbandswechsel,\n- Überweisung an ein Druckkammerzentrum zur Feststellung der Druckkammertauglichkeit und ggf. zur Druckkammerbehandlung, Übermittlung der Dokumentation,\n- Überweisung zur Betreuung eines Patienten zwischen den Druckkammerbehandlungen gemäß der Richtlinie des Gemeinsamen Bundesausschusses (Nr. 22 der Anlage I \"Anerkannte Untersuchungs- oder Behandlungsmethoden\" der Richtlinie Methoden vertragsärztliche Versorgung) nach der Gebührenordnungsposition 30214, Übermittlung der Dokumentation,",
+      "billing_info": "Fußsyndrom vor Überweisung an ein Druckkammerzentrum gemäß der Richtlinie des Gemeinsamen Bundesausschusses (Nr. 22 der Anlage I \"Anerkannte Untersuchungs- oder Behandlungsmethoden\" der Richtlinie Methoden vertragsärztliche Versorgung) einmal im Krankheitsfall Eine zweifache Berechnung der Gebührenordnungsposition 30212 im Krankheitsfall ist mit schriftlicher Begründung bei Vorliegen (einer) zum Zeitpunkt der Erstberechnung nicht behandlungsrelevanter/n Wunde(n) zulässig. Die zweifache Berechnung der Gebührenordnungsposition 30212 im Krankheitsfall für die gleiche(n) Wunde(n) ist mit ausführlicher Begründung der medizinischen Notwendigkeit im Einzelfall zulässig."
+    },
+    {
+      "code": "30214",
+      "title": "Betreuung eines Patienten zwischen den Druckkammerbehandlungen gemäß der Richtlinie des Gemeinsamen Bundesausschusses (Nr. 22 der Anlage I \"Anerkannte Untersuchungs- oder Behandlungsmethoden\" der Richtlinie Methoden vertragsärztliche Versorgung)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 17.58,
+        "valuation_in_points": 138
+      },
+      "mandatory_services": "- Leitliniengerechte Wundversorgung, Wundkontrolle und Verbandswechsel während eines Behandlungszyklus der hyperbaren Sauerstofftherapie,\n- Überprüfung und Dokumentation der Wundgröße und\n- heilungstendenz,\n- Fußinspektion einschließlich Kontrolle des Schuhwerks,",
+      "facultative_services": "- Fotodokumentation nach jeder 10. Druckkammerbehandlung,\n- Bestätigung der Notwendigkeit einer Weiterbehandlung nach jeder 10. Druckkammerbehandlung,\n- Abtragung ausgedehnter Nekrosen der unteren Extremität,\n- Einleitung einer wirksamen antibiotischen Therapie bei Infektion der Läsion,",
+      "billing_info": "Druckkammerbehandlungen gemäß der Richtlinie des Gemeinsamen Bundesausschusses (Nr. 22 der Anlage I \"Anerkannte Untersuchungs- oder Behandlungsmethoden\" der Richtlinie Methoden vertragsärztliche Versorgung) je Bein, je Sitzung Die Gebührenordnungsposition 30214 kann nur dann berechnet werden, wenn der Arzt die arztbezogenen Anforderungen gemäß Nr. 4 dieses Abschnitts erfüllt. Dies gilt nicht für die Betreuung im Rahmen der Bestätigung der Notwendigkeit einer Weiterbehandlung nach jeder 10. Druckkammerbehandlung gemäß Nr. 6 dieses Abschnitts durch den überweisenden Facharzt oder seine Vertretung gemäß § 17 Abs. 3 Bundesmantelvertrag-Ärzte (BMV-Ä). Die Gebührenordnungsposition 30214 ist nicht neben den Gebührenordnungspositionen 02300 bis 02302, 02311, 02313, 02350, 02360, 10340 bis 10342, 30500 und 30501 berechnungsfähig. Die Gebührenordnungsposition 30214 ist im Behandlungsfall nicht neben den Gebührenordnungspositionen 02310, 02312, 07310, 07311, 07340, 10330, 18310, 18311 und 18340 berechnungsfähig."
+    },
+    {
+      "code": "30216",
+      "title": "Untersuchung auf Eignung und Feststellung der Druckkammertauglichkeit vor der ersten Druckkammersitzung für die hyperbare Sauerstofftherapie gemäß der Richtlinie des Gemeinsamen Bundesausschusses (Nr. 22 der Anlage I \"Anerkannte Untersuchungs- oder Behandlungsmethoden\" der Richtlinie Methoden vertragsärztliche Versorgung), einschl. Sachkosten",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 41.15,
+        "valuation_in_points": 323
+      },
+      "mandatory_services": "- Anamnese und Feststellung der Transportfähigkeit,\n- Aufklärung und Beratung zur Druckkammertherapie,\n- Ganzkörperstatus,\n- Otoskopie und/oder\n- Tympanometrie und/oder\n- binokularmikroskopische Untersuchung des Trommelfells",
+      "facultative_services": "- Sichtung, Wertung und Erörterung von Fremdbefunden,\n- Ruhe-EKG,\n- Ruhe-Spirographie,\n- Transkutane Messung(en) des Sauerstoffpartialdrucks, ggf. einschließlich Provokation und Dokumentation,\n- Anleitung zum Druckausgleich (Valsalva-Manöver),\n- Verbandswechsel,\n- Übermittlung des Untersuchungsergebnisses an den zuweisenden Arzt bei Nichteignung des Patienten",
+      "billing_info": "Druckkammertauglichkeit vor der ersten Druckkammersitzung für die hyperbare Sauerstofftherapie gemäß der Richtlinie des Gemeinsamen Bundesausschusses (Nr. 22 der Anlage I \"Anerkannte Untersuchungs- oder Behandlungsmethoden\" der Richtlinie Methoden vertragsärztliche Versorgung), einschl. Sachkosten Die Gebührenordnungsposition 30216 ist einmal vor Beginn eines Behandlungszyklus gemäß Nr. 6 dieses Abschnitts berechnungsfähig. Die Gebührenordnungsposition 30216 ist am Behandlungstag nicht neben der Gebührenordnungsposition 30218 berechnungsfähig."
+    },
+    {
+      "code": "30218",
+      "title": "Hyperbare Sauerstofftherapie gemäß der Richtlinie des Gemeinsamen Bundesausschusses (Nr. 22 der Anlage I \"Anerkannte Untersuchungs- oder Behandlungsmethoden\" der Richtlinie Methoden vertragsärztliche Versorgung), einschl. Sachkosten",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 149.44,
+        "valuation_in_points": 1173
+      },
+      "mandatory_services": "- Hyperbare Sauerstofftherapie unter Anwendung des Problemwunden-Therapieschemas 240-90,\n- Dokumentation,\n- Expiratorische Sauerstoffmessung und Maskenüberwachung,\n- Koordination und Sicherstellung der Betreuung des Patienten zwischen den Druckkammerbehandlungen nach der Gebührenordnungsposition 30214 durch eine qualifizierte Einrichtung nach Nr. 4 dieses Abschnitts,",
+      "facultative_services": "- Wundkontrolle und Verbandswechsel,\n- Fotodokumentation nach jeder 10. Druckkammerbehandlung,\n- Otoskopie,\n- EKG-Überwachung,\n- Ruhe-Spirographie,\n- Vor- und Nachuntersuchung,\n- Transkutane Messung(en) des Sauerstoffpartialdrucks, ggf. einschließlich Provokation,\n- Aufklärung über vorbeugende Brandschutzmaßnahmen und Sicherheitshinweise vor Beginn der Druckkammerbehandlung,",
+      "billing_info": "Gemeinsamen Bundesausschusses (Nr. 22 der Anlage I \"Anerkannte Untersuchungs- oder Behandlungsmethoden\" der Richtlinie Methoden vertragsärztliche Versorgung), einschl. Sachkosten einmal am Behandlungstag Die Gebührenordnungsposition 30218 kann nur berechnet werden, wenn die Leistung auf Überweisung zur Durchführung von Auftragsleistungen (Indikations- oder Definitionsauftrag gemäß § 24 Abs. 7 Nr. 1 Bundesmantelvertrag-Ärzte (BMV-Ä)) durch einen Vertragsarzt gemäß Nr. 3 dieses Abschnitts erfolgt und eine Vorabklärung nach der Gebührenordnungsposition 30216 stattgefunden hat. Die Gebührenordnungsposition 30218 ist am Behandlungstag nicht neben der Gebührenordnungsposition 30216 berechnungsfähig."
+    },
+    {
+      "code": "30810",
+      "title": "Erstverordnung Soziotherapie",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 21.4,
+        "valuation_in_points": 168
+      },
+      "mandatory_services": "- Erstverordnung von Behandlungsmaßnahmen zur Soziotherapie von",
+      "facultative_services": "- Anpassung des Betreuungsplanes nach verordneten Probestunden,",
+      "billing_info": "bis zu 30 Therapieeinheiten, - Beachtung der Richtlinie des Gemeinsamen Bundesausschusses über die Durchführung von Soziotherapie in der vertragsärztlichen Versorgung, - Mithilfe bei der Auswahl des Soziotherapeuten, - Mitwirkung bei der Erstellung des soziotherapeutischen Betreuungsplanes, einmal im Krankheitsfall Die Gebührenordnungsposition 30810 ist nur nach Genehmigung durch die Kassenärztliche Vereinigung berechnungsfähig. Die Gebührenordnungsposition 30810 ist am Behandlungstag nicht neben der Gebührenordnungsposition 30811 berechnungsfähig."
+    },
+    {
+      "code": "30811",
+      "title": "Überprüfung der Indikation zur Folgeverordnung Soziotherapie",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 21.4,
+        "valuation_in_points": 168
+      },
+      "mandatory_services": "- Überprüfung und Anpassung des soziotherapeutischen Behandlungsplanes,\n- Beobachtung und Abstimmung des Therapieverlaufs,\n- Beachtung der Richtlinie des Gemeinsamen Bundesausschusses über die Durchführung von Soziotherapie in der vertragsärztlichen Versorgung,",
+      "facultative_services": "- Folgeverordnung von bis zu 30 weiteren Einheiten Soziotherapie,",
+      "billing_info": "je Sitzung Die Gebührenordnungsposition 30811 ist im Behandlungsfall höchstens zweimal berechnungsfähig. Die Gebührenordnungsposition 30811 ist nur nach Genehmigung durch die Kassenärztliche Vereinigung berechnungsfähig. Die Gebührenordnungsposition 30811 ist am Behandlungstag nicht neben der Gebührenordnungsposition 30810 berechnungsfähig."
+    },
+    {
+      "code": "30940",
+      "title": "Erhebung des MRSA-Status eines Risikopatienten gemäß Nr. 3 der Präambel des Abschnitts 30.12 bis sechs Monate nach Entlassung aus einer stationären Behandlung",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 4.84,
+        "valuation_in_points": 38
+      },
+      "mandatory_services": "- Persönlicher Arzt-Patienten-Kontakt,\n- Erhebung und Dokumentation der Risikofaktoren gemäß Nr. 3 der Präambel des Abschnitts 30.12,",
+      "facultative_services": "- Erhebung und Dokumentation von sanierungshemmenden Faktoren,\n- sektorenübergreifende (ambulant, stationär) interdisziplinäre Abstimmung und Information,\n- Indikationsstellung zur Eradikationstherapie,",
+      "billing_info": "Präambel des Abschnitts 30.12 bis sechs Monate nach Entlassung aus einer stationären Behandlung einmal im Behandlungsfall Die Gebührenordnungsposition 30940 ist nicht im kurativ-stationären Behandlungsfall berechnungsfähig."
+    },
+    {
+      "code": "30942",
+      "title": "Behandlung und Betreuung eines Risikopatienten gemäß Nr. 3 der Präambel des Abschnitts 30.12, der Träger von MRSA ist, oder einer positiv nachgewiesenen MRSA-Kontaktperson gemäß der Gebührenordnungsposition 30946",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 16.31,
+        "valuation_in_points": 128
+      },
+      "mandatory_services": "- Persönlicher Arzt-Patienten-Kontakt,\n- Durch-/Weiterführung der Eradikationstherapie, ausgenommen der Wundversorgung,\n- Einleitung, Anleitung bzw. Überwachung der Standardsanierung,\n- Aufklärung und Beratung zu Hygienemaßnahmen, der Eradikationstherapie und der weiteren Sanierungsbehandlung, ggf. unter Einbeziehung der Kontakt-/Bezugsperson(en),\n- Aushändigung des MRSA-Merkblattes,\n- Dokumentation,",
+      "facultative_services": "- Bereitstellung von Informationsmaterialien,",
+      "billing_info": "der Präambel des Abschnitts 30.12, der Träger von MRSA ist, oder einer positiv nachgewiesenen MRSA-Kontaktperson gemäß der Gebührenordnungsposition 30946 einmal im Behandlungsfall Die Gebührenordnungsposition 30942 ist nicht im kurativ-stationären Behandlungsfall berechnungsfähig. Die Gebührenordnungsposition 30942 ist nur bei Versicherten mit der gesicherten Diagnose ICD-10-GM U80.00 oder U80.01 berechnungsfähig. Die Diagnose muss durch eine mikrobiologische Untersuchung gesichert sein, die entweder vom Vertragsarzt veranlasst oder aus dem Krankenhaus übermittelt wurde."
+    },
+    {
+      "code": "30944",
+      "title": "Aufklärung und Beratung eines Risikopatienten gemäß Nr. 3 der Präambel des Abschnitts 30.12, der Träger von MRSA ist, oder einer positiv nachgewiesenen MRSA-Kontaktperson gemäß der Gebührenordnungsposition 30946 im Zusammenhang mit der Durchführung der Leistung der Gebührenordnungsposition 30942",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 16.31,
+        "valuation_in_points": 128
+      },
+      "mandatory_services": "- Persönlicher Arzt-Patienten-Kontakt,\n- Aufklärung und/oder Beratung des Patienten, ggf. unter Einbeziehung der Kontakt-/Bezugsperson(en) oder\n- Aufklärung und/oder Beratung einer Kontaktperson des Patienten gemäß der Gebührenordnungsposition 30946,\n- Dauer mindestens 10 Minuten,",
+      "facultative_services": null,
+      "billing_info": "der Präambel des Abschnitts 30.12, der Träger von MRSA ist, oder einer positiv nachgewiesenen MRSA-Kontaktperson gemäß der Gebührenordnungsposition 30946 im Zusammenhang mit der Durchführung der Leistung der Gebührenordnungsposition 30942 je vollendete 10 Minuten, höchstens zweimal je Sanierungsbehandlung Bei der Nebeneinanderberechnung diagnostischer bzw. therapeutischer Gebührenordnungspositionen und der Gebührenordnungsposition 30944 ist eine mindestens 10 Minuten längere Arzt-Patienten- Kontaktzeit, als in den entsprechenden Gebührenordnungspositionen angegeben, Voraussetzung für die Berechnung der Gebührenordnungsposition 30944. Bei der Nebeneinanderberechnung der Gebührenordnungspositionen 30942 und 30944 ist eine Arzt-Patienten-Kontaktzeit von mindestens 25 Minuten Voraussetzung für die Berechnung der Gebührenordnungsposition 30944. Die Gebührenordnungsposition 30944 ist nicht im kurativ-stationären Behandlungsfall berechnungsfähig. Die Gebührenordnungsposition 30944 ist nur bei Versicherten mit der gesicherten Diagnose ICD-10-GM U80.00 oder U80.01 berechnungsfähig. Die Diagnose muss durch eine mikrobiologische Untersuchung gesichert sein, die entweder vom Vertragsarzt veranlasst oder aus dem Krankenhaus übermittelt wurde."
+    },
+    {
+      "code": "30946",
+      "title": "Abklärungs-Diagnostik einer Kontaktperson nach erfolgloser Sanierung eines MRSA-Trägers",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 3.82,
+        "valuation_in_points": 30
+      },
+      "mandatory_services": "- Persönlicher Arzt-Patienten-Kontakt,\n- Abklärungsdiagnostik,\n- Dokumentation,",
+      "facultative_services": "- Bereitstellung von Informationsmaterialien,",
+      "billing_info": "Sanierung eines MRSA-Trägers einmal im Behandlungsfall Die Kontaktperson muss in dem Zeitraum gemäß Nr. 3 der Präambel des Abschnitts 30.12 mindestens über vier Tage den Schlafraum und/oder die Einrichtung(en) zur Körperpflege mit dem MRSA-Träger, bei dem die Eradikationstherapie oder die weitere Sanierungsbehandlung erfolglos verlief, gemeinsam nutzen und/oder genutzt haben. Die Gebührenordnungsposition 30946 ist nicht im kurativ-stationären Behandlungsfall berechnungsfähig. Die Gebührenordnungsposition 30946 ist nicht berechnungsfähig für Beschäftigte in Pflegeheimen und/oder in der ambulanten Pflege im Rahmen ihrer beruflichen Ausübung."
+    },
+    {
+      "code": "30948",
+      "title": "Teilnahme an einer MRSA-Fall- und/oder regionalen Netzwerkkonferenz gemäß der Qualitätssicherungsvereinbarung MRSA nach § 135 Abs. 2 SGB V",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 10.96,
+        "valuation_in_points": 86
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Netzwerkkonferenz gemäß der Qualitätssicherungsvereinbarung MRSA nach § 135 Abs. 2 SGB V, einmal im Behandlungsfall Die Gebührenordnungsposition 30948 ist nur berechnungsfähig, wenn die Fallkonferenz und/oder regionale Netzwerkkonferenz von der zuständigen Kassenärztlichen Vereinigung anerkannt ist. Die Gebührenordnungsposition 30948 ist nur in Behandlungsfällen in Zusammenhang mit der Durchführung der Leistung der Gebührenordnungsposition 30942 berechnungsfähig, in denen der abrechnende Arzt eine Eradikationstherapie durchführt, und darf nur einmal je Sanierungsbehandlung berechnet werden. Ärzte, die aus dem Abschnitt 30.12 ausschließlich Leistungen gemäß den Gebührenordnungspositionen 30954 und 30956 erbringen und berechnen, können bei Erfüllung der Voraussetzungen der Qualitätssicherungsvereinbarung MRSA gemäß § 135 Abs. 2 SGB V für die Teilnahme an der Netzwerk- und/oder Fallkonferenz zusätzlich die Gebührenordnungsposition 30948 je Behandlungsfall mit der Erbringung der Gebührenordnungspositionen 30954 und/oder 30956 berechnen. Dabei gilt ein Höchstwert von 1.720 Punkten je Praxis und je Netzwerk- und/oder Fallkonferenz. Abweichend davon gilt für den Arzt, der gemäß der Qualitätssicherungsvereinbarung MRSA gemäß § 135 Abs. 2 SGB V vorträgt, ein Höchstwert von 2.838 Punkten je Netzwerk- und/oder Fallkonferenz. Die Gebührenordnungsposition 30948 ist auch bei Durchführung der Fallkonferenz als Videofallkonferenz berechnungsfähig. Für die Abrechnung gelten die Anforderungen gemäß Anlage 31b zum BMV- Ä entsprechend. Die Gebührenordnungsposition 30948 ist nicht neben den Gebührenordnungspositionen 01442, 01443, 37720 und 37804 berechnungsfähig."
+    },
+    {
+      "code": "30950",
+      "title": "Bestätigung einer MRSA-Besiedelung durch Abstrich(e)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 2.42,
+        "valuation_in_points": 19
+      },
+      "mandatory_services": "- Abstrichentnahme(n) (z.B. Nasenvorhöfe, Rachen, Wunde(n)) im Zusammenhang mit der Gebührenordnungsposition 30940 oder 30946 oder\n- Abstrichentnahme(n) (z.B. Nasenvorhöfe, Rachen, Wunde(n)) zur ersten Verlaufskontrolle frühestens 3 Tage und spätestens 4 Wochen nach abgeschlossener Eradikationstherapie gemäß der Gebührenordnungspositionen 30942 und 30944 oder\n- Abstrichentnahme(n) (z.B. Nasenvorhöfe, Rachen, Wunde(n)) zur zweiten Verlaufskontrolle frühestens 3 Monate und spätestens 6 Monate nach abgeschlossener Eradikationstherapie gemäß der Gebührenordnungspositionen 30942 und 30944 oder\n- Abstrichentnahme(n) (z.B. Nasenvorhöfe, Rachen, Wunde(n)) zur dritten Verlaufskontrolle frühestens 11 Monate und spätestens 13 Monate nach abgeschlossener Eradikationstherapie gemäß der Gebührenordnungspositionen 30942 und 30944,",
+      "facultative_services": null,
+      "billing_info": "einmal am Behandlungstag, höchstens zweimal im Behandlungsfall Die Gebührenordnungsposition 30950 ist nur bei Versicherten mit der gesicherten Diagnose ICD-10-GM U80.00 oder U80.01 berechnungsfähig, wenn das Ergebnis der (des) Abstriche(s) vorliegt."
+    },
+    {
+      "code": "30952",
+      "title": "Ausschluss einer MRSA-Besiedelung durch Abstrich(e)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 2.42,
+        "valuation_in_points": 19
+      },
+      "mandatory_services": "- Abstrichentnahme(n) (z.B. Nasenvorhöfe, Rachen, Wunde(n)) im Zusammenhang mit der Gebührenordnungsposition 30940 oder 30946 oder\n- Abstrichentnahme(n) (z.B. Nasenvorhöfe, Rachen, Wunde(n)) zur ersten Verlaufskontrolle frühestens 3 Tage und spätestens 4 Wochen nach abgeschlossener Eradikationstherapie gemäß der Gebührenordnungspositionen 30942 und 30944 oder\n- Abstrichentnahme(n) (z.B. Nasenvorhöfe, Rachen, Wunde(n)) zur zweiten Verlaufskontrolle frühestens 3 Monate und spätestens 6 Monate nach abgeschlossener Eradikationstherapie gemäß der Gebührenordnungspositionen 30942 und 30944 oder\n- Abstrichentnahme(n) (z.B. Nasenvorhöfe, Rachen, Wunde(n)) zur dritten Verlaufskontrolle frühestens 11 Monate und spätestens 13 Monate nach abgeschlossener Eradikationstherapie gemäß der Gebührenordnungspositionen 30942 und 30944,",
+      "facultative_services": null,
+      "billing_info": "einmal am Behandlungstag, höchstens zweimal im Behandlungsfall Die Gebührenordnungsposition 30952 ist nur berechnungsfähig, wenn die Abstrichuntersuchung keinen Nachweis von MRSA aufweist. 30.12.2 Labormedizinischer Nachweis von Methicillin-resistentem Staphylococcus aureus (MRSA)"
+    },
+    {
+      "code": "30954",
+      "title": "Gezielter MRSA-Nachweis auf chromogenem Selektivnährboden",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 6.5,
+        "valuation_in_points": 51
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Die Gebührenordnungsposition 30954 ist nur im Zusammenhang mit der(n) Gebührenordnungsposition(en) 30950 und/oder 30952 berechnungsfähig. Die Gebührenordnungsposition 30954 ist nicht neben der Gebührenordnungsposition 32837 berechnungsfähig."
+    },
+    {
+      "code": "30956",
+      "title": "Nachweis der Koagulase und/oder des Clumpingfaktors zur Erregeridentifikation nur bei positivem Nachweis gemäß Gebührenordnungsposition 30954",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 3.19,
+        "valuation_in_points": 25
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Erregeridentifikation nur bei positivem Nachweis gemäß Gebührenordnungsposition 30954 Die Gebührenordnungsposition 30956 ist nur im Zusammenhang mit der(n) Gebührenordnungsposition(en) 30950 und/oder 30952 berechnungsfähig. Die Gebührenordnungsposition 30956 ist nicht neben der Gebührenordnungsposition 32837 berechnungsfähig."
+    },
+    {
+      "code": "31020",
+      "title": "Zuschlag für zusätzlichen Hygieneaufwand zu der Gebührenordnungsposition 31271",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 3.57,
+        "valuation_in_points": 28
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31020 Zuschlag für zusätzlichen Hygieneaufwand zu der\nGebührenordnungsposition 31271"
+    },
+    {
+      "code": "31021",
+      "title": "Zuschlag für zusätzlichen Hygieneaufwand zu der Gebührenordnungsposition 31342",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 3.69,
+        "valuation_in_points": 29
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31021 Zuschlag für zusätzlichen Hygieneaufwand zu der\nGebührenordnungsposition 31342"
+    },
+    {
+      "code": "31022",
+      "title": "Zuschlag für zusätzlichen Hygieneaufwand zu den Gebührenordnungspositionen 31371, 31372 und 31373",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 6.5,
+        "valuation_in_points": 51
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31022 Zuschlag für zusätzlichen Hygieneaufwand zu den\nGebührenordnungspositionen 31371, 31372 und 31373"
+    },
+    {
+      "code": "31023",
+      "title": "Zuschlag für zusätzlichen Hygieneaufwand zu der Gebührenordnungsposition 31101",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 7.13,
+        "valuation_in_points": 56
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31023 Zuschlag für zusätzlichen Hygieneaufwand zu der\nGebührenordnungsposition 31101"
+    },
+    {
+      "code": "31024",
+      "title": "Zuschlag für zusätzlichen Hygieneaufwand zu der Gebührenordnungsposition 31102",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 7.39,
+        "valuation_in_points": 58
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31024 Zuschlag für zusätzlichen Hygieneaufwand zu der\nGebührenordnungsposition 31102"
+    },
+    {
+      "code": "31025",
+      "title": "Zuschlag für zusätzlichen Hygieneaufwand zu der Gebührenordnungsposition 31341",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 8.66,
+        "valuation_in_points": 68
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31025 Zuschlag für zusätzlichen Hygieneaufwand zu der\nGebührenordnungsposition 31341"
+    },
+    {
+      "code": "31026",
+      "title": "Zuschlag für zusätzlichen Hygieneaufwand zu der Gebührenordnungsposition 31301",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 9.94,
+        "valuation_in_points": 78
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31026 Zuschlag für zusätzlichen Hygieneaufwand zu der\nGebührenordnungsposition 31301"
+    },
+    {
+      "code": "31027",
+      "title": "Zuschlag für zusätzlichen Hygieneaufwand zu den Gebührenordnungspositionen 31231 und 31242",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 14.01,
+        "valuation_in_points": 110
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31027 Zuschlag für zusätzlichen Hygieneaufwand zu den\nGebührenordnungspositionen 31231 und 31242"
+    },
+    {
+      "code": "31028",
+      "title": "Zuschlag für zusätzlichen Hygieneaufwand zu der Gebührenordnungsposition 31171",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 14.14,
+        "valuation_in_points": 111
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31028 Zuschlag für zusätzlichen Hygieneaufwand zu der\nGebührenordnungsposition 31171"
+    },
+    {
+      "code": "31029",
+      "title": "Zuschlag für zusätzlichen Hygieneaufwand zu der Gebührenordnungsposition 31103",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 15.16,
+        "valuation_in_points": 119
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31029 Zuschlag für zusätzlichen Hygieneaufwand zu der\nGebührenordnungsposition 31103"
+    },
+    {
+      "code": "31030",
+      "title": "Zuschlag für zusätzlichen Hygieneaufwand zu der Gebührenordnungsposition 31121",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 15.93,
+        "valuation_in_points": 125
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31030 Zuschlag für zusätzlichen Hygieneaufwand zu der\nGebührenordnungsposition 31121"
+    },
+    {
+      "code": "31031",
+      "title": "Zuschlag für zusätzlichen Hygieneaufwand zu den Gebührenordnungspositionen 31122 und 31302",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 16.44,
+        "valuation_in_points": 129
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31031 Zuschlag für zusätzlichen Hygieneaufwand zu den\nGebührenordnungspositionen 31122 und 31302"
+    },
+    {
+      "code": "31032",
+      "title": "Zuschlag für zusätzlichen Hygieneaufwand zu der Gebührenordnungsposition 31281",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 16.82,
+        "valuation_in_points": 132
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31032 Zuschlag für zusätzlichen Hygieneaufwand zu der\nGebührenordnungsposition 31281"
+    },
+    {
+      "code": "31033",
+      "title": "Zuschlag für zusätzlichen Hygieneaufwand zu der Gebührenordnungsposition 31232",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 17.45,
+        "valuation_in_points": 137
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31033 Zuschlag für zusätzlichen Hygieneaufwand zu der\nGebührenordnungsposition 31232"
+    },
+    {
+      "code": "31034",
+      "title": "Zuschlag für zusätzlichen Hygieneaufwand zu den Gebührenordnungspositionen 31211, 31221 und 31321",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 17.71,
+        "valuation_in_points": 139
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31034 Zuschlag für zusätzlichen Hygieneaufwand zu den\nGebührenordnungspositionen 31211, 31221 und 31321"
+    },
+    {
+      "code": "31035",
+      "title": "Zuschlag für zusätzlichen Hygieneaufwand zu der Gebührenordnungsposition 31096",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 18.09,
+        "valuation_in_points": 142
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31035 Zuschlag für zusätzlichen Hygieneaufwand zu der\nGebührenordnungsposition 31096"
+    },
+    {
+      "code": "31036",
+      "title": "Zuschlag für zusätzlichen Hygieneaufwand zu den Gebührenordnungspositionen 31097 und 31364",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 18.86,
+        "valuation_in_points": 148
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31036 Zuschlag für zusätzlichen Hygieneaufwand zu den\nGebührenordnungspositionen 31097 und 31364"
+    },
+    {
+      "code": "31037",
+      "title": "Zuschlag für zusätzlichen Hygieneaufwand zu der Gebührenordnungsposition 31141",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 19.62,
+        "valuation_in_points": 154
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31037 Zuschlag für zusätzlichen Hygieneaufwand zu der\nGebührenordnungsposition 31141"
+    },
+    {
+      "code": "31038",
+      "title": "Zuschlag für zusätzlichen Hygieneaufwand zu der Gebührenordnungsposition 31131",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 19.88,
+        "valuation_in_points": 156
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31038 Zuschlag für zusätzlichen Hygieneaufwand zu der\nGebührenordnungsposition 31131"
+    },
+    {
+      "code": "31039",
+      "title": "Zuschlag für zusätzlichen Hygieneaufwand zu den Gebührenordnungspositionen 31132 und 31362",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 20.64,
+        "valuation_in_points": 162
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31039 Zuschlag für zusätzlichen Hygieneaufwand zu den\nGebührenordnungspositionen 31132 und 31362"
+    },
+    {
+      "code": "31040",
+      "title": "Zuschlag für zusätzlichen Hygieneaufwand zu den Gebührenordnungspositionen 31111, 31201 und 31311",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 21.4,
+        "valuation_in_points": 168
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31040 Zuschlag für zusätzlichen Hygieneaufwand zu den\nGebührenordnungspositionen 31111, 31201 und 31311"
+    },
+    {
+      "code": "31041",
+      "title": "Zuschlag für zusätzlichen Hygieneaufwand zu der Gebührenordnungsposition 31104",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 22.17,
+        "valuation_in_points": 174
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31041 Zuschlag für zusätzlichen Hygieneaufwand zu der\nGebührenordnungsposition 31104"
+    },
+    {
+      "code": "31042",
+      "title": "Zuschlag für zusätzlichen Hygieneaufwand zu den Gebührenordnungspositionen 31112, 31222, 31272 und 31322",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 22.3,
+        "valuation_in_points": 175
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31042 Zuschlag für zusätzlichen Hygieneaufwand zu den\nGebührenordnungspositionen 31112, 31222, 31272 und 31322"
+    },
+    {
+      "code": "31043",
+      "title": "Zuschlag für zusätzlichen Hygieneaufwand zu den Gebührenordnungspositionen 31251 und 31331",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 24.33,
+        "valuation_in_points": 191
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31043 Zuschlag für zusätzlichen Hygieneaufwand zu den\nGebührenordnungspositionen 31251 und 31331"
+    },
+    {
+      "code": "31044",
+      "title": "Zuschlag für zusätzlichen Hygieneaufwand zu den Gebührenordnungspositionen 31113 und 31273",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 24.97,
+        "valuation_in_points": 196
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31044 Zuschlag für zusätzlichen Hygieneaufwand zu den\nGebührenordnungspositionen 31113 und 31273"
+    },
+    {
+      "code": "31045",
+      "title": "Zuschlag für zusätzlichen Hygieneaufwand zu den Gebührenordnungspositionen 31142, 31282 und 31292",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 25.35,
+        "valuation_in_points": 199
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31045 Zuschlag für zusätzlichen Hygieneaufwand zu den\nGebührenordnungspositionen 31142, 31282 und 31292"
+    },
+    {
+      "code": "31046",
+      "title": "Zuschlag für zusätzlichen Hygieneaufwand zu der Gebührenordnungsposition 31213",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 26.88,
+        "valuation_in_points": 211
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31046 Zuschlag für zusätzlichen Hygieneaufwand zu der\nGebührenordnungsposition 31213"
+    },
+    {
+      "code": "31047",
+      "title": "Zuschlag für zusätzlichen Hygieneaufwand zu den Gebührenordnungspositionen 31114 und 31324",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 27.65,
+        "valuation_in_points": 217
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31047 Zuschlag für zusätzlichen Hygieneaufwand zu den\nGebührenordnungspositionen 31114 und 31324"
+    },
+    {
+      "code": "31048",
+      "title": "Zuschlag für zusätzlichen Hygieneaufwand zu den Gebührenordnungspositionen 31152, 31172, 31202, 31212 und",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 27.77,
+        "valuation_in_points": 218
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31048 Zuschlag für zusätzlichen Hygieneaufwand zu den\nGebührenordnungspositionen 31152, 31172, 31202, 31212 und\n31252"
+    },
+    {
+      "code": "31049",
+      "title": "Zuschlag für zusätzlichen Hygieneaufwand zu den Gebührenordnungspositionen 31123, 31133, 31143, 31243, 31263",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 28.03,
+        "valuation_in_points": 220
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31049 Zuschlag für zusätzlichen Hygieneaufwand zu den\nGebührenordnungspositionen 31123, 31133, 31143, 31243, 31263\n31283 und 31293"
+    },
+    {
+      "code": "31050",
+      "title": "Zuschlag für zusätzlichen Hygieneaufwand zu der Gebührenordnungsposition 31105",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 28.67,
+        "valuation_in_points": 225
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31050 Zuschlag für zusätzlichen Hygieneaufwand zu der\nGebührenordnungsposition 31105"
+    },
+    {
+      "code": "31051",
+      "title": "Zuschlag für zusätzlichen Hygieneaufwand zu den Gebührenordnungspositionen 31312, 31319 und 31332",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 30.07,
+        "valuation_in_points": 236
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31051 Zuschlag für zusätzlichen Hygieneaufwand zu den\nGebührenordnungspositionen 31312, 31319 und 31332"
+    },
+    {
+      "code": "31052",
+      "title": "Zuschlag für zusätzlichen Hygieneaufwand zu den Gebührenordnungspositionen 31233 und 31323",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 30.45,
+        "valuation_in_points": 239
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31052 Zuschlag für zusätzlichen Hygieneaufwand zu den\nGebührenordnungspositionen 31233 und 31323"
+    },
+    {
+      "code": "31053",
+      "title": "Zuschlag für zusätzlichen Hygieneaufwand zu den Gebührenordnungspositionen 31124, 31134, 31144, 31244, 31274",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 30.7,
+        "valuation_in_points": 241
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31053 Zuschlag für zusätzlichen Hygieneaufwand zu den\nGebührenordnungspositionen 31124, 31134, 31144, 31244, 31274\n31284 und 31294"
+    },
+    {
+      "code": "31054",
+      "title": "Zuschlag für zusätzlichen Hygieneaufwand zu der Gebührenordnungsposition 31125",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 31.09,
+        "valuation_in_points": 244
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31054 Zuschlag für zusätzlichen Hygieneaufwand zu der\nGebührenordnungsposition 31125"
+    },
+    {
+      "code": "31055",
+      "title": "Zuschlag für zusätzlichen Hygieneaufwand zu der Gebührenordnungsposition 31223",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 31.6,
+        "valuation_in_points": 248
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31055 Zuschlag für zusätzlichen Hygieneaufwand zu der\nGebührenordnungsposition 31223"
+    },
+    {
+      "code": "31056",
+      "title": "Zuschlag für zusätzlichen Hygieneaufwand zu den Gebührenordnungspositionen 31153, 31173, 31303 und 31333",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 32.87,
+        "valuation_in_points": 258
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31056 Zuschlag für zusätzlichen Hygieneaufwand zu den\nGebührenordnungspositionen 31153, 31173, 31303 und 31333"
+    },
+    {
+      "code": "31057",
+      "title": "Zuschlag für zusätzlichen Hygieneaufwand zu den Gebührenordnungspositionen 31174 und 31234",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 33.13,
+        "valuation_in_points": 260
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31057 Zuschlag für zusätzlichen Hygieneaufwand zu den\nGebührenordnungspositionen 31174 und 31234"
+    },
+    {
+      "code": "31058",
+      "title": "Zuschlag für zusätzlichen Hygieneaufwand zu der Gebührenordnungsposition 31191",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 33.63,
+        "valuation_in_points": 264
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31058 Zuschlag für zusätzlichen Hygieneaufwand zu der\nGebührenordnungsposition 31191"
+    },
+    {
+      "code": "31059",
+      "title": "Zuschlag für zusätzlichen Hygieneaufwand zu der Gebührenordnungsposition 31192",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 34.78,
+        "valuation_in_points": 273
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31059 Zuschlag für zusätzlichen Hygieneaufwand zu der\nGebührenordnungsposition 31192"
+    },
+    {
+      "code": "31060",
+      "title": "Zuschlag für zusätzlichen Hygieneaufwand zu der Gebührenordnungsposition 31126",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 35.16,
+        "valuation_in_points": 276
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31060 Zuschlag für zusätzlichen Hygieneaufwand zu der\nGebührenordnungsposition 31126"
+    },
+    {
+      "code": "31061",
+      "title": "Zuschlag für zusätzlichen Hygieneaufwand zu den Gebührenordnungspositionen 31115 und 31334",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 35.55,
+        "valuation_in_points": 279
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31061 Zuschlag für zusätzlichen Hygieneaufwand zu den\nGebührenordnungspositionen 31115 und 31334"
+    },
+    {
+      "code": "31062",
+      "title": "Zuschlag für zusätzlichen Hygieneaufwand zu der Gebührenordnungsposition 31162",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 37.33,
+        "valuation_in_points": 293
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31062 Zuschlag für zusätzlichen Hygieneaufwand zu der\nGebührenordnungsposition 31162"
+    },
+    {
+      "code": "31063",
+      "title": "Zuschlag für zusätzlichen Hygieneaufwand zu den Gebührenordnungspositionen 31106, 31116 und 31236",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 38.35,
+        "valuation_in_points": 301
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31063 Zuschlag für zusätzlichen Hygieneaufwand zu den\nGebührenordnungspositionen 31106, 31116 und 31236"
+    },
+    {
+      "code": "31064",
+      "title": "Zuschlag für zusätzlichen Hygieneaufwand zu den Gebührenordnungspositionen 31135, 31145, 31245, 31255, 31275",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 38.73,
+        "valuation_in_points": 304
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31064 Zuschlag für zusätzlichen Hygieneaufwand zu den\nGebührenordnungspositionen 31135, 31145, 31245, 31255, 31275\n31295, 31325 und 31335"
+    },
+    {
+      "code": "31065",
+      "title": "Zuschlag für zusätzlichen Hygieneaufwand zu der Gebührenordnungsposition 31253",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 39.37,
+        "valuation_in_points": 309
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31065 Zuschlag für zusätzlichen Hygieneaufwand zu der\nGebührenordnungsposition 31253"
+    },
+    {
+      "code": "31066",
+      "title": "Zuschlag für zusätzlichen Hygieneaufwand zu der Gebührenordnungsposition 31117",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 39.62,
+        "valuation_in_points": 311
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31066 Zuschlag für zusätzlichen Hygieneaufwand zu der\nGebührenordnungsposition 31117"
+    },
+    {
+      "code": "31067",
+      "title": "Zuschlag für zusätzlichen Hygieneaufwand zu den Gebührenordnungspositionen 31246 und 31276",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 41.41,
+        "valuation_in_points": 325
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31067 Zuschlag für zusätzlichen Hygieneaufwand zu den\nGebührenordnungspositionen 31246 und 31276"
+    },
+    {
+      "code": "31068",
+      "title": "Zuschlag für zusätzlichen Hygieneaufwand zu den Gebührenordnungspositionen 31163, 31193, 31203 und 31313",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 41.79,
+        "valuation_in_points": 328
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31068 Zuschlag für zusätzlichen Hygieneaufwand zu den\nGebührenordnungspositionen 31163, 31193, 31203 und 31313"
+    },
+    {
+      "code": "31069",
+      "title": "Zuschlag für zusätzlichen Hygieneaufwand zu den Gebührenordnungspositionen 31247 und 31277",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 42.68,
+        "valuation_in_points": 335
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31069 Zuschlag für zusätzlichen Hygieneaufwand zu den\nGebührenordnungspositionen 31247 und 31277"
+    },
+    {
+      "code": "31070",
+      "title": "Zuschlag für zusätzlichen Hygieneaufwand zu den Gebührenordnungspositionen 31136, 31224 und 31254",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 43.83,
+        "valuation_in_points": 344
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31070 Zuschlag für zusätzlichen Hygieneaufwand zu den\nGebührenordnungspositionen 31136, 31224 und 31254"
+    },
+    {
+      "code": "31071",
+      "title": "Zuschlag für zusätzlichen Hygieneaufwand zu den Gebührenordnungspositionen 31127 und 31137",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 45.1,
+        "valuation_in_points": 354
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31071 Zuschlag für zusätzlichen Hygieneaufwand zu den\nGebührenordnungspositionen 31127 und 31137"
+    },
+    {
+      "code": "31072",
+      "title": "Zuschlag für zusätzlichen Hygieneaufwand zu der Gebührenordnungsposition 31216",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 45.99,
+        "valuation_in_points": 361
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31072 Zuschlag für zusätzlichen Hygieneaufwand zu der\nGebührenordnungsposition 31216"
+    },
+    {
+      "code": "31073",
+      "title": "Zuschlag für zusätzlichen Hygieneaufwand zu den Gebührenordnungspositionen 31154, 31164, 31194, 31204, 31214",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 46.25,
+        "valuation_in_points": 363
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31073 Zuschlag für zusätzlichen Hygieneaufwand zu den\nGebührenordnungspositionen 31154, 31164, 31194, 31204, 31214\n31304 und 31314"
+    },
+    {
+      "code": "31074",
+      "title": "Zuschlag für zusätzlichen Hygieneaufwand zu den Gebührenordnungspositionen 31225, 31235 und 31285",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 57.08,
+        "valuation_in_points": 448
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31074 Zuschlag für zusätzlichen Hygieneaufwand zu den\nGebührenordnungspositionen 31225, 31235 und 31285"
+    },
+    {
+      "code": "31075",
+      "title": "Zuschlag für zusätzlichen Hygieneaufwand zu der Gebührenordnungsposition 31315",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 59.37,
+        "valuation_in_points": 466
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31075 Zuschlag für zusätzlichen Hygieneaufwand zu der\nGebührenordnungsposition 31315"
+    },
+    {
+      "code": "31076",
+      "title": "Zuschlag für zusätzlichen Hygieneaufwand zu den Gebührenordnungspositionen 31155, 31165, 31175, 31195, 31205",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 59.63,
+        "valuation_in_points": 468
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31076 Zuschlag für zusätzlichen Hygieneaufwand zu den\nGebührenordnungspositionen 31155, 31165, 31175, 31195, 31205\n31215 und 31305"
+    },
+    {
+      "code": "31077",
+      "title": "Zuschlag für zusätzlichen Hygieneaufwand zu den Gebührenordnungspositionen 31146, 31226, 31256 und 31286",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 61.66,
+        "valuation_in_points": 484
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31077 Zuschlag für zusätzlichen Hygieneaufwand zu den\nGebührenordnungspositionen 31146, 31226, 31256 und 31286"
+    },
+    {
+      "code": "31078",
+      "title": "Zuschlag für zusätzlichen Hygieneaufwand zu der Gebührenordnungsposition 31316",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 63.83,
+        "valuation_in_points": 501
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31078 Zuschlag für zusätzlichen Hygieneaufwand zu der\nGebührenordnungsposition 31316"
+    },
+    {
+      "code": "31079",
+      "title": "Zuschlag für zusätzlichen Hygieneaufwand zu den Gebührenordnungspositionen 31147, 31227 und 31237",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 63.96,
+        "valuation_in_points": 502
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31079 Zuschlag für zusätzlichen Hygieneaufwand zu den\nGebührenordnungspositionen 31147, 31227 und 31237"
+    },
+    {
+      "code": "31080",
+      "title": "Zuschlag für zusätzlichen Hygieneaufwand zu den Gebührenordnungspositionen 31156, 31166, 31176, 31196, 31206 und 31306",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 64.08,
+        "valuation_in_points": 503
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31080 Zuschlag für zusätzlichen Hygieneaufwand zu den\nGebührenordnungspositionen 31156, 31166, 31176, 31196, 31206\nund 31306"
+    },
+    {
+      "code": "31081",
+      "title": "Zuschlag für zusätzlichen Hygieneaufwand zu den Gebührenordnungspositionen 31197 und 31287",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 66.12,
+        "valuation_in_points": 519
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31081 Zuschlag für zusätzlichen Hygieneaufwand zu den\nGebührenordnungspositionen 31197 und 31287"
+    },
+    {
+      "code": "31082",
+      "title": "Zuschlag für zusätzlichen Hygieneaufwand zu den Gebührenordnungspositionen 31157, 31167, 31177, 31207, 31257 und 31307 31.2.20 Förderung der Ambulantisierung",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 66.38,
+        "valuation_in_points": 521
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31082 Zuschlag für zusätzlichen Hygieneaufwand zu den\nGebührenordnungspositionen 31157, 31167, 31177, 31207, 31257\nund 31307\n31.2.20 Förderung der Ambulantisierung"
+    },
+    {
+      "code": "31096",
+      "title": "Liposuktion bei Lipödem im Stadium III gemäß Nr. 32 der Anlage I \"Anerkannte Untersuchungs- oder Behandlungsmethoden\" der Richtlinie Methoden vertragsärztliche Versorgung des Gemeinsamen Bundesausschusses",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 769.14,
+        "valuation_in_points": 6037
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31096 Liposuktion bei Lipödem im Stadium III gemäß Nr. 32 der Anlage\nI \"Anerkannte Untersuchungs- oder Behandlungsmethoden\"\nder Richtlinie Methoden vertragsärztliche Versorgung des\nGemeinsamen Bundesausschusses\nObligater Leistungsinhalt\n- Eingriff der Kategorie AA6 entsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Gebührenordnungsposition\n31096 kann für die postoperative Überwachung die\nGebührenordnungsposition 31506, für die postoperative Behandlung die\nGebührenordnungsposition 31612 oder 31613 berechnet werden."
+    },
+    {
+      "code": "31097",
+      "title": "Liposuktion bei Lipödem im Stadium III gemäß Nr. 32 der Anlage I \"Anerkannte Untersuchungs- oder Behandlungsmethoden\" der Richtlinie Methoden vertragsärztliche Versorgung des Gemeinsamen Bundesausschusses",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 820.99,
+        "valuation_in_points": 6444
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31097 Liposuktion bei Lipödem im Stadium III gemäß Nr. 32 der Anlage\nI \"Anerkannte Untersuchungs- oder Behandlungsmethoden\"\nder Richtlinie Methoden vertragsärztliche Versorgung des\nGemeinsamen Bundesausschusses\nObligater Leistungsinhalt\n- Eingriff der Kategorie AA7 entsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Gebührenordnungsposition\n31097 kann für die postoperative Überwachung die\nGebührenordnungsposition 31507, für die postoperative Behandlung die\nGebührenordnungsposition 31612 oder 31613 berechnet werden."
+    },
+    {
+      "code": "31098",
+      "title": "Zuschlag zur Gebührenordnungsposition 31096 bei Simultaneingriffen sowie zur Gebührenordnungsposition 31097",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 77.97,
+        "valuation_in_points": 612
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31098 Zuschlag zur Gebührenordnungsposition 31096 bei\nSimultaneingriffen sowie zur Gebührenordnungsposition 31097\nObligater Leistungsinhalt\n- Schnitt-Naht-Zeit je weitere vollendete 15 Minuten\n- Nachweis der Schnitt-Naht-Zeit über das Anästhesieprotokoll oder\nden OP-Bericht\nje weitere vollendete 15 Minuten Schnitt-Naht-Zeit\nDie Gebührenordnungsposition 31098 kann entsprechend Anhang 2\nPräambel 2.1, Nr. 14 als Zuschlag zu anderen ambulanten Operationen\ndes Abschnitts 31.2 abgerechnet werden."
+    },
+    {
+      "code": "31101",
+      "title": "Dermatochirurgischer Eingriff der Kategorie A1",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 110.2,
+        "valuation_in_points": 865
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31101 Dermatochirurgischer Eingriff der Kategorie A1\nObligater Leistungsinhalt\n- Chirurgischer Eingriff an der Körperoberfläche der Kategorie A1\nentsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31101 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31502, für\ndie postoperative Behandlung die Gebührenordnungsposition 31601\noder 31602 berechnet werden."
+    },
+    {
+      "code": "31102",
+      "title": "Dermatochirurgischer Eingriff der Kategorie A2",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 180.02,
+        "valuation_in_points": 1413
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31102 Dermatochirurgischer Eingriff der Kategorie A2\nObligater Leistungsinhalt\n- Chirurgischer Eingriff an der Körperoberfläche der Kategorie A2\nentsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31102 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31503, für\ndie postoperative Behandlung die Gebührenordnungsposition 31608\noder 31609 berechnet werden."
+    },
+    {
+      "code": "31103",
+      "title": "Dermatochirurgischer Eingriff der Kategorie A3",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 267.17,
+        "valuation_in_points": 2097
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31103 Dermatochirurgischer Eingriff der Kategorie A3\nObligater Leistungsinhalt\n- Chirurgischer Eingriff an der Körperoberfläche der Kategorie A3\nentsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31103 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31504, für\ndie postoperative Behandlung die Gebührenordnungsposition 31608\noder 31609 berechnet werden."
+    },
+    {
+      "code": "31104",
+      "title": "Dermatochirurgischer Eingriff der Kategorie A4",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 367.05,
+        "valuation_in_points": 2881
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31104 Dermatochirurgischer Eingriff der Kategorie A4\nObligater Leistungsinhalt\n- Chirurgischer Eingriff an der Körperoberfläche der Kategorie A4\nentsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31104 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31504, für\ndie postoperative Behandlung die Gebührenordnungsposition 31610\noder 31611 berechnet werden."
+    },
+    {
+      "code": "31105",
+      "title": "Dermatochirurgischer Eingriff der Kategorie A5",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 507.2,
+        "valuation_in_points": 3981
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31105 Dermatochirurgischer Eingriff der Kategorie A5\nObligater Leistungsinhalt\n- Chirurgischer Eingriff an der Körperoberfläche der Kategorie A5\nentsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31105 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31505, für\ndie postoperative Behandlung die Gebührenordnungsposition 31610\noder 31611 berechnet werden."
+    },
+    {
+      "code": "31106",
+      "title": "Dermatochirurgischer Eingriff der Kategorie A6",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 678.55,
+        "valuation_in_points": 5326
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31106 Dermatochirurgischer Eingriff der Kategorie A6\nObligater Leistungsinhalt\n- Chirurgischer Eingriff an der Körperoberfläche der Kategorie A6\nentsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31106 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31506, für\ndie postoperative Behandlung die Gebührenordnungsposition 31612\noder 31613 berechnet werden."
+    },
+    {
+      "code": "31107",
+      "title": "Dermatochirurgischer Eingriff der Kategorie A7",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 829.27,
+        "valuation_in_points": 6509
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31107 Dermatochirurgischer Eingriff der Kategorie A7\nObligater Leistungsinhalt\n- Chirurgischer Eingriff an der Körperoberfläche der Kategorie A7\nentsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31107 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31507, für\ndie postoperative Behandlung die Gebührenordnungsposition 31612\noder 31613 berechnet werden."
+    },
+    {
+      "code": "31108",
+      "title": "Zuschlag zu den Gebührenordnungspositionen 31101 bis 31106 bei Simultaneingriffen sowie zu der Gebührenordnungsposition 31107",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 81.54,
+        "valuation_in_points": 640
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31108 Zuschlag zu den Gebührenordnungspositionen 31101 bis 31106 bei\nSimultaneingriffen sowie zu der Gebührenordnungsposition 31107\nObligater Leistungsinhalt\n- Schnitt-Naht-Zeit je weitere vollendete 15 Minuten\n- Nachweis der Schnitt-Naht-Zeit über das Anästhesieprotokoll oder\nden OP-Bericht\nje weitere vollendete 15 Minuten Schnitt-Naht-Zeit\nDie Gebührenordnungsposition 31108 kann entsprechend Anhang 2\nPräambel 2.1, Nr. 14 als Zuschlag zu anderen ambulanten Operationen\ndes Abschnitts 31.2 abgerechnet werden."
+    },
+    {
+      "code": "31111",
+      "title": "Eingriff an der Brustdrüse der Kategorie B1",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 119.89,
+        "valuation_in_points": 941
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31111 Eingriff an der Brustdrüse der Kategorie B1\nObligater Leistungsinhalt\n- Chirurgischer Eingriff an der Brustdrüse der Kategorie B1\nentsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31111 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31502, für\ndie postoperative Behandlung die Gebührenordnungsposition 31601\noder 31602 berechnet werden."
+    },
+    {
+      "code": "31112",
+      "title": "Eingriff an der Brustdrüse der Kategorie B2",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 195.31,
+        "valuation_in_points": 1533
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31112 Eingriff an der Brustdrüse der Kategorie B2\nObligater Leistungsinhalt\n- Chirurgischer Eingriff an der Brustdrüse der Kategorie B2\nentsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31112 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31503, für\ndie postoperative Behandlung die Gebührenordnungsposition 31608\noder 31609 berechnet werden."
+    },
+    {
+      "code": "31113",
+      "title": "Eingriff an der Brustdrüse der Kategorie B3",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 298.51,
+        "valuation_in_points": 2343
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31113 Eingriff an der Brustdrüse der Kategorie B3\nObligater Leistungsinhalt\n- Chirurgischer Eingriff an der Brustdrüse der Kategorie B3\nentsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31113 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31504, für\ndie postoperative Behandlung die Gebührenordnungsposition 31608\noder 31609 berechnet werden."
+    },
+    {
+      "code": "31114",
+      "title": "Eingriff an der Brustdrüse der Kategorie B4",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 403.74,
+        "valuation_in_points": 3169
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31114 Eingriff an der Brustdrüse der Kategorie B4\nObligater Leistungsinhalt\n- Chirurgischer Eingriff an der Brustdrüse der Kategorie B4\nentsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31114 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31504, für\ndie postoperative Behandlung die Gebührenordnungsposition 31610\noder 31611 berechnet werden."
+    },
+    {
+      "code": "31115",
+      "title": "Eingriff an der Brustdrüse der Kategorie B5",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 582.36,
+        "valuation_in_points": 4571
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31115 Eingriff an der Brustdrüse der Kategorie B5\nObligater Leistungsinhalt\n- Chirurgischer Eingriff an der Brustdrüse der Kategorie B5\nentsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31115 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31505, für\ndie postoperative Behandlung die Gebührenordnungsposition 31610\noder 31611 berechnet werden."
+    },
+    {
+      "code": "31116",
+      "title": "Eingriff an der Brustdrüse der Kategorie B6",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 773.47,
+        "valuation_in_points": 6071
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31116 Eingriff an der Brustdrüse der Kategorie B6\nObligater Leistungsinhalt\n- Chirurgischer Eingriff an der Brustdrüse der Kategorie B6\nentsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31116 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31506, für\ndie postoperative Behandlung die Gebührenordnungsposition 31612\noder 31613 berechnet werden."
+    },
+    {
+      "code": "31117",
+      "title": "Eingriff an der Brustdrüse der Kategorie B7",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 918.33,
+        "valuation_in_points": 7208
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31117 Eingriff an der Brustdrüse der Kategorie B7\nObligater Leistungsinhalt\n- Chirurgischer Eingriff an der Brustdrüse der Kategorie B7\nentsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31117 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31507, für\ndie postoperative Behandlung die Gebührenordnungsposition 31612\noder 31613 berechnet werden."
+    },
+    {
+      "code": "31118",
+      "title": "Zuschlag zu den Gebührenordnungspositionen 31111 bis 31116 bei Simultaneingriffen sowie zur Gebührenordnungsposition 31117",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 92.11,
+        "valuation_in_points": 723
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31118 Zuschlag zu den Gebührenordnungspositionen 31111 bis 31116 bei\nSimultaneingriffen sowie zur Gebührenordnungsposition 31117\nObligater Leistungsinhalt\n- Schnitt-Naht-Zeit je weitere vollendete 15 Minuten\n- Nachweis der Schnitt-Naht-Zeit über das Anästhesieprotokoll oder\nden OP-Bericht\nje weitere vollendete 15 Minuten Schnitt-Naht-Zeit\nDie Gebührenordnungsposition 31118 kann entsprechend Anhang 2\nPräambel 2.1, Nr. 14 als Zuschlag zu anderen ambulanten Operationen\ndes Abschnitts 31.2 abgerechnet werden\n31.2.3 Definierte operative Eingriffe der Extremitätenchirurgie\nAbweichend von Nr. 2 der Präambel zu Anhang 2 kann bei Durchführung\nder Leistung: 'Exzision einzelner Lymphknoten und Lymphgefäße:\nLymphangiom oder Hygroma cysticum' (OPS:5-401.c) die Vergütung\ndurch Anrechnung der Gebührenordnungsposition 31121 (Schnitt-Naht-\nZeit bis 15 Minuten) und des Zuschlags nach der Nr. 31128 (jeweils\nvollendete 15 Minuten Schnitt-Naht-Zeit) bis zu der durch OP-Protokoll\noder Narkose-Protokoll nachgewiesenen Schnitt-Naht-Zeit erfolgen. Die\nBeschränkung der Schnitt-Naht-Zeit entsprechend Nr. 4 der Präambel\nzum Anhang 2 bleibt davon unberührt."
+    },
+    {
+      "code": "31121",
+      "title": "Eingriff der Kategorie C1",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 115.94,
+        "valuation_in_points": 910
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31121 Eingriff der Kategorie C1\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie C1 entsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31121 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31502, für\ndie postoperative Behandlung die Gebührenordnungsposition 31614\noder 31615 berechnet werden.\nIm Anschluss an Biopsien von Muskeln, Weichteilen und Nerven kann für\ndie postoperative Überwachung die Gebührenordnungsposition 31501\nberechnet werden."
+    },
+    {
+      "code": "31122",
+      "title": "Eingriff der Kategorie C2",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 188.56,
+        "valuation_in_points": 1480
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31122 Eingriff der Kategorie C2\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie C2 entsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31122 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31503, für\ndie postoperative Behandlung die Gebührenordnungsposition 31614\noder 31615 berechnet werden."
+    }
+  ]
+}

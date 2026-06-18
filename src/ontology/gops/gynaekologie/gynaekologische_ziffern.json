@@ -1,0 +1,879 @@
+{
+  "gops": [
+    {
+      "code": "08210",
+      "title": "Grundpauschale für Versicherte bis zum vollendeten 5. Lebensjahr",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 14.4,
+        "valuation_in_points": 113
+      },
+      "mandatory_services": "- Persönlicher Arzt-Patienten-Kontakt und/oder Arzt-Patienten-Kontakt im Rahmen einer Videosprechstunde gemäß Anlage 31b zum BMV-Ä.",
+      "facultative_services": "- Weitere persönliche oder andere Arzt-Patienten-Kontakte gemäß 4.3.1 der Allgemeinen Bestimmungen.\n- Ärztlicher Bericht entsprechend der Gebührenordnungsposition 01600.\n- Individueller Arztbrief entsprechend der Gebührenordnungsposition 01601.\n- Untersuchung und Behandlung der Harninkontinenz.\n- Sterilitätsbehandlung mittels Gonadotropinstimulation und/oder Antiöstrogenen.\n- Diagnostik und Behandlung einer Patientin mit einer morphologischen Veränderung einer Hormondrüse und/oder mit einer laboratoriumsmedizinisch gesicherten Hormonüber- oder -unterfunktion.\n- In Anhang 1 aufgeführte Leistungen.",
+      "billing_info": "Einmal im Behandlungsfall. Die Gebührenordnungspositionen 08210 bis 08212 sind nicht neben der Gebührenordnungsposition 01436 berechnungsfähig. Die Gebührenordnungspositionen 08210 bis 08212 sind am Behandlungstag nicht neben der Gebührenordnungsposition 01828 berechnungsfähig. Die Gebührenordnungspositionen 08210 bis 08212 sind im Behandlungsfall nicht neben den Gebührenordnungspositionen 01600 und 01601 berechnungsfähig."
+    },
+    {
+      "code": "08211",
+      "title": "Grundpauschale für Versicherte ab Beginn des 6. bis zum vollendeten 59. Lebensjahr",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 18.73,
+        "valuation_in_points": 147
+      },
+      "mandatory_services": "- Persönlicher Arzt-Patienten-Kontakt und/oder Arzt-Patienten-Kontakt im Rahmen einer Videosprechstunde gemäß Anlage 31b zum BMV-Ä.",
+      "facultative_services": "- Weitere persönliche oder andere Arzt-Patienten-Kontakte gemäß 4.3.1 der Allgemeinen Bestimmungen.\n- Ärztlicher Bericht entsprechend der Gebührenordnungsposition 01600.\n- Individueller Arztbrief entsprechend der Gebührenordnungsposition 01601.\n- Untersuchung und Behandlung der Harninkontinenz.\n- Sterilitätsbehandlung mittels Gonadotropinstimulation und/oder Antiöstrogenen.\n- Diagnostik und Behandlung einer Patientin mit einer morphologischen Veränderung einer Hormondrüse und/oder mit einer laboratoriumsmedizinisch gesicherten Hormonüber- oder -unterfunktion.\n- In Anhang 1 aufgeführte Leistungen.",
+      "billing_info": "Einmal im Behandlungsfall. Die Gebührenordnungspositionen 08210 bis 08212 sind nicht neben der Gebührenordnungsposition 01436 berechnungsfähig. Die Gebührenordnungspositionen 08210 bis 08212 sind am Behandlungstag nicht neben der Gebührenordnungsposition 01828 berechnungsfähig. Die Gebührenordnungspositionen 08210 bis 08212 sind im Behandlungsfall nicht neben den Gebührenordnungspositionen 01600 und 01601 berechnungsfähig."
+    },
+    {
+      "code": "08212",
+      "title": "Grundpauschale für Versicherte ab Beginn des 60. Lebensjahres",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 19.24,
+        "valuation_in_points": 151
+      },
+      "mandatory_services": "- Persönlicher Arzt-Patienten-Kontakt und/oder Arzt-Patienten-Kontakt im Rahmen einer Videosprechstunde gemäß Anlage 31b zum BMV-Ä.",
+      "facultative_services": "- Weitere persönliche oder andere Arzt-Patienten-Kontakte gemäß 4.3.1 der Allgemeinen Bestimmungen.\n- Ärztlicher Bericht entsprechend der Gebührenordnungsposition 01600.\n- Individueller Arztbrief entsprechend der Gebührenordnungsposition 01601.\n- Untersuchung und Behandlung der Harninkontinenz.\n- Sterilitätsbehandlung mittels Gonadotropinstimulation und/oder Antiöstrogenen.\n- Diagnostik und Behandlung einer Patientin mit einer morphologischen Veränderung einer Hormondrüse und/oder mit einer laboratoriumsmedizinisch gesicherten Hormonüber- oder -unterfunktion.\n- In Anhang 1 aufgeführte Leistungen.",
+      "billing_info": "Einmal im Behandlungsfall. Die Gebührenordnungspositionen 08210 bis 08212 sind nicht neben der Gebührenordnungsposition 01436 berechnungsfähig. Die Gebührenordnungspositionen 08210 bis 08212 sind am Behandlungstag nicht neben der Gebührenordnungsposition 01828 berechnungsfähig. Die Gebührenordnungspositionen 08210 bis 08212 sind im Behandlungsfall nicht neben den Gebührenordnungspositionen 01600 und 01601 berechnungsfähig."
+    },
+    {
+      "code": "08215",
+      "title": "Hygienezuschlag zu den Gebührenordnungspositionen 08210 bis 08212",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 0.25,
+        "valuation_in_points": 2
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Einmal im Behandlungsfall. Die Gebührenordnungsposition 08215 wird durch die zuständige Kassenärztliche Vereinigung zugesetzt."
+    },
+    {
+      "code": "08220",
+      "title": "Zuschlag für die gynäkologische Grundversorgung gemäß Allgemeiner Bestimmung 4.3.8 zu den Gebührenordnungspositionen 08210 bis 08212",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 3.06,
+        "valuation_in_points": 24
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Einmal im Behandlungsfall. Der Zuschlag nach der Gebührenordnungsposition 08220 kann gemäß Allgemeiner Bestimmung 4.3.8 ausschließlich in Behandlungsfällen abgerechnet werden, in denen nur Leistungen der fachärztlichen Grundversorgung gemäß Anhang 3 und/oder regionaler Vereinbarungen erbracht und berechnet werden."
+    },
+    {
+      "code": "08222",
+      "title": "Zuschlag zu der Gebührenordnungsposition 08220",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 0.76,
+        "valuation_in_points": 6
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Einmal im Behandlungsfall. Die Gebührenordnungsposition 08222 wird durch die zuständige Kassenärztliche Vereinigung zugesetzt."
+    },
+    {
+      "code": "08227",
+      "title": "Zuschlag zu den Gebührenordnungspositionen 08210 bis 08212",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 0.25,
+        "valuation_in_points": 2
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Einmal im Behandlungsfall. Die Gebührenordnungsposition 08227 wird durch die zuständige Kassenärztliche Vereinigung zugesetzt. Die Gebührenordnungsposition 08227 ist im Behandlungsfall nicht neben der Gebührenordnungsposition 01630 berechnungsfähig."
+    },
+    {
+      "code": "08228",
+      "title": "Zuschlag zu den Gebührenordnungspositionen 08210 bis 08212 für die Behandlung aufgrund einer TSS-Vermittlung und/oder Vermittlung durch den Hausarzt gemäß Allgemeiner Bestimmung 4.3.10.1, 4.3.10.2 oder 4.3.10.3",
+      "valuation": {
+        "type": "categorized",
+        "category_type": "tss_or_hausarztvermittlung_interval_and_age",
+        "categories": [
+          {
+            "label": "TSS-Terminfall oder Hausarztvermittlung, gleicher bis 4. Kalendertag, bis zum vollendeten 5. Lebensjahr",
+            "valuation_in_euro": 14.4,
+            "valuation_in_points": 113
+          },
+          {
+            "label": "TSS-Terminfall oder Hausarztvermittlung, gleicher bis 4. Kalendertag, ab Beginn des 6. bis zum vollendeten 59. Lebensjahr",
+            "valuation_in_euro": 18.73,
+            "valuation_in_points": 147
+          },
+          {
+            "label": "TSS-Terminfall oder Hausarztvermittlung, gleicher bis 4. Kalendertag, ab Beginn des 60. Lebensjahres",
+            "valuation_in_euro": 19.24,
+            "valuation_in_points": 151
+          },
+          {
+            "label": "TSS-Terminfall, 5. bis 14. Kalendertag, bis zum vollendeten 5. Lebensjahr",
+            "valuation_in_euro": 11.52,
+            "valuation_in_points": 90
+          },
+          {
+            "label": "TSS-Terminfall, 5. bis 14. Kalendertag, ab Beginn des 6. bis zum vollendeten 59. Lebensjahr",
+            "valuation_in_euro": 14.98,
+            "valuation_in_points": 118
+          },
+          {
+            "label": "TSS-Terminfall, 5. bis 14. Kalendertag, ab Beginn des 60. Lebensjahres",
+            "valuation_in_euro": 15.39,
+            "valuation_in_points": 121
+          },
+          {
+            "label": "TSS-Terminfall, 15. bis 35. Kalendertag, bis zum vollendeten 5. Lebensjahr",
+            "valuation_in_euro": 5.76,
+            "valuation_in_points": 45
+          },
+          {
+            "label": "TSS-Terminfall, 15. bis 35. Kalendertag, ab Beginn des 6. bis zum vollendeten 59. Lebensjahr",
+            "valuation_in_euro": 7.49,
+            "valuation_in_points": 59
+          },
+          {
+            "label": "TSS-Terminfall, 15. bis 35. Kalendertag, ab Beginn des 60. Lebensjahres",
+            "valuation_in_euro": 7.7,
+            "valuation_in_points": 60
+          },
+          {
+            "label": "TSS-Akutfall, bis zum vollendeten 5. Lebensjahr",
+            "valuation_in_euro": 28.8,
+            "valuation_in_points": 226
+          },
+          {
+            "label": "TSS-Akutfall, ab Beginn des 6. bis zum vollendeten 59. Lebensjahr",
+            "valuation_in_euro": 37.46,
+            "valuation_in_points": 294
+          },
+          {
+            "label": "TSS-Akutfall, ab Beginn des 60. Lebensjahres",
+            "valuation_in_euro": 38.48,
+            "valuation_in_points": 302
+          }
+        ]
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Einmal im Arztgruppenfall. Die Gebührenordnungsposition 08228 kann durch die zuständige Kassenärztliche Vereinigung zugesetzt werden. Die Gebührenordnungsposition 08228 ist im Arztgruppenfall nicht neben der Gebührenordnungsposition 01710 berechnungsfähig. Die strukturierten Bewertungen sind aus den altersbezogenen Bewertungen der Gebührenordnungspositionen 08210 bis 08212 und den Zuschlagsregelungen der Allgemeinen Bestimmung 4.3.10 abgeleitet."
+    },
+    {
+      "code": "08230",
+      "title": "Zuschlag zur Grundpauschale im Rahmen der Reproduktionsmedizin, bei denen die Gebührenordnungspositionen 08530, 08531, 08535, 08536, 08550, 08555, 08558 und/oder 08635 berechnet werden",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 26.5,
+        "valuation_in_points": 208
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Einmal im Behandlungsfall."
+    },
+    {
+      "code": "08231",
+      "title": "Zuschlag zur Grundpauschale im Rahmen der Geburtshilfe, bei denen Gebührenordnungspositionen des Abschnitts 8.4 berechnet werden",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 12.49,
+        "valuation_in_points": 98
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Einmal im Behandlungsfall."
+    },
+    {
+      "code": "08310",
+      "title": "Apparative Untersuchung einer Patientin mit Harninkontinenz",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 77.08,
+        "valuation_in_points": 605
+      },
+      "mandatory_services": "- Elektromanometrische Druckmessung der Blase und des Abdomens.\n- EMG.\n- Fortlaufende grafische Registrierung.\n- Messung des Abdominaldruckes.",
+      "facultative_services": "- Urethrozystoskopie (Nr. 08311).\n- Urethradruckprofilmessung mit fortlaufender Registrierung.\n- Physikalische Funktionsteste.",
+      "billing_info": "Einmal im Behandlungsfall. Die Gebührenordnungsposition 08310 ist nicht neben den Gebührenordnungspositionen 08311, 30420 und 30421 berechnungsfähig."
+    },
+    {
+      "code": "08311",
+      "title": "Urethro(-zysto)skopie",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 35.8,
+        "valuation_in_points": 281
+      },
+      "mandatory_services": "- Urethro(-zysto)skopie.\n- Patientenaufklärung zur Untersuchung und zu den möglichen therapeutischen Maßnahmen in derselben Sitzung, in angemessenem Zeitabstand vor dem Eingriff.\n- Information zum Ablauf der vorbereitenden Maßnahmen vor dem Eingriff und zu einer möglichen Sedierung und/oder Prämedikation.\n- Nachbeobachtung und -betreuung.",
+      "facultative_services": "- Prämedikation/Sedierung.\n- Lokalanästhesie.\n- Probeexzision(en).\n- Schlitzung des/der Harnleiterostiums/-ostien.\n- Fremdkörperentfernung aus der weiblichen Harnröhre unter urethroskopischer Sicht.",
+      "billing_info": "Die Gebührenordnungsposition 08311 ist nicht neben den Gebührenordnungspositionen 02300 bis 02302, 08310 und 26311 berechnungsfähig."
+    },
+    {
+      "code": "08312",
+      "title": "Zuschlag zu der Gebührenordnungsposition 08311 für die transurethrale Therapie mit Botulinumtoxin",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 35.93,
+        "valuation_in_points": 282
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Je vollendete 10 Minuten. Die Berechnung der Gebührenordnungsposition 08312 setzt eine Genehmigung der Kassenärztlichen Vereinigung voraus. Die Genehmigung wird erteilt, wenn jährlich gegenüber der zuständigen Kassenärztlichen Vereinigung die Teilnahme an von der jeweiligen Landesärztekammer anerkannten Fortbildungen zur Therapie von Blasenfunktionsstörungen im Umfang von insgesamt mindestens 8 CME-Punkten nachgewiesen wird. Die Gebührenordnungsposition 08312 ist je Sitzung höchstens fünfmal berechnungsfähig. Die Gebührenordnungsposition 08312 ist im Krankheitsfall höchstens fünfzehnmal berechnungsfähig. Die Gebührenordnungsposition 08312 ist nur bei erwachsenen Patienten mit idiopathischer überaktiver Blase mit den Symptomen Harninkontinenz, imperativer Harndrang und Pollakisurie, die auf Anticholinergika nur unzureichend angesprochen oder diese nicht vertragen haben und/oder bei Erwachsenen mit Harninkontinenz mit neurogener Detrusorhyperaktivität bei neurogener Blase infolge einer stabilen subzervikalen Rückenmarksverletzung oder Multipler Sklerose berechnungsfähig. Bei Berechnung des Zuschlags nach der Gebührenordnungsposition 08312 entfällt die Prüfzeit der in derselben Sitzung abgerechneten Gebührenordnungsposition 08311. Die Gebührenordnungsposition 08312 ist nicht neben der Gebührenordnungsposition 26316 berechnungsfähig."
+    },
+    {
+      "code": "08313",
+      "title": "Zuschlag zu der Gebührenordnungsposition 08312 für die Beobachtung eines Patienten im Anschluss an die transurethrale Therapie mit Botulinumtoxin",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 18.22,
+        "valuation_in_points": 143
+      },
+      "mandatory_services": "- Beobachtung für mindestens 30 Minuten.\n- Abschlussuntersuchung(en) durch den Arzt.",
+      "facultative_services": "- Infusion(en) (Nr. 02100).",
+      "billing_info": "Einmal am Behandlungstag. Die Gebührenordnungsposition 08313 ist höchstens dreimal im Krankheitsfall berechnungsfähig. Die Gebührenordnungsposition 08313 ist nicht neben den Gebührenordnungspositionen 02100 und 26317 berechnungsfähig."
+    },
+    {
+      "code": "08315",
+      "title": "Zytologische Untersuchung eines oder mehrerer speziell gefärbter Abstriche zur Diagnostik der hormonellen Funktion",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 3.44,
+        "valuation_in_points": 27
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Die Gebührenordnungsposition 08315 ist bei demselben Material nicht neben den Gebührenordnungspositionen 01762, 01763, 01766, 01767, 01826, 19310 und 19327 berechnungsfähig."
+    },
+    {
+      "code": "08320",
+      "title": "Stanzbiopsie(n) der Mamma unter Ultraschallsicht",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 50.32,
+        "valuation_in_points": 395
+      },
+      "mandatory_services": "- Stanzbiopsie(n) der Mamma.\n- Lokalanästhesie.\n- Mamma-Sonographie (Nr. 33041).\n- Veranlassung einer histologischen Untersuchung.",
+      "facultative_services": "- Optische Führungshilfe bei Sonographie (Nr. 33091).",
+      "billing_info": "Je Seite. Die Berechnung der Gebührenordnungsposition 08320 setzt eine Genehmigung der Kassenärztlichen Vereinigung nach der Ultraschall-Vereinbarung gemäß § 135 Abs. 2 SGB V voraus. Die Gebührenordnungsposition 08320 ist nicht neben den Gebührenordnungspositionen 02300 bis 02302, 02340, 02341, 02344, 33041, 33091 und 33092 berechnungsfähig."
+    },
+    {
+      "code": "08330",
+      "title": "Einlegen, Wechseln oder Entfernen eines Ringes oder Pessars, intrauterin oder vaginal, wegen einer Krankheit",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 7.9,
+        "valuation_in_points": 62
+      },
+      "mandatory_services": null,
+      "facultative_services": "- Lokalanästhesie.",
+      "billing_info": "Die Gebührenordnungsposition 08330 ist nicht neben den Gebührenordnungspositionen 01830 und 02300 bis 02302 berechnungsfähig."
+    },
+    {
+      "code": "08331",
+      "title": "Subkutane Applikation eines Depot-Kontrazeptivums, wegen einer Krankheit",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 7.9,
+        "valuation_in_points": 62
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Die Gebührenordnungsposition 08331 ist nicht neben den Gebührenordnungspositionen 01830 bis 01832, 02300 bis 02302, 02340, 02341 und 02344 berechnungsfähig."
+    },
+    {
+      "code": "08332",
+      "title": "Vaginoskopie bei einem Kind bis zum vollendeten 12. Lebensjahr oder bei Patientinnen mit Vaginalstenose",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 12.36,
+        "valuation_in_points": 97
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Die Gebührenordnungsposition 08332 ist nicht neben den Gebührenordnungspositionen 02300 bis 02302 berechnungsfähig."
+    },
+    {
+      "code": "08333",
+      "title": "Zusatzpauschale Prokto-/Rektoskopie",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 11.98,
+        "valuation_in_points": 94
+      },
+      "mandatory_services": "- Rektale Untersuchung.\n- Proktoskopie und/oder Rektoskopie.\n- Patientenaufklärung.\n- Information zum Ablauf der vorbereitenden Maßnahmen vor dem Eingriff und zu einer möglichen Sedierung und/oder Prämedikation.\n- Nachbeobachtung und -betreuung.",
+      "facultative_services": "- Prämedikation/Sedierung.",
+      "billing_info": "Die Gebührenordnungsposition 08333 ist nicht neben den Gebührenordnungspositionen 02300 bis 02302, 03331, 04331, 04516, 13257 und 30600 berechnungsfähig. Die Gebührenordnungsposition 08333 ist im Behandlungsfall nicht neben der Gebührenordnungsposition 13250 berechnungsfähig."
+    },
+    {
+      "code": "08334",
+      "title": "Zuschlag zu der Gebührenordnungsposition 08333 für die Polypentfernung(en)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 6.88,
+        "valuation_in_points": 54
+      },
+      "mandatory_services": "- Vollständige Entfernung eines oder mehrerer Polypen mittels Hochfrequenzdiathermieschlinge.\n- Veranlassung einer histologischen Untersuchung.",
+      "facultative_services": null,
+      "billing_info": "Die Gebührenordnungsposition 08334 ist nicht neben den Gebührenordnungspositionen 02300 bis 02302, 13260 und 30601 berechnungsfähig. Die Gebührenordnungsposition 08334 ist im Behandlungsfall nicht neben der Gebührenordnungsposition 13250 berechnungsfähig."
+    },
+    {
+      "code": "08340",
+      "title": "Gewinnung von Zellmaterial aus der Gebärmutterhöhle, einschl. Kosten",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 6.75,
+        "valuation_in_points": 53
+      },
+      "mandatory_services": "- Gewinnung von Zellmaterial aus der Gebärmutterhöhle.\n- Aufbereitung zur zytologischen Untersuchung.",
+      "facultative_services": null,
+      "billing_info": "Die Gebührenordnungsposition 08340 ist nicht neben den Gebührenordnungspositionen 02300 bis 02302 berechnungsfähig."
+    },
+    {
+      "code": "08341",
+      "title": "Prüfung der Eileiter auf Durchgängigkeit mittels sonographischer Kontrastmitteluntersuchung",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 14.01,
+        "valuation_in_points": 110
+      },
+      "mandatory_services": "- Prüfung der Eileiter auf Durchgängigkeit.\n- Bilddokumentation.\n- Sonographische Untersuchung.\n- Kontrastmitteleinbringung(en).",
+      "facultative_services": null,
+      "billing_info": "Einmal im Behandlungsfall. Die Berechnung der Gebührenordnungsposition 08341 setzt eine Genehmigung der Kassenärztlichen Vereinigung nach der Ultraschall-Vereinbarung gemäß § 135 Abs. 2 SGB V voraus. Die Gebührenordnungsposition 08341 ist nicht neben den Gebührenordnungspositionen 02300 bis 02302, 33042 bis 33044 und 33090 berechnungsfähig. Die Gebührenordnungsposition 08341 ist im Zyklusfall nicht neben den Gebührenordnungspositionen 33091 und 33092 berechnungsfähig."
+    },
+    {
+      "code": "08345",
+      "title": "Zusatzpauschale Behandlung und/oder Betreuung eines Patienten mit einer gesicherten onkologischen Erkrankung bei laufender onkologischer Therapie oder Betreuung im Rahmen der Nachsorge",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 24.33,
+        "valuation_in_points": 191
+      },
+      "mandatory_services": "- Behandlung und/oder Betreuung eines Patienten mit einer laboratoriumsmedizinisch oder histologisch/zytologisch gesicherten onkologischen Erkrankung.\n- Fortlaufende Beratung zum Umgang mit der onkologischen Erkrankung.\n- Verlaufskontrolle und Dokumentation des Therapieerfolges.\n- Erstellung, Überprüfung und Anpassung eines die onkologische Erkrankung begleitenden spezifischen Therapiekonzeptes unter Berücksichtigung individueller Faktoren.\n- Kontrolle und/oder Behandlung ggf. auftretender therapiebedingter Nebenwirkungen.\n- Planung und Koordination der komplementären Arznei-, Heil- und Hilfsmittelversorgung unter besonderer Berücksichtigung der gesicherten onkologischen Erkrankung.",
+      "facultative_services": "- Anleitung und Führung der Bezugs- und Betreuungsperson(en).\n- Fortlaufende Überprüfung des häuslichen, familiären und sozialen Umfelds im Hinblick auf die Grunderkrankung.\n- Konsiliarische Erörterung/Fachliche Beratung und regelmäßiger Informationsaustausch mit dem onkologisch verantwortlichen Arzt sowie mit weiteren mitbehandelnden Ärzten.\n- Überprüfung und Koordination supportiver Maßnahmen.\n- Einleitung und/oder Koordination der psychosozialen Betreuung des Patienten und seiner Familie und/oder Bezugs- und Betreuungsperson(en).\n- Ggf. Hinzuziehung komplementärer Dienste bzw. häuslicher Krankenpflege.",
+      "billing_info": "Einmal im Behandlungsfall. Die Gebührenordnungsposition 08345 ist nur bei mindestens einer der im Folgenden genannten Erkrankungen berechnungsfähig: Bösartige Neubildungen der Brustdrüse C50.-, der weiblichen Genitalorgane C51-C58, Bösartige Neubildungen sonstiger und ungenau bezeichneter Lokalisationen, Becken C76.3, Sekundäre und nicht näher bezeichnete bösartige Neubildungen C77-C80. Die Gebührenordnungsposition 08345 ist bei laufender medikamentöser, operativer und/oder strahlentherapeutischer Behandlung und/oder bei Betreuung im Rahmen der Nachsorge bis höchstens 2 Jahre nach Beendigung einer solchen Behandlung berechnungsfähig. Die Gebührenordnungsposition 08345 ist im Behandlungsfall nicht neben den Kostenpauschalen 86510, 86512, 86514, 86516, 86520 und 86522 gemäß Anhang 2 der Onkologie-Vereinbarung berechnungsfähig."
+    },
+    {
+      "code": "08347",
+      "title": "Erörterung der Besonderheiten des biomarkerbasierten Tests bei Patientinnen mit primärem Mammakarzinom gemäß Nr. 30 der Anlage I der Richtlinie Methoden vertragsärztliche Versorgung des Gemeinsamen Bundesausschusses",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 8.28,
+        "valuation_in_points": 65
+      },
+      "mandatory_services": "- Persönlicher Arzt-Patienten-Kontakt.\n- Überprüfung der Indikation oder Mitteilung und Erörterung des Testergebnisses.\n- Dauer mindestens 5 Minuten.",
+      "facultative_services": "- Ausgabe des Merkblattes gemäß Abschnitt B der Nr. 30 der Anlage I der Richtlinie Methoden vertragsärztliche Versorgung des Gemeinsamen Bundesausschusses.",
+      "billing_info": "Je vollendete 5 Minuten. Die Gebührenordnungsposition 08347 kann ausschließlich von Fachärzten für Frauenheilkunde und Geburtshilfe mit dem Schwerpunkt gynäkologische Onkologie, der Zusatzweiterbildung Medikamentöse Tumortherapie oder mit einer Genehmigung der Kassenärztlichen Vereinigung zur Teilnahme an der Onkologie-Vereinbarung bzw. an regionalen Onkologie-Vereinbarungen berechnet werden. Die Gebührenordnungsposition 08347 ist höchstens fünfmal im Krankheitsfall berechnungsfähig. Die Gebührenordnungsposition 08347 ist im Behandlungsfall nicht neben der Gebührenordnungsposition 13507 berechnungsfähig."
+    },
+    {
+      "code": "08410",
+      "title": "Verweilen im Gebärraum ohne Erbringung weiterer berechnungsfähiger Leistungen, wegen der Betreuung einer Geburt erforderlich",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 44.85,
+        "valuation_in_points": 352
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Je vollendete 30 Minuten. Die Gebührenordnungsposition 08410 ist nur bei belegärztlicher Behandlung berechnungsfähig. Die Gebührenordnungsposition 08410 ist nicht neben der Gebührenordnungsposition 01440 berechnungsfähig. Bei belegärztlicher Behandlung ist die Bewertung der Gebührenordnungspositionen 08410 bis 08416 mit dem Faktor 1,1869 zu multiplizieren."
+    },
+    {
+      "code": "08411",
+      "title": "Betreuung und Leitung einer Geburt",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 380.94,
+        "valuation_in_points": 2990
+      },
+      "mandatory_services": "- Erst- und Folgeuntersuchungen der Gebärenden.\n- Abschlussuntersuchung nach beendeter Geburt.",
+      "facultative_services": "- Kardiotokographische Leistungen während der Geburt.\n- Blutentnahmen beim Feten unter der Geburt.\n- Lösung des Eipols.\n- Dehnung des Muttermundes.\n- Intrazervikale Prostaglandinapplikation.\n- Eröffnung der Fruchtblase.\n- Naht eines oder mehrerer Zervixrisse(s).\n- Naht von Scheidenrissen.\n- Naht von Dammrissen.\n- Episiotomie.\n- Naht einer Episiotomie.",
+      "billing_info": "Bei belegärztlicher Behandlung ist die Bewertung der Gebührenordnungspositionen 08410 bis 08416 mit dem Faktor 1,1869 zu multiplizieren."
+    },
+    {
+      "code": "08412",
+      "title": "Zuschlag zu der Gebührenordnungsposition 08411 bei Leitung und Betreuung einer komplizierten Geburt",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 70.33,
+        "valuation_in_points": 552
+      },
+      "mandatory_services": "- Bei Beckenendlage und/oder Mehrlingsschwangerschaft und/oder bei Vakuum-Extraktion und/oder bei Entbindung durch Forceps.",
+      "facultative_services": null,
+      "billing_info": "Bei belegärztlicher Behandlung ist die Bewertung der Gebührenordnungspositionen 08410 bis 08416 mit dem Faktor 1,1869 zu multiplizieren."
+    },
+    {
+      "code": "08413",
+      "title": "Äußere Wendung",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 45.48,
+        "valuation_in_points": 357
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Je Sitzung. Die Gebührenordnungsposition 08413 ist nicht neben der Gebührenordnungsposition 08414 berechnungsfähig. Bei belegärztlicher Behandlung ist die Bewertung der Gebührenordnungspositionen 08410 bis 08416 mit dem Faktor 1,1869 zu multiplizieren."
+    },
+    {
+      "code": "08414",
+      "title": "Innere oder kombinierte Wendung",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 66.0,
+        "valuation_in_points": 518
+      },
+      "mandatory_services": "- Innere Wendung.\n- In Anästhesie und/oder Operationsbereitschaft.",
+      "facultative_services": null,
+      "billing_info": "Die Gebührenordnungsposition 08414 ist nicht neben der Gebührenordnungsposition 08413 berechnungsfähig. Bei belegärztlicher Behandlung ist die Bewertung der Gebührenordnungspositionen 08410 bis 08416 mit dem Faktor 1,1869 zu multiplizieren."
+    },
+    {
+      "code": "08415",
+      "title": "Zuschlag zur Gebührenordnungsposition 08411 bei Leitung und Betreuung einer Geburt bei Schnittentbindung",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 103.83,
+        "valuation_in_points": 815
+      },
+      "mandatory_services": "- Schnittentbindung.",
+      "facultative_services": "- Eingriffe an den Adnexen.\n- Instrumentelle Dilatation der Zervix.\n- Entfernung der Nachgeburt.\n- Entfernung von Nachgeburtsresten.",
+      "billing_info": "Die Gebührenordnungsposition 08415 ist nicht neben der Gebührenordnungsposition 08416 berechnungsfähig. Bei belegärztlicher Behandlung ist die Bewertung der Gebührenordnungspositionen 08410 bis 08416 mit dem Faktor 1,1869 zu multiplizieren."
+    },
+    {
+      "code": "08416",
+      "title": "Entfernung der Nachgeburt im Zusammenhang mit der Leistung entsprechend der Gebührenordnungsposition 08411",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 40.13,
+        "valuation_in_points": 315
+      },
+      "mandatory_services": "- Entfernung der Nachgeburt durch inneren Eingriff.\n- Entfernung von Nachgeburtsresten durch inneren Eingriff.",
+      "facultative_services": "- Abrasio.",
+      "billing_info": "Die Gebührenordnungsposition 08416 ist nicht neben der Gebührenordnungsposition 08415 berechnungsfähig. Bei belegärztlicher Behandlung ist die Bewertung der Gebührenordnungspositionen 08410 bis 08416 mit dem Faktor 1,1869 zu multiplizieren."
+    },
+    {
+      "code": "08510",
+      "title": "Erstellung eines Behandlungsplans gemäß § 27a Abs. 3 SGB V",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 8.54,
+        "valuation_in_points": 67
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Gemäß § 27a SGB V ist vor Beginn der Maßnahmen zur künstlichen Befruchtung der Krankenkasse ein Behandlungsplan zur Genehmigung vorzulegen."
+    },
+    {
+      "code": "08520",
+      "title": "Beratung des Ehepaares gemäß Nr. 16 der Richtlinien über künstliche Befruchtung",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 10.32,
+        "valuation_in_points": 81
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Einmal im Reproduktionsfall."
+    },
+    {
+      "code": "08521",
+      "title": "Beratung des Ehepaares gemäß Nr. 14 der Richtlinien über künstliche Befruchtung einschließlich einer Bescheinigung nach Nr. 15",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 14.14,
+        "valuation_in_points": 111
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Einmal im Reproduktionsfall. Die Gebührenordnungsposition 08521 ist im Behandlungsfall nicht neben den Gebührenordnungspositionen 35100 und 35110 berechnungsfähig. Die Gebührenordnungsposition 08521 ist im Zyklusfall nicht neben der Gebührenordnungsposition 08530 berechnungsfähig."
+    },
+    {
+      "code": "08530",
+      "title": "Intrazervikale, intrauterine oder intratubare homologe Insemination im Spontanzyklus gemäß Nr. 10.1 der Richtlinien über künstliche Befruchtung, ggf. nach Auslösen der Ovulation durch HCG-Gabe, ggf. nach Stimulation mit Antiöstrogenen",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 13.76,
+        "valuation_in_points": 108
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Einmal im Zyklusfall. Die Gebührenordnungsposition 08530 ist im Zyklusfall nicht neben den Gebührenordnungspositionen 08521, 08531, 08535, 08536, 08550, 08555 und 08558 berechnungsfähig."
+    },
+    {
+      "code": "08531",
+      "title": "Intrazervikale, intrauterine oder intratubare homologe Insemination nach hormoneller Stimulation gemäß Nr. 10.2 der Richtlinien über künstliche Befruchtung mit Gonadotropinen",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 24.72,
+        "valuation_in_points": 194
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Einmal im Zyklusfall. Die Gebührenordnungsposition 08531 ist im Zyklusfall nicht neben den Gebührenordnungspositionen 08530, 08535, 08536, 08550, 08555 und 08558 berechnungsfähig."
+    },
+    {
+      "code": "08535",
+      "title": "Stimulationsbehandlung zur In-Vitro-Fertilisation (IVF), Intracytoplasmatischen Spermieninjektion (ICSI) oder zum intratubaren Gametentransfer (GIFT)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 253.66,
+        "valuation_in_points": 1991
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Einmal im Zyklusfall. Die Gebührenordnungsposition 08535 ist im Zyklusfall nicht neben den Gebührenordnungspositionen 08530, 08531, 08536, 33042 bis 33044, 33081 und 33090 bis 33092 und nicht neben den Gebührenordnungspositionen des Kapitels 32, ausgenommen der Leistungen nach den Gebührenordnungspositionen 32575, 32614, 32618, 32660 und 32781, berechnungsfähig."
+    },
+    {
+      "code": "08536",
+      "title": "Hormonelle Vorbereitung des Endometriums gemäß Nummer 12.3 Buchstabe b bei medizinischer Indikation nach Nummer 11.5 Buchstabe b der Richtlinien über künstliche Befruchtung zur Durchführung einer extrakorporalen Befruchtung mittels intrazytoplasmatischer Spermieninjektion (ICSI)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 42.68,
+        "valuation_in_points": 335
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Einmal im Zyklusfall. Die Gebührenordnungsposition 08536 ist im Zyklusfall nicht neben den Gebührenordnungspositionen 08530, 08531, 08535, 08537 bis 08539, 08550, 08635, 33042 bis 33044, 33081 und 33090 bis 33092 und nicht neben den Gebührenordnungspositionen des Kapitels 32, ausgenommen der Leistungen nach den Gebührenordnungspositionen 32575, 32614, 32618, 32660 und 32781 berechnungsfähig."
+    },
+    {
+      "code": "08537",
+      "title": "Ultraschallgezielte und/oder laparoskopische Follikelpunktion zur intendierten Eizellentnahme im Zusammenhang mit Nr. 10.3, 10.4, und 10.5 der Richtlinien über künstliche Befruchtung",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 46.5,
+        "valuation_in_points": 365
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Einmal im Zyklusfall. Die Gebührenordnungsposition 08537 ist im Zyklusfall nicht neben den Gebührenordnungspositionen 08536, 33042 bis 33044, 33081 und 33090 bis 33092 berechnungsfähig."
+    },
+    {
+      "code": "08538",
+      "title": "Zuschlag zur Gebührenordnungsposition 08537 bei ambulanter Durchführung",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 56.95,
+        "valuation_in_points": 447
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Die Gebührenordnungsposition 08538 ist im Zyklusfall nicht neben der Gebührenordnungsposition 08536 berechnungsfähig."
+    },
+    {
+      "code": "08539",
+      "title": "Identifizierung von Eizelle(n) in der Follikelflüssigkeit und Beurteilung der Reifestadien der Eizelle(n), nach Durchführung einer ultraschallgezielten und/oder einer laparoskopischen Follikelpunktion entsprechend der Gebührenordnungsposition 08537",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 20.0,
+        "valuation_in_points": 157
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Einmal im Zyklusfall. Die Gebührenordnungsposition 08539 ist im Zyklusfall nur im Zusammenhang mit der Gebührenordnungsposition 08537 berechnungsfähig. Die Gebührenordnungsposition 08539 ist im Zyklusfall nicht neben der Gebührenordnungsposition 08536 berechnungsfähig."
+    },
+    {
+      "code": "08540",
+      "title": "Gewinnung und Untersuchung(en) des Spermas gemäß Nr. 12.2 der Richtlinien über künstliche Befruchtung, Aufbereitung und Kapazitation, ggf. einschl. laboratoriumsmedizinischer Untersuchung(en)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 21.4,
+        "valuation_in_points": 168
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Die Gebührenordnungsposition 08540 ist im Behandlungsfall nicht neben der Gebührenordnungsposition 32190 berechnungsfähig."
+    },
+    {
+      "code": "08550",
+      "title": "Extrakorporale Befruchtung mit natürlicher Eizell-Spermien-Interaktion (In-vitro-Fertilisation (IVF)), einschl. Kultivierung bis längstens zum Embryo-Transfer (ET) gemäß Nr. 10.3 der Richtlinien über künstliche Befruchtung",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 699.19,
+        "valuation_in_points": 5488
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Einschließlich aller zur Durchführung erforderlichen Leistungen im Zyklusfall außer den Maßnahmen nach Nr. 12.1, 12.2. und 12.6, einschließlich der Kosten für Nährmedien, einmal im Zyklusfall. Die Gebührenordnungsposition 08550 ist im Zyklusfall nicht neben den Gebührenordnungspositionen 08530, 08531, 08536, 08555, 33042 bis 33044, 33081 und 33090 bis 33092 und nicht neben den Gebührenordnungspositionen des Kapitels 32, ausgenommen der Leistungen nach den Gebührenordnungspositionen 32575, 32614, 32618, 32660 und 32781, berechnungsfähig."
+    },
+    {
+      "code": "08555",
+      "title": "Extrakorporale Befruchtung mittels intrazytoplasmatischer Spermieninjektion (ICSI), einschl. Kultivierung längstens bis zum Embryo-Transfer (ET) gemäß Nr. 10.5 der Richtlinien über künstliche Befruchtung",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 1156.06,
+        "valuation_in_points": 9074
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Einschließlich aller zur Durchführung erforderlichen Leistungen im Zyklusfall außer den Maßnahmen nach Nr. 12.1, 12.2 und 12.6, einschließlich der Kosten für Nährmedien, einmal im Zyklusfall. Die Gebührenordnungsposition 08555 ist im Zyklusfall nicht neben den Gebührenordnungspositionen 08530, 08531, 08550, 33042 bis 33044, 33081 und 33090 bis 33092 und nicht neben den Gebührenordnungspositionen des Kapitels 32, ausgenommen der Leistungen nach den Gebührenordnungspositionen 32575, 32614, 32618, 32660 und 32781, berechnungsfähig."
+    },
+    {
+      "code": "08558",
+      "title": "Embryo-Transfer (ET), ggf. als Zygotentransfer und/oder als intratubarer Embryo-Transfer (EIFT) oder intratubarer Gameten-Transfer (GIFT), einschl. der Kosten für Nährmedien und Transferkatheter",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 164.73,
+        "valuation_in_points": 1293
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Einmal im Zyklusfall. Die Gebührenordnungsposition 08558 ist mit Ausnahme der Abrechnung eines intratubaren Gameten-Transfers (GIFT) im Zyklusfall nur im Zusammenhang mit den Gebührenordnungspositionen 08550 oder 08555 berechnungsfähig. Die Gebührenordnungsposition 08558 ist im Zyklusfall nicht neben den Gebührenordnungspositionen 08530, 08531, 33042 bis 33044, 33081, 33090 und 33092 und nicht neben den Gebührenordnungspositionen des Kapitels 32, ausgenommen der Leistungen nach den Gebührenordnungspositionen 32575, 32614, 32618, 32660 und 32781, berechnungsfähig."
+    },
+    {
+      "code": "08575",
+      "title": "Humangenetische Beratung und Begutachtung im Zusammenhang mit einer Maßnahme nach Nr. 10.5 der Richtlinien über künstliche Befruchtung bei evidentem genetischen und/oder teratogenen Risiko",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 70.45,
+        "valuation_in_points": 553
+      },
+      "mandatory_services": "- Persönlicher Arzt-Patienten-Kontakt.\n- Detaillierte Erfassung und Analyse des Stammbaums über mindestens 3 Generationen.\n- Schriftliche humangenetische Beurteilung zu einem evidenten genetischen und/oder teratogenen Risiko.\n- Quantifizierung des Risikos durch Einbeziehung weitergehender Untersuchungen und/oder Berechnung individueller Wahrscheinlichkeiten und/oder Ermittlung genetisch bedingter Wiederholungsrisiken.",
+      "facultative_services": "- Körperliche Untersuchung.\n- Zusätzliche schriftliche Zusammenfassung für den oder die Begutachtete(n).\n- In mehreren Sitzungen.",
+      "billing_info": "Je vollendete 20 Minuten Arzt-Patienten-Kontaktzeit, bis zu sechsmal im Reproduktionsfall. Die Gebührenordnungsposition 08575 ist im Fall der Beratung gemäß der Richtlinie nur für einen der beiden Partner berechnungsfähig. Die Gebührenordnungsposition 08575 ist im Behandlungsfall nicht neben den Gebührenordnungspositionen 01794, 01841, 11230 und 11233 berechnungsfähig."
+    },
+    {
+      "code": "08576",
+      "title": "Zuschlag zu den Gebührenordnungspositionen 11351, 11352, 11502, 11503, 11506 und 11508 für Gemeinkosten und die wissenschaftliche ärztliche Beurteilung und Befundung im Zusammenhang mit einer Maßnahme nach Nr. 10.5 der Richtlinien über künstliche Befruchtung",
+      "valuation": {
+        "type": "categorized",
+        "category_type": "quarterly_volume",
+        "categories": [
+          {
+            "label": "bis einschließlich 1.300 Leistungen im Quartal",
+            "valuation_in_euro": 118.1,
+            "valuation_in_points": 927
+          },
+          {
+            "label": "ab der 1.301. Leistung im Quartal",
+            "valuation_in_euro": 94.55,
+            "valuation_in_points": 742
+          }
+        ]
+      },
+      "mandatory_services": "- Schriftlicher Befundbericht mit wissenschaftlich begründeter Beurteilung.\n- Dokumentation der nachgewiesenen Variante oder Mutation in einer öffentlich zugänglichen Datenbank, sofern diese Variante oder Mutation bisher nicht dokumentiert ist.",
+      "facultative_services": null,
+      "billing_info": "Einmal im Reproduktionsfall. Die Gebührenordnungspositionen 11351, 11352, 11502, 11503, 11506 und 11508, für die der Zuschlag nach der Gebührenordnungsposition 08576 berechnet wird, sind nach Maßgabe der Kassenärztlichen Vereinigung als Leistung der künstlichen Befruchtung zu kennzeichnen. Die Gebührenordnungsposition 08576 unterliegt einer Staffelung je Arzt in Abhängigkeit von der im Quartal erbrachten Anzahl der Leistungen gemäß der Gebührenordnungsposition 08576. Die Gebührenordnungsposition 08576 kann entgegen Nr. 4.4.2 der Allgemeinen Bestimmungen auch in einem Folgequartal berechnet werden. Die Gebührenordnungsposition 08576 ist im Behandlungsfall nicht neben den Gebührenordnungspositionen 01793 und 01842 berechnungsfähig. Die Gebührenordnungsposition 08576 ist im Krankheitsfall nicht neben der Gebührenordnungsposition 11302 berechnungsfähig."
+    },
+    {
+      "code": "08619",
+      "title": "Beratung gemäß § 4 Nr. 1 Kryo-RL",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 11.47,
+        "valuation_in_points": 90
+      },
+      "mandatory_services": "- Persönlicher Arzt-Patienten-Kontakt und/oder Arzt-Patienten-Kontakt im Rahmen einer Videosprechstunde gemäß Anlage 31b zum BMV-Ä.",
+      "facultative_services": "- Ausstellen einer Bescheinigung nach § 4 Nr. 1 Kryo-RL.",
+      "billing_info": "Einmal im Krankheitsfall. Bei Durchführung der Leistung im Rahmen einer Videosprechstunde ist dies durch Angabe einer bundeseinheitlich kodierten Zusatzkennzeichnung zu dokumentieren. Für die Abrechnung gelten die Anforderungen gemäß Anlage 31b zum BMV-Ä entsprechend."
+    },
+    {
+      "code": "08621",
+      "title": "Reproduktionsmedizinische Beratung und Aufklärung zur Kryokonservierung von Ei- oder Samenzellen oder von Hodengewebe und der dazugehörigen medizinischen Maßnahmen gemäß § 4 Nr. 2 Kryo-RL",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 16.31,
+        "valuation_in_points": 128
+      },
+      "mandatory_services": "- Persönlicher Arzt-Patienten-Kontakt und/oder Arzt-Patienten-Kontakt im Rahmen einer Videosprechstunde gemäß Anlage 31b zum BMV-Ä.\n- Dauer mindestens 10 Minuten.",
+      "facultative_services": null,
+      "billing_info": "Je vollendete 10 Minuten, höchstens zweimal im Krankheitsfall. Bei Durchführung der Leistung im Rahmen einer Videosprechstunde ist dies durch Angabe einer bundeseinheitlich kodierten Zusatzkennzeichnung zu dokumentieren. Für die Abrechnung gelten die Anforderungen gemäß Anlage 31b zum BMV-Ä entsprechend. Die dreimalige Berechnung der Gebührenordnungsposition 08621 im Krankheitsfall ist mit Begründung der medizinischen Notwendigkeit zulässig."
+    },
+    {
+      "code": "08622",
+      "title": "Reproduktionsmedizinische Beratung und Aufklärung im Zusammenhang mit § 5 Abs. 2 Nr. 3 Kryo-RL",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 16.31,
+        "valuation_in_points": 128
+      },
+      "mandatory_services": "- Persönlicher Arzt-Patienten-Kontakt und/oder Arzt-Patienten-Kontakt im Rahmen einer Videosprechstunde gemäß Anlage 31b zum BMV-Ä.\n- Dauer mindestens 10 Minuten.",
+      "facultative_services": null,
+      "billing_info": "Je vollendete 10 Minuten, höchstens dreimal im Krankheitsfall. Bei Durchführung der Leistung im Rahmen einer Videosprechstunde ist dies durch Angabe einer bundeseinheitlich kodierten Zusatzkennzeichnung zu dokumentieren. Für die Abrechnung gelten die Anforderungen gemäß Anlage 31b zum BMV-Ä entsprechend. Die viermalige Berechnung der Gebührenordnungsposition 08622 im Krankheitsfall ist mit Begründung der medizinischen Notwendigkeit zulässig."
+    },
+    {
+      "code": "08623",
+      "title": "Andrologische Beratung und Aufklärung zur Kryokonservierung und der dazugehörigen medizinischen Maßnahmen gemäß § 4 Nr. 2 Kryo-RL",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 11.47,
+        "valuation_in_points": 90
+      },
+      "mandatory_services": "- Persönlicher Arzt-Patienten-Kontakt und/oder Arzt-Patienten-Kontakt im Rahmen einer Videosprechstunde gemäß Anlage 31b zum BMV-Ä.",
+      "facultative_services": null,
+      "billing_info": "Einmal im Krankheitsfall. Bei Durchführung der Leistung im Rahmen einer Videosprechstunde ist dies durch Angabe einer bundeseinheitlich kodierten Zusatzkennzeichnung zu dokumentieren. Für die Abrechnung gelten die Anforderungen gemäß Anlage 31b zum BMV-Ä entsprechend."
+    },
+    {
+      "code": "08635",
+      "title": "Stimulationsbehandlung zur Kryokonservierung von Eizellen gemäß § 5 Absatz 2 Nr. 2 Kryo-RL",
+      "valuation": {
+        "type": "categorized",
+        "category_type": "cycle_count",
+        "categories": [
+          {
+            "label": "erste Stimulationsbehandlung im Zyklusfall",
+            "valuation_in_euro": 253.66,
+            "valuation_in_points": 1991
+          },
+          {
+            "label": "ab der zweiten Stimulationsbehandlung im Zyklusfall",
+            "valuation_in_euro": 242.19,
+            "valuation_in_points": 1901
+          }
+        ]
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Einmal im Zyklusfall. Die Gebührenordnungsposition 08635 ist im Zyklusfall mit medizinischer Begründung bis zu dreimal berechnungsfähig. Ab der zweiten Stimulationsbehandlung nach der Gebührenordnungsposition 08635 im Zyklusfall wird die Gebührenordnungsposition 08635 mit 1901 Punkten bewertet. Die Gebührenordnungsposition 08635 ist im Zyklusfall nicht neben den Gebührenordnungspositionen 08536, 33042 bis 33044, 33081 und 33090 bis 33092 und nicht neben den Gebührenordnungspositionen des Kapitels 32, ausgenommen der Leistungen nach den Gebührenordnungspositionen 32575, 32614, 32618, 32660 und 32781, berechnungsfähig."
+    },
+    {
+      "code": "08637",
+      "title": "Ultraschallgezielte und/oder laparoskopische Follikelpunktion zur intendierten Eizellentnahme im Zusammenhang mit der Kryokonservierung von Eizellen gemäß § 5 Absatz 2 Nr. 2 Kryo-RL",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 46.5,
+        "valuation_in_points": 365
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Die Gebührenordnungsposition 08637 ist im Zyklusfall nicht neben den Gebührenordnungspositionen 33042 bis 33044, 33081 und 33090 bis 33092 berechnungsfähig."
+    },
+    {
+      "code": "08638",
+      "title": "Zuschlag zur Gebührenordnungsposition 08637 bei ambulanter Durchführung der Follikelpunktion",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 56.95,
+        "valuation_in_points": 447
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": null
+    },
+    {
+      "code": "08639",
+      "title": "Identifizierung von Eizelle(n) in der Follikelflüssigkeit und Beurteilung der Reifestadien der Eizelle(n) zur Kryokonservierung, nach Durchführung einer ultraschallgezielten und/oder einer laparoskopischen Follikelpunktion entsprechend der Gebührenordnungsposition 08637 gemäß § 5 Absatz 2 Nr. 2 Kryo-RL",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 20.0,
+        "valuation_in_points": 157
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": null
+    },
+    {
+      "code": "08640",
+      "title": "Gewinnung, Untersuchung und Aufbereitung des Spermas zur Kryokonservierung, einschl. Spermiogramm zur Kryokonservierung gemäß § 5 Absatz 2 Nr. 3 Kryo-RL",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 21.4,
+        "valuation_in_points": 168
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Die Gebührenordnungsposition 08640 ist im Behandlungsfall nicht neben der Gebührenordnungsposition 32190 berechnungsfähig."
+    },
+    {
+      "code": "08641",
+      "title": "Aufbereiten und Untersuchung von Hodengewebe nach testikulärer Spermienextraktion zur Kryokonservierung gemäß § 5 Absatz 2 Nr. 4 Kryo-RL",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 30.83,
+        "valuation_in_points": 242
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Je Material, höchstens achtmal."
+    },
+    {
+      "code": "08642",
+      "title": "Aufbereiten und Untersuchung von Ovarialgewebe nach Entnahme zur Kryokonservierung gemäß § 5 Absatz 2 Nr. 3 Kryo-RL",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 154.16,
+        "valuation_in_points": 1210
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": null
+    },
+    {
+      "code": "08643",
+      "title": "Aufbereiten und Einfrieren von Ovarialgewebe gemäß § 5 Kryo-RL",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 157.22,
+        "valuation_in_points": 1234
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": null
+    },
+    {
+      "code": "08644",
+      "title": "Aufbereiten und Einfrieren von der/den Eizelle(n) gemäß § 5 Kryo-RL",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 167.15,
+        "valuation_in_points": 1312
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": null
+    },
+    {
+      "code": "08645",
+      "title": "Aufbereiten und Einfrieren von Samenzellen oder Hodengewebe gemäß § 5 Kryo-RL",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 125.75,
+        "valuation_in_points": 987
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": null
+    },
+    {
+      "code": "08646",
+      "title": "Auftauen und Aufbereiten von der/den Eizelle(n) gemäß § 5 Kryo-RL zwecks Herbeiführung einer Schwangerschaft gemäß den Richtlinien über künstliche Befruchtung des Gemeinsamen Bundesausschusses",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 74.4,
+        "valuation_in_points": 584
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": null
+    },
+    {
+      "code": "08647",
+      "title": "Auftauen und Aufbereiten von Samenzellen oder männlichem Keimzellgewebe gemäß § 5 Kryo-RL zwecks Herbeiführung einer Schwangerschaft gemäß den Richtlinien über künstliche Befruchtung des Gemeinsamen Bundesausschusses",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 48.92,
+        "valuation_in_points": 384
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": null
+    },
+    {
+      "code": "08648",
+      "title": "Spermienpräparation aus Hodengewebe nach testikulärer Spermienextraktion und Aufbereiten nach Kryokonservierung gemäß § 5 Kryo-RL zwecks Herbeiführung einer Schwangerschaft gemäß den Richtlinien über künstliche Befruchtung des Gemeinsamen Bundesausschusses",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 38.22,
+        "valuation_in_points": 300
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Je Material, höchstens achtmal."
+    },
+    {
+      "code": "08649",
+      "title": "Auftauen und Aufbereiten von Ovarialgewebe gemäß § 5 Kryo-RL zwecks Wiederherstellung der Empfängnisfähigkeit",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 111.61,
+        "valuation_in_points": 876
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Die Berechnung der Gebührenordnungsposition 08649 im Zusammenhang mit dem Auftauen und Aufbereiten von Ovarialgewebe zwecks Wiederherstellung der Empfängnisfähigkeit setzt eine reproduktionsmedizinische Beratung und Aufklärung gemäß der Gebührenordnungsposition 08622 im selben Krankheitsfall voraus."
+    }
+  ]
+}

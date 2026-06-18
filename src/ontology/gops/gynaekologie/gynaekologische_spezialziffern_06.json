@@ -1,0 +1,1204 @@
+{
+  "gops": [
+    {
+      "code": "32031",
+      "title": "Mikroskopische Untersuchung des Harns auf morphologische Bestandteile",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 0.25,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Bestandteile Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32032",
+      "title": "Bestimmung des pH-Wertes durch apparative Messung (außer im Harn)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 0.25,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Harn) Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32033",
+      "title": "Harnstreifentest auf mindestens fünf der folgenden Parameter: Eiweiß, Glukose, Erythrozyten, Leukozyten, Nitrit, pH-Wert, spezifisches Gewicht, Ketonkörper ggf. einschließlich Kontrolle auf Ascorbinsäure einschließlich visueller oder apparativer Auswertung",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 0.5,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Eiweiß, Glukose, Erythrozyten, Leukozyten, Nitrit, pH-Wert, spezifisches Gewicht, Ketonkörper ggf. einschließlich Kontrolle auf Ascorbinsäure einschließlich visueller oder apparativer Auswertung Die Gebührenordnungsposition 32033 ist nicht neben den Gebührenordnungspositionen 01732 und 32880 bis 32882 berechnungsfähig. Quantitative Bestimmung mit physikalischer oder chemischer Messung oder Zellzählung, gilt für die Gebührenordnungspositionen 32035 bis 32039, je Untersuchung Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32035",
+      "title": "Erythrozytenzählung",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 0.25,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32036",
+      "title": "Leukozytenzählung",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 0.25,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32037",
+      "title": "Thrombozytenzählung",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 0.25,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32038",
+      "title": "Hämoglobin",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 0.25,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32039",
+      "title": "Hämatokrit Werden in Akut- bzw. Notfällen Leistungen entsprechend der Gebührenordnungspositionen 32035 bis 32039 als Einzelbestimmungen im Eigenlabor erbracht, sind die Gebührenordnungspositionen 32035 bis 32039 einzeln berechnungsfähig.",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 0.25,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Werden in Akut- bzw. Notfällen Leistungen entsprechend der Gebührenordnungspositionen 32035 bis 32039 als Einzelbestimmungen im Eigenlabor erbracht, sind die Gebührenordnungspositionen 32035 bis 32039 einzeln berechnungsfähig. Die Gebührenordnungspositionen 32035 bis 32039 sind nicht neben den Gebührenordnungspositionen 32120, 32122 und 32125 berechnungsfähig. Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32041",
+      "title": "Qualitativer immunologischer Nachweis von Albumin im Stuhl",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 1.6,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Die Gebührenordnungsposition 32041 ist im Behandlungsfall nicht neben der Gebührenordnungsposition 40152 berechnungsfähig. Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32042",
+      "title": "Bestimmung der Blutkörperchensenkungsgeschwindigkeit 32.2.2 Mikroskopische Untersuchungen",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 0.25,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32.2.2 Mikroskopische Untersuchungen Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32045",
+      "title": "Mikroskopische Untersuchung eines Körpermaterials",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 0.25,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": "- Nativpräparat (z. B. Kalilauge-Präparat auf Pilze, Untersuchung auf Trichomonaden und Treponemen) und/oder\n- Nach einfacher Färbung (z. B. mit Methylenblau, Fuchsin, Laktophenolblau, Lugolscher Lösung)",
+      "facultative_services": "- Phasenkontrastdarstellung,\n- Dunkelfeld",
+      "billing_info": "Die Gebührenordnungsposition 32045 ist nicht neben der Gebührenordnungsposition 01827 berechnungsfähig. differenzierender Färbung, ggf. einschl. Zellzählung, gilt für die Gebührenordnungspositionen 32046, 32047 und 32050, je Untersuchung Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32046",
+      "title": "Fetal-Hämoglobin in Erythrozyten",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 0.4,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32047",
+      "title": "Retikulozytenzählung",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 0.4,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32050",
+      "title": "Mikroskopische Untersuchung eines Körpermaterials nach Gram- Färbung",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 0.4,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Färbung Die Gebührenordnungsposition 32047 ist nicht neben den Gebührenordnungspositionen 32120, 32122 und 32125 berechnungsfähig. Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32051",
+      "title": "Mikroskopische Differenzierung und Beurteilung aller korpuskulären Bestandteile des gefärbten Blutausstriches",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 0.4,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Bestandteile des gefärbten Blutausstriches Die Gebührenordnungsposition 32051 ist nicht neben den Gebührenordnungspositionen 32121 und 32122 berechnungsfähig. Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32052",
+      "title": "Quantitative Bestimmung(en) der morphologischen Bestandteile durch Kammerzählung der Zellen im Sammelharn, auch in mehreren Fraktionen innerhalb von 24 Stunden (Addis-Count) 32.2.3 Physikalische oder chemische Untersuchungen",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 0.25,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Kammerzählung der Zellen im Sammelharn, auch in mehreren Fraktionen innerhalb von 24 Stunden (Addis-Count) 32.2.3 Physikalische oder chemische Untersuchungen Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32055",
+      "title": "Quantitative Bestimmung eines Arzneimittels (z. B. Theophyllin, Antikonvulsiva, Herzglykoside) in einem Körpermaterial mittels trägergebundener (vorportionierter) Reagenzien und apparativer Messung (z. B. Reflexionsmessung)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 1.99,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Antikonvulsiva, Herzglykoside) in einem Körpermaterial mittels trägergebundener (vorportionierter) Reagenzien und apparativer Messung (z. B. Reflexionsmessung), je Untersuchung Quantitative Bestimmung von Substraten, Enzymaktivitäten oder Elektrolyten, auch mittels trägergebundener (vorportionierter) Reagenzien, gilt für die Gebührenordnungspositionen 32056 bis 32079 und 32081 bis 32087, je Untersuchung Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32056",
+      "title": "Gesamteiweiß",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 0.25,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32057",
+      "title": "Glukose",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 0.25,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32058",
+      "title": "Bilirubin gesamt",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 0.25,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32059",
+      "title": "Bilirubin direkt",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 0.4,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32060",
+      "title": "Cholesterin gesamt",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 0.25,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32061",
+      "title": "HDL-Cholesterin",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 0.25,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32062",
+      "title": "LDL-Cholesterin",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 0.25,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32063",
+      "title": "Triglyceride",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 0.25,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32064",
+      "title": "Harnsäure",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 0.25,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32065",
+      "title": "Harnstoff",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 0.25,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32066",
+      "title": "Kreatinin (Jaffé-Methode)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 0.25,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32067",
+      "title": "Kreatinin, enzymatisch",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 0.4,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32068",
+      "title": "Alkalische Phosphatase",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 0.25,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32069",
+      "title": "GOT",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 0.25,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32070",
+      "title": "GPT",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 0.25,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32071",
+      "title": "Gamma-GT",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 0.25,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32072",
+      "title": "Alpha-Amylase",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 0.4,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32073",
+      "title": "Lipase",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 0.4,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32074",
+      "title": "Creatinkinase (CK)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 0.25,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32075",
+      "title": "LDH",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 0.25,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32076",
+      "title": "GLDH",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 0.4,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32077",
+      "title": "HBDH",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 0.4,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32078",
+      "title": "Cholinesterase",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 0.4,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32079",
+      "title": "Saure Phosphatase",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 0.25,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32081",
+      "title": "Kalium",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 0.25,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32082",
+      "title": "Calcium",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 0.25,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32083",
+      "title": "Natrium",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 0.25,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32084",
+      "title": "Chlorid",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 0.25,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32085",
+      "title": "Eisen",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 0.25,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32086",
+      "title": "Phosphor anorganisch",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 0.4,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32087",
+      "title": "Lithium",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 0.58,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Die Gebührenordnungsposition 32057 ist nicht neben den Gebührenordnungspositionen 01732, 32025, 32125 und 32880 bis 32882 berechnungsfähig. Die Gebührenordnungspositionen 32060 bis 32063 sind nicht neben den Gebührenordnungspositionen 01732 und 32880 bis 32882 berechnungsfähig. Die Gebührenordnungspositionen 32066 und 32067 sind nicht neben den Gebührenordnungspositionen 01930 und 32125 berechnungsfähig. Die Gebührenordnungspositionen 32071 und 32081 sind nicht neben der Gebührenordnungsposition 32125 berechnungsfähig. Die Gebührenordnungsposition 32074 ist nicht neben der Gebührenordnungsposition 32150 berechnungsfähig. Die Gebührenordnungsposition 32057 ist am Behandlungstag nicht neben der Gebührenordnungsposition 01812 berechnungsfähig. Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32089",
+      "title": "Zuschlag zu den Gebührenordnungspositionen 32057, 32064, 32065 oder 32066 oder 32067, 32069, 32070, 32072 oder 32073, 32074, 32081, 32082 und 32083 bei Erbringung mittels trägergebundener (vorportionierter) Reagenzien im Labor innerhalb der eigenen Arztpraxis als Einzelbestimmung(en)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 0.78,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "oder 32066 oder 32067, 32069, 32070, 32072 oder 32073, 32074, 32081, 32082 und 32083 bei Erbringung mittels trägergebundener (vorportionierter) Reagenzien im Labor innerhalb der eigenen Arztpraxis als Einzelbestimmung(en), je Leistung Die Gebührenordnungsposition 32089 ist nicht berechnungsfähig bei Bezug der Analyse aus Laborgemeinschaften oder bei Erbringung mit Analysensystemen, die für Serien mit hoher Probenzahl bestimmt sind, z. B. Systeme mit mechanisierter Probenverteilung und/ oder programmierten Analysen mehrerer Messgrößen in einem Untersuchungsablauf. Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32092",
+      "title": "Quantitative Bestimmung CK-MB",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 1.12,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Die Gebührenordnungsposition 32092 ist nicht neben der Gebührenordnungsposition 32150 berechnungsfähig. Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32094",
+      "title": "Quantitative Bestimmung von HbA1c",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 2.67,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32097",
+      "title": "Quantitative Bestimmung des/der natriuretischen Peptides/Peptide BNP und/oder NT-Pro-BNP und/oder MR-Pro-ANP",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 11.9,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "BNP und/oder NT-Pro-BNP und/oder MR-Pro-ANP, je Untersuchung Die Gebührenordnungsposition 32097 ist nur bei Erbringung und Qualitätssicherung in eigener Praxis oder bei Überweisung berechnungsfähig. Die Gebührenordnungsposition 32097 ist nicht bei Bezug der Analyse aus Laborgemeinschaften berechnungsfähig. Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32101",
+      "title": "Quantitative Bestimmung von Thyrotropin (TSH)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 2.39,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "je Untersuchung Quantitative immunochemische Bestimmung im Serum, gilt für die Gebührenordnungspositionen 32103 bis 32106, je Untersuchung Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32103",
+      "title": "Immunglobulin A (Gesamt-IgA)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 0.58,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32104",
+      "title": "Immunglobulin G (Gesamt-IgG)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 0.58,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32105",
+      "title": "Immunglobulin M (Gesamt-IgM)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 0.58,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32106",
+      "title": "Transferrin",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 0.58,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32107",
+      "title": "Elektrophoretische Trennung von Proteinen oder Lipoproteinen im Serum mit quantitativer Auswertung der Fraktionen und graphischer Darstellung 32.2.4 Gerinnungsuntersuchungen Untersuchungen zur Abklärung einer plasmatischen Gerinnungsstörung oder zur Verlaufskontrolle bei Antikoagulantientherapie, gilt für die Gebührenordnungspositionen 32110 bis 32117",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 0.73,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Serum mit quantitativer Auswertung der Fraktionen und graphischer Darstellung 32.2.4 Gerinnungsuntersuchungen Untersuchungen zur Abklärung einer plasmatischen Gerinnungsstörung oder zur Verlaufskontrolle bei Antikoagulantientherapie, gilt für die Gebührenordnungspositionen 32110 bis 32117, je Untersuchung Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32110",
+      "title": "Blutungszeit (standardisiert)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 0.73,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32111",
+      "title": "Rekalzifizierungszeit",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 0.73,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32112",
+      "title": "Partielle Thromboplastinzeit (PTT)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 0.58,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32113",
+      "title": "Thromboplastinzeit (TPZ) aus Plasma",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 0.58,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32114",
+      "title": "Thromboplastinzeit (TPZ) aus Kapillarblut",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 0.73,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32115",
+      "title": "Thrombingerinnungszeit (TZ)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 0.73,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32116",
+      "title": "Fibrinogenbestimmung",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 0.73,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32117",
+      "title": "Qualitativer Nachweis von Fibrinmonomeren, Fibrin- und/oder Fibrinogen-Spaltprodukten (z. B. D-Dimere) Der Höchstwert für die Untersuchungen entsprechend der Gebührenordnungspositionen 32110 bis 32116 beträgt 1,55 EURO.",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 4.46,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Fibrinogen-Spaltprodukten (z. B. D-Dimere) Der Höchstwert für die Untersuchungen entsprechend der Gebührenordnungspositionen 32110 bis 32116 beträgt 1,55 EURO. Die Gebührenordnungspositionen 32113 und 32114 sind nicht neben der Gebührenordnungsposition 32026 berechnungsfähig. Die Gebührenordnungsposition 32117 ist nicht neben der Gebührenordnungsposition 32027 berechnungsfähig. Die Gebührenordnungspositionen 32110 bis 32117 sind am Behandlungstag nicht neben der Gebührenordnungsposition 01741 berechnungsfähig. 32.2.5 Funktions- und Komplexuntersuchungen Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32120",
+      "title": "Bestimmung von mindestens zwei der folgenden Parameter: Erythrozytenzahl, Leukozytenzahl (ggf. einschl. orientierender Differenzierung), Thrombozytenzahl, Hämoglobin, Hämatokrit, mechanisierte Retikulozytenzählung, insgesamt",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 0.5,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Erythrozytenzahl, Leukozytenzahl (ggf. einschl. orientierender Differenzierung), Thrombozytenzahl, Hämoglobin, Hämatokrit, mechanisierte Retikulozytenzählung, insgesamt Die Gebührenordnungsposition 32120 ist nicht neben den Gebührenordnungspositionen 32035 bis 32039, 32047, 32122 und 32125 berechnungsfähig. Die Gebührenordnungsposition 32120 ist am Behandlungstag nicht neben der Gebührenordnungsposition 01741 berechnungsfähig. Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32121",
+      "title": "Mechanisierte Zählung der Neutrophilen, Eosinophilen, Basophilen, Lymphozyten und Monozyten, insgesamt",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 0.58,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Lymphozyten und Monozyten, insgesamt Die Gebührenordnungsposition 32121 ist nicht neben den Gebührenordnungspositionen 32051 und 32122 berechnungsfähig. Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32122",
+      "title": "Vollständiger Blutstatus mittels automatisierter Verfahren",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 1.07,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": "- Hämoglobin,\n- Hämatokrit,\n- Erythrozytenzählung,\n- Leukozytenzählung,\n- Thrombozytenzählung,\n- Mechanisierte Zählung der Neutrophilen, Eosinophilen, Basophilen, Lymphozyten und Monozyten",
+      "facultative_services": "- Mechanisierte Zählung der Retikulozyten,\n- Bestimmung weiterer hämatologischer Kenngrössen",
+      "billing_info": "Die Gebührenordnungsposition 32122 ist nicht neben den Gebührenordnungspositionen 32035 bis 32039, 32047, 32051, 32120, 32121 und 32125 berechnungsfähig. Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32123",
+      "title": "Zuschlag zu den Gebührenordnungspositionen 32121 oder 32122 bei nachfolgender mikroskopischer Differenzierung und Beurteilung aller korpuskulären Bestandteile des gefärbten Blutausstriches",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 0.4,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "bei nachfolgender mikroskopischer Differenzierung und Beurteilung aller korpuskulären Bestandteile des gefärbten Blutausstriches Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32124",
+      "title": "Bestimmung der endogenen Kreatininclearance",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 0.78,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Die Gebührenordnungsposition 32124 ist nicht neben der Gebührenordnungsposition 32197 berechnungsfähig. Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32125",
+      "title": "Bestimmung von mindestens sechs der folgenden Parameter: Erythrozyten, Leukozyten, Thrombozyten, Hämoglobin, Hämatokrit, Kalium, Glukose im Blut, Kreatinin, Gamma-GT vor Eingriffen in Narkose oder in rückenmarksnaher Regionalanästhesie (spinal, peridural)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 1.41,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Erythrozyten, Leukozyten, Thrombozyten, Hämoglobin, Hämatokrit, Kalium, Glukose im Blut, Kreatinin, Gamma-GT vor Eingriffen in Narkose oder in rückenmarksnaher Regionalanästhesie (spinal, peridural) Die Gebührenordnungsposition 32125 ist nicht neben den Gebührenordnungspositionen 32035 bis 32039, 32047, 32057, 32066, 32067, 32071, 32081, 32120 und 32122 berechnungsfähig. 32.2.6 Immunologische Untersuchungen und Untersuchungen auf Drogen Immunologischer oder gleichwertiger chemischer Nachweis, ggf. einschl. mehrerer Probenverdünnungen, gilt für die Gebührenordnungspositionen 32128 und 32130 bis 32136, je Untersuchung Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32128",
+      "title": "C-reaktives Protein",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 1.12,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32130",
+      "title": "Streptolysin O-Antikörper (Antistreptolysin)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 1.12,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32131",
+      "title": "Gesamt-IgM beim Neugeborenen",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 2.09,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32132",
+      "title": "Schwangerschaftsnachweis",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 1.3,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32133",
+      "title": "Mononucleose-Test",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 1.99,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32134",
+      "title": "Myoglobin",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 2.91,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32135",
+      "title": "Mikroalbuminurie-Nachweis",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 1.55,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32136",
+      "title": "Alpha-1-Mikroglobulinurie-Nachweis",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 1.79,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Die Gebührenordnungsposition 32134 ist nicht neben der Gebührenordnungsposition 32150 berechnungsfähig. Drogensuchtest unter Verwendung eines vorgefertigten Reagenzträgers, gilt für Gebührenordnungspositionen 32137 und 32140 bis 32147 je Substanz und/oder Substanzgruppe Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32137",
+      "title": "Buprenorphinhydrochlorid",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 3.05,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32140",
+      "title": "Amphetamin/Metamphetamin",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 3.05,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32141",
+      "title": "Barbiturate",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 2.96,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32142",
+      "title": "Benzodiazepine",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 3.05,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32143",
+      "title": "Cannabinoide (THC)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 3.05,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32144",
+      "title": "Kokain",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 3.05,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32145",
+      "title": "Methadon",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 3.05,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32146",
+      "title": "Opiate (Morphin)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 3.05,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32147",
+      "title": "Phencyclidin (PCP)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 2.96,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Die Gebührenordnungspositionen 32137 und 32140 bis 32147 sind nicht neben der Gebührenordnungsposition 32292 berechnungsfähig. Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32148",
+      "title": "Quantitative Alkohol-Bestimmung in der Atemluft mit apparativer Messung, z. B. elektrochemisch, im Rahmen der substitutionsgestützten Behandlung Opioidabhängiger gemäß Nr. 2 Anlage I \"Anerkannte Untersuchungs- oder Behandlungsmethoden\" der Richtlinie Methoden vertragsärztliche Versorgung des Gemeinsamen Bundesausschusses Der Höchstwert im Behandlungsfall für die Untersuchungen entsprechend der Gebührenordnungspositionen 32137 und 32140 bis 32148 beträgt im ersten und zweiten Quartal der substitutionsgestützten Behandlung Opioidabhängiger gemäß Nr. 2 Anlage I \"Anerkannte Untersuchungs- oder Behandlungsmethoden\" der Richtlinie Methoden vertragsärztliche Versorgung des Gemeinsamen Bundesausschusses 125,00 EURO. Der Höchstwert im Behandlungsfall für die Untersuchungen entsprechend der Gebührenordnungspositionen 32137 und 32140 bis 32148 beträgt ab dem dritten Quartal oder außerhalb der substitutionsgestützten Behandlung Opioidabhängiger gemäß Nr. 2 Anlage I \"Anerkannte Untersuchungs- oder Behandlungsmethoden\" der Richtlinie Methoden vertragsärztliche Versorgung des Gemeinsamen Bundesausschusses 64,00 EURO.",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 1.0,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "apparativer Messung, z. B. elektrochemisch, im Rahmen der substitutionsgestützten Behandlung Opioidabhängiger gemäß Nr. 2 Anlage I \"Anerkannte Untersuchungs- oder Behandlungsmethoden\" der Richtlinie Methoden vertragsärztliche Versorgung des Gemeinsamen Bundesausschusses Der Höchstwert im Behandlungsfall für die Untersuchungen entsprechend der Gebührenordnungspositionen 32137 und 32140 bis 32148 beträgt im ersten und zweiten Quartal der substitutionsgestützten Behandlung Opioidabhängiger gemäß Nr. 2 Anlage I \"Anerkannte Untersuchungs- oder Behandlungsmethoden\" der Richtlinie Methoden vertragsärztliche Versorgung des Gemeinsamen Bundesausschusses 125,00 EURO. Der Höchstwert im Behandlungsfall für die Untersuchungen entsprechend der Gebührenordnungspositionen 32137 und 32140 bis 32148 beträgt ab dem dritten Quartal oder außerhalb der substitutionsgestützten Behandlung Opioidabhängiger gemäß Nr. 2 Anlage I \"Anerkannte Untersuchungs- oder Behandlungsmethoden\" der Richtlinie Methoden vertragsärztliche Versorgung des Gemeinsamen Bundesausschusses 64,00 EURO. Die Gebührenordnungsposition 32148 ist am Behandlungstag nicht neben der Gebührenordnungsposition 01955 berechnungsfähig. Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32150",
+      "title": "Immunologischer Nachweis von Troponin I und/oder Troponin T auf einem vorgefertigten Reagenzträger bei akutem koronaren Syndrom (ACS), ggf. einschl. apparativer quantitativer Auswertung Die Untersuchung entsprechend der Gebührenordnungsposition 32150 sollte bei Verdacht einer Myokardschädigung nur dann durchgeführt werden, wenn der Beginn der klinischen Symptomatik länger als 3 Stunden zurückliegt und die Entscheidung über das Vorgehen bei dem Patienten aufgrund der typischen Symptomatik und eines typischen EKG-Befundes nicht getroffen werden kann.",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 11.25,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "einem vorgefertigten Reagenzträger bei akutem koronaren Syndrom (ACS), ggf. einschl. apparativer quantitativer Auswertung Die Untersuchung entsprechend der Gebührenordnungsposition 32150 sollte bei Verdacht einer Myokardschädigung nur dann durchgeführt werden, wenn der Beginn der klinischen Symptomatik länger als 3 Stunden zurückliegt und die Entscheidung über das Vorgehen bei dem Patienten aufgrund der typischen Symptomatik und eines typischen EKG-Befundes nicht getroffen werden kann. Die Gebührenordnungsposition 32150 ist nicht neben den Gebührenordnungspositionen 32074, 32092, 32134 und 32450 berechnungsfähig. 32.2.7 Mikrobiologische Untersuchungen Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32151",
+      "title": "Kulturelle bakteriologische und/oder mykologische Untersuchung",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 1.12,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": "- Kulturelle bakteriologische Untersuchung und/oder\n- Kulturelle mykologische Untersuchung,\n- Verwendung eines\n- Standardnährbodens und/oder\n- Trägers mit einem oder mehreren vorgefertigten Nährböden (z. B. Eintauchnährböden)",
+      "facultative_services": "- Nachweis antimikrobieller Wirkstoffe mittels Hemmstofftest,\n- Nachfolgende Keimzahlschätzung(en),\n- Nachfolgende mikroskopische Prüfung(en),\n- Einfache Differenzierung(en) (z. B. Chlamydosporen-Nachweis, Nachweis von Pseudomycel)",
+      "billing_info": "Die Gebührenordnungsposition 32151 ist am Behandlungstag nicht neben der Gebührenordnungsposition 32720 berechnungsfähig. Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32152",
+      "title": "Orientierender Schnelltest auf A-Streptokokken-Gruppenantigen bei Patienten bis zum vollendeten 16. Lebensjahr 32.2.8 Laborpauschalen im Zusammenhang mit präventiven Leistungen",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 2.55,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Patienten bis zum vollendeten 16. Lebensjahr 32.2.8 Laborpauschalen im Zusammenhang mit präventiven Leistungen Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32155",
+      "title": "Alkalische Leukozyten(Neutrophilen)phosphatase",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 13.16,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32155 Alkalische Leukozyten(Neutrophilen)phosphatase\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32156",
+      "title": "Esterasereaktion",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 5.15,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32156 Esterasereaktion\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32157",
+      "title": "Peroxydasereaktion",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 5.15,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32157 Peroxydasereaktion\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32158",
+      "title": "PAS-Reaktion",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 5.15,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32158 PAS-Reaktion\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32159",
+      "title": "Eisenfärbung",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 7.73,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32159 Eisenfärbung\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32160",
+      "title": "Saure Phosphatase",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 5.15,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32160 Saure Phosphatase\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32161",
+      "title": "Terminale Desoxynukleotidyl-Transferase (TdT)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 5.15,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32161 Terminale Desoxynukleotidyl-Transferase (TdT)\nDie Gebührenordnungsposition 32159 ist nicht neben der\nGebührenordnungsposition 32168 berechnungsfähig.\nMikroskopische Differenzierung eines Materials als gefärbte(r)\nAusstrich(e) oder als Tupfpräparat(e) eines Organpunktates, gilt für\ndie Gebührenordnungspositionen 32163 bis 32167\nje Untersuchung\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    }
+  ]
+}

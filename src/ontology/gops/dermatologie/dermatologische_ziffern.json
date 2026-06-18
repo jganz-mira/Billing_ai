@@ -1,0 +1,305 @@
+{
+  "gops": [
+    {
+      "code": "10210",
+      "title": "Grundpauschale für Versicherte bis zum vollendeten 5. Lebensjahr",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 17.33,
+        "valuation_in_points": 136
+      },
+      "mandatory_services": "- Persönlicher Arzt-Patienten-Kontakt und/oder Arzt-Patienten-Kontakt im Rahmen einer Videosprechstunde gemäß Anlage 31b zum BMV-Ä.",
+      "facultative_services": "- Weitere persönliche oder andere Arzt-Patienten-Kontakte gemäß 4.3.1 der Allgemeinen Bestimmungen.\n- Ärztlicher Bericht entsprechend der Gebührenordnungsposition 01600.\n- Individueller Arztbrief entsprechend der Gebührenordnungsposition 01601.\n- Auflichtmikroskopie/Dermatoskopie.\n- In Anhang 1 aufgeführte Leistungen.",
+      "billing_info": "Einmal im Behandlungsfall. Die Gebührenordnungspositionen 10210 bis 10212 sind nicht neben der Gebührenordnungsposition 01436 berechnungsfähig. Die Gebührenordnungspositionen 10210 bis 10212 sind im Behandlungsfall nicht neben den Gebührenordnungspositionen 01600 und 01601 berechnungsfähig."
+    },
+    {
+      "code": "10211",
+      "title": "Grundpauschale für Versicherte ab Beginn des 6. bis zum vollendeten 59. Lebensjahr",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 18.22,
+        "valuation_in_points": 143
+      },
+      "mandatory_services": "- Persönlicher Arzt-Patienten-Kontakt und/oder Arzt-Patienten-Kontakt im Rahmen einer Videosprechstunde gemäß Anlage 31b zum BMV-Ä.",
+      "facultative_services": "- Weitere persönliche oder andere Arzt-Patienten-Kontakte gemäß 4.3.1 der Allgemeinen Bestimmungen.\n- Ärztlicher Bericht entsprechend der Gebührenordnungsposition 01600.\n- Individueller Arztbrief entsprechend der Gebührenordnungsposition 01601.\n- Auflichtmikroskopie/Dermatoskopie.\n- In Anhang 1 aufgeführte Leistungen.",
+      "billing_info": "Einmal im Behandlungsfall. Die Gebührenordnungspositionen 10210 bis 10212 sind nicht neben der Gebührenordnungsposition 01436 berechnungsfähig. Die Gebührenordnungspositionen 10210 bis 10212 sind im Behandlungsfall nicht neben den Gebührenordnungspositionen 01600 und 01601 berechnungsfähig."
+    },
+    {
+      "code": "10212",
+      "title": "Grundpauschale für Versicherte ab Beginn des 60. Lebensjahres",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 18.73,
+        "valuation_in_points": 147
+      },
+      "mandatory_services": "- Persönlicher Arzt-Patienten-Kontakt und/oder Arzt-Patienten-Kontakt im Rahmen einer Videosprechstunde gemäß Anlage 31b zum BMV-Ä.",
+      "facultative_services": "- Weitere persönliche oder andere Arzt-Patienten-Kontakte gemäß 4.3.1 der Allgemeinen Bestimmungen.\n- Ärztlicher Bericht entsprechend der Gebührenordnungsposition 01600.\n- Individueller Arztbrief entsprechend der Gebührenordnungsposition 01601.\n- Auflichtmikroskopie/Dermatoskopie.\n- In Anhang 1 aufgeführte Leistungen.",
+      "billing_info": "Einmal im Behandlungsfall. Die Gebührenordnungspositionen 10210 bis 10212 sind nicht neben der Gebührenordnungsposition 01436 berechnungsfähig. Die Gebührenordnungspositionen 10210 bis 10212 sind im Behandlungsfall nicht neben den Gebührenordnungspositionen 01600 und 01601 berechnungsfähig."
+    },
+    {
+      "code": "10215",
+      "title": "Hygienezuschlag zu den Gebührenordnungspositionen 10210 bis 10212",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 0.25,
+        "valuation_in_points": 2
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "10215 Hygienezuschlag zu den Gebührenordnungspositionen 10210 bis 0,25 €\n10212, 2 Punkte\neinmal im Behandlungsfall\nDie Gebührenordnungsposition 10215 wird durch die zuständige\nKassenärztliche Vereinigung zugesetzt."
+    },
+    {
+      "code": "10220",
+      "title": "Zuschlag für die hautärztliche Grundversorgung gemäß Allgemeiner Bestimmung 4.3.8 zu den Gebührenordnungspositionen 10210 bis 10212",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 2.29,
+        "valuation_in_points": 18
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "10220 Zuschlag für die hautärztliche Grundversorgung gemäß Allgemeiner 2,29 €\nBestimmung 4.3.8 zu den Gebührenordnungspositionen 10210 bis 18 Punkte\n10212\neinmal im Behandlungsfall\nDer Zuschlag nach der Gebührenordnungsposition 10220 kann gemäß\nAllgemeiner Bestimmung 4.3.8 ausschließlich in Behandlungsfällen\nabgerechnet werden, in denen nur Leistungen der fachärztlichen\nGrundversorgung gemäß Anhang 3 und/oder regionaler Vereinbarungen\nerbracht und berechnet werden."
+    },
+    {
+      "code": "10222",
+      "title": "Zuschlag zu der Gebührenordnungsposition 10220",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 0.64,
+        "valuation_in_points": 5
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "10222 Zuschlag zu der Gebührenordnungsposition 10220, 0,64 €\neinmal im Behandlungsfall 5 Punkte\nDie Gebührenordnungsposition 10222 wird durch die zuständige\nKassenärztliche Vereinigung zugesetzt."
+    },
+    {
+      "code": "10227",
+      "title": "Zuschlag zu den Gebührenordnungspositionen 10210 bis 10212",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 0.25,
+        "valuation_in_points": 2
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "10227 Zuschlag zu den Gebührenordnungspositionen 10210 bis 10212, 0,25 €\neinmal im Behandlungsfall 2 Punkte\nDie Gebührenordnungsposition 10227 wird durch die zuständige\nKassenärztliche Vereinigung zugesetzt.\nDie Gebührenordnungsposition 10227 ist im Behandlungsfall nicht neben\nder Gebührenordnungsposition 01630 berechnungsfähig."
+    },
+    {
+      "code": "10228",
+      "title": "Zuschlag zu den Gebührenordnungspositionen 10210 bis 10212 für die Behandlung aufgrund einer TSS-Vermittlung und/oder Vermittlung durch den Hausarzt gemäß Allgemeiner Bestimmung 4.3.10.1, 4.3.10.2 oder 4.3.10.3",
+      "valuation": {
+        "type": "categorized",
+        "category_type": "tss_or_hausarztvermittlung_interval_and_age",
+        "categories": [
+          {
+            "label": "TSS-Terminfall oder Hausarztvermittlung, gleicher bis 4. Kalendertag, bis zum vollendeten 5. Lebensjahr",
+            "valuation_in_euro": 17.33,
+            "valuation_in_points": 136
+          },
+          {
+            "label": "TSS-Terminfall oder Hausarztvermittlung, gleicher bis 4. Kalendertag, ab Beginn des 6. bis zum vollendeten 59. Lebensjahr",
+            "valuation_in_euro": 18.22,
+            "valuation_in_points": 143
+          },
+          {
+            "label": "TSS-Terminfall oder Hausarztvermittlung, gleicher bis 4. Kalendertag, ab Beginn des 60. Lebensjahres",
+            "valuation_in_euro": 18.73,
+            "valuation_in_points": 147
+          },
+          {
+            "label": "TSS-Terminfall, 5. bis 14. Kalendertag, bis zum vollendeten 5. Lebensjahr",
+            "valuation_in_euro": 13.86,
+            "valuation_in_points": 109
+          },
+          {
+            "label": "TSS-Terminfall, 5. bis 14. Kalendertag, ab Beginn des 6. bis zum vollendeten 59. Lebensjahr",
+            "valuation_in_euro": 14.58,
+            "valuation_in_points": 114
+          },
+          {
+            "label": "TSS-Terminfall, 5. bis 14. Kalendertag, ab Beginn des 60. Lebensjahres",
+            "valuation_in_euro": 14.98,
+            "valuation_in_points": 118
+          },
+          {
+            "label": "TSS-Terminfall, 15. bis 35. Kalendertag, bis zum vollendeten 5. Lebensjahr",
+            "valuation_in_euro": 6.93,
+            "valuation_in_points": 54
+          },
+          {
+            "label": "TSS-Terminfall, 15. bis 35. Kalendertag, ab Beginn des 6. bis zum vollendeten 59. Lebensjahr",
+            "valuation_in_euro": 7.29,
+            "valuation_in_points": 57
+          },
+          {
+            "label": "TSS-Terminfall, 15. bis 35. Kalendertag, ab Beginn des 60. Lebensjahres",
+            "valuation_in_euro": 7.49,
+            "valuation_in_points": 59
+          },
+          {
+            "label": "TSS-Akutfall, bis zum vollendeten 5. Lebensjahr",
+            "valuation_in_euro": 34.66,
+            "valuation_in_points": 272
+          },
+          {
+            "label": "TSS-Akutfall, ab Beginn des 6. bis zum vollendeten 59. Lebensjahr",
+            "valuation_in_euro": 36.44,
+            "valuation_in_points": 286
+          },
+          {
+            "label": "TSS-Akutfall, ab Beginn des 60. Lebensjahres",
+            "valuation_in_euro": 37.46,
+            "valuation_in_points": 294
+          }
+        ]
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Einmal im Arztgruppenfall. Die Gebührenordnungsposition 10228 kann durch die zuständige Kassenärztliche Vereinigung zugesetzt werden. Die Gebührenordnungsposition 10228 ist im Arztgruppenfall nicht neben der Gebührenordnungsposition 01710 berechnungsfähig. Die strukturierten Bewertungen sind aus den altersbezogenen Bewertungen der Gebührenordnungspositionen 10210 bis 10212 und den Zuschlagsregelungen der Allgemeinen Bestimmung 4.3.10 abgeleitet."
+    },
+    {
+      "code": "10310",
+      "title": "Bestimmung der Erythemschwelle",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 7.52,
+        "valuation_in_points": 59
+      },
+      "mandatory_services": null,
+      "facultative_services": "- Nachkontrolle(n).",
+      "billing_info": "10310 Bestimmung der Erythemschwelle 7,52 €\nObligater Leistungsinhalt 59 Punkte\n- Bestimmung der Erythemschwelle\n- Überprüfung(en) der lokalen Hautreaktion(en)\nFakultativer Leistungsinhalt\n- Nachkontrolle(n)"
+    },
+    {
+      "code": "10320",
+      "title": "Behandlung von Naevi flammei",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 23.7,
+        "valuation_in_points": 186
+      },
+      "mandatory_services": null,
+      "facultative_services": "- Behandlung in mehreren Sitzungen bis zu 1 cm² Gesamtfläche des behandelten Areals und für jeden weiteren cm² je einmal Die Behandlung seniler Angiome ist nicht Bestandteil dieser Gebührenordnungsposition.",
+      "billing_info": "10320 Behandlung von Naevi flammei 23,70 €\nObligater Leistungsinhalt 186 Punkte\n- Therapie mittels gepulstem Farbstofflaser\n- Metrische und fotografische Dokumentation vor Beginn und nach\nAbschluss der Therapie\nFakultativer Leistungsinhalt\n- Behandlung in mehreren Sitzungen\nbis zu 1 cm² Gesamtfläche des behandelten Areals und\nfür jeden weiteren cm² je einmal\nDie Behandlung seniler Angiome ist nicht Bestandteil dieser\nGebührenordnungsposition.\nDie Gebührenordnungsposition 10320 ist unabhängig von der\n2\nZahl der Sitzungen nur einmal je cm Gesamtfläche des\nbehandelten Areals berechnungsfähig. Im Fall eines Rezidivs ist die\nGebührenordnungsposition 10320 erneut berechnungsfähig und setzt\neine ausführliche Begründung der medizinischen Notwendigkeit im\nEinzelfall voraus.\nBeträgt die insgesamt für die Gebührenordnungspositionen\n10320, 10322 und 10324 abgerechnete Gesamtpunktzahl in\neiner (Neben-)Betriebsstätte mehr als 89.822 Punkte im\nQuartal, wird die Bewertung der darüber hinaus abgerechneten\nGebührenordnungspositionen 10320, 10322 und 10324 jeweils um 67\nPunkte gemindert.\nDie Gebührenordnungsposition 10320 ist nicht neben den\nGebührenordnungspositionen 02300 bis 02302 und 10340 bis 10342\nberechnungsfähig.\nDie Gebührenordnungsposition 10320 ist am Behandlungstag\nnicht neben den Gebührenordnungspositionen 10343 und 10344\nberechnungsfähig.\nDie Gebührenordnungsposition 10320 ist im Behandlungsfall nicht neben\nden Gebührenordnungspositionen 10324 und 10330 berechnungsfähig."
+    },
+    {
+      "code": "10322",
+      "title": "Behandlung von Hämangiomen",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 19.37,
+        "valuation_in_points": 152
+      },
+      "mandatory_services": null,
+      "facultative_services": "- Behandlung in mehreren Sitzungen bis zu 1 cm² Gesamtfläche des behandelten Areals und für jeden weiteren cm² je einmal Die Behandlung seniler Angiome ist nicht Bestandteil dieser Leistung.",
+      "billing_info": "10322 Behandlung von Hämangiomen 19,37 €\nObligater Leistungsinhalt 152 Punkte\n- Therapie mittels gepulstem Farbstofflaser\n- Metrische und fotografische Dokumentation vor Beginn und nach\nAbschluss der Therapie\nFakultativer Leistungsinhalt\n- Behandlung in mehreren Sitzungen\nbis zu 1 cm² Gesamtfläche des behandelten Areals und\nfür jeden weiteren cm² je einmal\nDie Behandlung seniler Angiome ist nicht Bestandteil dieser Leistung.\nDie Gebührenordnungsposition 10322 ist unabhängig von der Zahl der\n2\nSitzungen nur einmal je cm Gesamtfläche des behandelten Areals\nberechnungsfähig. Im Fall erneuter Behandlungsbedürftigkeit ist die\nGebührenordnungsposition 10322 erneut berechnungsfähig und setzt\neine ausführliche Begründung der medizinischen Notwendigkeit im\nEinzelfall voraus.\nBeträgt die insgesamt für die Gebührenordnungspositionen\n10320, 10322 und 10324 abgerechnete Gesamtpunktzahl in\neiner (Neben-)Betriebsstätte mehr als 89.822 Punkte im\nQuartal, wird die Bewertung der darüber hinaus abgerechneten\nGebührenordnungspositionen 10320, 10322 und 10324 jeweils um 67\nPunkte gemindert.\nDie Gebührenordnungsposition 10322 ist nicht neben den\nGebührenordnungspositionen 02300 bis 02302 und 10340 bis 10342\nberechnungsfähig.\nDie Gebührenordnungsposition 10322 ist am Behandlungstag\nnicht neben den Gebührenordnungspositionen 10343 und 10344\nberechnungsfähig.\nDie Gebührenordnungsposition 10322 ist im Behandlungsfall nicht neben\nden Gebührenordnungspositionen 10324 und 10330 berechnungsfähig."
+    },
+    {
+      "code": "10324",
+      "title": "Behandlung von Naevi flammei und/oder Hämangiomen",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 18.98,
+        "valuation_in_points": 149
+      },
+      "mandatory_services": null,
+      "facultative_services": "- Behandlung in mehreren Sitzungen bis zu 1 cm² Gesamtfläche des behandelten Areals und für jeden weiteren cm² je einmal Die Behandlung seniler Angiome ist nicht Bestandteil dieser Leistung.",
+      "billing_info": "10324 Behandlung von Naevi flammei und/oder Hämangiomen 18,98 €\nObligater Leistungsinhalt 149 Punkte\n- Therapie mittels Laser\n- Metrische und fotografische Dokumentation vor Beginn und nach\nAbschluss der Therapie\nFakultativer Leistungsinhalt\n- Behandlung in mehreren Sitzungen\nbis zu 1 cm² Gesamtfläche des behandelten Areals und\nfür jeden weiteren cm² je einmal\nDie Behandlung seniler Angiome ist nicht Bestandteil dieser Leistung.\nDie Gebührenordnungsposition 10324 ist unabhängig von der Zahl\n2\nder Sitzungen nur einmal je cm Gesamtfläche des behandelten\nAreals berechnungsfähig. Im Fall eines Rezidivs von Naevi flammei\nund/oder erneuter Behandlungsbedürftigkeit bei Hämangiomen ist die\nGebührenordnungsposition 10324 erneut berechnungsfähig und setzt\neine ausführliche Begründung der medizinischen Notwendigkeit im\nEinzelfall voraus.\nBeträgt die insgesamt für die Gebührenordnungspositionen\n10320, 10322 und 10324 abgerechnete Gesamtpunktzahl in\neiner (Neben-)Betriebsstätte mehr als 89.822 Punkte im\nQuartal, wird die Bewertung der darüber hinaus abgerechneten\nGebührenordnungspositionen 10320, 10322 und 10324 jeweils um 67\nPunkte gemindert.\nDie Gebührenordnungsposition 10324 ist nicht neben den\nGebührenordnungspositionen 02300 bis 02302 und 10340 bis 10342\nberechnungsfähig.\nDie Gebührenordnungsposition 10324 ist am Behandlungstag\nnicht neben den Gebührenordnungspositionen 10343 und 10344\nberechnungsfähig.\nDie Gebührenordnungsposition 10324 ist im Behandlungsfall nicht\nneben den Gebührenordnungspositionen 10320, 10322 und 10330\nberechnungsfähig."
+    },
+    {
+      "code": "10330",
+      "title": "Behandlungskomplex einer ausgedehnten offenen Wunde",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 34.53,
+        "valuation_in_points": 271
+      },
+      "mandatory_services": null,
+      "facultative_services": "- Abtragung von Nekrosen.\n- Wunddebridement.\n- Anlage und/oder Wechsel eines Kompressionsverbandes.\n- Einbringung und/oder Wechsel einer Wundtamponade.\n- Anlage/Wechsel von Schienenverbänden.\n- Einbringung, Wechsel oder Entfernung von Antibiotikaketten einmal im Behandlungsfall Die Leistung nach der Nr. 10330 kann nicht berechnet werden beim diabetischen Fuß, beim chronisch venösen Ulcus cruris bei der chronisch venösen Insuffizienz, beim postthrombotischen Syndrom, beim Lymphödem und bei oberflächlichen sowie tiefen Beinvenenthrombosen.",
+      "billing_info": "10330 Behandlungskomplex einer ausgedehnten offenen Wunde 34,53 €\nObligater Leistungsinhalt 271 Punkte\n- Mindestens 5 persönliche Arzt-Patienten-Kontakte im\nBehandlungsfall\n- Behandlung\n- einer offenen Wunde\nund/oder\n- einer Verbrennung\nund/oder\n- einer septischen Wundheilungsstörung\nFakultativer Leistungsinhalt\n- Abtragung von Nekrosen\n- Wunddebridement\n- Anlage und/oder Wechsel eines Kompressionsverbandes\n- Einbringung und/oder Wechsel einer Wundtamponade\n- Anlage/Wechsel von Schienenverbänden\n- Einbringung, Wechsel oder Entfernung von Antibiotikaketten\neinmal im Behandlungsfall\nDie Leistung nach der Nr. 10330 kann nicht berechnet werden\nbeim diabetischen Fuß, beim chronisch venösen Ulcus cruris\nbei der chronisch venösen Insuffizienz, beim postthrombotischen\nSyndrom, beim Lymphödem und bei oberflächlichen sowie tiefen\nBeinvenenthrombosen.\nDie Gebührenordnungsposition 10330 ist nicht neben den\nGebührenordnungspositionen 02312 und 02313 berechnungsfähig.\nDie Gebührenordnungsposition 10330 ist im Behandlungsfall nicht neben\nden Gebührenordnungspositionen 02300 bis 02302, 02310, 02311\n02340, 02341, 02344, 02350, 02360, 10320, 10322, 10324, 10340 bis\n10342 und 30214 berechnungsfähig.\nDie Gebührenordnungsposition 10330 ist im Zeitraum von 21 Tagen\nnach Erbringung einer Leistung des Abschnitts 31.2 nicht neben den\nGebührenordnungspositionen des Abschnitts 31.4.3 berechnungsfähig."
+    },
+    {
+      "code": "10340",
+      "title": "Kleinchirurgischer Eingriff I und/oder primäre Wundversorgung und/oder Epilation",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 7.39,
+        "valuation_in_points": 58
+      },
+      "mandatory_services": "- Operativer Eingriff mit einer Dauer von bis zu 5 Minuten und/oder.\n- Primäre Wundversorgung und/oder.\n- Epilation durch Elektrokoagulation im Gesicht und/oder an den Händen bei krankhaftem und entstellendem Haarwuchs einmal am Behandlungstag.",
+      "facultative_services": null,
+      "billing_info": "10340 Kleinchirurgischer Eingriff I und/oder primäre Wundversorgung 7,39 €\nund/oder Epilation 58 Punkte\nObligater Leistungsinhalt\n- Operativer Eingriff mit einer Dauer von bis zu 5 Minuten\nund/oder\n- Primäre Wundversorgung\nund/oder\n- Epilation durch Elektrokoagulation im Gesicht und/oder an den\nHänden bei krankhaftem und entstellendem Haarwuchs\neinmal am Behandlungstag\nDie Gebührenordnungspositionen 10340 bis 10342 sind bei Patienten\nmit den Diagnosen Nävuszellnävussyndrom (ICD-10-GM: D22.-) und/\noder mehreren offenen Wunden (ICD-10-GM: T01.-) mehrfach in einer\nSitzung - auch nebeneinander, jedoch insgesamt höchstens fünfmal je\nBehandlungstag - berechnungsfähig.\nDie Gebührenordnungsposition 10340 ist bei Neugeborenen\nSäuglingen, Kleinkindern und Kindern bis zum vollendeten 12.\nLebensjahr nach der Gebührenordnungsposition 31101 oder 36101\nberechnungsfähig, sofern der Eingriff in Narkose erfolgt. Die\nVoraussetzungen gemäß § 115b SGB V müssen dabei nicht erfüllt sein\nsofern die Eingriffe nicht im Katalog zum Vertrag nach § 115b SGB V\ngenannt sind. In diesen Fällen ist die postoperative Behandlung nach\nden Gebührenordnungspositionen der Abschnitte 31.4.2 und 31.4.3 nicht\nberechnungsfähig. Die in der Präambel 31.2.1 Nr. 8 bzw. Präambel\n36.2.1 Nr. 4 benannten Einschränkungen entfallen in diesen Fällen\nes gelten die Abrechnungsausschlüsse der Gebührenordnungsposition\n10340 entsprechend.\nLokalanästhesien und Leitungsanästhesien sind, soweit erforderlich\nBestandteil der Gebührenordnungsposition 10340.\nDie Gebührenordnungsposition 10340 ist nicht neben den\nGebührenordnungspositionen 01741, 02300 bis 02302, 02311, 02321\nbis 02323, 02325, 02326, 02330, 02331, 02340 bis 02344, 02350\n02360, 10320, 10322, 10324, 10341, 10342 und 30214 und nicht\nneben den Gebührenordnungspositionen der Abschnitte 30.5 und 30.6\nberechnungsfähig.\nDie Gebührenordnungsposition 10340 ist am Behandlungstag\nnicht neben den Gebührenordnungspositionen 10343 und 10344\nberechnungsfähig.\nDie Gebührenordnungsposition 10340 ist im Behandlungsfall nicht\nneben den Gebührenordnungspositionen 02310, 02312 und 10330\nberechnungsfähig.\nDie Gebührenordnungsposition 10340 ist im Zeitraum von 21 Tagen\nnach Erbringung einer Leistung des Abschnitts 31.2 nicht neben den\nGebührenordnungspositionen des Abschnitts 31.4.3 berechnungsfähig."
+    },
+    {
+      "code": "10341",
+      "title": "Kleinchirurgischer Eingriff II und/oder primäre Wundversorgung",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 16.44,
+        "valuation_in_points": 129
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "10341 Kleinchirurgischer Eingriff II und/oder primäre Wundversorgung 16,44 €\nObligater Leistungsinhalt 129 Punkte\n- Primäre Wundversorgung bei Säuglingen, Kleinkindern und Kindern\nund/oder\n- Primäre Wundversorgung mittels Naht und/oder Gewebekleber\nund/oder\n- Koagulation und/oder Kauterisation krankhafter Haut-und/oder\nSchleimhautveränderungen\nund/oder\n- Operative Entfernung einer oder mehrerer Geschwülste an der\nHarnröhrenmündung\nund/oder\n- Operative Entfernung eines unter der Oberfläche von Haut oder\nSchleimhaut gelegenen Fremdkörpers nach Aufsuchen durch Schnitt\nund/oder\n- Öffnung eines Körperkanalverschlusses an der Körperoberfläche\noder Eröffnung eines Abszesses oder Exzision eines Furunkels\nund/oder\n- Verschiebeplastik zur Deckung eines Hautdefektes\nund/oder\n- Eröffnung eines subcutanen Panaritiums oder einer Paronychie\neinmal am Behandlungstag\nDie Gebührenordnungspositionen 10340 bis 10342 sind bei Patienten\nmit den Diagnosen Nävuszellnävussyndrom (ICD-10-GM: D22.-) und/\noder mehreren offenen Wunden (ICD-10-GM: T01.-) mehrfach in einer\nSitzung - auch nebeneinander, jedoch insgesamt höchstens fünfmal je\nBehandlungstag - berechnungsfähig.\nDie Gebührenordnungsposition 10341 ist bei Neugeborenen\nSäuglingen, Kleinkindern und Kindern bis zum vollendeten 12.\nLebensjahr nach der Gebührenordnungsposition 31101 oder 36101\nberechnungsfähig, sofern der Eingriff in Narkose erfolgt. Die\nVoraussetzungen gemäß § 115b SGB V müssen dabei nicht erfüllt sein\nsofern die Eingriffe nicht im Katalog zum Vertrag nach § 115b SGB V\ngenannt sind. In diesen Fällen ist die postoperative Behandlung nach\nden Gebührenordnungspositionen der Abschnitte 31.4.2 und 31.4.3 nicht\nberechnungsfähig. Die in der Präambel 31.2.1 Nr. 8 bzw. Präambel\n36.2.1 Nr. 4 benannten Einschränkungen entfallen in diesen Fällen\nes gelten die Abrechnungsausschlüsse der Gebührenordnungsposition\n10341 entsprechend.\nLokalanästhesien und Leitungsanästhesien sind, soweit erforderlich\nBestandteil der Gebührenordnungsposition 10341.\nDie Gebührenordnungsposition 10341 ist nicht neben den\nGebührenordnungspositionen 01741, 02300 bis 02302, 02311\n02321, 02322, 02331, 02340 bis 02344, 02350, 02360, 10320\n10322, 10324, 10340, 10342 und 30214 und nicht neben\nden Gebührenordnungspositionen der Abschnitte 30.5 und 30.6\nberechnungsfähig.\nDie Gebührenordnungsposition 10341 ist am Behandlungstag\nnicht neben den Gebührenordnungspositionen 10343 und 10344\nberechnungsfähig.\nDie Gebührenordnungsposition 10341 ist im Behandlungsfall nicht\nneben den Gebührenordnungspositionen 02310, 02312 und 10330\nberechnungsfähig.\nDie Gebührenordnungsposition 10341 ist im Zeitraum von 21 Tagen\nnach Erbringung einer Leistung des Abschnitts 31.2 nicht neben den\nGebührenordnungspositionen des Abschnitts 31.4.3 berechnungsfähig."
+    },
+    {
+      "code": "10342",
+      "title": "Kleinchirurgischer Eingriff III und/oder primäre Wundversorgung bei Säuglingen, Kleinkindern und Kindern",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 29.81,
+        "valuation_in_points": 234
+      },
+      "mandatory_services": "- Primäre Wundversorgung einer Wunde mittels Naht bei Säuglingen Kleinkindern und Kindern und/oder.\n- Exzision eines Bezirkes oder einer intradermalen Geschwulst aus der Haut des Gesichts mit Wundverschluss und/oder.\n- Hochtouriges Schleifen von Bezirken der Haut bei schweren Entstellungen durch Naevi oder Narben und/oder.\n- Exzision eines großen Bezirkes aus Haut und/oder Schleimhaut oder einer kleinen unter der Haut und/oder Schleimhaut gelegenen Geschwulst und/oder.\n- Exzision und/oder Probeexzision von tiefliegendem Körpergewebe (z. B. Fettgewebe) und/oder aus einem Organ ohne Eröffnung einer Körperhöhle (z. B. Zunge) und/oder.\n- Emmert-Plastik und/oder.\n- Venae sectio einmal am Behandlungstag.",
+      "facultative_services": null,
+      "billing_info": "10342 Kleinchirurgischer Eingriff III und/oder primäre Wundversorgung 29,81 €\nbei Säuglingen, Kleinkindern und Kindern 234 Punkte\nObligater Leistungsinhalt\n- Primäre Wundversorgung einer Wunde mittels Naht bei Säuglingen\nKleinkindern und Kindern\nund/oder\n- Exzision eines Bezirkes oder einer intradermalen Geschwulst aus der\nHaut des Gesichts mit Wundverschluss\nund/oder\n- Hochtouriges Schleifen von Bezirken der Haut bei schweren\nEntstellungen durch Naevi oder Narben\nund/oder\n- Exzision eines großen Bezirkes aus Haut und/oder Schleimhaut\noder einer kleinen unter der Haut und/oder Schleimhaut gelegenen\nGeschwulst\nund/oder\n- Exzision und/oder Probeexzision von tiefliegendem Körpergewebe\n(z. B. Fettgewebe) und/oder aus einem Organ ohne Eröffnung einer\nKörperhöhle (z. B. Zunge)\nund/oder\n- Emmert-Plastik\nund/oder\n- Venae sectio\neinmal am Behandlungstag\nDie Gebührenordnungspositionen 10340 bis 10342 sind bei Patienten\nmit den Diagnosen Nävuszellnävussyndrom (ICD-10-GM: D22.-) und/\noder mehreren offenen Wunden (ICD-10-GM: T01.-) mehrfach in einer\nSitzung - auch nebeneinander, jedoch insgesamt höchstens fünfmal je\nBehandlungstag - berechnungsfähig.\nDie Gebührenordnungsposition 10342 ist bei Neugeborenen\nSäuglingen, Kleinkindern und Kindern bis zum vollendeten 12.\nLebensjahr nach der Gebührenordnungsposition 31101 oder 36101\nberechnungsfähig, sofern der Eingriff in Narkose erfolgt. Die\nVoraussetzungen gemäß § 115b SGB V müssen dabei nicht erfüllt sein\nsofern die Eingriffe nicht im Katalog zum Vertrag nach § 115b SGB V\ngenannt sind. In diesen Fällen ist die postoperative Behandlung nach\nden Gebührenordnungspositionen der Abschnitte 31.4.2 und 31.4.3 nicht\nberechnungsfähig. Die in der Präambel 31.2.1 Nr. 8 bzw. Präambel\n36.2.1 Nr. 4 benannten Einschränkungen entfallen in diesen Fällen\nes gelten die Abrechnungsausschlüsse der Gebührenordnungsposition\n10342 entsprechend.\nLokalanästhesien und Leitungsanästhesien sind, soweit erforderlich\nBestandteil der Gebührenordnungsposition 10342.\nDie Gebührenordnungsposition 10342 ist nicht neben den\nGebührenordnungspositionen 01741, 02300 bis 02302, 02311\n02321, 02322, 02331, 02340 bis 02344, 02350, 02360, 10320\n10322, 10324, 10340, 10341 und 30214 und nicht neben\nden Gebührenordnungspositionen der Abschnitte 30.5 und 30.6\nberechnungsfähig.\nDie Gebührenordnungsposition 10342 ist am Behandlungstag\nnicht neben den Gebührenordnungspositionen 10343 und 10344\nberechnungsfähig.\nDie Gebührenordnungsposition 10342 ist im Behandlungsfall nicht\nneben den Gebührenordnungspositionen 02310, 02312 und 10330\nberechnungsfähig.\nDie Gebührenordnungsposition 10342 ist im Zeitraum von 21 Tagen\nnach Erbringung einer Leistung des Abschnitts 31.2 nicht neben den\nGebührenordnungspositionen des Abschnitts 31.4.3 berechnungsfähig."
+    },
+    {
+      "code": "10343",
+      "title": "(Teil-)Exzision einer malignomverdächtigen oder malignen Hautveränderung am Körperstamm oder an den Extremitäten mit Ausnahme der in der Gebührenordnungsposition 10344 genannten Regionen",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 17.84,
+        "valuation_in_points": 140
+      },
+      "mandatory_services": "- (Teil-)Exzision einer kleinen malignomverdächtigen oder malignen Hautveränderung.\n- Veranlassung einer histologischen Untersuchung.\n- Dokumentation gemäß Abschnitt D. II. der Krebsfrüherkennungs- Richtlinie.",
+      "facultative_services": "- Wundverschluss Die Voraussetzungen gemäß § 115b SGB V müssen nicht erfüllt sein sofern der Eingriff nicht im Katalog zum Vertrag nach § 115b SGB V genannt ist.",
+      "billing_info": "10343 (Teil-)Exzision einer malignomverdächtigen oder malignen 17,84 €\nHautveränderung am Körperstamm oder an den Extremitäten mit 140 Punkte\nAusnahme der in der Gebührenordnungsposition 10344 genannten\nRegionen\nObligater Leistungsinhalt\n- (Teil-)Exzision einer kleinen malignomverdächtigen oder malignen\nHautveränderung\n- Veranlassung einer histologischen Untersuchung\n- Dokumentation gemäß Abschnitt D. II. der Krebsfrüherkennungs-\nRichtlinie\nFakultativer Leistungsinhalt\n- Wundverschluss\nDie Voraussetzungen gemäß § 115b SGB V müssen nicht erfüllt sein\nsofern der Eingriff nicht im Katalog zum Vertrag nach § 115b SGB V\ngenannt ist.\nDie Gebührenordnungsposition 10343 ist am Behandlungstag nicht\nneben den Gebührenordnungspositionen 02300 bis 02302, 10320\n10322, 10324 und 10340 bis 10342 berechnungsfähig."
+    },
+    {
+      "code": "10344",
+      "title": "(Teil-)Exzision einer kleinen malignomverdächtigen oder malignen Hautveränderung im Kopf-/Gesichtsbereich oder an der Hand",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 30.07,
+        "valuation_in_points": 236
+      },
+      "mandatory_services": "- (Teil-)Exzision einer kleinen malignomverdächtigen oder malignen Hautveränderung.\n- Veranlassung einer histologischen Untersuchung.\n- Dokumentation gemäß Abschnitt D. II. der Krebsfrüherkennungs- Richtlinie.",
+      "facultative_services": "- Wundverschluss Die Voraussetzungen gemäß § 115b SGB V müssen nicht erfüllt sein sofern der Eingriff nicht im Katalog zum Vertrag nach § 115b SGB V genannt ist.",
+      "billing_info": "10344 (Teil-)Exzision einer kleinen malignomverdächtigen oder malignen 30,07 €\nHautveränderung im Kopf-/Gesichtsbereich oder an der Hand 236 Punkte\nObligater Leistungsinhalt\n- (Teil-)Exzision einer kleinen malignomverdächtigen oder malignen\nHautveränderung\n- Veranlassung einer histologischen Untersuchung\n- Dokumentation gemäß Abschnitt D. II. der Krebsfrüherkennungs-\nRichtlinie\nFakultativer Leistungsinhalt\n- Wundverschluss\nDie Voraussetzungen gemäß § 115b SGB V müssen nicht erfüllt sein\nsofern der Eingriff nicht im Katalog zum Vertrag nach § 115b SGB V\ngenannt ist.\nDie Gebührenordnungsposition 10344 ist am Behandlungstag nicht\nneben den Gebührenordnungspositionen 02300 bis 02302, 10320\n10322, 10324 und 10340 bis 10342 berechnungsfähig."
+    },
+    {
+      "code": "10345",
+      "title": "Zusatzpauschale Behandlung und/oder Betreuung eines Patienten mit einer gesicherten onkologischen Erkrankung bei laufender onkologischer Therapie oder Betreuung im Rahmen der Nachsorge",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 24.33,
+        "valuation_in_points": 191
+      },
+      "mandatory_services": "- Behandlung und/oder Betreuung eines Patienten mit einer laboratoriumsmedizinisch oder histologisch/zytologisch gesicherten onkologischen Erkrankung.\n- Fortlaufende Beratung zum Umgang mit der onkologischen Erkrankung.\n- Verlaufskontrolle und Dokumentation des Therapieerfolges.\n- Erstellung, Überprüfung und Anpassung eines die onkologische Erkrankung begleitenden spezifischen Therapiekonzeptes unter Berücksichtigung individueller Faktoren.\n- Kontrolle und/oder Behandlung ggf. auftretender therapiebedingter Nebenwirkungen.\n- Planung und Koordination der komplementären Arznei-, Heil- und Hilfsmittelversorgung unter besonderer Berücksichtigung der gesicherten onkologischen Erkrankung.",
+      "facultative_services": "- Anleitung und Führung der Bezugs-und Betreuungsperson(en).\n- Fortlaufende Überprüfung des häuslichen, familiären und sozialen Umfelds im Hinblick auf die Grunderkrankung.\n- Konsiliarische Erörterung/Fachliche Beratung und regelmäßiger Informationsaustausch mit dem onkologisch verantwortlichen Arzt sowie mit weiteren mitbehandelnden Ärzten.\n- Überprüfung und Koordination supportiver Maßnahmen.\n- Einleitung und/oder Koordination der psychosozialen Betreuung des Patienten und seiner Familie und/oder Bezugs-und Betreuungsperson(en).\n- Ggf. Hinzuziehung komplementärer Dienste bzw. häuslicher Krankenpflege einmal im Behandlungsfall.",
+      "billing_info": "10345 Zusatzpauschale Behandlung und/oder Betreuung eines Patienten 24,33 €\nmit einer gesicherten onkologischen Erkrankung bei laufender 191 Punkte\nonkologischer Therapie oder Betreuung im Rahmen der Nachsorge\nObligater Leistungsinhalt\n- Behandlung und/oder Betreuung eines Patienten mit einer\nlaboratoriumsmedizinisch oder histologisch/zytologisch gesicherten\nonkologischen Erkrankung\n- Fortlaufende Beratung zum Umgang mit der onkologischen\nErkrankung\n- Verlaufskontrolle und Dokumentation des Therapieerfolges\n- Erstellung, Überprüfung und Anpassung eines die onkologische\nErkrankung begleitenden spezifischen Therapiekonzeptes unter\nBerücksichtigung individueller Faktoren\n- Kontrolle und/oder Behandlung ggf. auftretender therapiebedingter\nNebenwirkungen\n- Planung und Koordination der komplementären Arznei-, Heil-\nund Hilfsmittelversorgung unter besonderer Berücksichtigung der\ngesicherten onkologischen Erkrankung\nFakultativer Leistungsinhalt\n- Anleitung und Führung der Bezugs-und Betreuungsperson(en)\n- Fortlaufende Überprüfung des häuslichen, familiären und sozialen\nUmfelds im Hinblick auf die Grunderkrankung\n- Konsiliarische Erörterung/Fachliche Beratung und regelmäßiger\nInformationsaustausch mit dem onkologisch verantwortlichen Arzt\nsowie mit weiteren mitbehandelnden Ärzten\n- Überprüfung und Koordination supportiver Maßnahmen\n- Einleitung und/oder Koordination der psychosozialen Betreuung\ndes Patienten und seiner Familie und/oder Bezugs-und\nBetreuungsperson(en)\n- Ggf. Hinzuziehung komplementärer Dienste bzw. häuslicher\nKrankenpflege\neinmal im Behandlungsfall\nDie Gebührenordnungsposition 10345 ist nur bei mindestens einer der\nim Folgenden genannten Erkrankungen berechnungsfähig: Melanom\nund sonstige bösartige Neubildungen der Haut C43-C44, Kaposi-\nSarkom C46, Bösartige Neubildung sonstiger und ungenau bezeichneter\nLokalisationen C76, Sekundäre und nicht näher bezeichnete bösartige\nNeubildungen C77-C80, Mycosis fungoides C84.0.\nDie Gebührenordnungsposition 10345 ist bei laufender medikamentöser\nim Sinne einer systemischen Chemotherapie mit z. B. zytostatischen\nSubstanzen, operativer und/oder strahlentherapeutischer Behandlung\nund/oder bei Betreuung im Rahmen der Nachsorge bis höchstens 2\nJahre nach Beendigung einer medikamentösen, operativen und/oder\nstrahlentherapeutischen Behandlung eines Patienten mit gesicherter\nonkologischer Erkrankung berechnungsfähig.\nDie Gebührenordnungsposition 10345 ist im Behandlungsfall nicht\nneben den Kostenpauschalen 86510, 86512, 86514, 86516, 86520 und\n86522 gemäß Anhang 2 der „Onkologie-Vereinbarung“ (Anlage 7 zum\nBundesmantelvertrag-Ärzte (BMV-Ä)) berechnungsfähig."
+    },
+    {
+      "code": "10350",
+      "title": "Balneophototherapie, einschließlich Kosten",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 50.71,
+        "valuation_in_points": 398
+      },
+      "mandatory_services": null,
+      "facultative_services": "- Eingangsuntersuchung.\n- Untersuchung im Verlauf einmal am Behandlungstag.",
+      "billing_info": "10350 Balneophototherapie, einschließlich Kosten 50,71 €\nObligater Leistungsinhalt 398 Punkte\n- Balneophototherapie gemäß Nummer 15 der Anlage I \"Anerkannte\nUntersuchungs-oder Behandlungsmethoden\" der Richtlinie\nMethoden vertragsärztlicher Versorgung des Gemeinsamen\nBundesausschusses\n- Dokumentation\nFakultativer Leistungsinhalt\n- Eingangsuntersuchung\n- Untersuchung im Verlauf\neinmal am Behandlungstag\nDie Berechnung der Gebührenordnungsposition 10350 setzt\neine Genehmigung der Kassenärztlichen Vereinigung nach der\nQualitätssicherungsvereinbarung Balneophototherapie gemäß § 135\nAbs. 2 SGB V voraus.\nBei allen Verfahren zur Balneophototherapie ist eine\nBehandlungshäufigkeit von 3 bis 5 Anwendungen pro Woche\nanzustreben. Die Behandlung mittels Balneophototherapie ist auf\nhöchstens 35 Einzelanwendungen beschränkt (Behandlungszyklus). Ein\nneuer Behandlungszyklus kann frühestens 6 Monate nach Abschluss\neines vorangegangenen Behandlungszyklus erfolgen.\nDie Gebührenordnungsposition 10350 enthält alle Kosten, einschließlich\nder Kosten für die Mittel zur Herstellung der lichtsensibilisierenden\nLösung für die Bade-PUVA und Sprechstundenbedarf.\nDie Gebührenordnungsposition 10350 ist am Behandlungstag\nnicht neben den Gebührenordnungspositionen 30430 und 30431\nberechnungsfähig.\n11 Humangenetische Gebührenordnungspositionen\n11.1 Präambel\n1. Die in diesem Kapitel aufgeführten Gebührenordnungspositionen\nkönnen ausschließlich von\n- Fachärzten für Humangenetik\n- Vertragsärzten mit der Zusatzbezeichnung Medizinische Genetik\n- Vertragsärzten, die Auftragsleistungen des Kapitels 11\nerbringen und über eine Genehmigung zur Abrechnung der\nGebührenordnungspositionen dieses Kapitels verfügen\nberechnet werden.\n2. Die Gebührenordnungspositionen 11233 bis 11236 sind nur von\nFachärzten für Humangenetik und von Vertragsärzten mit der\nZusatzbezeichnung Medizinische Genetik berechnungsfähig.\n3. Die Gebührenordnungspositionen 11210 bis 11212 sind nur von\nFachärzten für Humangenetik berechnungsfähig.\n4. Außer den in diesem Kapitel genannten Gebührenordnungspositionen\nsind von den in der Präambel genannten Vertragsärzten\n- unbeschadet der Regelungen gemäß 5 und 6.2\nder Allgemeinen Bestimmungen - zusätzlich nachfolgende\nGebührenordnungspositionen berechnungsfähig: 01205, 01207\n01210, 01212, 01214, 01216, 01218, 01220 bis 01224, 01226, 01320\nbis 01323, 01416, 01418, 01420, 01422, 01424, 01430, 01431, 01435"
+    }
+  ]
+}

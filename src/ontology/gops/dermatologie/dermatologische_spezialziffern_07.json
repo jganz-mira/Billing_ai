@@ -1,0 +1,1204 @@
+{
+  "gops": [
+    {
+      "code": "32160",
+      "title": "Saure Phosphatase",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 5.15,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32160 Saure Phosphatase\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32161",
+      "title": "Terminale Desoxynukleotidyl-Transferase (TdT)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 5.15,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32161 Terminale Desoxynukleotidyl-Transferase (TdT)\nDie Gebührenordnungsposition 32159 ist nicht neben der\nGebührenordnungsposition 32168 berechnungsfähig.\nMikroskopische Differenzierung eines Materials als gefärbte(r)\nAusstrich(e) oder als Tupfpräparat(e) eines Organpunktates, gilt für\ndie Gebührenordnungspositionen 32163 bis 32167\nje Untersuchung\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32163",
+      "title": "Knochenmark",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 7.27,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32163 Knochenmark\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32164",
+      "title": "Lymphknoten",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 8.46,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32164 Lymphknoten\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32165",
+      "title": "Milz",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 12.0,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32165 Milz\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32166",
+      "title": "Synovia",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 5.34,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32166 Synovia\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32167",
+      "title": "Morphologische Differenzierung des Liquorzellausstrichs",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 5.89,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32167 Morphologische Differenzierung des Liquorzellausstrichs\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32168",
+      "title": "Mikroskopische Differenzierung eines Materials als gefärbte(r) Ausstrich(e) oder als Tupfpräparat(e) des Knochenmarks einschl. der Beurteilung des Eisenstatus auf Sideroblasten, Makrophageneisen und Therapieeisengranula",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 14.08,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32168 Mikroskopische Differenzierung eines Materials als gefärbte(r)\nAusstrich(e) oder als Tupfpräparat(e) des Knochenmarks einschl. der\nBeurteilung des Eisenstatus auf Sideroblasten, Makrophageneisen und\nTherapieeisengranula\nDie Gebührenordnungsposition 32168 ist nicht neben der\nGebührenordnungsposition 32159 berechnungsfähig.\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32169",
+      "title": "Vergleichende hämatologische Begutachtung von mikroskopisch differenzierten Ausstrichen des Knochenmarks und des Blutes einschl. Dokumentation",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 14.08,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32169 Vergleichende hämatologische Begutachtung von mikroskopisch\ndifferenzierten Ausstrichen des Knochenmarks und des Blutes\neinschl. Dokumentation\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32170",
+      "title": "Mikroskopische Differenzierung von Haaren (Trichogramm)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 5.15,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32170 Mikroskopische Differenzierung von Haaren (Trichogramm)\nObligater Leistungsinhalt\n- Mikroskopische Differenzierung von Haaren einschl. deren Wurzeln\n(Trichogramm)\nFakultativer Leistungsinhalt\n- Färbung, auch mehrere Präparate\n- Epilation\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32172",
+      "title": "Mikroskopische Untersuchung des Blutes auf Parasiten, z. B. Plasmodien, Mikrofilarien, im gefärbten Blutausstrich und/oder Dicken Tropfen Mikroskopische Untersuchung eines Körpermaterials auf Krankheitserreger nach differenzierender Färbung, gilt für die Gebührenordnungspositionen 32175 bis 32182",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 7.73,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32172 Mikroskopische Untersuchung des Blutes auf Parasiten, z. B.\nPlasmodien, Mikrofilarien, im gefärbten Blutausstrich und/oder Dicken\nTropfen\nMikroskopische Untersuchung eines Körpermaterials auf\nKrankheitserreger nach differenzierender Färbung, gilt für die\nGebührenordnungspositionen 32175 bis 32182\nje Untersuchung\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32175",
+      "title": "Corynebakterienfärbung nach Neisser",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 5.7,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32175 Corynebakterienfärbung nach Neisser\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32176",
+      "title": "Ziehl-Neelsen-Färbung auf Mykobakterien",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 4.78,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32176 Ziehl-Neelsen-Färbung auf Mykobakterien\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32177",
+      "title": "Färbung mit Fluorochromen (z. B. Auramin) auf Mykobakterien",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 4.6,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32177 Färbung mit Fluorochromen (z. B. Auramin) auf Mykobakterien\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32178",
+      "title": "Giemsa-Färbung auf Protozoen",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 5.8,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32178 Giemsa-Färbung auf Protozoen\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32179",
+      "title": "Karbolfuchsinfärbung auf Kryptosporidien",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 1.29,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32179 Karbolfuchsinfärbung auf Kryptosporidien\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32180",
+      "title": "Tuschepräparat auf Kryptokokken",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 5.15,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32180 Tuschepräparat auf Kryptokokken\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32181",
+      "title": "Färbung mit Fluorochromen (z. B. Acridinorange, Calcofluor weiß) auf Pilze",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 3.04,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32181 Färbung mit Fluorochromen (z. B. Acridinorange, Calcofluor weiß) auf\nPilze\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32182",
+      "title": "Ähnliche Untersuchungen unter Angabe der Erregerart und Art der Färbung Mikroskopische Untersuchung eines Körpermaterials auf Krankheitserreger nach differenzierender Färbung, gilt für die Gebührenordnungspositionen 32185 bis 32187",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 5.8,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32182 Ähnliche Untersuchungen unter Angabe der Erregerart und Art der\nFärbung\nMikroskopische Untersuchung eines Körpermaterials auf\nKrankheitserreger nach differenzierender Färbung, gilt für die\nGebührenordnungspositionen 32185 bis 32187\nje Untersuchung\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32185",
+      "title": "Heidenhain-Färbung auf Protozoen",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 9.02,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32185 Heidenhain-Färbung auf Protozoen\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32186",
+      "title": "Trichrom-Färbung auf Protozoen",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 7.27,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32186 Trichrom-Färbung auf Protozoen\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32187",
+      "title": "Silberfärbung auf Pneumozysten 32.3.2 Funktionsuntersuchungen",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 3.22,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32187 Silberfärbung auf Pneumozysten\n32.3.2 Funktionsuntersuchungen\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32190",
+      "title": "Physikalisch-morphologische Untersuchung des Spermas [Menge Viskosität, pH-Wert, Nativpräparat(e), Differenzierung der Beweglichkeit Bestimmung der Spermienzahl, Vitalitätsprüfung, morphologische Differenzierung nach Ausstrichfärbung (z. B. Papanicolaou)]",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 23.7,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32190 Physikalisch-morphologische Untersuchung des Spermas [Menge\nViskosität, pH-Wert, Nativpräparat(e), Differenzierung der Beweglichkeit\nBestimmung der Spermienzahl, Vitalitätsprüfung, morphologische\nDifferenzierung nach Ausstrichfärbung (z. B. Papanicolaou)]\nDie Gebührenordnungsposition 32190 ist im Behandlungsfall nicht neben\nden Gebührenordnungspositionen 08540 und 08640 berechnungsfähig.\nFunktionsprüfung mit Belastung, einschl. der erforderlichen\nquantitativen Bestimmungen im Harn oder Blut, gilt für die\nGebührenordnungspositionen 32192 bis 32195\nje Funktionsprüfung\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32192",
+      "title": "Laktosetoleranz-Test",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 3.77,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32192 Laktosetoleranz-Test\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32193",
+      "title": "D-Xylose-Test",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 4.6,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32193 D-Xylose-Test\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32194",
+      "title": "Pancreolauryl-Test",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 9.0,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32194 Pancreolauryl-Test\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32195",
+      "title": "Ähnliche Untersuchungen (mit Ausnahme von Glukose-Toleranztests) unter Angabe der Art der Untersuchung",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 4.6,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32195 Ähnliche Untersuchungen (mit Ausnahme von Glukose-Toleranztests)\nunter Angabe der Art der Untersuchung\nDie Berechnung der Gebührenordnungsposition 32195 setzt die\nBegründung der medizinischen Notwendigkeit der jeweiligen\nUntersuchung im Einzelfall voraus. Abweichend davon kann\ndie Begründung der medizinischen Notwendigkeit der jeweiligen\nUntersuchung im Einzelfall entfallen bei: Fructose-Toleranz-Test und\nsäuresekretorische Kapazität des Magens.\nFunktionsprüfung der Nieren durch Bestimmung der Clearance mit\nmindestens drei quantitativ-chemischen Blut- oder Harnanalysen, gilt für\ndie Gebührenordnungspositionen 32196 bis 32198\nje Funktionsprüfung\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32196",
+      "title": "Inulin-Clearance",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 10.3,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32196 Inulin-Clearance\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32197",
+      "title": "Harnstoff-, Phosphat- und/oder Calcium-Clearance, ggf. inkl. Kreatinin-Clearance",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 9.2,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32197 Harnstoff-, Phosphat- und/oder Calcium-Clearance, ggf. inkl.\nKreatinin-Clearance\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32198",
+      "title": "Ähnliche Untersuchungen, unter Angabe der Art der Untersuchung",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 10.4,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32198 Ähnliche Untersuchungen, unter Angabe der Art der Untersuchung\nDie Berechnung der Gebührenordnungsposition 32198 setzt die\nBegründung der medizinischen Notwendigkeit der jeweiligen\nUntersuchung im Einzelfall voraus.\nDie Gebührenordnungsposition 32197 ist nicht neben der\nGebührenordnungsposition 32124 berechnungsfähig.\n32.3.3 Gerinnungsuntersuchungen\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32203",
+      "title": "Thrombelastogramm Untersuchung der Gerinnungsfunktion durch Globaltests, ggf. einschl. mehrfacher Bestimmung der Gerinnungszeit, gilt für die Gebührenordnungspositionen 32205 bis 32208",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 15.27,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32203 Thrombelastogramm\nUntersuchung der Gerinnungsfunktion durch Globaltests, ggf.\neinschl. mehrfacher Bestimmung der Gerinnungszeit, gilt für die\nGebührenordnungspositionen 32205 bis 32208\nje Untersuchung\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32205",
+      "title": "Batroxobin-(Reptilase-)zeit",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 15.46,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32205 Batroxobin-(Reptilase-)zeit\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32206",
+      "title": "Aktiviertes Protein C-Resistenz (APC-Resistenz, APC-Ratio)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 14.35,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32206 Aktiviertes Protein C-Resistenz (APC-Resistenz, APC-Ratio)\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32207",
+      "title": "Lupus Antikoagulans (Lupusinhibitoren)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 12.79,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32207 Lupus Antikoagulans (Lupusinhibitoren)\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32208",
+      "title": "Ähnliche Untersuchungen unter Angabe der Art der Untersuchung",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 17.66,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32208 Ähnliche Untersuchungen unter Angabe der Art der Untersuchung\nDie Berechnung der Gebührenordnungsposition 32208 setzt die\nBegründung der medizinischen Notwendigkeit der jeweiligen\nUntersuchung im Einzelfall voraus. Abweichend davon kann\ndie Begründung der medizinischen Notwendigkeit der jeweiligen\nUntersuchung im Einzelfall entfallen bei: Ecarin-Clotting-Time, anti-Xa\nAktivität.\nQuantitative Bestimmung von Einzelfaktoren des\nGerinnungssystems, gilt für die Gebührenordnungspositionen 32210\nbis 32227\nje Faktor\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32210",
+      "title": "Antithrombin III",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 10.49,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32210 Antithrombin III\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32211",
+      "title": "Plasminogen",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 16.84,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32211 Plasminogen\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32212",
+      "title": "Fibrinmonomere, Fibrin- und/oder Fibrinogenspaltprodukte, z. B. D- Dimere",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 17.0,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32212 Fibrinmonomere, Fibrin- und/oder Fibrinogenspaltprodukte, z. B. D-\nDimere\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32213",
+      "title": "Faktor II",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 17.3,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32213 Faktor II\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32214",
+      "title": "Faktor V",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 16.93,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32214 Faktor V\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32215",
+      "title": "Faktor VII",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 31.83,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32215 Faktor VII\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32216",
+      "title": "Faktor VIII",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 22.36,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32216 Faktor VIII\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32217",
+      "title": "Faktor VIII-assoziiertes Protein",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 27.78,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32217 Faktor VIII-assoziiertes Protein\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32218",
+      "title": "Faktor IX",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 22.17,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32218 Faktor IX\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32219",
+      "title": "Faktor X",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 26.77,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32219 Faktor X\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32220",
+      "title": "Faktor XI",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 25.39,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32220 Faktor XI\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32221",
+      "title": "Faktor XII",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 25.39,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32221 Faktor XII\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32222",
+      "title": "Faktor XIII",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 23.83,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32222 Faktor XIII\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32223",
+      "title": "Protein C",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 28.8,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32223 Protein C\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32224",
+      "title": "Protein S",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 28.8,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32224 Protein S\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32225",
+      "title": "Plättchenfaktor 4",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 29.81,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32225 Plättchenfaktor 4\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32226",
+      "title": "C1-Esterase-Inhibitor (C1-INH)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 25.02,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32226 C1-Esterase-Inhibitor (C1-INH)\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32227",
+      "title": "Ähnliche Untersuchungen unter Angabe des Faktors",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 19.04,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32227 Ähnliche Untersuchungen unter Angabe des Faktors\nDie Berechnung der Gebührenordnungsposition 32227 setzt die\nBegründung der medizinischen Notwendigkeit der jeweiligen\nUntersuchung im Einzelfall voraus. Abweichend davon kann\ndie Begründung der medizinischen Notwendigkeit der jeweiligen\nUntersuchung im Einzelfall entfallen bei: Hemmkörperbestimmung\n(Bethesda-Assay), von Willebrand-Faktor/Ristocetin-Cofaktor-Aktivität.\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32228",
+      "title": "Untersuchungen der Thrombozytenfunktion mit mehreren Methoden z. B. Thrombozytenausbreitung, -adhäsion, -aggregation, insgesamt",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 30.54,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32228 Untersuchungen der Thrombozytenfunktion mit mehreren Methoden\nz. B. Thrombozytenausbreitung, -adhäsion, -aggregation, insgesamt\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32229",
+      "title": "Untersuchung der von -Willebrand-Faktor-Multimere",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 69.0,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32229 Untersuchung der von -Willebrand-Faktor-Multimere\nObligater Leistungsinhalt\n- Darstellung der nieder-, mittel- und hochmolekularen Formen des\nvon-Willebrand-Faktors einschließlich der Triplettstrukturen\n- Dokumentation (fotografisch und/oder densitometrisch)\n- Klassifikation pathologischer Befunde gemäß VWD-Klassifikation\nDie Gebührenordnungsposition 32229 ist bei Patienten mit bekanntem\noder mit Verdacht auf ein familiäres von-Willebrand-Syndrom sowie\nbei unklarer angeborener oder erworbener (z. B. lymphoproliferative\nmyeloproliferative Erkrankungen, Herzfehler, Herzleistungssysteme)\nBlutungsneigung berechnungsfähig und setzt den vorherigen\nAusschluss eines Faktorenmangels, einer Thrombopenie oder einer\nThrombozytenfunktionsstörung durch Aggregationshemmer als Ursache\nder Blutungsneigung voraus.\n32.3.4 Klinisch-chemische Untersuchungen\nQuantitative chemische oder physikalische Bestimmung, gilt für die\nGebührenordnungspositionen 32230 bis 32238, 32240 und 32242\nbis 32246 und 32248\nje Untersuchung\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32230",
+      "title": "Methämoglobin",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 8.19,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32230 Methämoglobin\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32231",
+      "title": "Fruktose",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 10.21,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32231 Fruktose\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32232",
+      "title": "Lactat",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 2.0,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32232 Lactat\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32233",
+      "title": "Ammoniak",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 9.94,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32233 Ammoniak\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32234",
+      "title": "Fluorid",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 12.7,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32234 Fluorid\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32235",
+      "title": "Phenylalanin",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 8.46,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32235 Phenylalanin\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32236",
+      "title": "Kreatin",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 14.54,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32236 Kreatin\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32237",
+      "title": "Gesamteiweiß im Liquor oder Harn",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 5.8,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32237 Gesamteiweiß im Liquor oder Harn\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32238",
+      "title": "Plasmaviskosität",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 5.7,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32238 Plasmaviskosität\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32240",
+      "title": "Angiotensin-I-Converting Enzyme (ACE)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 14.08,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32240 Angiotensin-I-Converting Enzyme (ACE)\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32242",
+      "title": "Knochen-AP (Isoenzym der Alkalischen Phosphatase) nach Lektinfällung",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 17.02,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32242 Knochen-AP (Isoenzym der Alkalischen Phosphatase) nach\nLektinfällung\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32243",
+      "title": "Osmotische Erythrozyten-Resistenzbestimmung",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 10.86,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32243 Osmotische Erythrozyten-Resistenzbestimmung\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32244",
+      "title": "Osmolalität (apparative Bestimmung)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 7.45,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32244 Osmolalität (apparative Bestimmung)\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32245",
+      "title": "Gallensäuren",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 14.81,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32245 Gallensäuren\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32246",
+      "title": "Ähnliche Untersuchungen unter Angabe der Art der Untersuchung",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 9.38,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32246 Ähnliche Untersuchungen unter Angabe der Art der Untersuchung\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32247",
+      "title": "Bestimmung der Blutgase und des Säure-Basen-Status",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 9.5,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32247 Bestimmung der Blutgase und des Säure-Basen-Status\nObligater Leistungsinhalt\n- Bestimmung der Wasserstoffionenkonzentration (pH) im Blut\n- Bestimmung des Kohlendioxidpartialdrucks (pCO2)\n- Bestimmung des Sauerstoffpartialdrucks (pO2)\nFakultativer Leistungsinhalt\n- Messung der prozentualen Sauerstoffsättigung (SpO2)\n- Messung oder Berechnung weiterer Kenngrößen in\ndemselben Untersuchungsgang (z. B. Hämoglobin, Bicarbonat\nBasenabweichung)\nDie Gebührenordnungsposition 32247 ist nicht neben den\nGebührenordnungspositionen 01500, 01501, 01510 bis 01512, 01520\nbis 01522, 01530, 01531, 01540 bis 01545, 01857, 04536, 05350, 05372\n13250, 13256, 13652, 13661, 36884 und 37705 berechnungsfähig.\nDie Gebührenordnungsposition 32247 ist im Behandlungsfall nicht neben\nden Gebührenordnungspositionen 04560 bis 04562, 04564 bis 04566\n04572, 04573, 13600 bis 13602, 13610 bis 13612 und 13620 bis 13622\nberechnungsfähig.\nQuantitative chemische oder physikalische Bestimmung, gilt für die\nGebührenordnungspositionen 32250 bis 32254 und 32257 bis 32262\nje Untersuchung\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32248",
+      "title": "Magnesium",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 1.29,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32248 Magnesium\nDie Berechnung der Gebührenordnungsposition 32246 setzt die\nBegründung der medizinischen Notwendigkeit der jeweiligen\nUntersuchung im Einzelfall voraus. Abweichend davon kann\ndie Begründung der medizinischen Notwendigkeit der jeweiligen\nUntersuchung im Einzelfall entfallen bei: Äthanol im Serum, beta-\nHydroxybuttersäure, Fettsäuren (frei im Serum, unverestert) und\nZinkprotoporphyrin.\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32250",
+      "title": "Spektralphotometrische Bilirubin-Bestimmung im Fruchtwasser oder im Blut des Neugeborenen",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 10.21,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32250 Spektralphotometrische Bilirubin-Bestimmung im Fruchtwasser oder\nim Blut des Neugeborenen\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32251",
+      "title": "Carboxyhämoglobin",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 25.39,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32251 Carboxyhämoglobin\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32252",
+      "title": "Carnitin",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 24.75,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32252 Carnitin\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32253",
+      "title": "Stuhlfett-Ausscheidung pro 24 Stunden",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 13.06,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32253 Stuhlfett-Ausscheidung pro 24 Stunden\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32254",
+      "title": "Fetales (HbF) oder freies Hämoglobin",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 6.72,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32254 Fetales (HbF) oder freies Hämoglobin\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32257",
+      "title": "Citronensäure/Citrat",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 15.82,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32257 Citronensäure/Citrat\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32258",
+      "title": "Oxalsäure/Oxalat",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 21.99,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32258 Oxalsäure/Oxalat\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32259",
+      "title": "Phosphohexose-Isomerase (PHI)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 13.43,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32259 Phosphohexose-Isomerase (PHI)\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32260",
+      "title": "Glucose-6-Phosphat-Dehydrogenase (G6P-DH)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 15.64,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32260 Glucose-6-Phosphat-Dehydrogenase (G6P-DH)\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32261",
+      "title": "Pyruvatkinase",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 13.43,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32261 Pyruvatkinase\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32262",
+      "title": "Ähnliche Untersuchungen unter Angabe der Art der Untersuchung",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 14.17,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32262 Ähnliche Untersuchungen unter Angabe der Art der Untersuchung\nDie Berechnung der Gebührenordnungsposition 32262 setzt die\nBegründung der medizinischen Notwendigkeit der jeweiligen\nUntersuchung im Einzelfall voraus. Abweichend davon kann\ndie Begründung der medizinischen Notwendigkeit der jeweiligen\nUntersuchung im Einzelfall entfallen bei: Galaktose-I-Phosphat-\nUridyltransferase, alpha-Glucosidase, alpha-Galaktosidase, beta-\nGalaktosidase, Phosphofruktokinase i. E., UDP-Galaktose-\nEpimerase, Biotinidase, Carnitin-Palmityl-Transferase-II Aktivität\nPhosphoisomerase, Phosphomannomutase, Kryoglobuline.\nQuantitative physikalische Bestimmung von Elementen\nmittels Atomabsorption oder ICP-MS, gilt für die\nGebührenordnungspositionen 32265, 32267 bis 32274, 32277 bis\n32281 und 32283\nje Untersuchung\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32265",
+      "title": "Calcium im Harn",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 2.85,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32265 Calcium im Harn\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32267",
+      "title": "Zink",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 11.32,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32267 Zink\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32268",
+      "title": "Nickel",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 14.81,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32268 Nickel\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32269",
+      "title": "Arsen",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 14.81,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32269 Arsen\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32270",
+      "title": "Aluminium",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 11.32,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32270 Aluminium\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32271",
+      "title": "Blei",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 12.7,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32271 Blei\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32272",
+      "title": "Cadmium",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 9.9,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32272 Cadmium\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32273",
+      "title": "Chrom",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 14.08,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32273 Chrom\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32274",
+      "title": "Eisen im Harn",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 17.66,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32274 Eisen im Harn\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32277",
+      "title": "Kupfer im Harn oder Gewebe",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 8.1,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32277 Kupfer im Harn oder Gewebe\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32278",
+      "title": "Mangan",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 11.32,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32278 Mangan\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32279",
+      "title": "Quecksilber",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 11.32,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32279 Quecksilber\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32280",
+      "title": "Selen",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 13.43,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32280 Selen\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32281",
+      "title": "Thallium",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 12.6,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32281 Thallium\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32283",
+      "title": "Spurenelemente unter Angabe der Art der Untersuchung Der Höchstwert für die Untersuchungen nach den Nrn. 32265, 32267 bis",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 8.92,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32283 Spurenelemente unter Angabe der Art der Untersuchung\nDer Höchstwert für die Untersuchungen nach den Nrn. 32265, 32267 bis\n32274, 32277 bis 32281 und 32283 beträgt 24,50 EURO.\nQualitativer chromatographischer Nachweis einer oder mehrerer\nSubstanz(en), gilt für die Gebührenordnungspositionen 32290 bis 32294\nje Untersuchungsgang\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32290",
+      "title": "Aminosäuren",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 16.47,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32290 Aminosäuren\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32291",
+      "title": "Porphyrine",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 20.8,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32291 Porphyrine\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    }
+  ]
+}

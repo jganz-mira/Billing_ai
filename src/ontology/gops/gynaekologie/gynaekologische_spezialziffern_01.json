@@ -1,0 +1,1225 @@
+{
+  "gops": [
+    {
+      "code": "01474",
+      "title": "Zusatzpauschale für die Verlaufskontrolle und die Auswertung der digitalen Gesundheitsanwendung (DiGA) Invirto gemäß dem Verzeichnis für digitale Gesundheitsanwendungen gemäß § 139e SGB V bei folgenden Indikationen: - Agoraphobie mit und ohne Panikstörung (Modul Agora) oder - Panikstörung (Modul Panik) oder - Soziale Phobien (Modul Sozial)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 8.15,
+        "valuation_in_points": 64
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "der digitalen Gesundheitsanwendung (DiGA) Invirto gemäß dem Verzeichnis für digitale Gesundheitsanwendungen gemäß § 139e SGB V bei folgenden Indikationen: - Agoraphobie mit und ohne Panikstörung (Modul Agora) oder - Panikstörung (Modul Panik) oder - Soziale Phobien (Modul Sozial), je dokumentierter Indikation einmal im Krankheitsfall Die Gebührenordnungsposition 01474 ist ausschließlich bei Patienten ab Beginn des 19. bis zum vollendeten 66. Lebensjahr berechnungsfähig."
+    },
+    {
+      "code": "01479",
+      "title": "Zusatzpauschale für die Verlaufskontrolle und die Auswertung der digitalen Gesundheitsanwendung (DiGA) elona therapy Depression gemäß dem Verzeichnis für digitale Gesundheitsanwendungen gemäß § 139e SGB V",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 8.15,
+        "valuation_in_points": 64
+      },
+      "mandatory_services": null,
+      "facultative_services": "- Individualisierung von Inhalten,",
+      "billing_info": "digitalen Gesundheitsanwendung (DiGA) elona therapy Depression gemäß dem Verzeichnis für digitale Gesundheitsanwendungen gemäß § 139e SGB V einmal im Behandlungsfall Die Gebührenordnungsposition 01479 ist im Krankheitsfall höchstens zweimal berechnungsfähig. Die Gebührenordnungsposition 01479 ist auch bei Durchführung der Leistung im Rahmen einer Videosprechstunde berechnungsfähig und dies durch Angabe einer bundeseinheitlich kodierten Zusatzkennzeichnung zu dokumentieren. Für die Abrechnung gelten die Anforderungen gemäß Anlage 31b zum BMV-Ä entsprechend. Die Gebührenordnungsposition 01479 ist ausschließlich bei Patienten ab Beginn des 19. bis zum vollendeten 66. Lebensjahr berechnungsfähig."
+    },
+    {
+      "code": "01698",
+      "title": "Zuschlag für Leistungen nach den Gebührenordnungspositionen 01840 und 01915 für Vertragsärzte, die zur Versorgung gemäß Kapitel 8 zugelassen sind",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 0.64,
+        "valuation_in_points": 5
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "01698 Zuschlag für Leistungen nach den Gebührenordnungspositionen 0,64 €\n01840 und 01915 für Vertragsärzte, die zur Versorgung gemäß 5 Punkte\nKapitel 8 zugelassen sind\neinmal im Behandlungsfall\nDie Gebührenordnungsposition 01698 ist im Behandlungsfall nicht neben\nder Gebührenordnungsposition 01437 berechnungsfähig."
+    },
+    {
+      "code": "01762",
+      "title": "Zytologische Untersuchung gemäß Teil III. C. § 6 der Richtlinie für organisierte Krebsfrüherkennungsprogramme (oKFE-RL)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 10.32,
+        "valuation_in_points": 81
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "01762 Zytologische Untersuchung gemäß Teil III. C. § 6 der Richtlinie für 10,32 €\norganisierte Krebsfrüherkennungsprogramme (oKFE-RL) 81 Punkte\nObligater Leistungsinhalt\n- Zytologische Untersuchung eines oder mehrerer Abstriche(s) als\nkonventionelle(r) Abstrich(e), von der Portio-Oberfläche und aus dem\nZervixkanal\nFakultativer Leistungsinhalt\n- Durchführung der zytologischen Untersuchung mittels\nDünnschichtverfahren anstatt als konventioneller Abstrich\nDie Berechnung der Gebührenordnungsposition 01762 setzt eine\nGenehmigung der Kassenärztlichen Vereinigung nach der Zytologie-\nVereinbarung gemäß § 135 Abs. 2 SGB V voraus.\nDie Gebührenordnungsposition 01762 ist nicht neben den\nGebührenordnungspositionen der Abschnitte 32.3.8 bis 32.3.12\nund den Gebührenordnungspositionen des Kapitels 19 für\nUntersuchungsmaterial, das für die Untersuchung gemäß Teil III. C. § 6\noKFE-RL gewonnen wurde, berechnungsfähig.\nDie Gebührenordnungsposition 01762 ist bei demselben Material\nnicht neben den Gebührenordnungspositionen 08315 und 19327\nberechnungsfähig.\nDie Gebührenordnungsposition 01762 ist am Behandlungstag nicht\nneben der Gebührenordnungsposition 01766 berechnungsfähig.\nDie Gebührenordnungsposition 01762 ist im Behandlungsfall nicht neben\nder Gebührenordnungsposition 01826 berechnungsfähig."
+    },
+    {
+      "code": "01763",
+      "title": "Nachweis von Humanen Papillom-Viren gemäß Teil III. C. § 6 der Richtlinie für organisierte Krebsfrüherkennungsprogramme (oKFE-RL)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 21.4,
+        "valuation_in_points": 168
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "01763 Nachweis von Humanen Papillom-Viren gemäß Teil III. C. § 6 der 21,40 €\nRichtlinie für organisierte Krebsfrüherkennungsprogramme (oKFE-168 Punkte\nRL)\nObligater Leistungsinhalt\n- Detektion mindestens der High-Risk-HPV-Typen 16, 18, 31, 33, 35\n39, 45, 51, 52, 56, 58, 59 und 68\nDie Berechnung der Gebührenordnungsposition 01763 setzt den\nNachweis der Ergebnisse der externen Qualitätssicherungsmaßnahmen\ngemäß Teil III. D. § 8 Abs. 3 der oKFE-RL gegenüber der\nKassenärztlichen Vereinigung voraus.\nDie Berechnung der Gebührenordnungsposition 01763 setzt die\nAnwendung eines Tests, für den die Erfüllung der Kriterien gemäß Teil\nIII. D. § 8 Abs. 3 der oKFE-RL nachgewiesen ist, voraus.\nDie Gebührenordnungsposition 01763 ist nicht neben den\nGebührenordnungspositionen der Abschnitte 32.3.8 bis 32.3.12\nund den Gebührenordnungspositionen des Kapitels 19 für\nUntersuchungsmaterial, das für die Untersuchung gemäß Teil III. C. § 6\noKFE-RL gewonnen wurde, berechnungsfähig.\nDie Gebührenordnungsposition 01763 ist bei demselben Material nicht\nneben der Gebührenordnungsposition 08315 berechnungsfähig.\nDie Gebührenordnungsposition 01763 ist am Behandlungstag\nnicht neben den Gebührenordnungspositionen 01767 und 19328\nberechnungsfähig.\n1.7.3.2.2 Abklärungsdiagnostik zur Früherkennung des Zervixkarzinoms\ngemäß Teil III. C. § 7 der Richtlinie für organisierte\nKrebsfrüherkennungsprogramme (oKFE-RL)\n1. Entgegen Nr. 2.1 der Allgemeinen Bestimmungen sind die\nGebührenordnungspositionen des Unterabschnittes 1.7.3.2.2 auch\ndann berechnungsfähig, wenn die Dokumentation als Bestandteil des\nLeistungsinhalts bis zum 15. Kalendertag des 2. Monats des jeweiligen\nFolgequartals vollständig übermittelt wird."
+    },
+    {
+      "code": "01766",
+      "title": "Zytologische Untersuchung gemäß Teil III. C. § 7 mittels Zytologie der Richtlinie für organisierte Krebsfrüherkennungsprogramme (oKFE-RL)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 36.69,
+        "valuation_in_points": 288
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "01766 Zytologische Untersuchung gemäß Teil III. C. § 7 mittels Zytologie 36,69 €\nder Richtlinie für organisierte Krebsfrüherkennungsprogramme 288 Punkte\n(oKFE-RL)\nObligater Leistungsinhalt\n- Zytologische Untersuchung eines oder mehrerer Abstriche(s) als\nkonventionelle(r) Abstrich(e), von der Portio-Oberfläche und aus dem\nZervixkanal\nFakultativer Leistungsinhalt\n- Vergleichende Beurteilung bei vorliegendem Vorbefund\n- Durchführung der zytologischen Untersuchung mittels\nDünnschichtverfahren anstatt als konventioneller Abstrich\n- Weiterführende immunzytochemische Untersuchungen\nDie Berechnung der Gebührenordnungsposition 01766 setzt eine\nGenehmigung der Kassenärztlichen Vereinigung nach der Zytologie-\nVereinbarung gemäß § 135 Abs. 2 SGB V voraus.\nDie Gebührenordnungsposition 01766 ist nicht neben der\nGebührenordnungsposition 08315, den Gebührenordnungspositionen\nder Abschnitte 32.3.8 bis 32.3.12 und den Gebührenordnungspositionen\ndes Kapitels 19 für Untersuchungsmaterial, das für die Untersuchung\ngemäß Teil III. C. § 7 oKFE-RL gewonnen wurde, berechnungsfähig.\nDie Gebührenordnungsposition 01766 ist bei demselben Material\nnicht neben den Gebührenordnungspositionen 08315 und 19327\nberechnungsfähig.\nDie Gebührenordnungsposition 01766 ist am Behandlungstag nicht\nneben der Gebührenordnungsposition 01762 berechnungsfähig.\nDie Gebührenordnungsposition 01766 ist im Behandlungsfall nicht neben\nder Gebührenordnungsposition 01826 berechnungsfähig."
+    },
+    {
+      "code": "01767",
+      "title": "Nachweis von Humanen Papillom-Viren gemäß Teil III. C. § 7 der Richtlinie für organisierte Krebsfrüherkennungsprogramme (oKFE-RL)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 21.4,
+        "valuation_in_points": 168
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "01767 Nachweis von Humanen Papillom-Viren gemäß Teil III. C. § 7 der 21,40 €\nRichtlinie für organisierte Krebsfrüherkennungsprogramme (oKFE-168 Punkte\nRL)\nObligater Leistungsinhalt\n- Detektion mindestens der High-Risk-HPV-Typen 16, 18, 31, 33, 35\n39, 45, 51, 52, 56, 58, 59 und 68\nDie Berechnung der Gebührenordnungsposition 01767 setzt den\nNachweis der Ergebnisse der externen Qualitätssicherungsmaßnahmen\ngemäß Teil III. D. § 8 Abs. 3 der oKFE-RL gegenüber der\nKassenärztlichen Vereinigung voraus.\nDie Berechnung der Gebührenordnungsposition 01767 setzt die\nAnwendung eines Tests, für den die Erfüllung der Kriterien gemäß Teil\nIII. D. § 8 Abs. 3 der oKFE-RL nachgewiesen ist, voraus.\nDie Gebührenordnungsposition 01767 ist nicht neben den\nGebührenordnungspositionen der Abschnitte 32.3.8 bis 32.3.12\nund den Gebührenordnungspositionen des Kapitels 19 für\nUntersuchungsmaterial, das für die Untersuchung gemäß Teil III. C. § 7\noKFE-RL gewonnen wurde, berechnungsfähig.\nDie Gebührenordnungsposition 01767 ist bei demselben Material nicht\nneben der Gebührenordnungsposition 08315 berechnungsfähig.\nDie Gebührenordnungsposition 01767 ist am Behandlungstag\nnicht neben den Gebührenordnungspositionen 01763 und 19328\nberechnungsfähig."
+    },
+    {
+      "code": "01769",
+      "title": "Zuschlag zu den Gebührenordnungspositionen 01763 und 01767 für die Genotypisierung auf HPV-Typ 16 und HPV-Typ 18 bei einem positiven Nachweis von High-Risk-HPV-Typen",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 21.4,
+        "valuation_in_points": 168
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "01769 Zuschlag zu den Gebührenordnungspositionen 01763 und 01767 21,40 €\nfür die Genotypisierung auf HPV-Typ 16 und HPV-Typ 18 bei einem 168 Punkte\npositiven Nachweis von High-Risk-HPV-Typen\n1.7.4 Mutterschaftsvorsorge\n1. Leistungen der Mutterschaftsvorsorge, die bei Vertretung, im Notfall\noder bei Mit-bzw. Weiterbehandlung erbracht werden, sind nach\nden kurativen Gebührenordnungspositionen berechnungsfähig, wobei\ndie nach Maßgabe der Kassenärztlichen Vereinigung für präventive\nLeistungen vorgegebene Kennzeichnung zu beachten ist.\n2. Die Gebührenordnungspositionen 01788 bis 01790 sind nur von\nFachärzten für Frauenheilkunde und Geburtshilfe berechnungsfähig\ndie die Qualifikationsvoraussetzung zur fachgebundenen genetischen\nBeratung gemäß Gendiagnostikgesetz und Richtlinie der\nGendiagnostikkommission erfüllen oder Fachärzte für Humangenetik\noder auf dem Fachgebiet entsprechend qualifizierte Ärzte mit der\nZusatzbezeichnung Medizinische Genetik sind."
+    },
+    {
+      "code": "01826",
+      "title": "Zytologische Untersuchung des Portio-Abstrichs im Rahmen der Empfängnisregelung",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 8.28,
+        "valuation_in_points": 65
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "01826 Zytologische Untersuchung des Portio-Abstrichs im Rahmen der 8,28 €\nEmpfängnisregelung 65 Punkte\nFakultativer Leistungsinhalt\n- Durchführung der zytologischen Untersuchung mittels\nDünnschichtverfahren anstatt als konventioneller Abstrich\nDie Berechnung der Gebührenordnungsposition 01826 setzt eine\nGenehmigung der Kassenärztlichen Vereinigung nach der Zytologie-\nVereinbarung gemäß § 135 Abs. 2 SGB V voraus.\nDie Gebührenordnungsposition 01826 ist nicht neben den\nGebührenordnungspositionen der Abschnitte 32.3.8 bis 32.3.12\nund den Gebührenordnungspositionen des Kapitels 19 für\nUntersuchungsmaterial, das für die Untersuchung gemäß der Richtlinie\ndes Gemeinsamen Bundesausschusses zur Empfängnisregelung\nund zum Schwangerschaftsabbruch Abschnitt B gewonnen wurde\nberechnungsfähig.\nDie Gebührenordnungsposition 01826 ist bei demselben Material nicht\nneben den Gebührenordnungspositionen 08315, 19310 und 19327\nberechnungsfähig.\nDie Gebührenordnungsposition 01826 ist im Behandlungsfall nicht neben\nden Gebührenordnungspositionen 01762 und 01766 berechnungsfähig."
+    },
+    {
+      "code": "01920",
+      "title": "Beratung vor Beginn einer HIV-Präexpositionsprophylaxe (PrEP) gemäß Anlage 33 zum BMV-Ä",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 20.77,
+        "valuation_in_points": 163
+      },
+      "mandatory_services": "- Persönlicher Arzt-Patienten-Kontakt,\n- Prüfung der Indikation zur PrEP einschließlich Kontraindikationen,\n- Beratung zu:\n- Ziel und Ablauf einer medikamentösen PrEP,\n- Prävention und Transmission von HIV und anderen sexuell übertragbaren Erkrankungen,\n- Notwendigkeit der Kombination mit anderen Präventionsmaßnahmen,\n- Risiko einer Resistenzentwicklung unter PrEP bei unerkannter HIV-Infektion,\n- Therapiebedingten Neben- und Wechselwirkungen,\n- Symptomatik einer primären HIV-Infektion,\n- Weiterführenden Beratungsangeboten,\n- Dauer mindestens 10 Minuten,",
+      "facultative_services": "- Symptombezogene Untersuchungen,",
+      "billing_info": "gemäß Anlage 33 zum BMV-Ä je vollendete 10 Minuten Die Gebührenordnungsposition 01920 ist höchstens dreimal im Krankheitsfall berechnungsfähig. Die Gebührenordnungsposition 01920 ist am Behandlungstag nicht neben der Gebührenordnungsposition 01922 berechnungsfähig."
+    },
+    {
+      "code": "01921",
+      "title": "Einleitung einer HIV-Präexpositionsprophylaxe (PrEP) gemäß Anlage 33 zum BMV-Ä",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 20.77,
+        "valuation_in_points": 163
+      },
+      "mandatory_services": "- Persönlicher Arzt-Patienten-Kontakt,\n- Überprüfung des HIV- und Hepatitis-B-Status,\n- Indikationsstellung zur PrEP einschließlich Prüfung der Kontraindikationen,\n- Auswahl und Verordnung geeigneter Arzneimittel zur PrEP,",
+      "facultative_services": null,
+      "billing_info": "Anlage 33 zum BMV-Ä einmal im Krankheitsfall Die Gebührenordnungsposition 01921 ist am Behandlungstag nicht neben der Gebührenordnungsposition 01922 berechnungsfähig."
+    },
+    {
+      "code": "01922",
+      "title": "Kontrolle im Rahmen einer HIV-Präexpositionsprophylaxe (PrEP) gemäß Anlage 33 des BMV-Ä",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 20.77,
+        "valuation_in_points": 163
+      },
+      "mandatory_services": "- Persönlicher Arzt-Patienten-Kontakt,\n- Überprüfung der Indikation zur PrEP einschließlich Kontraindikationen,\n- Überprüfung des HIV-Status,\n- Kontrolle und/oder Behandlung ggf. aufgetretener therapiebedingter Neben- und Wechselwirkungen,\n- Dauer mindestens 5 Minuten,",
+      "facultative_services": "- Symptombezogene Untersuchungen,\n- Beratung zu:\n- Risikoreduktion und Adhärenzstrategien,\n- Notwendigkeit der Kombination mit anderen Präventionsmaßnahmen,",
+      "billing_info": "gemäß Anlage 33 des BMV-Ä einmal im Behandlungsfall Die Gebührenordnungsposition 01922 ist frühestens 4 Wochen nach Einleitung einer PrEP berechnungsfähig. Die Gebührenordnungsposition 01922 ist am Behandlungstag nicht neben den Gebührenordnungspositionen 01920 und 01921 berechnungsfähig."
+    },
+    {
+      "code": "30100",
+      "title": "Spezifische allergologische Anamnese und/oder Beratung",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 8.28,
+        "valuation_in_points": 65
+      },
+      "mandatory_services": "- Persönlicher Arzt-Patienten-Kontakt,\n- Durchführung einer spezifischen allergologischen Anamnese und/oder\n- Beratung und Befundbesprechung nach Vorliegen der Ergebnisse der Allergietestung,",
+      "facultative_services": "- Anwendung eines schriftlichen Anamnesebogens,\n- Indikationsstellung zu einer Allergietestung,",
+      "billing_info": "je vollendete 5 Minuten Die Gebührenordnungsposition 30100 ist höchstens viermal im Krankheitsfall berechnungsfähig. Die Gebührenordnungsposition 30100 ist im Behandlungsfall nicht neben den Gebührenordnungspositionen 13250 und 13258 berechnungsfähig. 30.1.2 Allergie-Testungen"
+    },
+    {
+      "code": "30110",
+      "title": "Allergologisch-diagnostischer Komplex zur Diagnostik und/oder zum Ausschluss einer (Kontakt-)Allergie vom Spättyp (Typ IV)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 32.87,
+        "valuation_in_points": 258
+      },
+      "mandatory_services": "- Epikutan-Testung,\n- Überprüfung der lokalen Hautreaktion,",
+      "facultative_services": "- Hautfunktionstests (z. B. Alkaliresistenzprüfung, Nitrazingelbtest),\n- ROAT-Testung (wiederholter offener Expositionstest),\n- Okklusion,",
+      "billing_info": "zum Ausschluss einer (Kontakt-)Allergie vom Spättyp (Typ IV) einmal im Krankheitsfall Die Gebührenordnungsposition 30110 ist im Behandlungsfall nicht neben den Gebührenordnungspositionen 13250, 13258 und 30111 berechnungsfähig."
+    },
+    {
+      "code": "30111",
+      "title": "Allergologisch-diagnostischer Komplex zur Diagnostik und/oder zum Ausschluss einer Allergie vom Soforttyp (Typ I)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 28.03,
+        "valuation_in_points": 220
+      },
+      "mandatory_services": "- Prick-Testung, und/oder\n- Scratch-Testung und/oder\n- Reibtestung und/oder\n- Skarifikationstestung und/oder\n- Intrakutan-Testung und/oder\n- Konjunktivaler Provokationstest und/oder\n- Nasaler Provokationstest,\n- Vergleich zu einer Positiv- und Negativkontrolle,\n- Überprüfung der lokalen Hautreaktion,\n- Vorhaltung notfallmedizinischer Versorgung,",
+      "facultative_services": null,
+      "billing_info": "zum Ausschluss einer Allergie vom Soforttyp (Typ I) einmal im Krankheitsfall Die Gebührenordnungsposition 30111 ist im Behandlungsfall nicht neben den Gebührenordnungspositionen 13250, 13258 und 30110 berechnungsfähig."
+    },
+    {
+      "code": "30120",
+      "title": "Rhinomanometrischer Provokationstest",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 8.41,
+        "valuation_in_points": 66
+      },
+      "mandatory_services": "- Nasaler Provokationstest in mindestens 2 Stufen (Kochsalz, Allergen),\n- Rhinomanometrische Funktionsprüfung(en) zum Aktualitätsnachweis von Allergenen,\n- Testung mit Einzel- und/oder Gruppenextrakt,\n- Vorhaltung notfallmedizinischer Versorgung,",
+      "facultative_services": "- Testung mit unterschiedlichen Konzentrationen der Extrakte,",
+      "billing_info": "je Test, höchstens zweimal am Behandlungstag Die Gebührenordnungsposition 30120 ist im Behandlungsfall nicht neben den Gebührenordnungspositionen 13250 und 13258 berechnungsfähig."
+    },
+    {
+      "code": "30121",
+      "title": "Subkutaner Provokationstest",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 20.64,
+        "valuation_in_points": 162
+      },
+      "mandatory_services": "- Subkutaner Provokationstest in mindestens 2 Stufen (Kochsalz, Allergen) zum Aktualitätsnachweis von Allergenen,\n- Testung mit Einzel- und/oder Gruppenallergenen,\n- Vorhaltung notfallmedizinischer Versorgung,\n- Mindestens 2 Stunden Nachbeobachtung,",
+      "facultative_services": "- Testung mit unterschiedlichen Konzentrationen der Extrakte,",
+      "billing_info": "je Test, höchstens fünfmal im Behandlungsfall Die Gebührenordnungsposition 30121 ist im Behandlungsfall nicht neben den Gebührenordnungspositionen 13250 und 13258 berechnungsfähig."
+    },
+    {
+      "code": "30122",
+      "title": "Bronchialer Provokationstest",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 94.41,
+        "valuation_in_points": 741
+      },
+      "mandatory_services": "- Bronchialer Provokationstest in mindestens 2 Stufen (Kochsalz, Allergen) zum Aktualitätsnachweis von Allergenen,\n- Testung mit Einzel- und/oder Gruppenextrakt,\n- Mindestens zweimalige ganzkörperplethysmographische Untersuchungen,\n- Nachbeobachtung von mindestens 3 Stunden Dauer,\n- Vorhaltung notfallmedizinischer Versorgung,\n- Flussvolumenkurve jeweils vor und nach Provokationsstufen,\n- Angabe des verwendeten Protokolls und Dokumentation des Testergebnisses,",
+      "facultative_services": "- Testung mit unterschiedlichen Konzentrationen der Extrakte,",
+      "billing_info": "je Test Die Gebührenordnungsposition 30122 ist nicht neben der Gebührenordnungsposition 13651 berechnungsfähig. Die Gebührenordnungsposition 30122 ist im Behandlungsfall nicht neben den Gebührenordnungspositionen 13250 und 13258 berechnungsfähig."
+    },
+    {
+      "code": "30123",
+      "title": "Oraler Provokationstest",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 18.22,
+        "valuation_in_points": 143
+      },
+      "mandatory_services": "- Oraler Provokationstest in mindestens 2 Stufen (Leerwert oder Trägersubstanz, Allergen) zur Ermittlung von allergischen oder pseudoallergischen Reaktionen auf nutritive Allergene oder Arzneimittel,\n- Vorhaltung notfallmedizinischer Versorgung,\n- Mindestens 2 Stunden Nachbeobachtung,",
+      "facultative_services": null,
+      "billing_info": "je Test Die Gebührenordnungsposition 30123 ist im Behandlungsfall nicht neben den Gebührenordnungspositionen 13250 und 13258 berechnungsfähig. 30.1.3 Hyposensibilisierungsbehandlung"
+    },
+    {
+      "code": "30130",
+      "title": "Hyposensibilisierungsbehandlung",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 13.0,
+        "valuation_in_points": 102
+      },
+      "mandatory_services": "- Hyposensibilisierungsbehandlung (Desensibilisierung) durch subkutane Allergeninjektion(en),\n- Nachbeobachtung von mindestens 30 Minuten Dauer Voraussetzung für die Berechnung der Gebührenordnungsposition 30130 ist die Erfüllung der notwendigen sachlichen und personellen Bedingungen für eine gegebenenfalls erforderliche Schockbehandlung und Intubation.",
+      "facultative_services": null,
+      "billing_info": null
+    },
+    {
+      "code": "30131",
+      "title": "Zuschlag zu der Gebührenordnungsposition 30130 für jede weitere Hyposensibilisierungsbehandlung durch Injektion(en) zu unterschiedlichen Zeiten am selben Behandlungstag (zum Beispiel bei Injektion verschiedener nicht mischbarer Allergene oder Cluster- oder Rush-Therapie)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 10.19,
+        "valuation_in_points": 80
+      },
+      "mandatory_services": "- Hyposensibilisierungsbehandlung (Desensibilisierung) durch subkutane Allergeninjektion(en),\n- Nachbeobachtung von mindestens 30 Minuten Dauer,",
+      "facultative_services": null,
+      "billing_info": "weitere Hyposensibilisierungsbehandlung durch Injektion(en) zu unterschiedlichen Zeiten am selben Behandlungstag (zum Beispiel bei Injektion verschiedener nicht mischbarer Allergene oder Cluster- oder Rush-Therapie) je Hyposensibilisierungsbehandlung Die Gebührenordnungsposition 30131 ist mit Angabe des jeweiligen Injektionszeitpunkts bis zu viermal am Behandlungstag berechnungsfähig. Die Berechnung der Gebührenordnungsposition 30131 neben der Gebührenordnungsposition 30130 und die mehrmalige Berechnung der Gebührenordnungsposition 30131 setzen jeweils eine Desensibilisierungsbehandlung durch Allergeninjektion(en) mit jeweils mindestens 30minütigem Nachbeobachtungsintervall sowie die Angabe des jeweiligen Behandlungszeitpunktes auch bei der Gebührenordnungsposition 30130 voraus. Voraussetzung für die Berechnung der Gebührenordnungsposition 30131 ist die Erfüllung der notwendigen, sachlichen und personellen Bedingungen für eine gegebenenfalls erforderliche Schockbehandlung und Intubation."
+    },
+    {
+      "code": "30133",
+      "title": "Orale Hyposensibilisierungsbehandlung bei Therapieeinleitung",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 7.9,
+        "valuation_in_points": 62
+      },
+      "mandatory_services": "- Orale Hyposensibilisierungsbehandlung (Desensibilisierung) mit AR101 bei Therapieeinleitung,\n- Nachbeobachtung von mindestens 20 Minuten Dauer",
+      "facultative_services": null,
+      "billing_info": "Die Gebührenordnungsposition 30133 ist am Tag der initialen Aufdosierung sowie bei erforderlicher erneuter initialer Aufdosierung gemäß aktuell gültiger Fachinformation mit Angabe des Behandlungszeitpunktes bis zu viermal berechnungsfähig. Voraussetzung für die Berechnung der Gebührenordnungsposition 30133 ist die Erfüllung der notwendigen sachlichen und personellen Bedingungen für eine gegebenenfalls erforderliche Schockbehandlung und Intubation."
+    },
+    {
+      "code": "30134",
+      "title": "Orale Hyposensibilisierungsbehandlung",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 19.88,
+        "valuation_in_points": 156
+      },
+      "mandatory_services": "- Orale Hyposensibilisierungsbehandlung (Desensibilisierung) mit AR101,\n- Nachbeobachtung von mindestens 60 Minuten Dauer,",
+      "facultative_services": null,
+      "billing_info": "einmal am Behandlungstag Die Gebührenordnungsposition 30134 ist nach Gabe der letzten Dosis am Tag der initialen Aufdosierung, nach Gabe der ersten Dosis jeder neuen Dosissteigerungsstufe sowie nach Wiederaufnahme der Therapie gemäß aktuell gültiger Fachinformation mit Angabe des Behandlungszeitpunktes jeweils einmal berechnungsfähig. Voraussetzung für die Berechnung der Gebührenordnungsposition 30134 ist die Erfüllung der notwendigen sachlichen und personellen Bedingungen für eine gegebenenfalls erforderliche Schockbehandlung und Intubation."
+    },
+    {
+      "code": "30200",
+      "title": "Manualmedizinischer Eingriff",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 6.12,
+        "valuation_in_points": 48
+      },
+      "mandatory_services": "- Manualmedizinischer Eingriff an einem oder mehreren Extremitätengelenken,\n- Dokumentation der Funktionsanalyse,",
+      "facultative_services": null,
+      "billing_info": "je Sitzung Die Gebührenordnungsposition 30200 ist im Behandlungsfall höchstens zweimal berechnungsfähig. Die Gebührenordnungsposition 30200 ist nicht neben der Gebührenordnungsposition 30201 berechnungsfähig."
+    },
+    {
+      "code": "30201",
+      "title": "Manualmedizinischer Eingriff an der Wirbelsäule",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 9.05,
+        "valuation_in_points": 71
+      },
+      "mandatory_services": "- Manualmedizinischer Eingriff an der Wirbelsäule,\n- Dokumentation der Funktionsanalyse,",
+      "facultative_services": "- Leistungsinhalt entsprechend der Gebührenordnungsposition 30200,",
+      "billing_info": "je Sitzung Die Gebührenordnungsposition 30201 ist im Behandlungsfall zweimal berechnungsfähig. Ist ein ausreichender Behandlungseffekt mit der zweimaligen Erbringung der Gebührenordnungsposition 30201 im Quartal nicht erzielt worden, kann im Ausnahmefall jede weitere Behandlung nur mit ausführlicher Begründung zur Segmenthöhe, Blockierungsrichtung, muskulären reflektorischen Fixierung und den vegetativen und neurologischen Begleiterscheinungen erfolgen. Die Gebührenordnungsposition 30201 ist nicht neben der Gebührenordnungsposition 30200 berechnungsfähig. 30.2.2 Hyperbare Sauerstofftherapie bei diabetischem Fußsyndrom 1. Die Leistungen dieses Abschnitts sind nur bei Patienten berechnungsfähig, bei denen bei Einleitung der Behandlung ein diabetisches Fußsyndrom mindestens mit einer Läsion bis zur Gelenkkapsel und/oder den/einer Sehne(n) vorliegt und bei denen alle anderen Maßnahmen der Standardtherapie (mindestens Stoffwechseloptimierung, Revaskularisation, medikamentöse Behandlung, leitliniengerechte Wundversorgung, Wunddebridement, Verbände, Druckentlastung, chirurgische Maßnahmen) nachweisbar erfolglos geblieben sind. 2. Die Gebührenordnungsposition 30210 kann nur im Rahmen einer interdisziplinären Fallkonferenz zur Indikationsprüfung nach Nr. 1 für Patienten mit diabetischem Fußsyndrom vor Überweisung an ein Druckkammerzentrum gemäß der Richtlinie des Gemeinsamen Bundesausschusses (Nr. 22 der Anlage I \"Anerkannte Untersuchungs- oder Behandlungsmethoden\" der Richtlinie Methoden vertragsärztliche Versorgung) unter Teilnahme der folgenden Arztgruppen - Fachärzte für Innere Medizin und Endokrinologie und Diabetologie oder - Fachärzte im Gebiet Innere Medizin oder Fachärzte für Allgemeinmedizin, jeweils mit der Zusatzweiterbildung \"Diabetologie\" oder der Bezeichnung \"Diabetologe Deutsche Diabetes Gesellschaft (DDG)\" und - Fachärzte für Innere Medizin mit Schwerpunkt Angiologie oder Fachärzte für Gefäßchirurgie und - sofern verfügbar Fachärzte für Radiologie mit einer Genehmigung der Kassenärztlichen Vereinigung nach der Qualitätssicherungsvereinbarung zur interventionellen Radiologie nach § 135 Abs. 2 SGB V berechnet werden. 3. Die Gebührenordnungsposition 30212 kann nur zur Indikationsprüfung nach Nr. 1 für Patienten mit diabetischem Fußsyndrom vor Überweisung an ein Druckkammerzentrum gemäß der Richtlinie des Gemeinsamen Bundesausschusses (Nr. 22 der Anlage I \"Anerkannte Untersuchungs- oder Behandlungsmethoden\" der Richtlinie Methoden vertragsärztliche Versorgung) von - Fachärzten für Innere Medizin und Endokrinologie und Diabetologie, - Fachärzten im Gebiet Innere Medizin oder Fachärzten für Allgemeinmedizin, jeweils mit der Zusatzweiterbildung \"Diabetologie\" oder der Bezeichnung \"Diabetologe Deutsche Diabetes Gesellschaft (DDG)\" berechnet werden. 4. Eine Einrichtung gilt für die Behandlung des diabetischen Fußsyndroms nach der Gebührenordnungsposition 30214 als qualifiziert, wenn sie folgende Mindeststandards erfüllt: - mindestens ein diabetologisch qualifizierter Arzt gemäß Nr. 3 oder ein Arzt, der - im Durchschnitt der letzten vier Quartale vor Antragstellung - je Quartal die Behandlung von mindestens 100 Patienten mit Diabetes mellitus durchgeführt hat und die Qualifikation zur Durchführung von programmierten Schulungen für Diabetiker nachweisen kann. Fachärzte für Chirurgie, Orthopädie und Dermatologie müssen die Qualifikation zur Durchführung von programmierten Schulungen für Diabetiker nicht nachweisen können. - Medizinisches Fachpersonal mit Kompetenz in lokaler Wundversorgung, nachzuweisen durch von der DDG anerkannte Kurse für Wundversorgung oder gleichwertige Kurse, - Räumlichkeiten gemäß § 6 Absatz 2 Nr. 2 Qualitätssicherungsvereinbarung Ambulantes Operieren, - Ausstattung für angiologische und neurologische Basisdiagnostik, - Voraussetzungen für entsprechende therapeutische Maßnahmen, - Zusammenarbeit mit entsprechend qualifizierten Fachdisziplinen und -berufen (z. B. Fachärzte für Chirurgie oder Gefäßmedizin, Angiologie, orthopädische Schuhmacher, Podologen). Die Erfüllung der Mindeststandards ist der Kassenärztlichen Vereinigung nachzuweisen. Die Mindeststandards gelten nicht für die Betreuung im Rahmen der Bestätigung der Notwendigkeit einer Weiterbehandlung nach jeder 10. Druckkammerbehandlung durch den überweisenden Facharzt nach Nr. 6. 5. Die Gebührenordnungspositionen 30216 und 30218 können nur von einem Arzt berechnet werden, der von der zuständigen Kassenärztlichen Vereinigung eine Genehmigung zur Durchführung der hyperbaren Sauerstofftherapie besitzt. Die Genehmigung wird erteilt, wenn die Anforderungen der Vereinbarung von Qualitätssicherungsmaßnahmen nach § 135 Abs. 2 SGB V zur hyperbaren Sauerstofftherapie bei diabetischem Fußsyndrom erfüllt sind. 6. Ein Behandlungszyklus der hyperbaren Sauerstofftherapie ist definiert als die aufeinanderfolgende Druckkammerbehandlung an wöchentlich mindestens drei Tagen. Liegen mehrere behandlungsrelevante Wunden gleichzeitig vor, so gehören diese zum gleichen Behandlungszyklus. Insgesamt sind in einem Behandlungszyklus höchstens 40 Behandlungen berechnungsfähig. Eine einmalige Unterbrechung von maximal einer Woche ist je Behandlungszyklus möglich. Im Krankheitsfall sind mit schriftlicher Begründung bis zu zwei Behandlungszyklen berechnungsfähig. Ein zweiter Behandlungszyklus im Krankheitsfall für die gleiche(n) Wunde(n) setzt eine ausführliche Begründung der medizinischen Notwendigkeit im Einzelfall voraus. Jeweils nach 10 Druckkammerbehandlungen muss der überweisende Facharzt oder seine Vertretung gemäß § 17 Abs. 3 Bundesmantelvertrag-Ärzte (BMV-Ä) die Notwendigkeit einer Weiterbehandlung basierend auf der Fotodokumentation und einer Beurteilung der Wundheilungstendenz schriftlich bestätigen. Hierfür gelten die Anforderungen nach Nr. 4 nicht."
+    },
+    {
+      "code": "30300",
+      "title": "Sensomotorische Übungsbehandlung (Einzelbehandlung)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 11.08,
+        "valuation_in_points": 87
+      },
+      "mandatory_services": "- Physikalische Maßnahmen,\n- Einzelbehandlung,\n- Höchstens 60 Minuten Dauer,\n- Systematische Übungsbehandlung komplexer Funktionsstörungen von Organsystemen,\n- sensomotorisch und/oder\n- neurophysiologisch,",
+      "facultative_services": "- Einweisung der Bezugsperson(en) in das Verfahren,",
+      "billing_info": "je vollendete 15 Minuten Die Gebührenordnungsposition 30300 ist nicht neben den Gebührenordnungspositionen 04355, 04356, 14220, 14221, 14310, 14311, 16220, 21220, 21221 und 30301 und nicht neben den Gebührenordnungspositionen des Abschnitts 30.4 berechnungsfähig."
+    },
+    {
+      "code": "30301",
+      "title": "Sensomotorische Übungsbehandlung (Gruppenbehandlung)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 3.82,
+        "valuation_in_points": 30
+      },
+      "mandatory_services": "- Physikalische Maßnahmen,\n- Gruppenbehandlung,\n- Mit 2 bis 6 Teilnehmern,\n- Höchstens 60 Minuten Dauer,\n- Systematische Übungsbehandlung komplexer Funktionsstörungen von Organsystemen,\n- sensomotorisch und/oder\n- neurophysiologisch,",
+      "facultative_services": "- Einweisung der Bezugsperson(en) in das Verfahren,",
+      "billing_info": "je Teilnehmer, je vollendete 15 Minuten Die Gebührenordnungsposition 30301 ist nicht neben den Gebührenordnungspositionen 04355, 04356, 14220, 14221, 14310, 14311, 16220, 21220, 21221 und 30300 und nicht neben den Gebührenordnungspositionen des Abschnitts 30.4 berechnungsfähig."
+    },
+    {
+      "code": "30400",
+      "title": "Massagetherapie",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 9.43,
+        "valuation_in_points": 74
+      },
+      "mandatory_services": "- Massagetherapie lokaler Gewebeveränderungen eines oder mehrerer Körperteile und/oder\n- Manuelle Bindegewebsmassage und/oder\n- Periostmassage und/oder\n- Kolonmassage und/oder\n- Manuelle Lymphdrainage,",
+      "facultative_services": null,
+      "billing_info": "je Sitzung Die Gebührenordnungsposition 30400 ist am Tag nur einmal berechnungsfähig. Die Gebührenordnungsposition 30400 ist nicht neben den Gebührenordnungspositionen 30300, 30301, 30401, 30402, 30410, 30411, 30420 und 30421 berechnungsfähig."
+    },
+    {
+      "code": "30401",
+      "title": "Intermittierende apparative Kompressionstherapie",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 4.33,
+        "valuation_in_points": 34
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "je Bein, je Sitzung Die Gebührenordnungsposition 30401 ist nur bei Vorliegen einer der im Folgenden genannten Diagnosen gemäß ICD-10-GM berechnungsfähig: I70.20 und I70.21 Artherosklerose der Extremitätenarterien i. V. m. R60.0 Umschriebenes Ödem, I83.0 Varizen der unteren Extremitäten mit Ulzeration, I87.0- Postthrombotisches Syndrom, I87.2- Venöse Insuffizienz (chronisch) (peripher), I89.0- Lymphödem, andernorts nicht klassifiziert, L97 Ulcus cruris venosum, M34.0 Progressive systemische Sklerose, Q27.8 Sonstige näher bezeichnete angeborene Fehlbildungen des peripheren Gefäßsystems, Q82.0- Hereditäres Lymphödem, T93.- Folgen von Verletzungen der unteren Extremität i. V. m. R60.0 Umschriebenes Ödem. Die Gebührenordnungsposition 30401 ist nicht neben den Gebührenordnungspositionen 30300, 30301, 30400, 30402, 30410, 30411, 30420 und 30421 berechnungsfähig."
+    },
+    {
+      "code": "30402",
+      "title": "Unterwasserdruckstrahlmassage",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 12.36,
+        "valuation_in_points": 97
+      },
+      "mandatory_services": "- Unterwasserdruckstrahlmassage,\n- Wanneninhalt mindestens 400 l,\n- Leistung der Apparatur mindestens 400 kPa (4 bar)",
+      "facultative_services": "- Hydroelektrisches Vollbad (\"Stangerbad\")",
+      "billing_info": "Die Gebührenordnungsposition 30402 ist nicht neben den Gebührenordnungspositionen 30300, 30301, 30400, 30401, 30410, 30411, 30420 und 30421 berechnungsfähig."
+    },
+    {
+      "code": "30410",
+      "title": "Atemgymnastik (Einzelbehandlung)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 9.43,
+        "valuation_in_points": 74
+      },
+      "mandatory_services": "- Atemgymnastik und Atmungsschulung,\n- Einzelbehandlung,\n- Dauer mindestens 15 Minuten",
+      "facultative_services": "- Intermittierende Anwendung manueller Weichteiltechniken",
+      "billing_info": "Die Gebührenordnungsposition 30410 ist nicht neben den Gebührenordnungspositionen 30300, 30301, 30400 bis 30402, 30411, 30420 und 30421 berechnungsfähig."
+    },
+    {
+      "code": "30411",
+      "title": "Atemgymnastik (Gruppenbehandlung)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 4.33,
+        "valuation_in_points": 34
+      },
+      "mandatory_services": "- Atemgymnastik und Atmungsschulung,\n- Gruppenbehandlung mit mindestens 3, höchstens 5 Teilnehmern,\n- Dauer mindestens 20 Minuten,",
+      "facultative_services": null,
+      "billing_info": "je Teilnehmer Die Gebührenordnungsposition 30411 ist nicht neben den Gebührenordnungspositionen 30300, 30301, 30400 bis 30402, 30410, 30420 und 30421 berechnungsfähig."
+    },
+    {
+      "code": "30420",
+      "title": "Krankengymnastik (Einzelbehandlung)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 11.98,
+        "valuation_in_points": 94
+      },
+      "mandatory_services": "- Krankengymnastische Behandlung,\n- Einzelbehandlung,\n- Dauer mindestens 15 Minuten",
+      "facultative_services": "- Intermittierende Anwendung manueller Weichteiltechniken,\n- Anwendung von Geräten,\n- Durchführung im Bewegungsbad",
+      "billing_info": "Die Gebührenordnungsposition 30420 ist nicht neben den Gebührenordnungspositionen 08310, 26313, 30300, 30301, 30400 bis 30402, 30410, 30411 und 30421 berechnungsfähig."
+    },
+    {
+      "code": "30421",
+      "title": "Krankengymnastik (Gruppenbehandlung)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 6.12,
+        "valuation_in_points": 48
+      },
+      "mandatory_services": "- Krankengymnastische Behandlung,\n- Gruppenbehandlung mit 3 bis 5 Teilnehmern,\n- Dauer mindestens 20 Minuten,",
+      "facultative_services": "- Intermittierende Anwendung manueller Weichteiltechniken,\n- Anwendung von Geräten,\n- Durchführung im Bewegungsbad,",
+      "billing_info": "je Teilnehmer und Sitzung Die Gebührenordnungsposition 30421 ist nicht neben den Gebührenordnungspositionen 08310, 26313, 30300, 30301, 30400 bis 30402, 30410, 30411 und 30420 berechnungsfähig."
+    },
+    {
+      "code": "30500",
+      "title": "Phlebologischer Basiskomplex",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 19.75,
+        "valuation_in_points": 155
+      },
+      "mandatory_services": "- Verschlussplethysmograpische Untersuchung(en) der Extremitätenvenen mit graphischer Registrierung und/oder\n- Lichtreflexionsrheographische Untersuchung(en) der Extremitätenvenen,\n- Doppler-sonographische Untersuchung(en) der Venen und/oder Arterien,\n- Untersuchung(en) ein- und/oder beidseitig,",
+      "facultative_services": "- Doppler-sonographische Druckmessungen an den Extremitätenarterien,\n- Thrombusspaltung einschließlich -expression,",
+      "billing_info": "einmal im Behandlungsfall Die Gebührenordnungsposition 30500 ist nicht neben den Gebührenordnungspositionen 02300 bis 02302, 02311, 10340 bis 10342 und 30214 berechnungsfähig. Die Gebührenordnungsposition 30500 ist im Behandlungsfall nicht neben den Gebührenordnungspositionen 03040, 03220, 03221, 04040, 04220, 04221, 13300, 13545, 33061 und 36882 berechnungsfähig."
+    },
+    {
+      "code": "30501",
+      "title": "Verödung von Varizen",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 13.63,
+        "valuation_in_points": 107
+      },
+      "mandatory_services": "- Verödung von Varizen,\n- Entstauender phlebologischer Funktionsverband,",
+      "facultative_services": null,
+      "billing_info": "je Bein höchstens fünfmal im Behandlungsfall Die Gebührenordnungsposition 30501 ist nicht neben den Gebührenordnungspositionen 02300 bis 02302, 02311, 02313, 10340 bis 10342 und 30214 berechnungsfähig. Die Gebührenordnungsposition 30501 ist im Behandlungsfall nicht neben den Gebührenordnungspositionen 03040, 03220, 03221, 04040, 04220 und 04221 berechnungsfähig."
+    },
+    {
+      "code": "30610",
+      "title": "Behandlung(en) von Hämorrhoiden im anorektalen Bereich durch Sklerosierung am anorektalen Übergang mittels Injektion",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 10.32,
+        "valuation_in_points": 81
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Sklerosierung am anorektalen Übergang mittels Injektion, höchstens viermal im Behandlungsfall Die Gebührenordnungsposition 30610 ist nicht neben den Gebührenordnungspositionen 02300 bis 02302, 10340 bis 10342 und 26350 bis 26352 berechnungsfähig."
+    },
+    {
+      "code": "30611",
+      "title": "Entfernung von Hämorrhoiden am anorektalen Übergang und/oder eines inneren Schleimhautvorfalls mittels elastischer Ligatur nach Barron",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 23.7,
+        "valuation_in_points": 186
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "eines inneren Schleimhautvorfalls mittels elastischer Ligatur nach Barron, höchstens viermal im Behandlungsfall Die Kosten für im Rahmen der Leistungserbringung verbrauchte Ligaturringe sind in der Bewertung der Gebührenordnungsposition 30611 enthalten. Die Gebührenordnungsposition 30611 ist nicht neben den Gebührenordnungspositionen 02300 bis 02302, 10340 bis 10342 und 26350 bis 26352 berechnungsfähig."
+    },
+    {
+      "code": "30700",
+      "title": "Grundpauschale für einen Patienten im Rahmen der Versorgung gemäß der Qualitätssicherungsvereinbarung zur schmerztherapeutischen Versorgung chronisch schmerzkranker Patienten nach § 135 Abs. 2 SGB V",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 50.2,
+        "valuation_in_points": 394
+      },
+      "mandatory_services": "- Persönlicher Arzt-Patienten-Kontakt und/oder Arzt-Patienten- Kontakt im Rahmen einer Videosprechstunde gemäß Anlage 31b zum BMV-Ä,",
+      "facultative_services": "- Weitere persönliche oder andere Arzt-Patienten-Kontakte gemäß 4.3.1 der Allgemeinen Bestimmungen,\n- Ärztlicher Bericht entsprechend der Gebührenordnungsposition 01600,\n- Individueller Arztbrief entsprechend der Gebührenordnungsposition 01601,\n- In Anhang 1 aufgeführte Leistungen,",
+      "billing_info": "Versorgung gemäß der Qualitätssicherungsvereinbarung zur schmerztherapeutischen Versorgung chronisch schmerzkranker Patienten nach § 135 Abs. 2 SGB V einmal im Behandlungsfall Die Grundpauschale 30700 ist in demselben Arztfall nicht neben einer Versichertenpauschale, sonstigen Grundpauschale bzw. Konsiliarpauschale berechnungsfähig. Die Gebührenordnungsposition 30700 ist nicht neben der Gebührenordnungsposition 01436 berechnungsfähig. Die Gebührenordnungsposition 30700 ist im Behandlungsfall nicht neben den Gebührenordnungspositionen 01600, 01601, 03040, 03220, 03221, 03230, 04040, 04220, 04221, 04230 und 04231 berechnungsfähig."
+    },
+    {
+      "code": "30701",
+      "title": "Zuschlag zu der Gebührenordnungsposition 30700",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 1.15,
+        "valuation_in_points": 9
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "einmal im Behandlungsfall Die Gebührenordnungsposition 30701 wird durch die zuständige Kassenärztliche Vereinigung zugesetzt. Die Gebührenordnungsposition 30701 ist im Behandlungsfall nicht neben der Gebührenordnungsposition 01630 berechnungsfähig."
+    },
+    {
+      "code": "30702",
+      "title": "Zusatzpauschale für die schmerztherapeutische Versorgung gemäß der Qualitätssicherungsvereinbarung zur schmerztherapeutischen Versorgung chronisch schmerzkranker Patienten nach § 135 Abs. 2 SGB V",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 63.45,
+        "valuation_in_points": 498
+      },
+      "mandatory_services": "- Basisabklärung und umfassende schmerztherapeutische Versorgung chronisch schmerzkranker Patienten gemäß der Qualitätssicherungsvereinbarung zur schmerztherapeutischen Versorgung chronisch schmerzkranker Patienten nach § 135 Abs. 2, einschließlich\n- Erhebung einer standardisierten Schmerzanamnese einschließlich Auswertung von Fremdbefunden,\n- Durchführung einer Schmerzanalyse,\n- Differentialdiagnostische Abklärung der Schmerzkrankheit,\n- Eingehende Beratung des Patienten einschließlich Festlegung der Therapieziele,\n- Aufstellung eines inhaltlich und zeitlich gestuften Therapieplans unter Berücksichtigung des ermittelten Chronifizierungsstadiums,\n- Vermittlung von bio-psycho-sozialen Zusammenhängen und von Schmerzbewältigungsstrategien,\n- Gewährleistung der Einleitung und Koordination der flankierenden therapeutischen Maßnahmen und/oder\n- Fortführung einer umfassenden schmerztherapeutischen Versorgung chronisch schmerzkranker Patienten gemäß der Qualitätssicherungsvereinbarung zur schmerztherapeutischen Versorgung chronisch schmerzkranker Patienten nach § 135 Abs. 2, einschließlich\n- Zwischenanamnese einschließlich Auswertung von Fremdbefunden,\n- Eingehende Beratung des Patienten und ggf. Überprüfung der Therapieziele und des Therapieplans,\n- Weitere Koordination und ggf. Überprüfung der flankierenden therapeutischen Maßnahmen,\n- Standardisierte Dokumentation(en),\n- Bericht an den Hausarzt über den Behandlungsverlauf,\n- Persönlicher Arzt-Patienten-Kontakt,",
+      "facultative_services": "- Konsiliarische Beratung der gemäß § 6 Abs. 2 der Qualitätssicherungsvereinbarung zur schmerztherapeutischen Versorgung chronisch schmerzkranker Patienten kooperierenden Ärzte,\n- Weitere persönliche oder andere Arzt-Patienten-Kontakte gemäß 4.3.1 der Allgemeinen Bestimmungen,",
+      "billing_info": "der Qualitätssicherungsvereinbarung zur schmerztherapeutischen Versorgung chronisch schmerzkranker Patienten nach § 135 Abs. 2 SGB V einmal im Behandlungsfall Die Zusatzpauschale 30702 ist in demselben Arztfall nur neben der Grundpauschale 30700, nicht neben einer anderen Versichertenpauschale, Grundpauschale bzw. Konsiliarpauschale berechnungsfähig. Die Gebührenordnungsposition 30702 ist nicht neben den Gebührenordnungspositionen 03030, 04030, 05360 und 30930 bis 30933 und nicht neben den Gebührenordnungspositionen der Abschnitte 35.1 und 35.2 berechnungsfähig. Die Gebührenordnungsposition 30702 ist im Behandlungsfall nicht neben den Gebührenordnungspositionen 01600, 01601, 03040, 03220, 03221, 04040, 04220 und 04221 berechnungsfähig."
+    },
+    {
+      "code": "30703",
+      "title": "Hygienezuschlag zu der Gebührenordnungsposition 30700",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 0.25,
+        "valuation_in_points": 2
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "einmal im Behandlungsfall Die Gebührenordnungsposition 30703 wird durch die zuständige Kassenärztliche Vereinigung zugesetzt."
+    },
+    {
+      "code": "30704",
+      "title": "Zuschlag für die Erbringung der Zusatzpauschale 30702 in schmerztherapeutischen Einrichtungen gemäß Anlage I der Qualitätssicherungsvereinbarung Schmerztherapie und Erfüllung der Voraussetzungen gemäß Präambel Nr. 4 - 6",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 38.09,
+        "valuation_in_points": 299
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "in schmerztherapeutischen Einrichtungen gemäß Anlage I der Qualitätssicherungsvereinbarung Schmerztherapie und Erfüllung der Voraussetzungen gemäß Präambel Nr. 4 - 6, einmal im Behandlungsfall Die Gebührenordnungsposition 30704 ist nicht neben der Gebührenordnungsposition 05360 berechnungsfähig. Die Gebührenordnungsposition 30704 ist im Behandlungsfall nicht neben den Gebührenordnungspositionen 03040, 03220, 03221, 04040, 04220 und 04221 berechnungsfähig."
+    },
+    {
+      "code": "30705",
+      "title": "Zuschlag zu der Gebührenordnungsposition 30700 für die Behandlung aufgrund einer TSS-Vermittlung und/oder Vermittlung durch den Hausarzt gemäß Allgemeiner Bestimmung 4.3.10.1, 4.3.10.2 oder 4.3.10.3",
+      "valuation": {
+        "type": "categorized",
+        "category_type": "tss_or_hausarztvermittlung_interval",
+        "categories": [
+          {
+            "label": "TSS-Terminfall oder Hausarztvermittlungsfall, gleicher bis 4. Kalendertag",
+            "valuation_in_euro": 50.2,
+            "valuation_in_points": 394
+          },
+          {
+            "label": "TSS-Terminfall oder Hausarztvermittlungsfall, 5. bis 14. Kalendertag",
+            "valuation_in_euro": 40.16,
+            "valuation_in_points": 315
+          },
+          {
+            "label": "TSS-Terminfall oder Hausarztvermittlungsfall, 15. bis 35. Kalendertag",
+            "valuation_in_euro": 20.08,
+            "valuation_in_points": 158
+          },
+          {
+            "label": "TSS-Akutfall",
+            "valuation_in_euro": 100.4,
+            "valuation_in_points": 788
+          }
+        ]
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Behandlung aufgrund einer TSS-Vermittlung und/oder Vermittlung durch den Hausarzt gemäß Allgemeiner Bestimmung 4.3.10.1, 4.3.10.2 oder 4.3.10.3, einmal im Arztgruppenfall Die Gebührenordnungsposition 30705 kann durch die zuständige Kassenärztliche Vereinigung zugesetzt werden. Die Gebührenordnungsposition 30705 ist im Arztgruppenfall nicht neben der Gebührenordnungsposition 01710 berechnungsfähig. Bewertung gemäß Allgemeiner Bestimmung 4.3.10: Aufschlag auf die Grundpauschale 30700; 100 %, 80 %, 40 % nach Zeitintervall bzw. 200 % im TSS-Akutfall."
+    },
+    {
+      "code": "30708",
+      "title": "Beratung und Erörterung und/oder Abklärung im Rahmen der Schmerztherapie, Dauer mindestens 10 Minuten",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 21.53,
+        "valuation_in_points": 169
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Schmerztherapie, Dauer mindestens 10 Minuten, je vollendete 10 Minuten Die Gebührenordnungsposition 30708 ist auch bei Durchführung der Leistung im Rahmen einer Videosprechstunde berechnungsfähig und dies durch Angabe einer bundeseinheitlich kodierten Zusatzkennzeichnung zu dokumentieren. Für die Abrechnung gelten die Anforderungen gemäß Anlage 31b zum BMV-Ä entsprechend. Bei der Nebeneinanderberechnung der Gebührenordnungsposition 30708 neben der 30702 ist eine Arzt-Patienten-Kontaktzeit von mindestens 55 Minuten Voraussetzung für die Berechnung der Gebührenordnungsposition 30708. Bei der Nebeneinanderberechnung diagnostischer bzw. therapeutischer Gebührenordnungspositionen und der Gebührenordnungsposition 30708 ist eine mindestens 10 Minuten längere Arzt-Patienten-Kontaktzeit als in den entsprechenden Gebührenordnungspositionen angegeben Voraussetzung für die Berechnung der Gebührenordnungsposition 30708. Die Gebührenordnungsposition 30708 ist nur in Behandlungsfällen berechnungsfähig, in denen die Grundpauschale 30700 berechnet worden ist. Die Gebührenordnungsposition 30708 ist nicht neben den Gebührenordnungspositionen 01440, 01500, 01501, 01510 bis 01512, 01520 bis 01522, 01530, 01531, 01540 bis 01545, 01856, 02100 bis 02102, 05320, 05330, 05331, 05340, 05341, 05350, 05372, 31820 bis 31828, 31840, 31841, 36820 bis 36829, 36840 und 36841 berechnungsfähig. Die Gebührenordnungsposition 30708 ist im Behandlungsfall nicht neben den Gebührenordnungspositionen 03040, 03220, 03221, 04040, 04220 und 04221 berechnungsfähig."
+    },
+    {
+      "code": "30710",
+      "title": "Infusion von nach der Betäubungsmittelverschreibungsverordnung verschreibungspflichtigen Analgetika oder von Lokalanästhetika unter systemischer Anwendung in überwachungspflichtiger Konzentration",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 15.16,
+        "valuation_in_points": 119
+      },
+      "mandatory_services": "- Dauer mindestens 30 Minuten Erfolgt über denselben liegenden Zugang (z. B. Kanüle, Katheter) mehr als eine Infusion entsprechend den Gebührenordnungspositionen 01546, 02100 bis 02102 und/oder 30710, so sind die Gebührenordnungspositionen 01546, 02100 bis 02102 und/oder 30710",
+      "facultative_services": null,
+      "billing_info": "verschreibungspflichtigen Analgetika oder von Lokalanästhetika unter systemischer Anwendung in überwachungspflichtiger Konzentration je Behandlungstag nur einmal berechnungsfähig. Die Gebührenordnungsposition 30710 ist nicht neben den Gebührenordnungspositionen 01910, 01911, 02100, 05360, 05372 und 34503 bis 34505 und nicht neben den Gebührenordnungspositionen der Abschnitte 5.3, 31.5 und 36.5 berechnungsfähig. Die Gebührenordnungsposition 30710 ist im Behandlungsfall nicht neben den Gebührenordnungspositionen 03040, 03220, 03221, 04040, 04220 und 04221 berechnungsfähig."
+    },
+    {
+      "code": "30712",
+      "title": "Anleitung des Patienten zur Selbstanwendung der transkutanen elektrischen Nervenstimulation (TENS)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 9.17,
+        "valuation_in_points": 72
+      },
+      "mandatory_services": "- Einsatz des für die Selbstanwendung bestimmten Gerätetyps,",
+      "facultative_services": null,
+      "billing_info": "elektrischen Nervenstimulation (TENS) je Sitzung Die Gebührenordnungsposition 30712 ist im Krankheitsfall höchstens fünfmal berechnungsfähig. Die Gebührenordnungsposition 30712 ist nicht neben den Gebührenordnungspositionen 02101, 02102, 05360, 05372, 31840, 31841, 34503 bis 34505, 36840 und 36841 und nicht neben den Gebührenordnungspositionen des Abschnitts 5.3 berechnungsfähig. Die Gebührenordnungsposition 30712 ist im Behandlungsfall nicht neben den Gebührenordnungspositionen 03040, 03220, 03221, 04040, 04220 und 04221 berechnungsfähig."
+    },
+    {
+      "code": "30720",
+      "title": "Analgesie eines Hirnnerven oder eines Hirnnervenganglions an der Schädelbasis",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 12.74,
+        "valuation_in_points": 100
+      },
+      "mandatory_services": "- Analgesie eines Hirnnerven an seiner Austrittsstelle an der Schädelbasis (Nervus mandibularis am Foramen ovale, Nervus maxillaris am Foramen rotundum) oder\n- Analgesie eines Hirnnervenganglions an der Schädelbasis (Ganglion pterygopalatinum, Ganglion Gasseri)",
+      "facultative_services": null,
+      "billing_info": "Schädelbasis Die Gebührenordnungsposition 30720 ist nur bei Angabe des betreffenden Nerven oder des betreffenden Ganglions berechnungsfähig. Die Gebührenordnungsposition 30720 ist nicht neben den Gebührenordnungspositionen 02101, 02102, 05360, 05372, 31840, 31841, 34503 bis 34505, 36840 und 36841 und nicht neben den Gebührenordnungspositionen des Abschnitts 5.3 berechnungsfähig. Die Gebührenordnungsposition 30720 ist im Behandlungsfall nicht neben den Gebührenordnungspositionen 03040, 03220, 03221, 04040, 04220 und 04221 berechnungsfähig."
+    },
+    {
+      "code": "30721",
+      "title": "Sympathikusblockade (Injektion) am zervikalen Grenzstrang",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 28.92,
+        "valuation_in_points": 227
+      },
+      "mandatory_services": "- Nachweis und Dokumentation des vegetativen Effektes (z. B. seitenvergleichende Messung der Hauttemperatur),\n- Kontinuierliches EKG-Monitoring,\n- Kontinuierliche Pulsoxymetrie,",
+      "facultative_services": null,
+      "billing_info": "je Sitzung Die Gebührenordnungsposition 30721 ist nicht neben den Gebührenordnungspositionen 02101, 02102, 05360, 05372, 31840, 31841, 34503 bis 34505, 36840 und 36841 und nicht neben den Gebührenordnungspositionen des Abschnitts 5.3 berechnungsfähig. Die Gebührenordnungsposition 30721 ist im Behandlungsfall nicht neben den Gebührenordnungspositionen 03040, 03220, 03221, 04040, 04220 und 04221 berechnungsfähig."
+    },
+    {
+      "code": "30722",
+      "title": "Sympathikusblockade (Injektion) am thorakalen oder lumbalen Grenzstrang",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 25.35,
+        "valuation_in_points": 199
+      },
+      "mandatory_services": "- Nachweis und Dokumentation des vegetativen Effektes (z. B. seitenvergleichende Messung der Hauttemperatur),\n- Kontinuierliches EKG-Monitoring,\n- Kontinuierliche Pulsoxymetrie,",
+      "facultative_services": null,
+      "billing_info": "Grenzstrang je Sitzung Die Gebührenordnungsposition 30722 ist nicht neben den Gebührenordnungspositionen 02101, 02102, 05360, 05372, 31840, 31841, 34503 bis 34505, 36840 und 36841 und nicht neben den Gebührenordnungspositionen des Abschnitts 5.3 berechnungsfähig. Die Gebührenordnungsposition 30722 ist im Behandlungsfall nicht neben den Gebührenordnungspositionen 03040, 03220, 03221, 04040, 04220 und 04221 berechnungsfähig."
+    },
+    {
+      "code": "30723",
+      "title": "Ganglionäre Opioid-Applikation",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 12.74,
+        "valuation_in_points": 100
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "je Sitzung Die Gebührenordnungsposition 30723 ist nicht neben den Gebührenordnungspositionen 02101, 02102, 05360, 05372, 31840, 31841, 34503 bis 34505, 36840 und 36841 und nicht neben den Gebührenordnungspositionen des Abschnitts 5.3 berechnungsfähig. Die Gebührenordnungsposition 30723 ist im Behandlungsfall nicht neben den Gebührenordnungspositionen 03040, 03220, 03221, 04040, 04220 und 04221 berechnungsfähig."
+    },
+    {
+      "code": "30724",
+      "title": "Analgesie eines oder mehrerer Spinalnerven und der Rami communicantes an den Foramina intervertebralia",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 25.35,
+        "valuation_in_points": 199
+      },
+      "mandatory_services": "- Nachweis und Dokumentation des vegetativen Effektes (z. B. seitenvergleichende Messung der Hauttemperatur),\n- Kontinuierliches EKG-Monitoring,\n- Kontinuierliche Pulsoxymetrie,",
+      "facultative_services": null,
+      "billing_info": "communicantes an den Foramina intervertebralia je Sitzung Die Gebührenordnungsposition 30724 ist nicht neben den Gebührenordnungspositionen 02101, 02102, 05360, 05372, 31840, 31841, 34503 bis 34505, 36840 und 36841 und nicht neben den Gebührenordnungspositionen des Abschnitts 5.3 berechnungsfähig. Die Gebührenordnungsposition 30724 ist im Behandlungsfall nicht neben den Gebührenordnungspositionen 03040, 03220, 03221, 04040, 04220 und 04221 berechnungsfähig."
+    },
+    {
+      "code": "30730",
+      "title": "Intravenöse regionale Sympathikusblockade in Blutleere",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 86.38,
+        "valuation_in_points": 678
+      },
+      "mandatory_services": "- Nachweis und Dokumentation des vegetativen Effektes (z. B. seitenvergleichende Messung der Hauttemperatur),\n- Kontinuierliches EKG-Monitoring,\n- Kontinuierliche Pulsoxymetrie",
+      "facultative_services": null,
+      "billing_info": "Die Gebührenordnungsposition 30730 ist nicht neben den Gebührenordnungspositionen 02101, 02102, 05360, 05372, 31840, 31841, 34503 bis 34505, 36840 und 36841 und nicht neben den Gebührenordnungspositionen des Abschnitts 5.3 berechnungsfähig. Die Gebührenordnungsposition 30730 ist im Behandlungsfall nicht neben den Gebührenordnungspositionen 03040, 03220, 03221, 04040, 04220 und 04221 berechnungsfähig."
+    },
+    {
+      "code": "30731",
+      "title": "Plexusanalgesie (Plexus zervikalis, brachialis, axillaris, lumbalis, lumbosakralis), Spinal- oder Periduralanalgesie (auch kaudal), einzeitig oder mittels Katheter (auch als Voraussetzung zur Applikation zytostatischer, antiphlogistischer oder immunsuppressiver Substanzen)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 91.48,
+        "valuation_in_points": 718
+      },
+      "mandatory_services": "- Kontinuierliches EKG-Monitoring,\n- Kontinuierliche Pulsoxymetrie,\n- Überwachung von bis zu 2 Stunden,",
+      "facultative_services": "- Kontrolle der Katheterlage durch Injektion eines Lokalanästhetikums,",
+      "billing_info": "lumbosakralis), Spinal- oder Periduralanalgesie (auch kaudal), einzeitig oder mittels Katheter (auch als Voraussetzung zur Applikation zytostatischer, antiphlogistischer oder immunsuppressiver Substanzen) je Sitzung Die Gebührenordnungsposition 30731 ist nicht neben den Gebührenordnungspositionen 02101, 02102, 05360, 05372, 31540, 31840, 31841, 34503 bis 34505, 36840 und 36841 und nicht neben den Gebührenordnungspositionen des Abschnitts 5.3 berechnungsfähig. Die Gebührenordnungsposition 30731 ist im Behandlungsfall nicht neben den Gebührenordnungspositionen 03040, 03220, 03221, 04040, 04220 und 04221 berechnungsfähig."
+    },
+    {
+      "code": "30740",
+      "title": "Überprüfung (z. B. anatomische Lage, Wundverhältnisse) eines zur Langzeitanalgesie angelegten Plexus-, Peridural- oder Spinalkatheters und/oder eines programmierbaren und implantierten Stimulationsgerätes (z. B. SCS- oder DRG- oder PNS- oder ONS-System) im Rahmen der Langzeitanalgesie",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 15.16,
+        "valuation_in_points": 119
+      },
+      "mandatory_services": null,
+      "facultative_services": "- Injektion(en), Filterwechsel und Verbandwechsel,\n- Funktionskontrolle(n),\n- Umprogrammierung(en),\n- Wiederauffüllung einer externen oder implantierten Medikamentenpumpe,",
+      "billing_info": "eines zur Langzeitanalgesie angelegten Plexus-, Peridural- oder Spinalkatheters und/oder eines programmierbaren und implantierten Stimulationsgerätes (z. B. SCS- oder DRG- oder PNS- oder ONS-System) im Rahmen der Langzeitanalgesie je Sitzung Die Gebührenordnungsposition 30740 ist im Rahmen der Funktionskontrolle, ggf. mit Umprogrammierung, von Stimulationsgeräten zur Langzeitanalgesie nur berechnungsfähig bei implantierten Stimulationsgeräten mit Neurostimulator. Die Gebührenordnungsposition 30740 ist nicht neben den Gebührenordnungspositionen 02101, 02102, 05360, 05372, 31540, 31840, 31841, 34503 bis 34505, 36840 und 36841 und nicht neben den Gebührenordnungspositionen des Abschnitts 5.3 berechnungsfähig. Die Gebührenordnungsposition 30740 ist im Behandlungsfall nicht neben den Gebührenordnungspositionen 03040, 03220, 03221, 04040, 04220 und 04221 berechnungsfähig."
+    },
+    {
+      "code": "30750",
+      "title": "Erstprogrammierung einer externen Medikamentenpumpe zur Langzeitanalgesie",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 22.93,
+        "valuation_in_points": 180
+      },
+      "mandatory_services": "- Schulung und Anleitung des Patienten und/oder der Bezugsperson(en)",
+      "facultative_services": "- Funktionskontrolle(n)",
+      "billing_info": "Langzeitanalgesie Die Gebührenordnungsposition 30750 ist nicht neben den Gebührenordnungspositionen 02101, 02102, 02120 und 05360 berechnungsfähig. Die Gebührenordnungsposition 30750 ist im Behandlungsfall nicht neben den Gebührenordnungspositionen 03040, 03220, 03221, 04040, 04220 und 04221 berechnungsfähig."
+    },
+    {
+      "code": "30751",
+      "title": "Langzeitanalgospasmolyse mit Auffüllen einer implantierten Medikamentenpumpe zur intrathekalen Dauerapplikation von Baclofen über mindestens 8 Stunden",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 25.35,
+        "valuation_in_points": 199
+      },
+      "mandatory_services": "- Kontinuierliches EKG-Monitoring,\n- Kontinuierliche Pulsoxymetrie",
+      "facultative_services": null,
+      "billing_info": "Medikamentenpumpe zur intrathekalen Dauerapplikation von Baclofen über mindestens 8 Stunden Die Gebührenordnungsposition 30751 ist nicht neben den Gebührenordnungspositionen 02101, 02102, 05360, 05372, 31840, 31841, 34503 bis 34505, 36840 und 36841 und nicht neben den Gebührenordnungspositionen des Abschnitts 5.3 berechnungsfähig. Die Gebührenordnungsposition 30751 ist im Behandlungsfall nicht neben den Gebührenordnungspositionen 03040, 03220, 03221, 04040, 04220 und 04221 berechnungsfähig."
+    },
+    {
+      "code": "30760",
+      "title": "Dokumentierte Überwachung im Anschluss an die Gebührenordnungsposition 30710 oder nach Eintritt des dokumentierten vegetativen, ggf. sensiblen Effektes im Anschluss an die Gebührenordnungspositionen 30721, 30722, 30724 und 30730",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 30.58,
+        "valuation_in_points": 240
+      },
+      "mandatory_services": "- Kontinuierliches EKG-Monitoring,\n- Kontinuierliche Pulsoxymetrie,\n- Zwischen- und Abschlussuntersuchung(en),\n- Dauer mindestens 30 Minuten",
+      "facultative_services": null,
+      "billing_info": "Gebührenordnungsposition 30710 oder nach Eintritt des dokumentierten vegetativen, ggf. sensiblen Effektes im Anschluss an die Gebührenordnungspositionen 30721, 30722, 30724 und 30730 Die Gebührenordnungsposition 30760 ist nicht neben den Gebührenordnungspositionen 02101, 02102, 05360, 05372, 31840, 31841, 34503 bis 34505, 36840 und 36841 und nicht neben den Gebührenordnungspositionen des Abschnitts 5.3 berechnungsfähig. Die Gebührenordnungsposition 30760 ist im Behandlungsfall nicht neben den Gebührenordnungspositionen 03040, 03220, 03221, 04040, 04220 und 04221 berechnungsfähig."
+    },
+    {
+      "code": "30780",
+      "title": "Zusatzpauschale für die Verlaufskontrolle und die Auswertung der digitalen Gesundheitsanwendung (DiGA) somnio gemäß dem Verzeichnis für digitale Gesundheitsanwendungen gemäß § 139e SGB V",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 8.15,
+        "valuation_in_points": 64
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "der digitalen Gesundheitsanwendung (DiGA) somnio gemäß dem Verzeichnis für digitale Gesundheitsanwendungen gemäß § 139e SGB V, einmal im Behandlungsfall Die Gebührenordnungsposition 30780 ist auch bei Durchführung der Leistung im Rahmen einer Videosprechstunde berechnungsfähig und dies durch Angabe einer bundeseinheitlich kodierten Zusatzkennzeichnung zu dokumentieren. Für die Abrechnung gelten die Anforderungen gemäß Anlage 31b zum BMV-Ä entsprechend. Die Gebührenordnungsposition 30780 ist im Behandlungsfall nicht neben der Gebührenordnungsposition 01471 berechnungsfähig."
+    },
+    {
+      "code": "30781",
+      "title": "Zusatzpauschale für die Verlaufskontrolle und die Auswertung der digitalen Gesundheitsanwendung (DiGA) Vivira gemäß dem Verzeichnis für digitale Gesundheitsanwendungen gemäß § 139e SGB V",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 8.15,
+        "valuation_in_points": 64
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "der digitalen Gesundheitsanwendung (DiGA) Vivira gemäß dem Verzeichnis für digitale Gesundheitsanwendungen gemäß § 139e SGB V, einmal im Behandlungsfall Die Gebührenordnungsposition 30781 ist im Krankheitsfall höchstens zweimal berechnungsfähig. Die Gebührenordnungsposition 30781 ist im Behandlungsfall nicht neben der Gebührenordnungsposition 01472 berechnungsfähig. 30.7.2 Andere schmerztherapeutische Behandlungen"
+    },
+    {
+      "code": "30800",
+      "title": "Hinzuziehung eines soziotherapeutischen Leistungserbringers",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 8.54,
+        "valuation_in_points": 67
+      },
+      "mandatory_services": "- Hinzuziehung eines soziotherapeutischen Leistungserbringers durch den Vertragsarzt, der keine Genehmigung zur Verordnung von Soziotherapie besitzt,\n- Beachtung der Richtlinie des Gemeinsamen Bundesausschusses über die Durchführung von Soziotherapie in der vertragsärztlichen Versorgung,\n- Motivation des Patienten zur Wahrnehmung von Soziotherapie,\n- Verordnung von bis zu 5 Therapieeinheiten",
+      "facultative_services": "- Überweisung zu einem bezüglich der Soziotherapie verordnungsbefugten Leistungserbringer",
+      "billing_info": null
+    },
+    {
+      "code": "30810",
+      "title": "Erstverordnung Soziotherapie",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 21.4,
+        "valuation_in_points": 168
+      },
+      "mandatory_services": "- Erstverordnung von Behandlungsmaßnahmen zur Soziotherapie von",
+      "facultative_services": "- Anpassung des Betreuungsplanes nach verordneten Probestunden,",
+      "billing_info": "bis zu 30 Therapieeinheiten, - Beachtung der Richtlinie des Gemeinsamen Bundesausschusses über die Durchführung von Soziotherapie in der vertragsärztlichen Versorgung, - Mithilfe bei der Auswahl des Soziotherapeuten, - Mitwirkung bei der Erstellung des soziotherapeutischen Betreuungsplanes, einmal im Krankheitsfall Die Gebührenordnungsposition 30810 ist nur nach Genehmigung durch die Kassenärztliche Vereinigung berechnungsfähig. Die Gebührenordnungsposition 30810 ist am Behandlungstag nicht neben der Gebührenordnungsposition 30811 berechnungsfähig."
+    },
+    {
+      "code": "30811",
+      "title": "Überprüfung der Indikation zur Folgeverordnung Soziotherapie",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 21.4,
+        "valuation_in_points": 168
+      },
+      "mandatory_services": "- Überprüfung und Anpassung des soziotherapeutischen Behandlungsplanes,\n- Beobachtung und Abstimmung des Therapieverlaufs,\n- Beachtung der Richtlinie des Gemeinsamen Bundesausschusses über die Durchführung von Soziotherapie in der vertragsärztlichen Versorgung,",
+      "facultative_services": "- Folgeverordnung von bis zu 30 weiteren Einheiten Soziotherapie,",
+      "billing_info": "je Sitzung Die Gebührenordnungsposition 30811 ist im Behandlungsfall höchstens zweimal berechnungsfähig. Die Gebührenordnungsposition 30811 ist nur nach Genehmigung durch die Kassenärztliche Vereinigung berechnungsfähig. Die Gebührenordnungsposition 30811 ist am Behandlungstag nicht neben der Gebührenordnungsposition 30810 berechnungsfähig."
+    },
+    {
+      "code": "30940",
+      "title": "Erhebung des MRSA-Status eines Risikopatienten gemäß Nr. 3 der Präambel des Abschnitts 30.12 bis sechs Monate nach Entlassung aus einer stationären Behandlung",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 4.84,
+        "valuation_in_points": 38
+      },
+      "mandatory_services": "- Persönlicher Arzt-Patienten-Kontakt,\n- Erhebung und Dokumentation der Risikofaktoren gemäß Nr. 3 der Präambel des Abschnitts 30.12,",
+      "facultative_services": "- Erhebung und Dokumentation von sanierungshemmenden Faktoren,\n- sektorenübergreifende (ambulant, stationär) interdisziplinäre Abstimmung und Information,\n- Indikationsstellung zur Eradikationstherapie,",
+      "billing_info": "Präambel des Abschnitts 30.12 bis sechs Monate nach Entlassung aus einer stationären Behandlung einmal im Behandlungsfall Die Gebührenordnungsposition 30940 ist nicht im kurativ-stationären Behandlungsfall berechnungsfähig."
+    },
+    {
+      "code": "30942",
+      "title": "Behandlung und Betreuung eines Risikopatienten gemäß Nr. 3 der Präambel des Abschnitts 30.12, der Träger von MRSA ist, oder einer positiv nachgewiesenen MRSA-Kontaktperson gemäß der Gebührenordnungsposition 30946",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 16.31,
+        "valuation_in_points": 128
+      },
+      "mandatory_services": "- Persönlicher Arzt-Patienten-Kontakt,\n- Durch-/Weiterführung der Eradikationstherapie, ausgenommen der Wundversorgung,\n- Einleitung, Anleitung bzw. Überwachung der Standardsanierung,\n- Aufklärung und Beratung zu Hygienemaßnahmen, der Eradikationstherapie und der weiteren Sanierungsbehandlung, ggf. unter Einbeziehung der Kontakt-/Bezugsperson(en),\n- Aushändigung des MRSA-Merkblattes,\n- Dokumentation,",
+      "facultative_services": "- Bereitstellung von Informationsmaterialien,",
+      "billing_info": "der Präambel des Abschnitts 30.12, der Träger von MRSA ist, oder einer positiv nachgewiesenen MRSA-Kontaktperson gemäß der Gebührenordnungsposition 30946 einmal im Behandlungsfall Die Gebührenordnungsposition 30942 ist nicht im kurativ-stationären Behandlungsfall berechnungsfähig. Die Gebührenordnungsposition 30942 ist nur bei Versicherten mit der gesicherten Diagnose ICD-10-GM U80.00 oder U80.01 berechnungsfähig. Die Diagnose muss durch eine mikrobiologische Untersuchung gesichert sein, die entweder vom Vertragsarzt veranlasst oder aus dem Krankenhaus übermittelt wurde."
+    },
+    {
+      "code": "30944",
+      "title": "Aufklärung und Beratung eines Risikopatienten gemäß Nr. 3 der Präambel des Abschnitts 30.12, der Träger von MRSA ist, oder einer positiv nachgewiesenen MRSA-Kontaktperson gemäß der Gebührenordnungsposition 30946 im Zusammenhang mit der Durchführung der Leistung der Gebührenordnungsposition 30942",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 16.31,
+        "valuation_in_points": 128
+      },
+      "mandatory_services": "- Persönlicher Arzt-Patienten-Kontakt,\n- Aufklärung und/oder Beratung des Patienten, ggf. unter Einbeziehung der Kontakt-/Bezugsperson(en) oder\n- Aufklärung und/oder Beratung einer Kontaktperson des Patienten gemäß der Gebührenordnungsposition 30946,\n- Dauer mindestens 10 Minuten,",
+      "facultative_services": null,
+      "billing_info": "der Präambel des Abschnitts 30.12, der Träger von MRSA ist, oder einer positiv nachgewiesenen MRSA-Kontaktperson gemäß der Gebührenordnungsposition 30946 im Zusammenhang mit der Durchführung der Leistung der Gebührenordnungsposition 30942 je vollendete 10 Minuten, höchstens zweimal je Sanierungsbehandlung Bei der Nebeneinanderberechnung diagnostischer bzw. therapeutischer Gebührenordnungspositionen und der Gebührenordnungsposition 30944 ist eine mindestens 10 Minuten längere Arzt-Patienten- Kontaktzeit, als in den entsprechenden Gebührenordnungspositionen angegeben, Voraussetzung für die Berechnung der Gebührenordnungsposition 30944. Bei der Nebeneinanderberechnung der Gebührenordnungspositionen 30942 und 30944 ist eine Arzt-Patienten-Kontaktzeit von mindestens 25 Minuten Voraussetzung für die Berechnung der Gebührenordnungsposition 30944. Die Gebührenordnungsposition 30944 ist nicht im kurativ-stationären Behandlungsfall berechnungsfähig. Die Gebührenordnungsposition 30944 ist nur bei Versicherten mit der gesicherten Diagnose ICD-10-GM U80.00 oder U80.01 berechnungsfähig. Die Diagnose muss durch eine mikrobiologische Untersuchung gesichert sein, die entweder vom Vertragsarzt veranlasst oder aus dem Krankenhaus übermittelt wurde."
+    },
+    {
+      "code": "30946",
+      "title": "Abklärungs-Diagnostik einer Kontaktperson nach erfolgloser Sanierung eines MRSA-Trägers",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 3.82,
+        "valuation_in_points": 30
+      },
+      "mandatory_services": "- Persönlicher Arzt-Patienten-Kontakt,\n- Abklärungsdiagnostik,\n- Dokumentation,",
+      "facultative_services": "- Bereitstellung von Informationsmaterialien,",
+      "billing_info": "Sanierung eines MRSA-Trägers einmal im Behandlungsfall Die Kontaktperson muss in dem Zeitraum gemäß Nr. 3 der Präambel des Abschnitts 30.12 mindestens über vier Tage den Schlafraum und/oder die Einrichtung(en) zur Körperpflege mit dem MRSA-Träger, bei dem die Eradikationstherapie oder die weitere Sanierungsbehandlung erfolglos verlief, gemeinsam nutzen und/oder genutzt haben. Die Gebührenordnungsposition 30946 ist nicht im kurativ-stationären Behandlungsfall berechnungsfähig. Die Gebührenordnungsposition 30946 ist nicht berechnungsfähig für Beschäftigte in Pflegeheimen und/oder in der ambulanten Pflege im Rahmen ihrer beruflichen Ausübung."
+    },
+    {
+      "code": "30948",
+      "title": "Teilnahme an einer MRSA-Fall- und/oder regionalen Netzwerkkonferenz gemäß der Qualitätssicherungsvereinbarung MRSA nach § 135 Abs. 2 SGB V",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 10.96,
+        "valuation_in_points": 86
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Netzwerkkonferenz gemäß der Qualitätssicherungsvereinbarung MRSA nach § 135 Abs. 2 SGB V, einmal im Behandlungsfall Die Gebührenordnungsposition 30948 ist nur berechnungsfähig, wenn die Fallkonferenz und/oder regionale Netzwerkkonferenz von der zuständigen Kassenärztlichen Vereinigung anerkannt ist. Die Gebührenordnungsposition 30948 ist nur in Behandlungsfällen in Zusammenhang mit der Durchführung der Leistung der Gebührenordnungsposition 30942 berechnungsfähig, in denen der abrechnende Arzt eine Eradikationstherapie durchführt, und darf nur einmal je Sanierungsbehandlung berechnet werden. Ärzte, die aus dem Abschnitt 30.12 ausschließlich Leistungen gemäß den Gebührenordnungspositionen 30954 und 30956 erbringen und berechnen, können bei Erfüllung der Voraussetzungen der Qualitätssicherungsvereinbarung MRSA gemäß § 135 Abs. 2 SGB V für die Teilnahme an der Netzwerk- und/oder Fallkonferenz zusätzlich die Gebührenordnungsposition 30948 je Behandlungsfall mit der Erbringung der Gebührenordnungspositionen 30954 und/oder 30956 berechnen. Dabei gilt ein Höchstwert von 1.720 Punkten je Praxis und je Netzwerk- und/oder Fallkonferenz. Abweichend davon gilt für den Arzt, der gemäß der Qualitätssicherungsvereinbarung MRSA gemäß § 135 Abs. 2 SGB V vorträgt, ein Höchstwert von 2.838 Punkten je Netzwerk- und/oder Fallkonferenz. Die Gebührenordnungsposition 30948 ist auch bei Durchführung der Fallkonferenz als Videofallkonferenz berechnungsfähig. Für die Abrechnung gelten die Anforderungen gemäß Anlage 31b zum BMV- Ä entsprechend. Die Gebührenordnungsposition 30948 ist nicht neben den Gebührenordnungspositionen 01442, 01443, 37720 und 37804 berechnungsfähig."
+    },
+    {
+      "code": "30950",
+      "title": "Bestätigung einer MRSA-Besiedelung durch Abstrich(e)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 2.42,
+        "valuation_in_points": 19
+      },
+      "mandatory_services": "- Abstrichentnahme(n) (z.B. Nasenvorhöfe, Rachen, Wunde(n)) im Zusammenhang mit der Gebührenordnungsposition 30940 oder 30946 oder\n- Abstrichentnahme(n) (z.B. Nasenvorhöfe, Rachen, Wunde(n)) zur ersten Verlaufskontrolle frühestens 3 Tage und spätestens 4 Wochen nach abgeschlossener Eradikationstherapie gemäß der Gebührenordnungspositionen 30942 und 30944 oder\n- Abstrichentnahme(n) (z.B. Nasenvorhöfe, Rachen, Wunde(n)) zur zweiten Verlaufskontrolle frühestens 3 Monate und spätestens 6 Monate nach abgeschlossener Eradikationstherapie gemäß der Gebührenordnungspositionen 30942 und 30944 oder\n- Abstrichentnahme(n) (z.B. Nasenvorhöfe, Rachen, Wunde(n)) zur dritten Verlaufskontrolle frühestens 11 Monate und spätestens 13 Monate nach abgeschlossener Eradikationstherapie gemäß der Gebührenordnungspositionen 30942 und 30944,",
+      "facultative_services": null,
+      "billing_info": "einmal am Behandlungstag, höchstens zweimal im Behandlungsfall Die Gebührenordnungsposition 30950 ist nur bei Versicherten mit der gesicherten Diagnose ICD-10-GM U80.00 oder U80.01 berechnungsfähig, wenn das Ergebnis der (des) Abstriche(s) vorliegt."
+    },
+    {
+      "code": "30952",
+      "title": "Ausschluss einer MRSA-Besiedelung durch Abstrich(e)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 2.42,
+        "valuation_in_points": 19
+      },
+      "mandatory_services": "- Abstrichentnahme(n) (z.B. Nasenvorhöfe, Rachen, Wunde(n)) im Zusammenhang mit der Gebührenordnungsposition 30940 oder 30946 oder\n- Abstrichentnahme(n) (z.B. Nasenvorhöfe, Rachen, Wunde(n)) zur ersten Verlaufskontrolle frühestens 3 Tage und spätestens 4 Wochen nach abgeschlossener Eradikationstherapie gemäß der Gebührenordnungspositionen 30942 und 30944 oder\n- Abstrichentnahme(n) (z.B. Nasenvorhöfe, Rachen, Wunde(n)) zur zweiten Verlaufskontrolle frühestens 3 Monate und spätestens 6 Monate nach abgeschlossener Eradikationstherapie gemäß der Gebührenordnungspositionen 30942 und 30944 oder\n- Abstrichentnahme(n) (z.B. Nasenvorhöfe, Rachen, Wunde(n)) zur dritten Verlaufskontrolle frühestens 11 Monate und spätestens 13 Monate nach abgeschlossener Eradikationstherapie gemäß der Gebührenordnungspositionen 30942 und 30944,",
+      "facultative_services": null,
+      "billing_info": "einmal am Behandlungstag, höchstens zweimal im Behandlungsfall Die Gebührenordnungsposition 30952 ist nur berechnungsfähig, wenn die Abstrichuntersuchung keinen Nachweis von MRSA aufweist. 30.12.2 Labormedizinischer Nachweis von Methicillin-resistentem Staphylococcus aureus (MRSA)"
+    },
+    {
+      "code": "30954",
+      "title": "Gezielter MRSA-Nachweis auf chromogenem Selektivnährboden",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 6.5,
+        "valuation_in_points": 51
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Die Gebührenordnungsposition 30954 ist nur im Zusammenhang mit der(n) Gebührenordnungsposition(en) 30950 und/oder 30952 berechnungsfähig. Die Gebührenordnungsposition 30954 ist nicht neben der Gebührenordnungsposition 32837 berechnungsfähig."
+    },
+    {
+      "code": "30956",
+      "title": "Nachweis der Koagulase und/oder des Clumpingfaktors zur Erregeridentifikation nur bei positivem Nachweis gemäß Gebührenordnungsposition 30954",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 3.19,
+        "valuation_in_points": 25
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Erregeridentifikation nur bei positivem Nachweis gemäß Gebührenordnungsposition 30954 Die Gebührenordnungsposition 30956 ist nur im Zusammenhang mit der(n) Gebührenordnungsposition(en) 30950 und/oder 30952 berechnungsfähig. Die Gebührenordnungsposition 30956 ist nicht neben der Gebührenordnungsposition 32837 berechnungsfähig."
+    },
+    {
+      "code": "30980",
+      "title": "Abklärung vor der Durchführung eines weiterführenden geriatrischen Assessments nach der Gebührenordnungsposition 30984 durch einen Arzt gemäß Nr. 1 in Absprache mit einem Arzt gemäß Nr. 2 der Bestimmungen zum Abschnitt 30.13",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 24.59,
+        "valuation_in_points": 193
+      },
+      "mandatory_services": "- Persönlicher Arzt-Patienten-Kontakt,\n- Abklärung und konsiliarische Beratung vor der Durchführung eines weiterführenden geriatrischen Assessments zwischen einem Arzt gemäß Nr. 1 und einem geriatrisch spezialisierten Arzt gemäß Nr. 2 der Bestimmungen zum Abschnitt 30.13,\n- Überprüfung der Notwendigkeit eines weiterführenden geriatrischen Assessments und der hierfür ggf. erforderlichen Informationen und Untersuchungsbefunde,",
+      "facultative_services": "- Abklärung offener Fragen mit Angehörigen, Bezugs- und Betreuungspersonen,",
+      "billing_info": "geriatrischen Assessments nach der Gebührenordnungsposition 30984 durch einen Arzt gemäß Nr. 1 in Absprache mit einem Arzt gemäß Nr. 2 der Bestimmungen zum Abschnitt 30.13 einmal im Krankheitsfall Die Gebührenordnungsposition 30980 ist nur nach Abklärung und konsiliarischer Beratung durch einen Arzt gemäß Nr. 1 mit einem Arzt gemäß Nr. 2 der Bestimmungen zum Abschnitt 30.13 berechnungsfähig."
+    },
+    {
+      "code": "30981",
+      "title": "Abklärung vor der Durchführung eines weiterführenden geriatrischen Assessments nach der Gebührenordnungsposition 30984 durch einen Arzt gemäß Nr. 2 in Absprache mit einem Arzt gemäß Nr. 1 der Bestimmungen zum Abschnitt 30.13",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 16.31,
+        "valuation_in_points": 128
+      },
+      "mandatory_services": "- Abklärung und konsiliarische Beratung vor der Durchführung eines weiterführenden geriatrischen Assessments zwischen einem Arzt gemäß Nr. 1 und einem geriatrisch spezialisierten Arzt gemäß Nr. 2 der Bestimmungen zum Abschnitt 30.13,\n- Überprüfung der Notwendigkeit eines weiterführenden geriatrischen Assessments und der hierfür ggf. erforderlichen Informationen und Untersuchungsbefunde,",
+      "facultative_services": "- Abklärung offener Fragen mit Angehörigen, Bezugs- und Betreuungspersonen,",
+      "billing_info": "geriatrischen Assessments nach der Gebührenordnungsposition 30984 durch einen Arzt gemäß Nr. 2 in Absprache mit einem Arzt gemäß Nr. 1 der Bestimmungen zum Abschnitt 30.13 einmal im Krankheitsfall Die Gebührenordnungsposition 30981 ist nur nach Abklärung und konsiliarischer Beratung durch einen Arzt gemäß Nr. 2 mit einem Arzt gemäß Nr. 1 der Bestimmungen zum Abschnitt 30.13 berechnungsfähig."
+    },
+    {
+      "code": "30984",
+      "title": "Weiterführendes geriatrisches Assessment gemäß der Qualitätssicherungsvereinbarung zur spezialisierten geriatrischen Diagnostik nach § 135 Abs. 2 SGB V",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 110.97,
+        "valuation_in_points": 871
+      },
+      "mandatory_services": "- Persönlicher Arzt-Patienten-Kontakt,\n- Umfassendes geriatrisches Assessment (z. B. Selbstversorgungsfähigkeiten, Mobilität, Kognition, Emotion, instrumentelle Aktivitäten) und soziales Assessment (z. B. soziales Umfeld, Wohnumfeld, häusliche/außerhäusliche Aktivitäten, Pflege-/ Hilfsmittelbedarf) jeweils in mindestens fünf Bereichen einschließlich einer Anamnese und einer körperlichen Untersuchung,\n- Einbindung von mindestens einem der folgenden anderen Leistungserbringer gemäß § 6 Nr. 3 der Vereinbarung nach § 118a SGB V: Physiotherapeuten, Ergotherapeuten, Logopäden,\n- Syndrombezogene geriatrische Untersuchungen einschließlich prognostischer Einschätzung zu spezifischen geriatrischen Syndromen,\n- Differentialdiagnostische und differentialprognostische Bewertung der geriatrischen Syndrome und des Gesamtbefundes auf Basis des weiterführenden geriatrischen Assessments,\n- Feststellung des Behandlungsbedarfs, Festlegung von geriatrischen Behandlungszielen und Erstellung eines schriftlichen Behandlungsplans einschließlich Empfehlungen für die medikamentöse Therapie, ggf. zu Heil- und Hilfsmitteln sowie zu rehabilitativen Maßnahmen und zur weiteren Diagnostik und Verlaufsbeurteilung des Patienten,\n- Dauer mindestens 60 Minuten,",
+      "facultative_services": "- Beratung sowie Information über geeignete Behandlungsmöglichkeiten, Beratungs- und Hilfsangebote sowie Unterstützungsleistungen und Kontakte zu Selbsthilfeeinrichtungen für Patienten, ihre Angehörigen und Bezugspersonen,\n- Abstimmung und Beratung mit dem überweisenden Arzt,\n- Nachuntersuchungen,\n- Einbindung von Neuropsychologen und/oder Fachpsychotherapeuten für Neuropsychologische Psychotherapie,",
+      "billing_info": "Qualitätssicherungsvereinbarung zur spezialisierten geriatrischen Diagnostik nach § 135 Abs. 2 SGB V einmal im Krankheitsfall Die Gebührenordnungsposition 30984 ist nur einmal im Krankheitsfall berechnungsfähig. Die zweimalige Berechnung der Gebührenordnungsposition 30984 im Krankheitsfall setzt eine ausführliche Begründung der medizinischen Notwendigkeit im Einzelfall voraus. Entgegen Nr. 4.3.2 der Allgemeinen Bestimmungen kann die Gebührenordnungsposition 30984 auch dann berechnet werden, wenn die Arztpraxis nicht über die Möglichkeit zur Einbindung von Neuropsychologen verfügt. Die Gebührenordnungsposition 30984 ist nicht neben den Gebührenordnungspositionen 03360, 03362 und 30988 berechnungsfähig. Die Gebührenordnungsposition 30984 ist im Behandlungsfall nicht neben der Gebührenordnungsposition 01613 berechnungsfähig."
+    },
+    {
+      "code": "30985",
+      "title": "Zuschlag zur Gebührenordnungsposition 30984 für die Fortsetzung des weiterführenden geriatrischen Assessments",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 40.64,
+        "valuation_in_points": 319
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "des weiterführenden geriatrischen Assessments, je weitere vollendete 30 Minuten, bis zu zweimal im Krankheitsfall"
+    },
+    {
+      "code": "30986",
+      "title": "Zuschlag zur Gebührenordnungsposition 30985 für die Fortsetzung des weiterführenden geriatrischen Assessments",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 29.05,
+        "valuation_in_points": 228
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "des weiterführenden geriatrischen Assessments, je weitere vollendete 30 Minuten, bis zu zweimal im Krankheitsfall"
+    },
+    {
+      "code": "30988",
+      "title": "Zuschlag zu den Gebührenordnungspositionen 03362, 16230, 16231, 21230 und 21231 für die Einleitung und Koordination der Therapiemaßnahmen gemäß multiprofessioneller geriatrischer Diagnostik nach Durchführung eines weiterführenden geriatrischen Assessments gemäß Gebührenordnungsposition 30984",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 8.28,
+        "valuation_in_points": 65
+      },
+      "mandatory_services": "- Persönlicher Arzt-Patienten-Kontakt,\n- Einleitung und/oder Koordination der Behandlung, ggf. Durchführung therapeutischer Maßnahmen gemäß dem Therapieplan, nach Durchführung eines multiprofessionellen geriatrischen Assessments,",
+      "facultative_services": "- Konsiliarische Beratung mit anderen behandelnden Ärzten,",
+      "billing_info": "16231, 21230 und 21231 für die Einleitung und Koordination der Therapiemaßnahmen gemäß multiprofessioneller geriatrischer Diagnostik nach Durchführung eines weiterführenden geriatrischen Assessments gemäß Gebührenordnungsposition 30984 einmal im Krankheitsfall Die Berechnung der Gebührenordnungsposition 30988 setzt das Vorliegen der Ergebnisse eines weiterführenden geriatrischen Assessments nach der Gebührenordnungsposition 30984 voraus. Die Gebührenordnungsposition 30988 ist nur in einem Zeitraum von vier Wochen nach Durchführung eines weiterführenden geriatrischen Assessments nach der Gebührenordnungsposition 30984 berechnungsfähig. Die Gebührenordnungsposition 30988 ist nicht neben der Gebührenordnungsposition 30984 berechnungsfähig."
+    },
+    {
+      "code": "31020",
+      "title": "Zuschlag für zusätzlichen Hygieneaufwand zu der Gebührenordnungsposition 31271",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 3.57,
+        "valuation_in_points": 28
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31020 Zuschlag für zusätzlichen Hygieneaufwand zu der\nGebührenordnungsposition 31271"
+    },
+    {
+      "code": "31021",
+      "title": "Zuschlag für zusätzlichen Hygieneaufwand zu der Gebührenordnungsposition 31342",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 3.69,
+        "valuation_in_points": 29
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31021 Zuschlag für zusätzlichen Hygieneaufwand zu der\nGebührenordnungsposition 31342"
+    },
+    {
+      "code": "31022",
+      "title": "Zuschlag für zusätzlichen Hygieneaufwand zu den Gebührenordnungspositionen 31371, 31372 und 31373",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 6.5,
+        "valuation_in_points": 51
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31022 Zuschlag für zusätzlichen Hygieneaufwand zu den\nGebührenordnungspositionen 31371, 31372 und 31373"
+    },
+    {
+      "code": "31023",
+      "title": "Zuschlag für zusätzlichen Hygieneaufwand zu der Gebührenordnungsposition 31101",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 7.13,
+        "valuation_in_points": 56
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31023 Zuschlag für zusätzlichen Hygieneaufwand zu der\nGebührenordnungsposition 31101"
+    },
+    {
+      "code": "31024",
+      "title": "Zuschlag für zusätzlichen Hygieneaufwand zu der Gebührenordnungsposition 31102",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 7.39,
+        "valuation_in_points": 58
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31024 Zuschlag für zusätzlichen Hygieneaufwand zu der\nGebührenordnungsposition 31102"
+    },
+    {
+      "code": "31025",
+      "title": "Zuschlag für zusätzlichen Hygieneaufwand zu der Gebührenordnungsposition 31341",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 8.66,
+        "valuation_in_points": 68
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31025 Zuschlag für zusätzlichen Hygieneaufwand zu der\nGebührenordnungsposition 31341"
+    },
+    {
+      "code": "31026",
+      "title": "Zuschlag für zusätzlichen Hygieneaufwand zu der Gebührenordnungsposition 31301",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 9.94,
+        "valuation_in_points": 78
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31026 Zuschlag für zusätzlichen Hygieneaufwand zu der\nGebührenordnungsposition 31301"
+    },
+    {
+      "code": "31027",
+      "title": "Zuschlag für zusätzlichen Hygieneaufwand zu den Gebührenordnungspositionen 31231 und 31242",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 14.01,
+        "valuation_in_points": 110
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31027 Zuschlag für zusätzlichen Hygieneaufwand zu den\nGebührenordnungspositionen 31231 und 31242"
+    },
+    {
+      "code": "31028",
+      "title": "Zuschlag für zusätzlichen Hygieneaufwand zu der Gebührenordnungsposition 31171",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 14.14,
+        "valuation_in_points": 111
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31028 Zuschlag für zusätzlichen Hygieneaufwand zu der\nGebührenordnungsposition 31171"
+    },
+    {
+      "code": "31029",
+      "title": "Zuschlag für zusätzlichen Hygieneaufwand zu der Gebührenordnungsposition 31103",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 15.16,
+        "valuation_in_points": 119
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31029 Zuschlag für zusätzlichen Hygieneaufwand zu der\nGebührenordnungsposition 31103"
+    },
+    {
+      "code": "31030",
+      "title": "Zuschlag für zusätzlichen Hygieneaufwand zu der Gebührenordnungsposition 31121",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 15.93,
+        "valuation_in_points": 125
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31030 Zuschlag für zusätzlichen Hygieneaufwand zu der\nGebührenordnungsposition 31121"
+    },
+    {
+      "code": "31031",
+      "title": "Zuschlag für zusätzlichen Hygieneaufwand zu den Gebührenordnungspositionen 31122 und 31302",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 16.44,
+        "valuation_in_points": 129
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31031 Zuschlag für zusätzlichen Hygieneaufwand zu den\nGebührenordnungspositionen 31122 und 31302"
+    },
+    {
+      "code": "31032",
+      "title": "Zuschlag für zusätzlichen Hygieneaufwand zu der Gebührenordnungsposition 31281",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 16.82,
+        "valuation_in_points": 132
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31032 Zuschlag für zusätzlichen Hygieneaufwand zu der\nGebührenordnungsposition 31281"
+    },
+    {
+      "code": "31033",
+      "title": "Zuschlag für zusätzlichen Hygieneaufwand zu der Gebührenordnungsposition 31232",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 17.45,
+        "valuation_in_points": 137
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31033 Zuschlag für zusätzlichen Hygieneaufwand zu der\nGebührenordnungsposition 31232"
+    },
+    {
+      "code": "31034",
+      "title": "Zuschlag für zusätzlichen Hygieneaufwand zu den Gebührenordnungspositionen 31211, 31221 und 31321",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 17.71,
+        "valuation_in_points": 139
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31034 Zuschlag für zusätzlichen Hygieneaufwand zu den\nGebührenordnungspositionen 31211, 31221 und 31321"
+    },
+    {
+      "code": "31035",
+      "title": "Zuschlag für zusätzlichen Hygieneaufwand zu der Gebührenordnungsposition 31096",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 18.09,
+        "valuation_in_points": 142
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31035 Zuschlag für zusätzlichen Hygieneaufwand zu der\nGebührenordnungsposition 31096"
+    },
+    {
+      "code": "31036",
+      "title": "Zuschlag für zusätzlichen Hygieneaufwand zu den Gebührenordnungspositionen 31097 und 31364",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 18.86,
+        "valuation_in_points": 148
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31036 Zuschlag für zusätzlichen Hygieneaufwand zu den\nGebührenordnungspositionen 31097 und 31364"
+    },
+    {
+      "code": "31037",
+      "title": "Zuschlag für zusätzlichen Hygieneaufwand zu der Gebührenordnungsposition 31141",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 19.62,
+        "valuation_in_points": 154
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31037 Zuschlag für zusätzlichen Hygieneaufwand zu der\nGebührenordnungsposition 31141"
+    },
+    {
+      "code": "31038",
+      "title": "Zuschlag für zusätzlichen Hygieneaufwand zu der Gebührenordnungsposition 31131",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 19.88,
+        "valuation_in_points": 156
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31038 Zuschlag für zusätzlichen Hygieneaufwand zu der\nGebührenordnungsposition 31131"
+    },
+    {
+      "code": "31039",
+      "title": "Zuschlag für zusätzlichen Hygieneaufwand zu den Gebührenordnungspositionen 31132 und 31362",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 20.64,
+        "valuation_in_points": 162
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31039 Zuschlag für zusätzlichen Hygieneaufwand zu den\nGebührenordnungspositionen 31132 und 31362"
+    },
+    {
+      "code": "31040",
+      "title": "Zuschlag für zusätzlichen Hygieneaufwand zu den Gebührenordnungspositionen 31111, 31201 und 31311",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 21.4,
+        "valuation_in_points": 168
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31040 Zuschlag für zusätzlichen Hygieneaufwand zu den\nGebührenordnungspositionen 31111, 31201 und 31311"
+    },
+    {
+      "code": "31041",
+      "title": "Zuschlag für zusätzlichen Hygieneaufwand zu der Gebührenordnungsposition 31104",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 22.17,
+        "valuation_in_points": 174
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31041 Zuschlag für zusätzlichen Hygieneaufwand zu der\nGebührenordnungsposition 31104"
+    }
+  ]
+}

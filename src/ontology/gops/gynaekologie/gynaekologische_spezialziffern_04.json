@@ -1,0 +1,1204 @@
+{
+  "gops": [
+    {
+      "code": "31295",
+      "title": "(Endoskopischer) urologischer Eingriff mit Bildwandler der Kategorie RR5",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 624.15,
+        "valuation_in_points": 4899
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31295 (Endoskopischer) urologischer Eingriff mit Bildwandler der\nKategorie RR5\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie RR5 entsprechend Anhang 2\n- Durchleuchtung\n- Bilddokumentation des prä- und postoperativen Befundes\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31295 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31506, für\ndie postoperative Behandlung die Gebührenordnungsposition 31686\noder 31687 berechnet werden.\nDie Berechnung der Gebührenordnungsposition. 31295 setzt eine\nGenehmigung der Kassenärztlichen Vereinigung nach der Vereinbarung\nzur Strahlendiagnostik und -therapie gemäß § 135 Abs. 2 SGB V voraus."
+    },
+    {
+      "code": "31296",
+      "title": "(Endoskopischer) urologischer Eingriff mit Bildwandler der Kategorie RR6",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 838.06,
+        "valuation_in_points": 6578
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31296 (Endoskopischer) urologischer Eingriff mit Bildwandler der\nKategorie RR6\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie RR6 entsprechend Anhang 2\n- Durchleuchtung\n- Bilddokumentation des prä- und postoperativen Befundes\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31296 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31507, für\ndie postoperative Behandlung die Gebührenordnungsposition 31688\noder 31689 berechnet werden.\nDie Berechnung der Gebührenordnungsposition 31296 setzt eine\nGenehmigung der Kassenärztlichen Vereinigung nach der Vereinbarung\nzur Strahlendiagnostik und -therapie gemäß § 135 Abs. 2 SGB V voraus."
+    },
+    {
+      "code": "31297",
+      "title": "(Endoskopischer) urologischer Eingriff mit Bildwandler der Kategorie RR7",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 996.68,
+        "valuation_in_points": 7823
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31297 (Endoskopischer) urologischer Eingriff mit Bildwandler der\nKategorie RR7\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie RR7 entsprechend Anhang 2\n- Durchleuchtung\n- Bilddokumentation des prä- und postoperativen Befundes\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31297 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31507, für\ndie postoperative Behandlung die Gebührenordnungsposition 31688\noder 31689 berechnet werden.\nDie Berechnung der Gebührenordnungsposition 31297 setzt eine\nGenehmigung der Kassenärztlichen Vereinigung nach der Vereinbarung\nzur Strahlendiagnostik und -therapie gemäß § 135 Abs. 2 SGB V voraus."
+    },
+    {
+      "code": "31298",
+      "title": "Zuschlag zu den Gebührenordnungspositionen 31291 bis 31296 bei Simultaneingriffen und zu der Gebührenordnungsposition 31297",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 96.7,
+        "valuation_in_points": 759
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31298 Zuschlag zu den Gebührenordnungspositionen 31291 bis 31296 bei\nSimultaneingriffen und zu der Gebührenordnungsposition 31297\nObligater Leistungsinhalt\n- Schnitt-Naht-Zeit je weitere vollendete 15 Minuten\n- Nachweis der Schnitt-Naht-Zeit über das Anästhesieprotokoll oder\nden OP-Bericht\nje weitere vollendete 15 Minuten Schnitt-Naht-Zeit\nDie Gebührenordnungsposition 31298 kann entsprechend Anhang 2\nPräambel 2.1, Nr. 14 als Zuschlag zu anderen ambulanten Operationen\ndes Abschnitts 31.2 abgerechnet werden.\n31.2.12 Definierte operative Eingriffe der Gynäkologie\n1. Die Durchführung und Berechnung von Leistungen dieses Abschnittes\nmit dem Ziel der Sterilisation der Frau ist nicht berechnungsfähig. Die\nBerechnung von Leistungen zur Sterilisation der Frau erfolgt nach der\nGebührenordnungsposition 01855.\n2. Die Leistung: \"Exzision und Destruktion von erkranktem Gewebe\ndes Uterus: Endometriumablation: Hochfrequenzablation\" (OPS:\n5-681.53) gemäß Nr. 39 der Anlage I \"Anerkannte\nUntersuchungs- oder Behandlungsmethoden\" der Richtlinie Methoden\nvertragsärztliche Versorgung des Gemeinsamen Bundesausschusses\nmit der Kategorie TT2 beinhaltet die Durchführung einer\ndiagnostischen Hysteroskopie in derselben Sitzung. Diese ist über die\nzusätzliche Angabe \"Diagnostische Hysteroskopie\" (OPS: 1-672) zu\ndokumentieren.\nBei Durchführung der Leistung: \"Exzision und Destruktion\nvon erkranktem Gewebe des Uterus: Endometriumablation:\nHochfrequenzablation\" (OPS: 5-681.53) ohne \"Diagnostische\nHysteroskopie\" (OPS: 1-672) in derselben Sitzung sind folgende\nAbschläge vorzunehmen.\nGOP Abschlag in Punkten\n31319 1027\n31503 245\n31697 163\n31698 164\n31822 349\n3. Gynäkologische Eingriffe gemäß den OPS-Kodes 1-570.1 und 1-571.0\nbeinhalten die Durchführung einer Laparoskopie in derselben Sitzung."
+    },
+    {
+      "code": "31301",
+      "title": "Gynäkologischer Eingriff der Kategorie S1",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 107.02,
+        "valuation_in_points": 840
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31301 Gynäkologischer Eingriff der Kategorie S1\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie S1 entsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31301 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31502, für\ndie postoperative Behandlung die Gebührenordnungsposition 31695\noder 31696 berechnet werden."
+    },
+    {
+      "code": "31302",
+      "title": "Gynäkologischer Eingriff der Kategorie S2",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 160.27,
+        "valuation_in_points": 1258
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31302 Gynäkologischer Eingriff der Kategorie S2\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie S2 entsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31302 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31503, für\ndie postoperative Behandlung die Gebührenordnungsposition 31697\noder 31698 berechnet werden."
+    },
+    {
+      "code": "31303",
+      "title": "Gynäkologischer Eingriff der Kategorie S3",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 206.52,
+        "valuation_in_points": 1621
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31303 Gynäkologischer Eingriff der Kategorie S3\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie S3 entsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31303 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31505, für\ndie postoperative Behandlung die Gebührenordnungsposition 31697\noder 31698 berechnet werden."
+    },
+    {
+      "code": "31304",
+      "title": "Gynäkologischer Eingriff der Kategorie S4",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 267.93,
+        "valuation_in_points": 2103
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31304 Gynäkologischer Eingriff der Kategorie S4\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie S4 entsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31304 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31505, für\ndie postoperative Behandlung die Gebührenordnungsposition 31699\noder 31700 berechnet werden."
+    },
+    {
+      "code": "31305",
+      "title": "Gynäkologischer Eingriff der Kategorie S5",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 366.67,
+        "valuation_in_points": 2878
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31305 Gynäkologischer Eingriff der Kategorie S5\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie S5 entsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31305 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31506, für\ndie postoperative Behandlung die Gebührenordnungsposition 31699\noder 31700 berechnet werden."
+    },
+    {
+      "code": "31306",
+      "title": "Gynäkologischer Eingriff der Kategorie S6",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 482.99,
+        "valuation_in_points": 3791
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31306 Gynäkologischer Eingriff der Kategorie S6\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie S6 entsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31306 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31507, für\ndie postoperative Behandlung die Gebührenordnungsposition 31701\noder 31702 berechnet werden."
+    },
+    {
+      "code": "31307",
+      "title": "Gynäkologischer Eingriff der Kategorie S7",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 542.36,
+        "valuation_in_points": 4257
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31307 Gynäkologischer Eingriff der Kategorie S7\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie S7 entsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31307 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31507, für\ndie postoperative Behandlung die Gebührenordnungsposition 31701\noder 31702 berechnet werden."
+    },
+    {
+      "code": "31308",
+      "title": "Zuschlag zu den Gebührenordnungspositionen 31301 bis 31306 bei Simultaneingriffen und zu der Gebührenordnungsposition 31307",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 55.42,
+        "valuation_in_points": 435
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31308 Zuschlag zu den Gebührenordnungspositionen 31301 bis 31306 bei\nSimultaneingriffen und zu der Gebührenordnungsposition 31307\nObligater Leistungsinhalt\n- Schnitt-Naht-Zeit je weitere vollendete 15 Minuten\n- Nachweis der Schnitt-Naht-Zeit über das Anästhesieprotokoll oder\nden OP-Bericht\nje weitere vollendete 15 Minuten Schnitt-Naht-Zeit\nDie Gebührenordnungsposition 31308 kann entsprechend Anhang 2\nPräambel 2.1, Nr. 14 als Zuschlag zu anderen ambulanten Operationen\ndes Abschnitts 31.2 abgerechnet werden"
+    },
+    {
+      "code": "31311",
+      "title": "Endoskopischer gynäkologischer Eingriff der Kategorie T1",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 158.62,
+        "valuation_in_points": 1245
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31311 Endoskopischer gynäkologischer Eingriff der Kategorie T1\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie T1 entsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31311 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31503, für\ndie postoperative Behandlung die Gebührenordnungsposition 31695\noder 31696 berechnet werden."
+    },
+    {
+      "code": "31312",
+      "title": "Endoskopischer gynäkologischer Eingriff der Kategorie T2",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 237.86,
+        "valuation_in_points": 1867
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31312 Endoskopischer gynäkologischer Eingriff der Kategorie T2\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie T2 entsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31312 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31503, für\ndie postoperative Behandlung die Gebührenordnungsposition 31697\noder 31698 berechnet werden."
+    },
+    {
+      "code": "31313",
+      "title": "Endoskopischer gynäkologischer Eingriff der Kategorie T3",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 340.17,
+        "valuation_in_points": 2670
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31313 Endoskopischer gynäkologischer Eingriff der Kategorie T3\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie T3 entsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31313 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31505, für\ndie postoperative Behandlung die Gebührenordnungsposition 31697\noder 31698 berechnet werden."
+    },
+    {
+      "code": "31314",
+      "title": "Endoskopischer gynäkologischer Eingriff der Kategorie T4",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 451.77,
+        "valuation_in_points": 3546
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31314 Endoskopischer gynäkologischer Eingriff der Kategorie T4\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie T4 entsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31314 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31505, für\ndie postoperative Behandlung die Gebührenordnungsposition 31699\noder 31700 berechnet werden."
+    },
+    {
+      "code": "31315",
+      "title": "Endoskopischer gynäkologischer Eingriff der Kategorie T5",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 606.32,
+        "valuation_in_points": 4759
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31315 Endoskopischer gynäkologischer Eingriff der Kategorie T5\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie T5 entsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31315 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31506, für\ndie postoperative Behandlung die Gebührenordnungsposition 31699\noder 31700 berechnet werden."
+    },
+    {
+      "code": "31316",
+      "title": "Endoskopischer gynäkologischer Eingriff der Kategorie T6",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 782.52,
+        "valuation_in_points": 6142
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31316 Endoskopischer gynäkologischer Eingriff der Kategorie T6\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie T6 entsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31316 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31507, für\ndie postoperative Behandlung die Gebührenordnungsposition 31701\noder 31702 berechnet werden."
+    },
+    {
+      "code": "31317",
+      "title": "Endoskopischer gynäkologischer Eingriff der Kategorie T7",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 945.34,
+        "valuation_in_points": 7420
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31317 Endoskopischer gynäkologischer Eingriff der Kategorie T7\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie T7 entsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31317 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31507, für\ndie postoperative Behandlung die Gebührenordnungsposition 31701\noder 31702 berechnet werden."
+    },
+    {
+      "code": "31318",
+      "title": "Zuschlag zu den Gebührenordnungspositionen 31311 bis 31316 bei Simultaneingriffen und zu der Gebührenordnungsposition 31317",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 91.09,
+        "valuation_in_points": 715
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31318 Zuschlag zu den Gebührenordnungspositionen 31311 bis 31316 bei\nSimultaneingriffen und zu der Gebührenordnungsposition 31317\nObligater Leistungsinhalt\n- Schnitt-Naht-Zeit je weitere 15 Minuten\n- Nachweis der Schnitt-Naht-Zeit über das Anästhesieprotokoll oder\nden OP-Bericht\nje weitere vollendete 15 Minuten Schnitt-Naht-Zeit\nDie Gebührenordnungsposition 31318 kann entsprechend Anhang 2\nPräambel 2.1, Nr. 14 als Zuschlag zu anderen ambulanten Operationen\ndes Abschnitts 31.2 abgerechnet werden."
+    },
+    {
+      "code": "31319",
+      "title": "Endoskopischer gynäkologischer Eingriff der Kategorie TT2",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 344.63,
+        "valuation_in_points": 2705
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31319 Endoskopischer gynäkologischer Eingriff der Kategorie TT2\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie TT2 entsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31319 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31503, für\ndie postoperative Behandlung die Gebührenordnungsposition 31697\noder 31698 berechnet werden.\n31.2.13 Definierte operative Eingriffe der Ophthalmochirurgie\n1. Ophthalmochirurgische Eingriffe gemäß dem OPS-Kode 5-126.8 sind\nnur bei Patienten berechnungsfähig, bei denen gemäß der Richtlinie\ndes Gemeinsamen Bundesausschusses (§ 2 der Nr. 27 der Anlage\nI \"Anerkannte Untersuchungs- oder Behandlungsmethoden\" der\nRichtlinie Methoden vertragsärztliche Versorgung) ein Keratokonus\nund eine subjektive Sehverschlechterung vorliegen sowie anhand\nmindestens eines der folgenden Kriterien eine Progredienz innerhalb\nder letzten 12 Monate festgestellt wurde:\n- Zunahme der maximalen Hornhautbrechkraft um >= 1 dpt\n- Zunahme des durch die subjektive Refraktion bestimmten\nAstigmatismus um >= 1 dpt\n- Abnahme der Basiskurve der bestsitzenden Kontaktlinse um >=\n0,1 mm.\n2. Die Gebührenordnungsposition 31364 gemäß dem OPS-Kode\n5-126.8 ist nur nach Durchführung einer topographischen\nUntersuchung gemäß Anhang 1 zur Indikationsstellung gemäß\nder Richtlinie des Gemeinsamen Bundesausschusses (§ 3 Abs.\n2 der Nr. 27 der Anlage I \"Anerkannte Untersuchungs- oder\nBehandlungsmethoden\" der Richtlinie Methoden vertragsärztliche\nVersorgung) berechnungsfähig, bei der die Ermittlung der Zunahme\nder maximalen Hornhautbrechkraft anhand des Vergleichs von\nzwei Messwerten erfolgt, die mit demselben Messgerät oder mit\nMessgeräten erhoben werden, deren Messungen vergleichbar sind.\n3. Die Gebührenordnungsposition 31364 gemäß dem OPS-Kode\n5-126.8 ist nur nach Durchführung einer tomographischen\nUntersuchung nach der Gebührenordnungsposition 06362 gemäß\nder Richtlinie des Gemeinsamen Bundesausschusses (§ 2\nder Nr. 27 der Anlage I \"Anerkannte Untersuchungs- oder\nBehandlungsmethoden\" der Richtlinie Methoden vertragsärztliche\nVersorgung) berechnungsfähig, bei der die zu bestimmende\nHornhautdicke an der dünnsten Stelle bei Beginn der Bestrahlung\nmindestens 400 µm beträgt. Die Durchführung der tomographischen\nUntersuchung darf nicht länger als zwei Quartale zurückliegen."
+    },
+    {
+      "code": "31321",
+      "title": "Extraocularer Eingriff der Kategorie U1",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 116.45,
+        "valuation_in_points": 914
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31321 Extraocularer Eingriff der Kategorie U1\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie U1 entsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31321 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31502, für\ndie postoperative Behandlung die Gebührenordnungsposition 31708\noder 31709 berechnet werden."
+    },
+    {
+      "code": "31322",
+      "title": "Extraocularer Eingriff der Kategorie U2",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 188.56,
+        "valuation_in_points": 1480
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31322 Extraocularer Eingriff der Kategorie U2\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie U2 entsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31322 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31503, für\ndie postoperative Behandlung die Gebührenordnungsposition 31708\noder 31709 berechnet werden."
+    },
+    {
+      "code": "31323",
+      "title": "Extraocularer Eingriff der Kategorie U3",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 282.71,
+        "valuation_in_points": 2219
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31323 Extraocularer Eingriff der Kategorie U3\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie U3 entsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31323 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31504, für\ndie postoperative Behandlung die Gebührenordnungsposition 31710\noder 31711 berechnet werden."
+    },
+    {
+      "code": "31324",
+      "title": "Extraocularer Eingriff der Kategorie U4",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 382.47,
+        "valuation_in_points": 3002
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31324 Extraocularer Eingriff der Kategorie U4\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie U4 entsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31324 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31504, für\ndie postoperative Behandlung die Gebührenordnungsposition 31712\noder 31713 berechnet werden."
+    },
+    {
+      "code": "31325",
+      "title": "Extraocularer Eingriff der Kategorie U5",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 536.37,
+        "valuation_in_points": 4210
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31325 Extraocularer Eingriff der Kategorie U5\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie U5 entsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31325 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31505, für\ndie postoperative Behandlung die Gebührenordnungsposition 31712\noder 31713 berechnet werden."
+    },
+    {
+      "code": "31326",
+      "title": "Extraocularer Eingriff der Kategorie U6",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 736.9,
+        "valuation_in_points": 5784
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31326 Extraocularer Eingriff der Kategorie U6\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie U6 entsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31326 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31506, für\ndie postoperative Behandlung die Gebührenordnungsposition 31714\noder 31715 berechnet werden."
+    },
+    {
+      "code": "31327",
+      "title": "Extraocularer Eingriff der Kategorie U7",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 873.86,
+        "valuation_in_points": 6859
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31327 Extraocularer Eingriff der Kategorie U7\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie U7 entsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31327 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31507, für\ndie postoperative Behandlung die Gebührenordnungsposition 31714\noder 31715 berechnet werden."
+    },
+    {
+      "code": "31328",
+      "title": "Zuschlag zu den Gebührenordnungspositionen 31321 bis 31326 bei Simultaneingriffen und zu der Gebührenordnungsposition 31327",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 78.99,
+        "valuation_in_points": 620
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31328 Zuschlag zu den Gebührenordnungspositionen 31321 bis 31326 bei\nSimultaneingriffen und zu der Gebührenordnungsposition 31327\nObligater Leistungsinhalt\n- Schnitt-Naht-Zeit je weitere vollendete 15 Minuten\n- Nachweis der Schnitt-Naht-Zeit über das Anästhesieprotokoll oder\nden OP-Bericht\nje weitere vollendete 15 Minuten Schnitt-Naht-Zeit\nDie Gebührenordnungsposition 31328 kann entsprechend Anhang 2\nPräambel 2.1, Nr. 14 als Zuschlag zu anderen ambulanten Operationen\ndes Abschnitts 31.2 abgerechnet werden."
+    },
+    {
+      "code": "31331",
+      "title": "Intraocularer Eingriff der Kategorie V1",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 197.48,
+        "valuation_in_points": 1550
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31331 Intraocularer Eingriff der Kategorie V1\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie V1 entsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31331 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31502, für\ndie postoperative Behandlung die Gebührenordnungsposition 31716\noder 31717 berechnet werden."
+    },
+    {
+      "code": "31332",
+      "title": "Intraocularer Eingriff der Kategorie V2",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 270.22,
+        "valuation_in_points": 2121
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31332 Intraocularer Eingriff der Kategorie V2\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie V2 entsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31332 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31503, für\ndie postoperative Behandlung die Gebührenordnungsposition 31718\noder 31719 berechnet werden."
+    },
+    {
+      "code": "31333",
+      "title": "Intraocularer Eingriff der Kategorie V3",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 363.36,
+        "valuation_in_points": 2852
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31333 Intraocularer Eingriff der Kategorie V3\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie V3 entsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31333 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31504, für\ndie postoperative Behandlung die Gebührenordnungsposition 31718\noder 31719 berechnet werden."
+    },
+    {
+      "code": "31334",
+      "title": "Intraocularer Eingriff der Kategorie V4",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 488.47,
+        "valuation_in_points": 3834
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31334 Intraocularer Eingriff der Kategorie V4\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie V4 entsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31334 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31504, für\ndie postoperative Behandlung die Gebührenordnungsposition 31720\noder 31721 berechnet werden."
+    },
+    {
+      "code": "31335",
+      "title": "Intraocularer Eingriff der Kategorie V5",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 698.17,
+        "valuation_in_points": 5480
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31335 Intraocularer Eingriff der Kategorie V5\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie V5 entsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31335 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31505, für\ndie postoperative Behandlung die Gebührenordnungsposition 31720\noder 31721 berechnet werden."
+    },
+    {
+      "code": "31336",
+      "title": "Intraocularer Eingriff der Kategorie V6",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 945.21,
+        "valuation_in_points": 7419
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31336 Intraocularer Eingriff der Kategorie V6\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie V6 entsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31336 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31506, für\ndie postoperative Behandlung die Gebührenordnungsposition 31722\noder 31723 berechnet werden."
+    },
+    {
+      "code": "31337",
+      "title": "Intraocularer Eingriff der Kategorie V7",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 1119.24,
+        "valuation_in_points": 8785
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31337 Intraocularer Eingriff der Kategorie V7\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie V7 entsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31337 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31507, für\ndie postoperative Behandlung die Gebührenordnungsposition 31722\noder 31723 berechnet werden."
+    },
+    {
+      "code": "31338",
+      "title": "Zuschlag zu den Gebührenordnungspositionen 31331 bis 31336 bei Simultaneingriffen und zu der Gebührenordnungsposition 31337",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 107.53,
+        "valuation_in_points": 844
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31338 Zuschlag zu den Gebührenordnungspositionen 31331 bis 31336 bei\nSimultaneingriffen und zu der Gebührenordnungsposition 31337\nObligater Leistungsinhalt\n- Schnitt-Naht-Zeit je weitere vollendete 15 Minuten\n- Nachweis der Schnitt-Naht-Zeit über das Anästhesieprotokoll oder\nden OP-Bericht\nje weitere vollendete 15 Minuten Schnitt-Naht-Zeit\nDie Gebührenordnungsposition 31338 kann entsprechend Anhang 2\nPräambel 2.1, Nr. 14 als Zuschlag zu anderen ambulanten Operationen\ndes Abschnitts 31.2 abgerechnet werden"
+    },
+    {
+      "code": "31341",
+      "title": "Laserchirurgischer Eingriff der Kategorie W1",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 88.42,
+        "valuation_in_points": 694
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31341 Laserchirurgischer Eingriff der Kategorie W1\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie W1 entsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31341 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31501, für\ndie postoperative Behandlung die Gebührenordnungsposition 31724\noder 31725 berechnet werden."
+    },
+    {
+      "code": "31342",
+      "title": "Laserchirurgischer Eingriff der Kategorie W2",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 148.04,
+        "valuation_in_points": 1162
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31342 Laserchirurgischer Eingriff der Kategorie W2\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie W2 entsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31342 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31501, für\ndie postoperative Behandlung die Gebührenordnungsposition 31726\noder 31727 berechnet werden."
+    },
+    {
+      "code": "31343",
+      "title": "Laserchirurgischer Eingriff der Kategorie W3",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 203.97,
+        "valuation_in_points": 1601
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31343 Laserchirurgischer Eingriff der Kategorie W3\n1601 Punkte\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie W3 entsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31343 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31504, für\ndie postoperative Behandlung die Gebührenordnungsposition 31726\noder 31727 berechnet werden."
+    },
+    {
+      "code": "31344",
+      "title": "Laserchirurgischer Eingriff der Kategorie W4",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 272.9,
+        "valuation_in_points": 2142
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31344 Laserchirurgischer Eingriff der Kategorie W4\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie W4 entsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31344 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31504, für\ndie postoperative Behandlung die Gebührenordnungsposition 31728\noder 31729 berechnet werden."
+    },
+    {
+      "code": "31345",
+      "title": "Laserchirurgischer Eingriff der Kategorie W5",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 389.09,
+        "valuation_in_points": 3054
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31345 Laserchirurgischer Eingriff der Kategorie W5\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie W5 entsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31345 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31505, für\ndie postoperative Behandlung die Gebührenordnungsposition 31728\noder 31729 berechnet werden."
+    },
+    {
+      "code": "31346",
+      "title": "Laserchirurgischer Eingriff der Kategorie W6",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 517.52,
+        "valuation_in_points": 4062
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31346 Laserchirurgischer Eingriff der Kategorie W6\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie W6 entsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31346 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31506, für\ndie postoperative Behandlung die Gebührenordnungsposition 31730\noder 31731 berechnet werden."
+    },
+    {
+      "code": "31347",
+      "title": "Laserchirurgischer Eingriff der Kategorie W7",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 599.82,
+        "valuation_in_points": 4708
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31347 Laserchirurgischer Eingriff der Kategorie W7\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie W7 entsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31347 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31507, für\ndie postoperative Behandlung die Gebührenordnungsposition 31730\noder 31731 berechnet werden."
+    },
+    {
+      "code": "31348",
+      "title": "Zuschlag zu den Gebührenordnungspositionen 31341 bis 31346 bei Simultaneingriffen und zu der Gebührenordnungsposition 31347",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 65.23,
+        "valuation_in_points": 512
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31348 Zuschlag zu den Gebührenordnungspositionen 31341 bis 31346 bei\nSimultaneingriffen und zu der Gebührenordnungsposition 31347\nObligater Leistungsinhalt\n- Schnitt-Naht-Zeit je weitere vollendete 15 Minuten\n- Nachweis der Schnitt-Naht-Zeit über das Anästhesieprotokoll oder\nden OP-Bericht\nje weitere vollendete 15 Minuten Schnitt-Naht-Zeit\nDie Gebührenordnungsposition 31348 kann entsprechend Anhang 2\nPräambel 2.1, Nr. 14 als Zuschlag zu anderen ambulanten Operationen\ndes Abschnitts 31.2 abgerechnet werden"
+    },
+    {
+      "code": "31350",
+      "title": "Intraocularer Eingriff der Kategorie X1",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 437.76,
+        "valuation_in_points": 3436
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31350 Intraocularer Eingriff der Kategorie X1\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie X1 entsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31350 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31502, für\ndie postoperative Behandlung die Gebührenordnungsposition 31716\noder 31717 berechnet werden.\nIm Zusammenhang mit der Erbringung der Leistung entsprechend\nder Gebührenordnungsposition 31350 kann die Anästhesie nach der\nGebührenordnungsposition 31801 bei Erbringung durch den Operateur\nbzw. 31820 bei Erbringung durch den Anästhesisten gemeinsam mit der\nGebührenordnungsposition 31840 berechnet werden."
+    },
+    {
+      "code": "31351",
+      "title": "Intraocularer Eingriff der Kategorie X2",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 478.27,
+        "valuation_in_points": 3754
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31351 Intraocularer Eingriff der Kategorie X2\nObligater Leistungsinhalt\n- Chirurgischer Eingriff der Kategorie X2 entsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Nr. 31351 kann für die\npostoperative Überwachung die Gebührenordnungsposition 31503, für\ndie postoperative Behandlung die Gebührenordnungsposition 31718\noder 31719 berechnet werden.\nIm Zusammenhang mit der Erbringung der Leistung entsprechend\nder Gebührenordnungsposition 31351 kann die Anästhesie nach der\nGebührenordnungsposition 31801 bei Erbringung durch den Operateur\nbzw. 31820 bei Erbringung durch den Anästhesisten gemeinsam mit der\nGebührenordnungsposition 31841 berechnet werden."
+    },
+    {
+      "code": "31362",
+      "title": "Eingriff der Kategorie Y2: Phototherapeutische Keratektomie (PTK) gemäß Nr. 13 Anlage I \"Anerkannte Untersuchungs- oder Behandlungsmethoden\" der Richtlinie Methoden vertragsärztliche Versorgung des Gemeinsamen Bundesausschusses",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 130.21,
+        "valuation_in_points": 1022
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31362 Eingriff der Kategorie Y2: Phototherapeutische Keratektomie\n(PTK) gemäß Nr. 13 Anlage I \"Anerkannte Untersuchungs- oder\nBehandlungsmethoden\" der Richtlinie Methoden vertragsärztliche\nVersorgung des Gemeinsamen Bundesausschusses\nObligater Leistungsinhalt\n- Eingriff der Kategorie Y2 entsprechend Anhang 2\n- Anpassung einer Verbandlinse\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\n- Kontrolle(n) der Verbandlinse\nje Auge innerhalb von 21 Tagen einmal\nberechnungsfähig"
+    },
+    {
+      "code": "31364",
+      "title": "Eingriff der Kategorie YY4: Hornhautvernetzung mit Riboflavin gemäß Nr. 27 Anlage I der Richtlinie Methoden vertragsärztliche Versorgung des Gemeinsamen Bundesausschusses",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 372.78,
+        "valuation_in_points": 2926
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31364 Eingriff der Kategorie YY4: Hornhautvernetzung mit Riboflavin\ngemäß Nr. 27 Anlage I der Richtlinie Methoden vertragsärztliche\nVersorgung des Gemeinsamen Bundesausschusses\nObligater Leistungsinhalt\n- Eingriff der Kategorie YY4 entsprechend Anhang 2\n- Anpassung einer Verbandlinse\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\n- Kontrolle(n) der Verbandlinse\nje Auge\nDie Gebührenordnungsposition 31364 ist je Auge höchstens einmal\nim Krankheitsfall berechnungsfähig. Die zweimalige Berechnung\nder Gebührenordnungsposition 31364 im Krankheitsfall setzt eine\nausführliche Begründung der medizinischen Notwendigkeit im Einzelfall\nvoraus."
+    },
+    {
+      "code": "31371",
+      "title": "Intraocularer Eingriff der Kategorie Z1: Intravitreale Medikamenteneingabe am rechten Auge gemäß der Qualitätssicherungsvereinbarung nach § 135 Abs. 2 SGB V",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 212.13,
+        "valuation_in_points": 1665
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31371 Intraocularer Eingriff der Kategorie Z1: Intravitreale\nMedikamenteneingabe am rechten Auge gemäß der\nQualitätssicherungsvereinbarung nach § 135 Abs. 2 SGB V\nObligater Leistungsinhalt\n- Eingriff der Kategorie Z1 entsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIn der Gebührenordnungsposition 31371 sind alle Kosten, einschließlich\ndes Sprechstundenbedarfs, mit Ausnahme der Kosten für das/\ndie intravitreal applizierte(n) Arzneimittel enthalten. Die Allgemeinen\nBestimmungen nach Nr. 7 finden keine Anwendung.\nDie Berechnung der Gebührenordnungsposition 31371 setzt\neine Genehmigung der Kassenärztlichen Vereinigung gemäß der\nQualitätssicherungsvereinbarung nach § 135 Abs. 2 SGB V zur\nintravitrealen Medikamenteneingabe voraus.\nDie Berechnung einer präoperativen Gebührenordnungsposition\ndes Abschnitts 31.1.2 vor Durchführung einer intravitrealen\nMedikamenteneingabe setzt die Begründung der medizinischen\nNotwendigkeit zur Operationsvorbereitung im Einzelfall voraus.\nDie Berechnung der Gebührenordnungspositionen 31502 für die\npostoperative Überwachung und 31821 für die Anästhesie und/\noder Narkose im Rahmen der Durchführung einer intravitrealen\nMedikamenteneingabe setzen eine ausführliche Begründung der\nmedizinischen Notwendigkeit im Einzelfall voraus.\nIm Anschluss an die Leistung nach der Gebührenordnungsposition\n31371 kann für die postoperative Behandlung die\nGebührenordnungsposition 31716 oder 31717 berechnet werden."
+    },
+    {
+      "code": "31372",
+      "title": "Intraocularer Eingriff der Kategorie Z1: Intravitreale Medikamenteneingabe am linken Auge gemäß der Qualitätssicherungsvereinbarung nach § 135 Abs. 2 SGB V",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 212.13,
+        "valuation_in_points": 1665
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31372 Intraocularer Eingriff der Kategorie Z1: Intravitreale\nMedikamenteneingabe am linken Auge gemäß der\nQualitätssicherungsvereinbarung nach § 135 Abs. 2 SGB V\nObligater Leistungsinhalt\n- Eingriff der Kategorie Z1 entsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIn der Gebührenordnungsposition 31372 sind alle Kosten, einschließlich\ndes Sprechstundenbedarfs, mit Ausnahme der Kosten für das/\ndie intravitreal applizierte(n) Arzneimittel enthalten. Die Allgemeinen\nBestimmungen nach Nr. 7 finden keine Anwendung.\nDie Berechnung der Gebührenordnungsposition 31372 setzt\neine Genehmigung der Kassenärztlichen Vereinigung gemäß der\nQualitätssicherungsvereinbarung nach § 135 Abs. 2 SGB V zur\nintravitrealen Medikamenteneingabe voraus.\nDie Berechnung einer präoperativen Gebührenordnungsposition\ndes Abschnitts 31.1.2 vor Durchführung einer intravitrealen\nMedikamenteneingabe setzt die Begründung der medizinischen\nNotwendigkeit zur Operationsvorbereitung im Einzelfall voraus.\nDie Berechnung der Gebührenordnungspositionen 31502 für die\npostoperative Überwachung und 31821 für die Anästhesie und/\noder Narkose im Rahmen der Durchführung einer intravitrealen\nMedikamenteneingabe setzen eine ausführliche Begründung der\nmedizinischen Notwendigkeit im Einzelfall voraus.\nIm Anschluss an die Leistung nach der Gebührenordnungsposition\n31372 kann für die postoperative Behandlung die\nGebührenordnungsposition 31716 oder 31717 berechnet werden."
+    },
+    {
+      "code": "31373",
+      "title": "Intraocularer Eingriff der Kategorie Z9: Intravitreale Medikamenteneingabe an beiden Augen gemäß der Qualitätssicherungsvereinbarung nach § 135 Abs. 2 SGB V",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 277.1,
+        "valuation_in_points": 2175
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31373 Intraocularer Eingriff der Kategorie Z9: Intravitreale\nMedikamenteneingabe an beiden Augen gemäß der\nQualitätssicherungsvereinbarung nach § 135 Abs. 2 SGB V\nObligater Leistungsinhalt\n- Eingriff der Kategorie Z9 entsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIn der Gebührenordnungsposition 31373 sind alle Kosten, einschließlich\ndes Sprechstundenbedarfs, mit Ausnahme der Kosten für das/\ndie intravitreal applizierte(n) Arzneimittel enthalten. Die Allgemeinen\nBestimmungen nach Nr. 7 finden keine Anwendung.\nDie Berechnung der Gebührenordnungsposition 31373 setzt\neine Genehmigung der Kassenärztlichen Vereinigung gemäß der\nQualitätssicherungsvereinbarung nach § 135 Abs. 2 SGB V\nzur intravitrealen Medikamenteneingabe sowie eine ausführliche\nBegründung der medizinischen Notwendigkeit im Einzelfall voraus.\nDie Berechnung einer präoperativen Gebührenordnungsposition\ndes Abschnitts 31.1.2 vor Durchführung einer intravitrealen\nMedikamenteneingabe setzt die Begründung der medizinischen\nNotwendigkeit zur Operationsvorbereitung im Einzelfall voraus.\nDie Berechnung der Gebührenordnungspositionen 31502 für die\npostoperative Überwachung und 31821 für die Anästhesie und/\noder Narkose im Rahmen der Durchführung einer intravitrealen\nMedikamenteneingabe setzen eine ausführliche Begründung der\nmedizinischen Notwendigkeit im Einzelfall voraus.\nIm Anschluss an die Leistung nach der Gebührenordnungsposition\n31373 kann für die postoperative Behandlung die\nGebührenordnungsposition 31716 oder 31717 berechnet werden.\n31.2.14 Vakuumversiegelungstherapie gemäß Nr. 33 Anlage I \"Anerkannte\nUntersuchungs- oder Behandlungsmethoden\" der Richtlinie\nMethoden vertragsärztliche Versorgung des Gemeinsamen\nBundesausschusses\n1. Die Gebührenordnungspositionen dieses Abschnitts können nur von\n- Fachärzten für Chirurgie\n- Fachärzten für Kinderchirurgie\n- Fachärzten für Plastische und Ästhetische Chirurgie\n- Fachärzten für Frauenheilkunde und Geburtshilfe\n- Fachärzten für Hals-, Nasen- und Ohrenheilkunde\n- Fachärzten für Haut- und Geschlechtskrankheiten\n- Fachärzten für Mund-, Kiefer- und Gesichtschirurgie\n- Fachärzten für Neurochirurgie\n- Fachärzten für Orthopädie und Unfallchirurgie\n- Fachärzten für Urologie\nberechnet werden.\n2. Entgegen der Nr. 9 der Präambel 31.2.1 ist\ndie Gebührenordnungsposition 31401 ohne Angabe der\nOPS-Prozedur(en) für die Vakuumversiegelungstherapie\nberechnungsfähig.\n3. Entgegen der Nr. 2 der Präambel 2.1 des Anhangs 2 kann der primäre\nWundverschluss mittels Vakuumversiegelungstherapie entsprechend\nder Gebührenordnungsposition 31401 als Zuschlag zum jeweiligen\nHaupteingriff berechnet werden."
+    },
+    {
+      "code": "31401",
+      "title": "Zuschlag zu einem Eingriff des Abschnitts 31.2 für die Anlage eines Systems zur Vakuumversiegelung zum intendierten primären Wundverschluss gemäß Nr. 33 der Anlage I \"Anerkannte Untersuchungs- oder Behandlungsmethoden\" der Richtlinie Methoden vertragsärztliche Versorgung des Gemeinsamen Bundesausschusses",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 8.66,
+        "valuation_in_points": 68
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31401 Zuschlag zu einem Eingriff des Abschnitts 31.2 für die Anlage\neines Systems zur Vakuumversiegelung zum intendierten primären\nWundverschluss gemäß Nr. 33 der Anlage I \"Anerkannte\nUntersuchungs- oder Behandlungsmethoden\" der Richtlinie\nMethoden vertragsärztliche Versorgung des Gemeinsamen\nBundesausschusses\nObligater Leistungsinhalt\n- Persönlicher Arzt-Patienten-Kontakt\nFakultativer Leistungsinhalt\n- Einweisung des Patienten in die Pumpenbedienung im zeitlichen\nZusammenhang mit der Operation\n- Einstellen der Pumpe\neinmal am Behandlungstag\nDie Gebührenordnungsposition 31401 ist nur bei Patienten\nberechnungsfähig, bei denen aufgrund wund- oder patientenspezifischer\nRisikofaktoren unter einer Standardwundbehandlung keine\nausreichende Heilung zu erwarten ist.\nDie Gebührenordnungsposition 31401 ist am Behandlungstag\nnicht neben den Gebührenordnungspositionen 02314 und 36401\nberechnungsfähig.\n31.2.19 Zuschläge für zusätzlichen Hygieneaufwand\n1. Die Gebührenordnungspositionen dieses Abschnitts sind bei Bezug\neiner Förderung nach § 4 Absatz 9 des Krankenhausentgeltgesetzes\n(KHEntgG) nicht berechnungsfähig."
+    },
+    {
+      "code": "31451",
+      "title": "Zuschlag I zu einem Eingriff des Abschnitts 31.2 bei Durchführung einer der nachfolgend genannten OPS-Kodes: 5-844.02, 5-844.03 5-844.05, 5-844.06, 5-844.12, 5-844.13, 5-844.15, 5-844.16, 5-844.23 5-844.25, 5-844.32, 5-844.33, 5-844.35, 5-844.36, 5-844.42, 5-844.43 5-844.45, 5-844.46, 5-844.52, 5-844.53, 5-844.55, 5-844.56, 5-844.62 5-844.63, 5-844.65, 5-844.66, 5-844.70, 5-844.72, 5-844.73, 5-844.74 5-844.76, 5-902.05, 5-902.06, 5-902.07, 5-902.08, 5-902.09, 5-902.0a 5-902.0b, 5-902.0c, 5-902.0d, 5-902.0e, 5-902.0f, 5-902.0g, 5-902.15 5-902.16, 5-902.17, 5-902.18, 5-902.19, 5-902.1a, 5-902.1b, 5-902.1c 5-902.1d, 5-902.1e, 5-902.1f, 5-902.1g, 5-902.25, 5-902.26, 5-902.27 5-902.28, 5-902.29, 5-902.2a, 5-902.2b, 5-902.2c, 5-902.2d, 5-902.2e 5-902.2f, 5-902.2g, 5-902.f5, 5-902.f6, 5-902.f7, 5-902.f8, 5-902.fa 5-902.fb, 5-902.fc, 5-902.fd, 5-902.fe, 5-902.ff, 5-902.fg, 5-902.h5 5-902.h6, 5-902.h7, 5-902.h8, 5-902.ha, 5-902.hb, 5-902.hc, 5-902.hd 5-902.he, 5-902.hf, 5-902.hg",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 28.41,
+        "valuation_in_points": 223
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31451 Zuschlag I zu einem Eingriff des Abschnitts 31.2 bei Durchführung\neiner der nachfolgend genannten OPS-Kodes: 5-844.02, 5-844.03\n5-844.05, 5-844.06, 5-844.12, 5-844.13, 5-844.15, 5-844.16, 5-844.23\n5-844.25, 5-844.32, 5-844.33, 5-844.35, 5-844.36, 5-844.42, 5-844.43\n5-844.45, 5-844.46, 5-844.52, 5-844.53, 5-844.55, 5-844.56, 5-844.62\n5-844.63, 5-844.65, 5-844.66, 5-844.70, 5-844.72, 5-844.73, 5-844.74\n5-844.76, 5-902.05, 5-902.06, 5-902.07, 5-902.08, 5-902.09, 5-902.0a\n5-902.0b, 5-902.0c, 5-902.0d, 5-902.0e, 5-902.0f, 5-902.0g, 5-902.15\n5-902.16, 5-902.17, 5-902.18, 5-902.19, 5-902.1a, 5-902.1b, 5-902.1c\n5-902.1d, 5-902.1e, 5-902.1f, 5-902.1g, 5-902.25, 5-902.26, 5-902.27\n5-902.28, 5-902.29, 5-902.2a, 5-902.2b, 5-902.2c, 5-902.2d, 5-902.2e\n5-902.2f, 5-902.2g, 5-902.f5, 5-902.f6, 5-902.f7, 5-902.f8, 5-902.fa\n5-902.fb, 5-902.fc, 5-902.fd, 5-902.fe, 5-902.ff, 5-902.fg, 5-902.h5\n5-902.h6, 5-902.h7, 5-902.h8, 5-902.ha, 5-902.hb, 5-902.hc, 5-902.hd\n5-902.he, 5-902.hf, 5-902.hg"
+    },
+    {
+      "code": "31452",
+      "title": "Zuschlag II zu einem Eingriff des Abschnitts 31.2 bei Durchführung einer der nachfolgend genannten OPS-Kodes: 5-057.3, 5-057.4 5-057.9, 5-214.0, 5-214.5, 5-399.7, 5-399.d, 5-788.0a, 5-788.0b 5-810.3r, 5-811.0h, 5-811.1h, 5-819.0h, 5-844.75, 5-902.00, 5-902.04 5-902.10, 5-902.14, 5-902.20, 5-902.24, 5-902.34, 5-902.40, 5-902.44 5-902.45, 5-902.46, 5-902.47, 5-902.48, 5-902.4a, 5-902.4b, 5-902.4c 5-902.4d, 5-902.4e, 5-902.4f, 5-902.50, 5-902.54, 5-902.55, 5-902.56 5-902.57, 5-902.58, 5-902.5a, 5-902.5b, 5-902.5c, 5-902.5d, 5-902.5e 5-902.5f, 5-902.f0, 5-902.f4, 5-902.f9, 5-902.h0, 5-902.h4, 5-902.h9",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 33.51,
+        "valuation_in_points": 263
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31452 Zuschlag II zu einem Eingriff des Abschnitts 31.2 bei Durchführung\neiner der nachfolgend genannten OPS-Kodes: 5-057.3, 5-057.4\n5-057.9, 5-214.0, 5-214.5, 5-399.7, 5-399.d, 5-788.0a, 5-788.0b\n5-810.3r, 5-811.0h, 5-811.1h, 5-819.0h, 5-844.75, 5-902.00, 5-902.04\n5-902.10, 5-902.14, 5-902.20, 5-902.24, 5-902.34, 5-902.40, 5-902.44\n5-902.45, 5-902.46, 5-902.47, 5-902.48, 5-902.4a, 5-902.4b, 5-902.4c\n5-902.4d, 5-902.4e, 5-902.4f, 5-902.50, 5-902.54, 5-902.55, 5-902.56\n5-902.57, 5-902.58, 5-902.5a, 5-902.5b, 5-902.5c, 5-902.5d, 5-902.5e\n5-902.5f, 5-902.f0, 5-902.f4, 5-902.f9, 5-902.h0, 5-902.h4, 5-902.h9"
+    },
+    {
+      "code": "31453",
+      "title": "Zuschlag III zu einem Eingriff des Abschnitts 31.2 bei Durchführung einer der nachfolgend genannten OPS-Kodes: 5-057.0, 5-057.2 5-214.6, 5-214.70, 5-214.72, 5-399.5, 5-399.6, 5-399.b0, 5-399.b1 5-399.b2, 5-399.c, 5-493.20, 5-493.21, 5-493.22, 5-493.5, 5-493.60 5-493.61, 5-493.62, 5-493.70, 5-493.71, 5-534.01, 5-534.02, 5-534.03 5-534.1, 5-534.34, 5-535.0, 5-535.34, 5-536.0, 5-624.5, 5-631.0 5-631.1, 5-631.2, 5-810.00, 5-810.01, 5-810.04, 5-810.05, 5-810.06 5-810.07, 5-810.08, 5-810.09, 5-810.0h, 5-810.0k, 5-810.0t, 5-810.41 5-810.70, 5-810.7h, 5-810.96, 5-810.97, 5-810.98, 5-810.99, 5-810.9k 5-811.07, 5-811.20, 5-811.21, 5-811.24, 5-811.25, 5-811.26, 5-811.27 5-811.28, 5-811.29, 5-811.2g, 5-811.2h, 5-811.2k, 5-811.2m, 5-811.2r 5-811.2s, 5-811.2t, 5-811.40, 5-811.41, 5-811.44, 5-811.45, 5-811.46 5-811.48, 5-811.49, 5-811.4g, 5-811.4h, 5-811.4k, 5-811.4m, 5-811.4s 5-811.4t, 5-812.00, 5-812.01, 5-812.04, 5-812.05, 5-812.06, 5-812.07 5-812.08, 5-812.09, 5-812.0g, 5-812.0h, 5-812.0k, 5-812.0m, 5-812.0s 5-812.0t, 5-812.5, 5-812.e0, 5-812.e1, 5-812.e4, 5-812.e5, 5-812.e7 5-812.eg, 5-812.eh, 5-812.ek, 5-812.es, 5-812.et, 5-812.f5, 5-812.fn 5-812.k1, 5-812.k4, 5-812.k5, 5-812.k6, 5-812.k8, 5-812.k9, 5-812.kk 5-812.km, 5-812.kn, 5-812.ks, 5-812.kt, 5-814.7, 5-819.00, 5-819.01 5-819.04, 5-819.05, 5-819.07, 5-819.08, 5-819.09, 5-819.0g, 5-819.0k 5-819.0m, 5-819.0q, 5-819.0s, 5-819.0t, 5-819.1h, 5-819.1k, 5-819.1s 5-844.00, 5-844.01, 5-844.04, 5-844.10, 5-844.14, 5-844.20, 5-844.30 5-844.31, 5-844.34, 5-844.40, 5-844.41, 5-844.54, 5-844.57, 5-844.60 5-844.61, 5-844.64, 5-844.71, 5-844.77, 5-847.05, 5-847.15, 5-847.25",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 45.87,
+        "valuation_in_points": 360
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31453 Zuschlag III zu einem Eingriff des Abschnitts 31.2 bei Durchführung\neiner der nachfolgend genannten OPS-Kodes: 5-057.0, 5-057.2\n5-214.6, 5-214.70, 5-214.72, 5-399.5, 5-399.6, 5-399.b0, 5-399.b1\n5-399.b2, 5-399.c, 5-493.20, 5-493.21, 5-493.22, 5-493.5, 5-493.60\n5-493.61, 5-493.62, 5-493.70, 5-493.71, 5-534.01, 5-534.02, 5-534.03\n5-534.1, 5-534.34, 5-535.0, 5-535.34, 5-536.0, 5-624.5, 5-631.0\n5-631.1, 5-631.2, 5-810.00, 5-810.01, 5-810.04, 5-810.05, 5-810.06\n5-810.07, 5-810.08, 5-810.09, 5-810.0h, 5-810.0k, 5-810.0t, 5-810.41\n5-810.70, 5-810.7h, 5-810.96, 5-810.97, 5-810.98, 5-810.99, 5-810.9k\n5-811.07, 5-811.20, 5-811.21, 5-811.24, 5-811.25, 5-811.26, 5-811.27\n5-811.28, 5-811.29, 5-811.2g, 5-811.2h, 5-811.2k, 5-811.2m, 5-811.2r\n5-811.2s, 5-811.2t, 5-811.40, 5-811.41, 5-811.44, 5-811.45, 5-811.46\n5-811.48, 5-811.49, 5-811.4g, 5-811.4h, 5-811.4k, 5-811.4m, 5-811.4s\n5-811.4t, 5-812.00, 5-812.01, 5-812.04, 5-812.05, 5-812.06, 5-812.07\n5-812.08, 5-812.09, 5-812.0g, 5-812.0h, 5-812.0k, 5-812.0m, 5-812.0s\n5-812.0t, 5-812.5, 5-812.e0, 5-812.e1, 5-812.e4, 5-812.e5, 5-812.e7\n5-812.eg, 5-812.eh, 5-812.ek, 5-812.es, 5-812.et, 5-812.f5, 5-812.fn\n5-812.k1, 5-812.k4, 5-812.k5, 5-812.k6, 5-812.k8, 5-812.k9, 5-812.kk\n5-812.km, 5-812.kn, 5-812.ks, 5-812.kt, 5-814.7, 5-819.00, 5-819.01\n5-819.04, 5-819.05, 5-819.07, 5-819.08, 5-819.09, 5-819.0g, 5-819.0k\n5-819.0m, 5-819.0q, 5-819.0s, 5-819.0t, 5-819.1h, 5-819.1k, 5-819.1s\n5-844.00, 5-844.01, 5-844.04, 5-844.10, 5-844.14, 5-844.20, 5-844.30\n5-844.31, 5-844.34, 5-844.40, 5-844.41, 5-844.54, 5-844.57, 5-844.60\n5-844.61, 5-844.64, 5-844.71, 5-844.77, 5-847.05, 5-847.15, 5-847.25\n5-847.36, 5-847.45, 5-847.65, 5-902.49, 5-902.4g, 5-902.59, 5-902.5g\n5-902.60, 5-902.64, 5-902.65, 5-902.66, 5-902.67, 5-902.68, 5-902.69\n5-902.6a, 5-902.6b, 5-902.6c, 5-902.6d, 5-902.6e, 5-902.6f, 5-902.6g"
+    },
+    {
+      "code": "31454",
+      "title": "Zuschlag IV zu einem Eingriff des Abschnitts 31.2 bei Durchführung einer der nachfolgend genannten OPS-Kodes: 5-530.00, 5-530.01 5-530.03, 5-530.33, 5-531.0, 5-531.1, 5-531.33, 5-534.35, 5-536.10 5-788.00, 5-788.06, 5-788.07, 5-788.0c, 5-788.40, 5-788.41, 5-788.42 5-788.52, 5-788.53, 5-788.56, 5-788.57, 5-788.58, 5-788.5c, 5-788.5d 5-788.60, 5-788.61, 5-788.66, 5-788.67, 5-844.11, 5-847.03, 5-847.13 5-847.23, 5-847.33, 5-847.43, 5-847.63",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 103.2,
+        "valuation_in_points": 810
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31454 Zuschlag IV zu einem Eingriff des Abschnitts 31.2 bei Durchführung\neiner der nachfolgend genannten OPS-Kodes: 5-530.00, 5-530.01\n5-530.03, 5-530.33, 5-531.0, 5-531.1, 5-531.33, 5-534.35, 5-536.10\n5-788.00, 5-788.06, 5-788.07, 5-788.0c, 5-788.40, 5-788.41, 5-788.42\n5-788.52, 5-788.53, 5-788.56, 5-788.57, 5-788.58, 5-788.5c, 5-788.5d\n5-788.60, 5-788.61, 5-788.66, 5-788.67, 5-844.11, 5-847.03, 5-847.13\n5-847.23, 5-847.33, 5-847.43, 5-847.63"
+    },
+    {
+      "code": "31455",
+      "title": "Zuschlag V zu einem Eingriff des Abschnitts 31.2 bei Durchführung einer der nachfolgend genannten OPS-Kodes: 5-214.4, 5-214.71 5-530.02, 5-530.1, 5-530.31, 5-530.32, 5-530.34, 5-530.90, 5-530.91 5-531.31, 5-531.32, 5-531.34, 5-534.33, 5-535.1, 5-535.33, 5-535.35 5-788.08, 5-788.09, 5-788.0d, 5-788.0e, 5-788.43, 5-788.51, 5-788.54 5-788.59, 5-788.5e, 5-788.5f, 5-788.5g, 5-788.62, 5-788.65, 5-788.68 5-788.70, 5-788.71, 5-788.72, 5-788.73, 5-810.1h, 5-810.2q, 5-810.4h 5-810.4m, 5-810.7g, 5-810.90, 5-810.91, 5-810.94, 5-810.95, 5-810.9g 5-810.9h, 5-810.9s, 5-810.9t, 5-811.3k, 5-812.6, 5-812.f0, 5-812.f1 5-812.f4, 5-812.f7, 5-812.fh, 5-812.fk, 5-812.fm, 5-812.fs, 5-812.ft 5-812.k0, 5-812.kh, 5-813.9, 5-819.10, 5-819.20, 5-819.2h, 5-897.0 5-897.10, 5-897.11, 5-897.12",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 122.44,
+        "valuation_in_points": 961
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31455 Zuschlag V zu einem Eingriff des Abschnitts 31.2 bei Durchführung\neiner der nachfolgend genannten OPS-Kodes: 5-214.4, 5-214.71\n5-530.02, 5-530.1, 5-530.31, 5-530.32, 5-530.34, 5-530.90, 5-530.91\n5-531.31, 5-531.32, 5-531.34, 5-534.33, 5-535.1, 5-535.33, 5-535.35\n5-788.08, 5-788.09, 5-788.0d, 5-788.0e, 5-788.43, 5-788.51, 5-788.54\n5-788.59, 5-788.5e, 5-788.5f, 5-788.5g, 5-788.62, 5-788.65, 5-788.68\n5-788.70, 5-788.71, 5-788.72, 5-788.73, 5-810.1h, 5-810.2q, 5-810.4h\n5-810.4m, 5-810.7g, 5-810.90, 5-810.91, 5-810.94, 5-810.95, 5-810.9g\n5-810.9h, 5-810.9s, 5-810.9t, 5-811.3k, 5-812.6, 5-812.f0, 5-812.f1\n5-812.f4, 5-812.f7, 5-812.fh, 5-812.fk, 5-812.fm, 5-812.fs, 5-812.ft\n5-812.k0, 5-812.kh, 5-813.9, 5-819.10, 5-819.20, 5-819.2h, 5-897.0\n5-897.10, 5-897.11, 5-897.12"
+    },
+    {
+      "code": "31456",
+      "title": "Zuschlag VI zu einem Eingriff des Abschnitts 31.2 bei Durchführung einer der nachfolgend genannten OPS-Kodes: 5-214.3, 5-530.73 5-530.74, 5-624.4, 5-788.44, 5-788.5h, 5-788.63, 5-788.64, 5-788.69 5-810.40, 5-810.44, 5-810.45, 5-810.47, 5-810.4k, 5-810.4s, 5-810.4t 5-810.51, 5-810.5h, 5-811.30, 5-811.31, 5-811.34, 5-811.35, 5-811.36 5-811.37, 5-811.38, 5-811.39, 5-811.3h, 5-811.3s, 5-811.3t, 5-812.34 5-812.37, 5-812.39, 5-812.3h, 5-812.3k, 5-812.3m, 5-812.7, 5-812.97 5-812.b, 5-812.fg, 5-812.kg, 5-813.d, 5-847.00, 5-847.02, 5-847.10 5-847.12, 5-847.20, 5-847.22, 5-847.24, 5-847.30, 5-847.32, 5-847.34 5-847.37, 5-847.40, 5-847.42, 5-847.44, 5-847.50, 5-847.52, 5-847.54 5-847.60, 5-847.62, 5-847.67, 5-847.72",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 168.56,
+        "valuation_in_points": 1323
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31456 Zuschlag VI zu einem Eingriff des Abschnitts 31.2 bei Durchführung\neiner der nachfolgend genannten OPS-Kodes: 5-214.3, 5-530.73\n5-530.74, 5-624.4, 5-788.44, 5-788.5h, 5-788.63, 5-788.64, 5-788.69\n5-810.40, 5-810.44, 5-810.45, 5-810.47, 5-810.4k, 5-810.4s, 5-810.4t\n5-810.51, 5-810.5h, 5-811.30, 5-811.31, 5-811.34, 5-811.35, 5-811.36\n5-811.37, 5-811.38, 5-811.39, 5-811.3h, 5-811.3s, 5-811.3t, 5-812.34\n5-812.37, 5-812.39, 5-812.3h, 5-812.3k, 5-812.3m, 5-812.7, 5-812.97\n5-812.b, 5-812.fg, 5-812.kg, 5-813.d, 5-847.00, 5-847.02, 5-847.10\n5-847.12, 5-847.20, 5-847.22, 5-847.24, 5-847.30, 5-847.32, 5-847.34\n5-847.37, 5-847.40, 5-847.42, 5-847.44, 5-847.50, 5-847.52, 5-847.54\n5-847.60, 5-847.62, 5-847.67, 5-847.72"
+    },
+    {
+      "code": "31457",
+      "title": "Zuschlag VII zu einem Eingriff des Abschnitts 31.2 bei Durchführung einer der nachfolgend genannten OPS-Kodes: 5-810.20, 5-810.24 5-810.25, 5-810.27, 5-810.2g, 5-810.2h, 5-810.2k, 5-810.2m, 5-810.2s 5-810.2t, 5-810.30, 5-810.34, 5-810.37, 5-810.3h, 5-810.3k, 5-810.3m 5-810.3s, 5-810.3t, 5-810.4g, 5-810.50, 5-810.54, 5-810.57, 5-810.5g 5-810.5s, 5-810.5t, 5-810.60, 5-810.6h, 5-811.3g, 5-812.30, 5-812.3g 5-812.9h, 5-812.9k, 5-812.n0, 5-812.n1, 5-812.n2, 5-813.0, 5-813.1 5-813.2, 5-813.3, 5-813.4, 5-813.6, 5-813.7, 5-813.a, 5-813.b, 5-813.c 5-813.e, 5-813.f, 5-813.j, 5-813.k, 5-814.0, 5-814.1, 5-814.2, 5-814.3 5-814.4, 5-814.5, 5-814.60, 5-814.61, 5-814.62, 5-814.8, 5-814.9 5-814.b, 5-819.4, 5-847.01, 5-847.11, 5-847.21, 5-847.31, 5-847.41 5-847.51 31.3 Postoperative Überwachungskomplexe nach ambulanter Erbringung der Leistungen entsprechend den Gebührenordnungspositionen des Abschnittes 31.2 31.3.1 Präambel",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 245.0,
+        "valuation_in_points": 1923
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31457 Zuschlag VII zu einem Eingriff des Abschnitts 31.2 bei Durchführung\neiner der nachfolgend genannten OPS-Kodes: 5-810.20, 5-810.24\n5-810.25, 5-810.27, 5-810.2g, 5-810.2h, 5-810.2k, 5-810.2m, 5-810.2s\n5-810.2t, 5-810.30, 5-810.34, 5-810.37, 5-810.3h, 5-810.3k, 5-810.3m\n5-810.3s, 5-810.3t, 5-810.4g, 5-810.50, 5-810.54, 5-810.57, 5-810.5g\n5-810.5s, 5-810.5t, 5-810.60, 5-810.6h, 5-811.3g, 5-812.30, 5-812.3g\n5-812.9h, 5-812.9k, 5-812.n0, 5-812.n1, 5-812.n2, 5-813.0, 5-813.1\n5-813.2, 5-813.3, 5-813.4, 5-813.6, 5-813.7, 5-813.a, 5-813.b, 5-813.c\n5-813.e, 5-813.f, 5-813.j, 5-813.k, 5-814.0, 5-814.1, 5-814.2, 5-814.3\n5-814.4, 5-814.5, 5-814.60, 5-814.61, 5-814.62, 5-814.8, 5-814.9\n5-814.b, 5-819.4, 5-847.01, 5-847.11, 5-847.21, 5-847.31, 5-847.41\n5-847.51\n31.3 Postoperative Überwachungskomplexe nach ambulanter\nErbringung der Leistungen entsprechend den\nGebührenordnungspositionen des Abschnittes 31.2\n31.3.1 Präambel\n1. Haben an der Erbringung der Leistungen des Abschnitts\n31.2, die nachfolgend eine Überwachung entsprechend\nGebührenordnungspositionen des Abschnitts 31.3 erforderlich\nmachen oder an der Überwachung selbst mehrere Ärzte mitgewirkt\nhat der die Gebührenordnungspositionen dieses Abschnittes\nabrechnende Arzt in einer der Quartalsabrechnung beizufügenden\nund von ihm unterzeichneten Erklärung zu bestätigen, dass er\nmit den anderen Ärzten eine schriftliche Vereinbarung darüber\ngetroffen hat, wonach nur er allein in den jeweiligen Fällen\ndiese Gebührenordnungspositionen berechnet. Die Vereinbarung\nist der zuständigen Kassenärztlichen Vereinigung auf Anforderung\nnachzuweisen.\n2. Neben den in diesem Abschnitt genannten\nGebührenordnungspositionen können die\nGebührenordnungspositionen 01510 bis 01512, 01520 bis 01522\n01530 und 01531, 01857, 01910, 01911, 02100, 02120, 02323, 04536\n32247, 34504 und 34505 nicht berechnet werden.\n3. Die Gebührenordnungspositionen 31501 bis 31507 dieses Abschnitts\nsind nur einmalig im unmittelbaren Anschluss an die Erbringung einer\nLeistung des Abschnitts 31.2 berechnungsfähig.\n4. Nach einem Simultaneingriff erfolgt die Abrechnung des relevanten\nhöchstwertigsten Überwachungskomplexes.\n5. Sofern die Erbringung einer Leistung aus dem Abschnitt 31.3\ndurch einen anderen Arzt erfolgt als die Erbringung der\nLeistung aus dem Abschnitt 31.2 oder 31.5, kann dieser neben\nder Gebührenordnungsposition aus 31.3 keine Grund- oder\nVersichertenpauschale berechnen.\n31.3.2 Postoperative Überwachungskomplexe nach ambulanter\nErbringung einer Leistung entsprechend einer\nGebührenordnungsposition des Abschnittes 31.2"
+    },
+    {
+      "code": "31501",
+      "title": "Postoperative Überwachung im Anschluss an Biopsien von Muskeln Weichteilen und Nerven der Kategorie C1 (Nr. 31121) oder einer Leistung entsprechend der Gebührenordnungsposition 31341 oder 31342",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 17.96,
+        "valuation_in_points": 141
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31501 Postoperative Überwachung im Anschluss an Biopsien von Muskeln\nWeichteilen und Nerven der Kategorie C1 (Nr. 31121) oder einer Leistung\nentsprechend der Gebührenordnungsposition 31341 oder 31342\nObligater Leistungsinhalt\n- Kontrolle von Atmung, Kreislauf, Vigilanz\n- Abschlussuntersuchung(en)\nFakultativer Leistungsinhalt\n- Infusionstherapie\n- akute Schmerztherapie, mit Ausnahme der Leistungen entsprechend\nden Gebührenordnungspositionen des Abschnitts 30.7\n- EKG-Monitoring\nDie Gebührenordnungsposition 31501 ist nicht neben den\nGebührenordnungspositionen 01500, 01501, 01910, 01911, 02100 und\n05350 berechnungsfähig."
+    },
+    {
+      "code": "31502",
+      "title": "Postoperative Überwachung im Anschluss an die Erbringung einer Leistung entsprechend den Gebührenordnungspositionen 31101",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 30.96,
+        "valuation_in_points": 243
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31502 Postoperative Überwachung im Anschluss an die Erbringung\neiner Leistung entsprechend den Gebührenordnungspositionen 31101\n31111, 31121, 31131, 31141, 31221, 31231, 31241, 31271, 31281\n31301, 31321, 31331 , 31350, 31371, 31372 oder 31373 (außer\nBiopsieleistungen der Kategorie C1)\nObligater Leistungsinhalt\n- Kontrolle von Atmung, Kreislauf, Vigilanz\n- Abschlussuntersuchung(en)\nFakultativer Leistungsinhalt\n- Infusionstherapie\n- akute Schmerztherapie, mit Ausnahme der Leistungen entsprechend\nden Gebührenordnungspositionen des Abschnitts 30.7\n- EKG-Monitoring\nDie Berechnung der Gebührenordnungsposition 31502 für die\npostoperative Überwachung nach Durchführung einer intravitrealen\nMedikamenteneingabe gemäß den Gebührenordnungspositionen 31371\nbis 31373 setzt eine ausführliche Begründung der medizinischen\nNotwendigkeit im Einzelfall voraus.\nDie Gebührenordnungsposition 31502 ist nicht neben den\nGebührenordnungspositionen 01500, 01501, 01910, 01911, 02100 und\n05350 berechnungsfähig."
+    },
+    {
+      "code": "31503",
+      "title": "Postoperative Überwachung im Anschluss an die Erbringung einer Leistung entsprechend den Gebührenordnungspositionen 31102",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 62.17,
+        "valuation_in_points": 488
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31503 Postoperative Überwachung im Anschluss an die Erbringung\neiner Leistung entsprechend den Gebührenordnungspositionen 31102\n31112, 31122, 31132, 31142, 31151, 31152, 31161, 31162, 31171\n31172, 31201, 31202, 31211, 31212, 31222, 31232, 31242, 31272\n31282, 31291, 31292, 31302, 31311, 31312, 31319, 31322, 31332 oder\n31351\nObligater Leistungsinhalt\n- Kontrolle von Atmung, Kreislauf, Vigilanz\n- Abschlussuntersuchung(en)\nFakultativer Leistungsinhalt\n- Infusionstherapie\n- akute Schmerztherapie, mit Ausnahme der Leistungen entsprechend\nden Gebührenordnungspositionen des Abschnitts 30.7\n- EKG-Monitoring\nDie Gebührenordnungsposition 31503 ist nicht neben den\nGebührenordnungspositionen 01500, 01501, 01910, 01911, 02100 und\n05350 berechnungsfähig."
+    },
+    {
+      "code": "31504",
+      "title": "Postoperative Überwachung im Anschluss an die Erbringung einer Leistung entsprechend den Gebührenordnungspositionen 31103",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 88.42,
+        "valuation_in_points": 694
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31504 Postoperative Überwachung im Anschluss an die Erbringung\neiner Leistung entsprechend den Gebührenordnungspositionen 31103\n31104, 31113, 31114, 31123, 31124, 31133, 31134, 31143, 31144\n31181, 31182, 31191, 31192, 31223, 31224, 31232, 31233, 31234\n31243, 31244, 31251, 31252, 31253, 31254, 31261, 31262, 31323\n31324, 31333, 31334, 31343 oder 31344\nObligater Leistungsinhalt\n- Kontrolle von Atmung, Kreislauf, Vigilanz\n- Abschlussuntersuchung(en)\nFakultativer Leistungsinhalt\n- Infusionstherapie\n- akute Schmerztherapie, mit Ausnahme der Leistungen entsprechend\nden Gebührenordnungspositionen des Abschnitts 30.7\n- EKG-Monitoring\nDie Gebührenordnungsposition 31504 ist nicht neben den\nGebührenordnungspositionen 01500, 01501, 01910, 01911, 02100 und\n05350 berechnungsfähig."
+    },
+    {
+      "code": "31505",
+      "title": "Postoperative Überwachung im Anschluss an die Erbringung einer Leistung entsprechend den Gebührenordnungspositionen 31105",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 124.47,
+        "valuation_in_points": 977
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31505 Postoperative Überwachung im Anschluss an die Erbringung\neiner Leistung entsprechend den Gebührenordnungspositionen 31105\n31115, 31125, 31135, 31145, 31153, 31154, 31163, 31164, 31173\n31174, 31203, 31204, 31213, 31214, 31225, 31235, 31245, 31255\n31273, 31274, 31283, 31284, 31293, 31294, 31303, 31304, 31313\n31314, 31325, 31335 oder 31345\nObligater Leistungsinhalt\n- Kontrolle von Atmung, Kreislauf, Vigilanz\n- Abschlussuntersuchung(en)\nFakultativer Leistungsinhalt\n- Infusionstherapie\n- akute Schmerztherapie, mit Ausnahme der Leistungen entsprechend\nden Gebührenordnungspositionen des Abschnitts 30.7\n- EKG-Monitoring\nDie Gebührenordnungsposition 31505 ist nicht neben den\nGebührenordnungspositionen 01500, 01501, 01910, 01911, 02100 und\n05350 berechnungsfähig."
+    },
+    {
+      "code": "31506",
+      "title": "Postoperative Überwachung im Anschluss an die Erbringung einer Leistung entsprechend den Gebührenordnungspositionen 31096",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 176.84,
+        "valuation_in_points": 1388
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31506 Postoperative Überwachung im Anschluss an die Erbringung\neiner Leistung entsprechend den Gebührenordnungspositionen 31096\n31106, 31116, 31126, 31136, 31146, 31155, 31165, 31175, 31205\n31215, 31226, 31236, 31246, 31256, 31275, 31285, 31295, 31305\n31315, 31326, 31336 oder 31346\nObligater Leistungsinhalt\n- Kontrolle von Atmung, Kreislauf, Vigilanz\n- Abschlussuntersuchung(en)\nFakultativer Leistungsinhalt\n- Infusionstherapie\n- akute Schmerztherapie, mit Ausnahme der Leistungen entsprechend\nden Gebührenordnungspositionen des Abschnitts 30.7\n- EKG-Monitoring\nDie Gebührenordnungsposition 31506 ist nicht neben den\nGebührenordnungspositionen 01500, 01501, 01910, 01911, 02100 und\n05350 berechnungsfähig."
+    },
+    {
+      "code": "31507",
+      "title": "Postoperative Überwachung im Anschluss an die Erbringung einer Leistung entsprechend den Gebührenordnungspositionen 31097",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 234.17,
+        "valuation_in_points": 1838
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31507 Postoperative Überwachung im Anschluss an die Erbringung\neiner Leistung entsprechend den Gebührenordnungspositionen 31097\n31107, 31117, 31127, 31137, 31147, 31156, 31157, 31166, 31167\n31176, 31177, 31206, 31207, 31216, 31217, 31227, 31237, 31247\n31276, 31277, 31286, 31287, 31296, 31297, 31306, 31307, 31316\n31317, 31327, 31337 oder 31347\nObligater Leistungsinhalt\n- Kontrolle von Atmung, Kreislauf, Vigilanz\n- Abschlussuntersuchung(en)\nFakultativer Leistungsinhalt\n- Infusionstherapie\n- akute Schmerztherapie, mit Ausnahme der Leistungen entsprechend\nden Gebührenordnungspositionen des Abschnitts 30.7\n- EKG-Monitoring\nDie Gebührenordnungsposition 31507 ist nicht neben den\nGebührenordnungspositionen 01500, 01501, 01910, 01911, 02100 und\n05350 berechnungsfähig.\n31.3.3 Postoperative Nachbeobachtung nach ambulanter Erbringung\neiner Leistung entsprechend einer Gebührenordnungsposition des\nAbschnitts 31.2\n1. Die Gebührenordnungsposition 31530 ist im unmittelbaren\nAnschluss an die postoperative Überwachung nach Erbringung\neiner Leistung des Abschnitts 31.2 berechnungsfähig. Die\nGebührenordnungsposition 31530 ist je vollendete 30 Minuten zur\nVerlängerung der postoperativen Überwachung im Anschluss an die\nGebührenordnungspositionen 31501 bis 31507 berechnungsfähig\nbei:\n- Neugeborenen, Säuglingen und Kleinkindern, Kindern bis zum\nvollendeten 12. Lebensjahr\noder\n- Patienten ab dem 70. Lebensjahr mit geriatrischem\nVersorgungsbedarf und Frailty-Syndrom (Kombination von\nunbeabsichtigtem Gewichtsverlust, körperlicher und/oder\ngesteigerter Erschöpfung, muskulärer Schwäche, verringerter\nGanggeschwindigkeit und verminderter körperlicher Aktivität)\nund/oder\n- Patienten mit einer der folgenden Erkrankungen: F00-\nF02 dementielle Erkrankungen, G30 Alzheimer-Erkrankung\nG20.1 Primäres Parkinson-Syndrom mit mäßiger bis schwerer\nBeeinträchtigung und G20.2 Primäres Parkinson-Syndrom mit\nschwerster Beeinträchtigung\nund/oder\n- operativen Eingriffen der OP-Kategorie 5 bis 7 gemäß Anhang 2\nzum EBM.\nMaßgeblich für die Berechnung der Zuschlagspositionen ist die\nÜberschreitung der unter Nr. 2 angegebenen Überwachungszeiten.\nDie postoperative Überwachungszeit nach den\nGebührenordnungspositionen 31501 bis 31507 und die verlängerte\nNachbeobachtungszeit nach der Gebührenordnungsposition 31530\ndarf in Summe nicht das Doppelte der jeweiligen postoperativen\nÜberwachungszeit gemäß Nr. 2 übersteigen.\nDie Überwachungs- und Nachbeobachtungszeiten sind durch\ndie Verlaufs-/Patientendokumentation nachzuweisen. Erfolgt eine\nNachbeobachtung im Anschluss an die Erbringung eines operativen\nEingriffs der OP-Kategorie 5 bis 7 gemäß Anhang 2, ohne dass\nzusätzlich die patientenbezogenen Abrechnungsvoraussetzungen\ngemäß der Spiegelstriche 1 bis 3 erfüllt sind, ist dies medizinisch zu\nbegründen.\nDie Gebührenordnungsposition 31530 ist im Anschluss an die\nErbringung von Leistungen gemäß den Gebührenordnungspositionen\n31341 bis 31347, 31350 und 31351, 31362, 31364 und 31371 bis\n31373 nicht berechnungsfähig.\n2. Als Berechnungsgrundlagen für die Nachbeobachtung gemäß Nr. 1\ngelten folgende Zeiten:\nPostoperative Überwachungskomplexe in Abschnitt 31.3.2 EBM\n- 31501: 0,5 Stunden\n- 31502: 1 Stunde\n- 31503: 2 Stunden\n- 31504: 3 Stunden\n- 31505: 4 Stunden\n- 31506: 6 Stunden\n- 31507: 8 Stunden\n3. Die Gebührenordnungsposition 31530 ist im unmittelbaren Anschluss\nan die jeweilige postoperative Überwachung berechnungsfähig bis zu\neinem Gesamthöchstwert von\n- 8 Stunden für die OPS-Kodes: 1-694, 5-463.11, 5-530.03\n5-530.1, 5-530.33, 5-530.34, 5-531.0, 5-531.1, 5-531.33, 5-531.34\n5-534.01, 5-534.02, 5-534.03, 5-534.1, 5-534.33, 5-534.34\n5-534.35, 5-535.0, 5-535.1, 5-535.33, 5-535.34, 5-535.35, 5-536.0\n5-536.10, 5-536.45, 5-536.46, 5-536.47, 5-536.48, 5-563.4\n- 16 Stunden für die OPS-Kodes: 5-401.80, 5-401.90, 5-401.91\n5-401.92, 5-401.j, 5-469.11, 5-469.21, 5-530.00, 5-530.01\n5-530.02, 5-530.5, 5-530.73, 5-530.74, 5-531.5, 5-531.73\n5-531.74, 5-534.36, 5-534.37, 5-535.36, 5-535.37, 5-536.11\n5-536.49, 5-536.4a, 5-550.1, 5-622.0, 5-651.82, 5-651.92\n5-651.a2, 5-651.b2, 5-657.62, 5-657.72, 5-657.82, 5-657.92\n5-659.22, 5-665.42, 5-665.52, 5-704.4t, 5-704.5b, 5-704.5c\n5-704.5d, 5-704.5s, 5-704.5t, 5-704.66, 5-704.67, 5-704.6k\n5-704.6m\n- 24 Stunden für die OPS-Kodes: 5-448.22, 5-448.42, 5-448.52\n5-448.62, 5-470.10, 5-470.11, 5-511.11, 5-530.31, 5-530.32\n5-530.71, 5-530.72, 5-530.90, 5-530.91, 5-531.31, 5-531.32\n5-531.71, 5-531.72, 5-538.41, 5-538.91, 5-550.21, 5-550.31\n5-552.2, 5-562.4, 5-562.5, 5-562.8, 5-562.9, 5-569.31, 5-569.41\n5-652.52, 5-652.62, 5-653.22, 5-653.32, 5-656.82, 5-656.92\n5-656.a2, 5-661.42, 5-661.52, 5-661.62, 5-666.82, 5-666.92\n5-666.a2, 5-666.b2, 5-681.32, 5-681.82, 5-681.92, 5-682.02\n5-682.12, 5-683.02, 5-683.03, 5-683.12, 5-683.13, 5-683.22\n5-683.23, 5-685.02, 5-692.02.\n4. Die Gebührenordnungsposition 31530 ist im Zusammenhang mit\nder Gebührenordnungsposition 31540 unmittelbar an die jeweilige\npostoperative Überwachungszeit berechnungsfähig bis zu einem\nGesamthöchstwert von\n- 16 Stunden für die OPS-Kodes: 5-802.4, 5-804.5, 5-804.6, 5-804.8\n5-812.3h, 5-812.90, 5-812.9h, 5-815.20, 5-815.21, 5-815.22\n5-815.23, 5-815.30, 5-815.31, 5-815.32, 5-815.33, 5-852.d8\n5-853.08\n- 24 Stunden für die OPS-Kodes: 5-803.6, 5-803.7, 5-803.8\n5-805.2, 5-805.7, 5-805.8, 5-809.10, 5-810.20, 5-810.2h, 5-810.6h\n5-812.30, 5-812.3g, 5-813.0, 5-813.1, 5-813.2, 5-813.3, 5-813.4\n5-813.5, 5-813.6, 5-813.7, 5-813.8, 5-813.a, 5-813.b, 5-813.c\n5-813.d, 5-813.e, 5-813.f, 5-813.g, 5-813.h, 5-813.j, 5-813.k\n5-814.0, 5-814.1, 5-814.2, 5-814.4, 5-814.5, 5-814.60, 5-814.61\n5-814.62, 5-814.7, 5-814.8, 5-814.9, 5-814.b, 5-814.e, 5-822.g1\n5-850.c1, 5-852.h1, 5-855.71.\n5. Die Gebührenordnungsposition 31530 ist bei mehreren Indikationen\nzur verlängerten Nachbeobachtung gemäß Nr. 1 und/oder Nr.\n3 und/oder Nr. 4 bis zum Höchstwert der größten Stundenzahl\nberechnungsfähig.\nDie Gebührenordnungsposition 31540 ist maximal bis zum Höchstwert\ngemäß Nr. 4 berechnungsfähig.\n6. Für die Berechnung der Gebührenordnungsposition 31530 sind ab\neinem Gesamthöchstwert von mehr als 16 Stunden oder wenn die\nPatienten aus medizinischen oder organisatorischen Gründen die\nNacht in der an die operierende Einrichtung räumlich angegliederten\nNachbeobachtungs-Einheit der selben Betriebsstätte verbringen, die\nnachfolgenden Voraussetzungen zu erfüllen:\n- Personalanforderungen\n- Anwesenheit mindestens einer medizinischen Fachkraft\ndie über spezifische Kenntnisse und Erfahrungen\nin der Betreuung von Patienten nach den jeweils\ndurchgeführten Eingriffen verfügt; das den Patienten\nzugeordnete Pflegepersonal orientiert sich an der\nPflegepersonaluntergrenzen-Verordnung für Allgemeine\nChirurgie und Unfallchirurgie\n- Verfügbarkeit eines im Zusammenhang mit den\nentsprechenden Eingriffen qualifizierten Arztes zur\nEinschätzung von möglichen eingriffsbezogenen\nKomplikationen\n- Mindestens telefonische Erreichbarkeit des operierenden\nbzw. des behandelnden Arztes und eines Anästhesisten\n- Notfallversorgung\n- Vorliegen eines strukturierten standort- und\nrisikospezifischen Notfallplans für Zwischenfälle in Bezug\nauf das angebotene Leistungsspektrum mit Festlegung\naller erforderlichen Maßnahmen und Verantwortlichkeiten\nfür mögliche Notfallsituationen einschließlich Reanimation\n- Jährliche Teilnahme des Personals an Fort- und\nWeiterbildungen im Notfall-Management einschließlich\nReanimationstraining\n- Räumliche Nähe zu einem OP/Eingriffsraum\n- Möglichkeit einer umgehenden Verlegung in eine\n(intensiv-)stationäre Abteilung\n- Ausstattung:\n- Pulsoxymeter, Blutdruck- und EKG-Monitoring für\ndie kontinuierliche Überwachung der Vitalparameter\n- Zubehör für die manuelle Beatmung und Intubation\n- Sauerstoffversorgung und Absaugung\n- Reanimationszubehör (Defibrillator)\n- Blutzuckermessgerät\n- Körpertemperaturmessgerät\n- Notfallmedikamente und Infusionslösungen\n- POCT (Troponin- und Hämoglobinbestimmung)\n- Verbandsmaterial\n- Regelmäßige Überprüfung und Dokumentation der\nNotfallausstattung\n- Baulich-räumliche Voraussetzungen\n- Unbehinderte Zufahrt und Haltemöglichkeit für einen\nnötigen Krankentransport\n- Bettenzimmer mit ausreichend Platz für von allen Seiten\nzugängliche Betten plus Schrankteil und Möglichkeit der\nNutzung eines abschließbaren Wertsachenfaches\n- Ausreichend Platz für den Einsatz von Rollstühlen und\nRollatoren\n- (Not-)Rufanlage an allen Betten, im Bad und auf den\nToiletten\n- Barrierefreier Sanitärraum mit Waschbecken und Toilette\n[ggf. inkl. Sichtschutz bei Mehrbettzimmern]\n- Getrennte Sanitärräume für Patienten und Personal\n- Personalumkleidebereich\n- Hygieneanforderungen\n- Vorhalten eines Hygieneplans\n- Regelungen zur Aufbereitung von Betten\n- Regelungen für die Aufbewahrung von Sterilgut\n- Regelungen für die Aufbereitung von\nMedizinprodukten\n- Regelungen für die Entsorgung von Fäkalien\n- Weitere Anforderungen\n- Dokumentation festzulegender Überwachungsparameter\nsowie etwaiger Auffälligkeiten/Prozeduren\n- Regelungen zum Schmerzmanagement\n- Sicherstellung der Versorgung der Patienten mit Getränken\n- Aufenthaltsmöglichkeit für Begleitpersonen, z. B. bei\nKindern oder dementen Patienten"
+    },
+    {
+      "code": "31530",
+      "title": "Zuschlag zu den Gebührenordnungspositionen 31501 bis 31507 bei sich anschließender Nachbeobachtung",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 9.81,
+        "valuation_in_points": 77
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31530 Zuschlag zu den Gebührenordnungspositionen 31501 bis 31507 bei\nsich anschließender Nachbeobachtung\nObligater Leistungsinhalt\n- Nachbeobachtung von mindestens 30 Minuten Dauer\nFakultativer Leistungsinhalt\n- Betreuung eines Patienten\n- Überwachung der Vitalparameter\n- Infusion(en)\nje vollendete 30 Minuten\nAb der fünften Leistung im Anschluss an eine Leistung gemäß Abschnitt\n31.3.2 wird die Gebührenordnungsposition 31530 mit 68 Punkten\nbewertet.\nAbweichend von 2.1 der Allgemeinen Bestimmungen ist die\nGebührenordnungsposition 31530 an dem Tag zu berechnen, an dem\nder Eingriff stattgefunden hat. Erfolgt eine Nachbeobachtung in der Zeit\nzwischen 22:00 und 7:00 Uhr, sind die Leistungen in diesem Zeitraum\nnach Maßgabe der Kassenärztlichen Vereinigung zu kennzeichnen.\nDie Gebührenordnungsposition 31530 ist nicht neben den\nGebührenordnungspositionen 01500 und 01501 berechnungsfähig."
+    },
+    {
+      "code": "31540",
+      "title": "Zuschlag zur Gebührenordnungsposition 31530 für die Überprüfung (z. B. anatomische Lage, Wundverhältnisse) und/oder Unterhaltung eines zur Analgesie angelegten Plexus-, Peridural- oder Spinalkatheters bei Durchführung einer Leistung gemäß der in der vierten Bestimmung zum Abschnitt 31.3.3 EBM genannten OPS- Kodes",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 4.2,
+        "valuation_in_points": 33
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31540 Zuschlag zur Gebührenordnungsposition 31530 für die\nÜberprüfung (z. B. anatomische Lage, Wundverhältnisse) und/oder\nUnterhaltung eines zur Analgesie angelegten Plexus-, Peridural-\noder Spinalkatheters bei Durchführung einer Leistung gemäß der in\nder vierten Bestimmung zum Abschnitt 31.3.3 EBM genannten OPS-\nKodes\nFakultativer Leistungsinhalt\n- Injektion(en), Filterwechsel und Verbandswechsel\n- Funktionskontrolle(n)\n- Umprogrammierung(en)\n- Wiederauffüllung einer externen Medikamentenpumpe\n- Aufklärung über eine patientenkontrollierte Analgesie (PCA)\nAbweichend von 2.1 der Allgemeinen Bestimmungen ist die\nGebührenordnungsposition 31540 an dem Tag zu berechnen, an dem\nder Eingriff stattgefunden hat. Erfolgt eine Nachbeobachtung in der Zeit\nzwischen 22:00 und 7:00 Uhr, sind die Leistungen in diesem Zeitraum\nnach Maßgabe der Kassenärztlichen Vereinigung zu kennzeichnen.\nDie Gebührenordnungsposition 31540 ist nicht neben den\nGebührenordnungspositionen 02101, 02102, 05360, 05372, 30731\n30740, 31840, 31841, 34503 bis 34505, 36840 und 36841 und\nnicht neben den Gebührenordnungspositionen des Abschnitts 5.3\nberechnungsfähig.\n31.4 Postoperative Behandlungskomplexe\n31.4.1 Präambel\n1. Die Gebührenordnungspositionen des Abschnittes 31.4 können vom\nOperateur oder auf Überweisung des Operateurs, mit Angabe\nder Gebührenordnungsposition für die postoperative Behandlung\nvom weiterbehandelnden Vertragsarzt nach ambulanter Durchführung\neines Eingriffs des Abschnittes 31.2 berechnet werden. Der die\nGebührenordnungspositionen des Abschnitts 31.4 abrechnende\nVertragsarzt hat auf dem Abrechnungsschein das Datum des zu\nGrunde liegenden operativen Eingriffes zu dokumentieren.\n2. In dem Zeitraum vom 1. bis zum 21. postoperativen Tag kann\nnur einmalig eine Gebührenordnungsposition des Abschnittes 31.4\nabgerechnet werden oder eine Überweisung zur Weiterbehandlung\ndurch einen anderen Vertragsarzt erfolgen.\n3. Haben an der Erbringung einer Leistung entsprechend einer\nGebührenordnungsposition des Abschnittes 31.4 mehrere Ärzte\nmitgewirkt, so hat der die Gebührenordnungsposition des\nAbschnittes 31.4 abrechnende Arzt in einer der Quartalsabrechnung\nbeizufügenden und von ihm unterzeichneten Erklärung zu bestätigen\ndass er mit den anderen Ärzten eine Vereinbarung darüber getroffen\nhat, wonach nur er allein in den jeweiligen Fällen diese Leistung\nabrechnet.\n4. Nach einem Simultaneingriff erfolgt die Abrechnung des\nNachbehandlungskomplexes entsprechend dem höchstwertigsten\nEingriff.\n5. Für Vertragsärzte des hausärztlichen Versorgungsbereichs ist nur die\nGebührenordnungsposition 31600 berechnungsfähig.\n6. Postoperative Behandlungen im Zusammenhang mit der\nDurchführung von Leistungen gemäß § 115f Absatz 1 Satz\n1 Nummer 2 SGB V (Hybrid-DRG-Leistungskatalog) sind von\nVertragsärzten zeitlich befristet bis 31. Dezember 2026 nach den\nGebührenordnungspositionen der Abschnitte 31.4.2 und 31.4.3 unter\nAngabe der Gebührenordnungsposition 88110 berechnungsfähig.\nDie berechnungsfähige Gebührenordnungsposition des Abschnittes\n31.4.3 richtet sich nach dem OPS-Kode der durchgeführten Leistung\ngemäß § 115f Absatz 1 Satz 1 Nummer 2 SGB V (Hybrid-DRG-\nLeistungskatalog) und dessen Zuordnung gemäß Anhang 2 zum EBM.\nFür nicht im Anhang 2 zum EBM aufgeführte OPS-Kodes gemäß § 115f\nAbsatz 1 Satz 1 Nummer 2 SGB V (Hybrid-DRG-Leistungskatalog)\nist für die postoperative Behandlung durch Vertragsärzte des\nhausärztlichen Versorgungsbereichs die Gebührenordnungsposition\n31600 abweichend von der Leistungslegende und unter Angabe\nder Gebührenordnungsposition 88110 berechnungsfähig. Für nicht\nim Anhang 2 zum EBM aufgeführte OPS-Kodes gemäß\n§ 115f Absatz 1 Satz 1 Nummer 2 SGB V (Hybrid-\nDRG-Leistungskatalog) ist bei postoperativer Behandlung durch\nden Operateur die Gebührenordnungsposition 31611 und bei\npostoperativer Behandlung im fachärztlichen Versorgungsbereich\nauf Überweisung des Operateurs die Gebührenordnungsposition\n31610 abweichend von der Leistungslegende und unter Angabe\nder Gebührenordnungsposition 88110 berechnungsfähig. Bei\nDurchführung einer Leistung gemäß § 115f Absatz 1 Satz 1 Nummer\n2 SGB V (Hybrid-DRG-Leistungskatalog) durch ein Krankenhaus\nkönnen die Gebührenordnungspositionen des Abschnittes 31.4.2 bzw.\n31.4.3 abweichend von der Leistungslegende und Satz 1 der Nr. 1 der\nPräambel 31.4.1 ohne Vorliegen einer Überweisung des Operateurs\neinmalig je Eingriff berechnet werden.\n31.4.2 Postoperativer Behandlungskomplex im Hausärztlichen\nVersorgungsbereich"
+    },
+    {
+      "code": "31601",
+      "title": "Postoperative Behandlung nach der Erbringung einer Leistung entsprechend den Gebührenordnungspositionen 31101, 31111, 31141",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 18.6,
+        "valuation_in_points": 146
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31601 Postoperative Behandlung nach der Erbringung einer Leistung\nentsprechend den Gebührenordnungspositionen 31101, 31111, 31141\n31151, 31161, 31181, 31191, 31211 oder 31271 bei Überweisung durch\nden Operateur\nObligater Leistungsinhalt\n- Befundkontrolle(n)\n- Befundbesprechung\nFakultativer Leistungsinhalt\n- Verbandwechsel\n- Drainagewechsel\n- Drainageentfernung\n- Einleitung und/oder Kontrolle der medikamentösen Therapie\neinmalig im Zeitraum von 21 Tagen nach Erbringung\neiner Leistung des Abschnitts 31.2\nDie Gebührenordnungsposition 31601 ist im Zeitraum von 21 Tagen\nnach Erbringung einer Leistung des Abschnitts 31.2 nicht neben den\nGebührenordnungspositionen 02300 bis 02302, 02310, 02340, 02341\n02344, 02360, 06350 bis 06352, 07310, 07311, 07320, 07330, 07340\n09360 bis 09362, 09364, 09365, 10330, 10340 bis 10342, 15321 bis\n15324, 18310, 18311, 18320, 18330, 18340, 18700, 20364, 20365 und\n26350 bis 26352 berechnungsfähig."
+    },
+    {
+      "code": "31602",
+      "title": "Postoperative Behandlung nach der Erbringung einer Leistung entsprechend den Gebührenordnungspositionen 31101, 31111, 31141",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 10.83,
+        "valuation_in_points": 85
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31602 Postoperative Behandlung nach der Erbringung einer Leistung\nentsprechend den Gebührenordnungspositionen 31101, 31111, 31141\n31151, 31161, 31181, 31191, 31211 oder 31271 bei Erbringung durch\nden Operateur\nObligater Leistungsinhalt\n- Befundkontrolle(n)\n- Befundbesprechung\nFakultativer Leistungsinhalt\n- Verbandwechsel\n- Drainagewechsel\n- Drainageentfernung\n- Einleitung und/oder Kontrolle der medikamentösen Therapie\neinmalig im Zeitraum von 21 Tagen nach Erbringung\neiner Leistung des Abschnitts 31.2\nDie Gebührenordnungsposition 31602 ist im Zeitraum von 21 Tagen\nnach Erbringung einer Leistung des Abschnitts 31.2 nicht neben den\nGebührenordnungspositionen 02300 bis 02302, 02310, 02340, 02341\n02344, 02360, 06350 bis 06352, 07310, 07311, 07320, 07330, 07340\n09360 bis 09362, 09364, 09365, 10330, 10340 bis 10342, 15321 bis\n15324, 18310, 18311, 18320, 18330, 18340, 18700, 20364, 20365 und\n26350 bis 26352 berechnungsfähig."
+    },
+    {
+      "code": "31608",
+      "title": "Postoperative Behandlung nach Erbringung einer Leistung entsprechend den Gebührenordnungspositionen 31102, 31103, 31112",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 30.58,
+        "valuation_in_points": 240
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31608 Postoperative Behandlung nach Erbringung einer Leistung\nentsprechend den Gebührenordnungspositionen 31102, 31103, 31112\n31113, 31152, 31153, 31162, 31163, 31182, 31183, 31192, 31193\n31212, 31213, 31272 oder 31273 bei Überweisung durch den Operateur\nObligater Leistungsinhalt\n- Befundkontrolle(n)\n- Befundbesprechung\nFakultativer Leistungsinhalt\n- Verbandwechsel\n- Drainagewechsel\n- Drainageentfernung\n- Einleitung und/oder Kontrolle der medikamentösen Therapie\neinmalig im Zeitraum von 21 Tagen nach Erbringung\neiner Leistung des Abschnitts 31.2\nDie Gebührenordnungsposition 31608 ist im Zeitraum von 21 Tagen\nnach Erbringung einer Leistung des Abschnitts 31.2 nicht neben den\nGebührenordnungspositionen 02300 bis 02302, 02310, 02340, 02341\n02344, 02360, 06350 bis 06352, 07310, 07311, 07320, 07330, 07340\n09360 bis 09362, 09364, 09365, 10330, 10340 bis 10342, 15321 bis\n15324, 18310, 18311, 18320, 18330, 18340, 18700, 20364, 20365 und\n26350 bis 26352 berechnungsfähig."
+    },
+    {
+      "code": "31609",
+      "title": "Postoperative Behandlung nach der Erbringung einer Leistung entsprechend den Gebührenordnungspositionen 31102, 31103, 31112",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 22.68,
+        "valuation_in_points": 178
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31609 Postoperative Behandlung nach der Erbringung einer Leistung\nentsprechend den Gebührenordnungspositionen 31102, 31103, 31112\n31113, 31152, 31153, 31162, 31163, 31182, 31183, 31192, 31193\n31212, 31213, 31272 oder 31273 bei Erbringung durch den Operateur\nObligater Leistungsinhalt\n- Befundkontrolle(n)\n- Befundbesprechung\nFakultativer Leistungsinhalt\n- Verbandwechsel\n- Drainagewechsel\n- Drainageentfernung\n- Einleitung und/oder Kontrolle der medikamentösen Therapie\neinmalig im Zeitraum von 21 Tagen nach Erbringung\neiner Leistung des Abschnitts 31.2\nDie Gebührenordnungsposition 31609 ist im Zeitraum von 21 Tagen\nnach Erbringung einer Leistung des Abschnitts 31.2 nicht neben den\nGebührenordnungspositionen 02300 bis 02302, 02310, 02340, 02341\n02344, 02360, 06350 bis 06352, 07310, 07311, 07320, 07330, 07340\n09360 bis 09362, 09364, 09365, 10330, 10340 bis 10342, 15321 bis\n15324, 18310, 18311, 18320, 18330, 18340, 18700, 20364, 20365 und\n26350 bis 26352 berechnungsfähig."
+    },
+    {
+      "code": "31610",
+      "title": "Postoperative Behandlung nach der Erbringung einer Leistung entsprechend den Gebührenordnungspositionen 31104, 31105, 31114",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 38.35,
+        "valuation_in_points": 301
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31610 Postoperative Behandlung nach der Erbringung einer Leistung\nentsprechend den Gebührenordnungspositionen 31104, 31105, 31114\n31115, 31154, 31155, 31164, 31165, 31184, 31185, 31194, 31195\n31214, 31215, 31274 oder 31275 bei Überweisung durch den Operateur\nObligater Leistungsinhalt\n- Befundkontrolle(n)\n- Befundbesprechung\nFakultativer Leistungsinhalt\n- Verbandwechsel\n- Drainagewechsel\n- Drainageentfernung\n- Einleitung und/oder Kontrolle der medikamentösen Therapie\neinmalig im Zeitraum von 21 Tagen nach Erbringung\neiner Leistung des Abschnitts 31.2\nDie Gebührenordnungsposition 31610 ist im Zeitraum von 21 Tagen\nnach Erbringung einer Leistung des Abschnitts 31.2 nicht neben den\nGebührenordnungspositionen 02300 bis 02302, 02310, 02340, 02341\n02344, 02360, 06350 bis 06352, 07310, 07311, 07320, 07330, 07340\n09360 bis 09362, 09364, 09365, 10330, 10340 bis 10342, 15321 bis\n15324, 18310, 18311, 18320, 18330, 18340, 18700, 20364, 20365 und\n26350 bis 26352 berechnungsfähig."
+    },
+    {
+      "code": "31611",
+      "title": "Postoperative Behandlung nach der Erbringung einer Leistung entsprechend den Gebührenordnungspositionen 31104, 31105, 31114",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 30.58,
+        "valuation_in_points": 240
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31611 Postoperative Behandlung nach der Erbringung einer Leistung\nentsprechend den Gebührenordnungspositionen 31104, 31105, 31114\n31115, 31154, 31155, 31164, 31165, 31184, 31185, 31194, 31195\n31214, 31215, 31274 oder 31275 bei Erbringung durch den Operateur\nObligater Leistungsinhalt\n- Befundkontrolle(n)\n- Befundbesprechung\nFakultativer Leistungsinhalt\n- Verbandwechsel\n- Drainagewechsel\n- Drainageentfernung\n- Einleitung und/oder Kontrolle der medikamentösen Therapie\neinmalig im Zeitraum von 21 Tagen nach Erbringung\neiner Leistung des Abschnitts 31.2\nDie Gebührenordnungsposition 31611 ist im Zeitraum von 21 Tagen\nnach Erbringung einer Leistung des Abschnitts 31.2 nicht neben den\nGebührenordnungspositionen 02300 bis 02302, 02310, 02340, 02341\n02344, 02360, 06350 bis 06352, 07310, 07311, 07320, 07330, 07340\n09360 bis 09362, 09364, 09365, 10330, 10340 bis 10342, 15321 bis\n15324, 18310, 18311, 18320, 18330, 18340, 18700, 20364, 20365 und\n26350 bis 26352 berechnungsfähig."
+    },
+    {
+      "code": "31612",
+      "title": "Postoperative Behandlung nach der Erbringung einer Leistung entsprechend den Gebührenordnungspositionen 31096, 31097, 31106",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 46.38,
+        "valuation_in_points": 364
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31612 Postoperative Behandlung nach der Erbringung einer Leistung\nentsprechend den Gebührenordnungspositionen 31096, 31097, 31106\n31107, 31116, 31117, 31156, 31157, 31166, 31167, 31186, 31187\n31196, 31197, 31216, 31217, 31276 oder 31277 bei Überweisung durch\nden Operateur\nObligater Leistungsinhalt\n- Befundkontrolle(n)\n- Befundbesprechung\nFakultativer Leistungsinhalt\n- Verbandwechsel\n- Drainagewechsel\n- Drainageentfernung\n- akute Schmerztherapie, mit Ausnahme der Leistungen des Kapitels\n30.7\n- Einleitung und/oder Kontrolle der medikamentösen Therapie\neinmalig im Zeitraum von 21 Tagen nach Erbringung\neiner Leistung des Abschnitts 31.2\nDie Gebührenordnungsposition 31612 ist im Zeitraum von 21 Tagen\nnach Erbringung einer Leistung des Abschnitts 31.2 nicht neben den\nGebührenordnungspositionen 02300 bis 02302, 02310, 02340, 02341\n02344, 02360, 06350 bis 06352, 07310, 07311, 07320, 07330, 07340\n09360 bis 09362, 09364, 09365, 10330, 10340 bis 10342, 15321 bis\n15324, 18310, 18311, 18320, 18330, 18340, 18700, 20364, 20365 und\n26350 bis 26352 berechnungsfähig."
+    },
+    {
+      "code": "31613",
+      "title": "Postoperative Behandlung nach der Erbringung einer Leistung entsprechend den Gebührenordnungspositionen 31096, 31097, 31106",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 38.6,
+        "valuation_in_points": 303
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31613 Postoperative Behandlung nach der Erbringung einer Leistung\nentsprechend den Gebührenordnungspositionen 31096, 31097, 31106\n31107, 31116, 31117, 31156, 31157, 31166, 31167, 31186, 31187\n31196, 31197, 31216, 31217, 31276 oder 31277 bei Erbringung durch\nden Operateur\nObligater Leistungsinhalt\n- Befundkontrolle(n)\n- Befundbesprechung\nFakultativer Leistungsinhalt\n- Verbandwechsel\n- Drainagewechsel\n- Drainageentfernung\n- akute Schmerztherapie, mit Ausnahme der Leistungen des Kapitels\n30.7\n- Einleitung und/oder Kontrolle der medikamentösen Therapie\neinmalig im Zeitraum von 21 Tagen nach Erbringung\neiner Leistung des Abschnitts 31.2\nDie Gebührenordnungsposition 31613 ist im Zeitraum von 21 Tagen\nnach Erbringung einer Leistung des Abschnitts 31.2 nicht neben den\nGebührenordnungspositionen 02300 bis 02302, 02310, 02340, 02341\n02344, 02360, 06350 bis 06352, 07310, 07311, 07320, 07330, 07340\n09360 bis 09362, 09364, 09365, 10330, 10340 bis 10342, 15321 bis\n15324, 18310, 18311, 18320, 18330, 18340, 18700, 20364, 20365 und\n26350 bis 26352 berechnungsfähig."
+    },
+    {
+      "code": "31614",
+      "title": "Postoperative Behandlung nach der Erbringung einer Leistung entsprechend den Gebührenordnungspositionen 31121, 31122, 31131",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 21.66,
+        "valuation_in_points": 170
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31614 Postoperative Behandlung nach der Erbringung einer Leistung\nentsprechend den Gebührenordnungspositionen 31121, 31122, 31131\n31132, 31142, 31241 oder 31242 bei Überweisung durch den Operateur\nObligater Leistungsinhalt\n- Befundbesprechung\n- Befundkontrolle(n)\nFakultativer Leistungsinhalt\n- Anlage und/oder Wechseln und/oder Ändern eines\nimmobilisierenden Verbands\n- Drainagewechsel\n- Drainageentfernung\n- Einleitung und/oder Kontrolle der medikamentösen Therapie\neinmalig im Zeitraum von 21 Tagen nach Erbringung\neiner Leistung des Abschnitts 31.2\nDie Gebührenordnungsposition 31614 ist am Behandlungstag nicht\nneben den Gebührenordnungspositionen 02350, 16232, 18310\n18311, 18320, 18330, 18331 und 18340 und nicht neben den\nGebührenordnungspositionen des Abschnitts 7.3 berechnungsfähig.\nDie Gebührenordnungsposition 31614 ist im Zeitraum von 21 Tagen\nnach Erbringung einer Leistung des Abschnitts 31.2 nicht neben den\nGebührenordnungspositionen 02300 bis 02302, 02310, 02340, 02341\n02344, 02350, 02360, 04437, 06350 bis 06352, 07310, 07311, 07320\n07330, 07340, 09360 bis 09362, 09364, 09365, 10330, 10340 bis 10342\n15321 bis 15324, 16322, 18310, 18311, 18320, 18330, 18340, 18700\n20364, 20365, 26350 bis 26352 und 27331 berechnungsfähig."
+    },
+    {
+      "code": "31615",
+      "title": "Postoperative Behandlung nach der Erbringung einer Leistung entsprechend den Gebührenordnungspositionen 31121, 31122, 31131",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 13.89,
+        "valuation_in_points": 109
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31615 Postoperative Behandlung nach der Erbringung einer Leistung\nentsprechend den Gebührenordnungspositionen 31121, 31122, 31131\n31132, 31142, 31241 oder 31242 bei Erbringung durch den Operateur\nObligater Leistungsinhalt\n- Befundbesprechung\n- Befundkontrolle(n)\nFakultativer Leistungsinhalt\n- Anlage und/oder Wechseln und/oder Ändern eines\nimmobilisierenden Verbands\n- Drainagewechsel\n- Drainageentfernung\n- Einleitung und/oder Kontrolle der medikamentösen Therapie\neinmalig im Zeitraum von 21 Tagen nach Erbringung\neiner Leistung des Abschnitts 31.2\nDie Gebührenordnungsposition 31615 ist am Behandlungstag nicht\nneben den Gebührenordnungspositionen 02350, 16232, 18310\n18311, 18320, 18330, 18331 und 18340 und nicht neben den\nGebührenordnungspositionen des Abschnitts 7.3 berechnungsfähig.\nDie Gebührenordnungsposition 31615 ist im Zeitraum von 21 Tagen\nnach Erbringung einer Leistung des Abschnitts 31.2 nicht neben den\nGebührenordnungspositionen 02300 bis 02302, 02310, 02340, 02341\n02344, 02350, 02360, 04437, 06350 bis 06352, 07310, 07311, 07320\n07330, 07340, 09360 bis 09362, 09364, 09365, 10330, 10340 bis 10342\n15321 bis 15324, 16322, 18310, 18311, 18320, 18330, 18340, 18700\n20364, 20365 und 26350 bis 26352 berechnungsfähig."
+    },
+    {
+      "code": "31616",
+      "title": "Postoperative Behandlung nach der Erbringung einer Leistung entsprechend den Gebührenordnungspositionen 31123, 31133, 31143 oder 31243 bei Überweisung durch den Operateur",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 34.91,
+        "valuation_in_points": 274
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31616 Postoperative Behandlung nach der Erbringung einer Leistung\nentsprechend den Gebührenordnungspositionen 31123, 31133, 31143\noder 31243 bei Überweisung durch den Operateur\nObligater Leistungsinhalt\n- Befundbesprechung\n- Befundkontrolle(n)\nFakultativer Leistungsinhalt\n- Anlage und/oder Wechseln und/oder Ändern eines\nimmobilisierenden Verbands\n- Drainagewechsel\n- Drainageentfernung\n- Einleitung und/oder Kontrolle der medikamentösen Therapie\neinmalig im Zeitraum von 21 Tagen nach Erbringung\neiner Leistung des Abschnitts 31.2\nDie Gebührenordnungsposition 31616 ist am Behandlungstag nicht\nneben den Gebührenordnungspositionen 02350, 16232, 18310\n18311, 18320, 18330, 18331 und 18340 und nicht neben den\nGebührenordnungspositionen des Abschnitts 7.3 berechnungsfähig.\nDie Gebührenordnungsposition 31616 ist im Zeitraum von 21 Tagen\nnach Erbringung einer Leistung des Abschnitts 31.2 nicht neben den\nGebührenordnungspositionen 02300 bis 02302, 02310, 02340, 02341\n02344, 02350, 02360, 04437, 06350 bis 06352, 07310, 07311, 07320\n07330, 07340, 09360 bis 09362, 09364, 09365, 10330, 10340 bis 10342\n15321 bis 15324, 16322, 18310, 18311, 18320, 18330, 18340, 18700\n20364, 20365 und 26350 bis 26352 berechnungsfähig."
+    },
+    {
+      "code": "31617",
+      "title": "Postoperative Behandlung nach der Erbringung einer Leistung entsprechend den Gebührenordnungspositionen 31123, 31133, 31143 oder 31243 bei Erbringung durch den Operateur",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 27.01,
+        "valuation_in_points": 212
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31617 Postoperative Behandlung nach der Erbringung einer Leistung\nentsprechend den Gebührenordnungspositionen 31123, 31133, 31143\noder 31243 bei Erbringung durch den Operateur\nObligater Leistungsinhalt\n- Befundbesprechung\n- Befundkontrolle(n)\nFakultativer Leistungsinhalt\n- Anlage und/oder Wechseln und/oder Ändern eines\nimmobilisierenden Verbands\n- Drainagewechsel\n- Drainageentfernung\n- Einleitung und/oder Kontrolle der medikamentösen Therapie\neinmalig im Zeitraum von 21 Tagen nach Erbringung\neiner Leistung des Abschnitts 31.2\nDie Gebührenordnungsposition 31617 ist am Behandlungstag nicht\nneben den Gebührenordnungspositionen 02350, 16232, 18310\n18311, 18320, 18330, 18331 und 18340 und nicht neben den\nGebührenordnungspositionen des Abschnitts 7.3 berechnungsfähig.\nDie Gebührenordnungsposition 31617 ist im Zeitraum von 21 Tagen\nnach Erbringung einer Leistung des Abschnitts 31.2 nicht neben den\nGebührenordnungspositionen 02300 bis 02302, 02310, 02340, 02341\n02344, 02350, 02360, 04437, 06350 bis 06352, 07310, 07311, 07320\n07330, 07340, 09360 bis 09362, 09364, 09365, 10330, 10340 bis 10342\n15321 bis 15324, 16322, 18310, 18311, 18320, 18330, 18340, 18700\n20364, 20365 und 26350 bis 26352 berechnungsfähig."
+    },
+    {
+      "code": "31618",
+      "title": "Postoperative Behandlung nach der Erbringung einer Leistung entsprechend den Gebührenordnungspositionen 31124, 31125, 31134",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 45.23,
+        "valuation_in_points": 355
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31618 Postoperative Behandlung nach der Erbringung einer Leistung\nentsprechend den Gebührenordnungspositionen 31124, 31125, 31134\n31135, 31144, 31145, 31244 oder 31245 bei Überweisung durch den\nOperateur\nObligater Leistungsinhalt\n- Befundbesprechung\n- Befundkontrolle(n)\nFakultativer Leistungsinhalt\n- Anlage und/oder Wechseln und/oder Ändern eines\nimmobilisierenden Verbands\n- Drainagewechsel\n- Drainageentfernung\n- Einleitung und/oder Kontrolle der medikamentösen Therapie\neinmalig im Zeitraum von 21 Tagen nach Erbringung\neiner Leistung des Abschnitts 31.2\nDie Gebührenordnungsposition 31618 ist am Behandlungstag nicht\nneben den Gebührenordnungspositionen 02350, 16232, 18310\n18311, 18320, 18330, 18331 und 18340 und nicht neben den\nGebührenordnungspositionen des Abschnitts 7.3 berechnungsfähig.\nDie Gebührenordnungsposition 31618 ist im Zeitraum von 21 Tagen\nnach Erbringung einer Leistung des Abschnitts 31.2 nicht neben den\nGebührenordnungspositionen 02300 bis 02302, 02310, 02340, 02341\n02344, 02350, 02360, 04437, 06350 bis 06352, 07310, 07311, 07320\n07330, 07340, 09360 bis 09362, 09364, 09365, 10330, 10340 bis 10342\n15321 bis 15324, 16322, 18310, 18311, 18320, 18330, 18340, 18700\n20364, 20365 und 26350 bis 26352 berechnungsfähig."
+    },
+    {
+      "code": "31619",
+      "title": "Postoperative Behandlung nach der Erbringung einer Leistung entsprechend den Gebührenordnungspositionen 31124, 31125, 31134",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 37.33,
+        "valuation_in_points": 293
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31619 Postoperative Behandlung nach der Erbringung einer Leistung\nentsprechend den Gebührenordnungspositionen 31124, 31125, 31134\n31135, 31144, 31145, 31244 oder 31245 bei Erbringung durch den\nOperateur\nObligater Leistungsinhalt\n- Befundbesprechung\n- Befundkontrolle(n)\nFakultativer Leistungsinhalt\n- Anlage und/oder Wechseln und/oder Ändern eines\nimmobilisierenden Verbands\n- Drainagewechsel\n- Drainageentfernung\n- Einleitung und/oder Kontrolle der medikamentösen Therapie\neinmalig im Zeitraum von 21 Tagen nach Erbringung\neiner Leistung des Abschnitts 31.2\nDie Gebührenordnungsposition 31619 ist am Behandlungstag nicht\nneben den Gebührenordnungspositionen 02350, 16232, 18310\n18311, 18320, 18330, 18331 und 18340 und nicht neben den\nGebührenordnungspositionen des Abschnitts 7.3 berechnungsfähig.\nDie Gebührenordnungsposition 31619 ist im Zeitraum von 21 Tagen\nnach Erbringung einer Leistung des Abschnitts 31.2 nicht neben den\nGebührenordnungspositionen 02300 bis 02302, 02310, 02340, 02341\n02344, 02350, 02360, 04437, 06350 bis 06352, 07310, 07311, 07320\n07330, 07340, 09360 bis 09362, 09364, 09365, 10330, 10340 bis 10342\n15321 bis 15324, 16322, 18310, 18311, 18320, 18330, 18340, 18700\n20364, 20365 und 26350 bis 26352 berechnungsfähig."
+    },
+    {
+      "code": "31620",
+      "title": "Postoperative Behandlung nach der Erbringung einer Leistung entsprechend den Gebührenordnungspositionen 31126, 31127, 31136",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 53.13,
+        "valuation_in_points": 417
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31620 Postoperative Behandlung nach der Erbringung einer Leistung\nentsprechend den Gebührenordnungspositionen 31126, 31127, 31136\n31137, 31146, 31147, 31246 oder 31247 bei Überweisung durch den\nOperateur\nObligater Leistungsinhalt\n- Befundbesprechung\n- Befundkontrolle(n)\nFakultativer Leistungsinhalt\n- Anlage und/oder Wechseln und/oder Ändern eines\nimmobilisierenden Verbands\n- Drainagewechsel\n- Drainageentfernung\n- Einleitung und/oder Kontrolle der medikamentösen Therapie\neinmalig im Zeitraum von 21 Tagen nach Erbringung\neiner Leistung des Abschnitts 31.2\nDie Gebührenordnungsposition 31620 ist am Behandlungstag nicht\nneben den Gebührenordnungspositionen 02350, 16232, 18310\n18311, 18320, 18330, 18331 und 18340 und nicht neben den\nGebührenordnungspositionen des Abschnitts 7.3 berechnungsfähig.\nDie Gebührenordnungsposition 31620 ist im Zeitraum von 21 Tagen\nnach Erbringung einer Leistung des Abschnitts 31.2 nicht neben den\nGebührenordnungspositionen 02300 bis 02302, 02310, 02340, 02341\n02344, 02350, 02360, 04437, 06350 bis 06352, 07310, 07311, 07320\n07330, 07340, 09360 bis 09362, 09364, 09365, 10330, 10340 bis 10342\n15321 bis 15324, 16322, 18310, 18311, 18320, 18330, 18340, 18700\n20364, 20365 und 26350 bis 26352 berechnungsfähig."
+    },
+    {
+      "code": "31621",
+      "title": "Postoperative Behandlung nach der Erbringung einer Leistung entsprechend den Gebührenordnungspositionen 31126, 31127, 31136",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 45.36,
+        "valuation_in_points": 356
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31621 Postoperative Behandlung nach der Erbringung einer Leistung\nentsprechend den Gebührenordnungspositionen 31126, 31127, 31136\n31137, 31146, 31147, 31246 oder 31247 bei Erbringung durch den\nOperateur\nObligater Leistungsinhalt\n- Befundbesprechung\n- Befundkontrolle(n)\nFakultativer Leistungsinhalt\n- Anlage und/oder Wechseln und/oder Ändern eines\nimmobilisierenden Verbands\n- Drainagewechsel\n- Drainageentfernung\n- Einleitung und/oder Kontrolle der medikamentösen Therapie\neinmalig im Zeitraum von 21 Tagen nach Erbringung\neiner Leistung des Abschnitts 31.2\nDie Gebührenordnungsposition 31621 ist am Behandlungstag nicht\nneben den Gebührenordnungspositionen 02350, 16232, 18310\n18311, 18320, 18330, 18331 und 18340 und nicht neben den\nGebührenordnungspositionen des Abschnitts 7.3 berechnungsfähig.\nDie Gebührenordnungsposition 31621 ist im Zeitraum von 21 Tagen\nnach Erbringung einer Leistung des Abschnitts 31.2 nicht neben den\nGebührenordnungspositionen 02300 bis 02302, 02310, 02340, 02341\n02344, 02350, 02360, 04437, 06350 bis 06352, 07310, 07311, 07320\n07330, 07340, 09360 bis 09362, 09364, 09365, 10330, 10340 bis 10342\n15321 bis 15324, 16322, 18310, 18311, 18320, 18330, 18340, 18700\n20364, 20365 und 26350 bis 26352 berechnungsfähig."
+    },
+    {
+      "code": "31622",
+      "title": "Postoperative Behandlung nach der Erbringung der Leistung entsprechend der Gebührenordnungsposition 31171 bei Überweisung durch den Operateur",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 22.68,
+        "valuation_in_points": 178
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31622 Postoperative Behandlung nach der Erbringung der Leistung\nentsprechend der Gebührenordnungsposition 31171 bei Überweisung\ndurch den Operateur\nObligater Leistungsinhalt\n- Befundkontrolle(n)\n- Befundbesprechung\nFakultativer Leistungsinhalt\n- Verbandwechsel\n- Drainagewechsel\n- Drainageentfernung\n- Einleitung und/oder Kontrolle der medikamentösen Therapie\neinmalig im Zeitraum von 21 Tagen nach Erbringung\neiner Leistung des Abschnitts 31.2\nDie Gebührenordnungsposition 31622 ist im Zeitraum von 21 Tagen\nnach Erbringung einer Leistung des Abschnitts 31.2 nicht neben den\nGebührenordnungspositionen 02300 bis 02302, 02310, 02340, 02341\n02344, 02360, 06350 bis 06352, 07310, 07311, 07320, 07330, 07340\n09360 bis 09362, 09364, 09365, 10330, 10340 bis 10342, 15321 bis\n15324, 18310, 18311, 18320, 18330, 18340, 18700, 20364, 20365 und\n26350 bis 26352 berechnungsfähig."
+    },
+    {
+      "code": "31623",
+      "title": "Postoperative Behandlung nach der Erbringung der Leistung entsprechend der Gebührenordnungsposition 31171 bei Erbringung durch den Operateur",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 14.91,
+        "valuation_in_points": 117
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31623 Postoperative Behandlung nach der Erbringung der Leistung\nentsprechend der Gebührenordnungsposition 31171 bei Erbringung\ndurch den Operateur\nObligater Leistungsinhalt\n- Befundkontrolle(n)\n- Befundbesprechung\nFakultativer Leistungsinhalt\n- Verbandwechsel\n- Drainagewechsel\n- Drainageentfernung\n- Einleitung und/oder Kontrolle der medikamentösen Therapie\neinmalig im Zeitraum von 21 Tagen nach Erbringung\neiner Leistung des Abschnitts 31.2\nDie Gebührenordnungsposition 31623 ist im Zeitraum von 21 Tagen\nnach Erbringung einer Leistung des Abschnitts 31.2 nicht neben den\nGebührenordnungspositionen 02300 bis 02302, 02310, 02340, 02341\n02344, 02360, 06350 bis 06352, 07310, 07311, 07320, 07330, 07340\n09360 bis 09362, 09364, 09365, 10330, 10340 bis 10342, 15321 bis\n15324, 18310, 18311, 18320, 18330, 18340, 18700, 20364, 20365 und\n26350 bis 26352 berechnungsfähig."
+    },
+    {
+      "code": "31624",
+      "title": "Postoperative Behandlung nach der Erbringung einer Leistung entsprechend den Gebührenordnungspositionen 31172 oder 31173 bei Überweisung durch den Operateur",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 32.23,
+        "valuation_in_points": 253
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31624 Postoperative Behandlung nach der Erbringung einer Leistung\nentsprechend den Gebührenordnungspositionen 31172 oder 31173 bei\nÜberweisung durch den Operateur\nObligater Leistungsinhalt\n- Befundkontrolle(n)\n- Befundbesprechung\nFakultativer Leistungsinhalt\n- Verbandwechsel\n- Drainagewechsel\n- Drainageentfernung\n- Einleitung und/oder Kontrolle der medikamentösen Therapie\neinmalig im Zeitraum von 21 Tagen nach Erbringung\neiner Leistung des Abschnitts 31.2\nDie Gebührenordnungsposition 31624 ist im Zeitraum von 21 Tagen\nnach Erbringung einer Leistung des Abschnitts 31.2 nicht neben den\nGebührenordnungspositionen 02300 bis 02302, 02310, 02340, 02341\n02344, 02360, 06350 bis 06352, 07310, 07311, 07320, 07330, 07340\n09360 bis 09362, 09364, 09365, 10330, 10340 bis 10342, 15321 bis\n15324, 18310, 18311, 18320, 18330, 18340, 18700, 20364, 20365 und\n26350 bis 26352 berechnungsfähig."
+    },
+    {
+      "code": "31625",
+      "title": "Postoperative Behandlung nach der Erbringung einer Leistung entsprechend den Gebührenordnungspositionen 31172 oder 31173 bei Erbringung durch den Operateur",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 24.33,
+        "valuation_in_points": 191
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31625 Postoperative Behandlung nach der Erbringung einer Leistung\nentsprechend den Gebührenordnungspositionen 31172 oder 31173 bei\nErbringung durch den Operateur\nObligater Leistungsinhalt\n- Befundkontrolle(n)\n- Befundbesprechung\nFakultativer Leistungsinhalt\n- Verbandwechsel\n- Drainagewechsel\n- Drainageentfernung\n- Einleitung und/oder Kontrolle der medikamentösen Therapie\neinmalig im Zeitraum von 21 Tagen nach Erbringung\neiner Leistung des Abschnitts 31.2\nDie Gebührenordnungsposition 31625 ist im Zeitraum von 21 Tagen\nnach Erbringung einer Leistung des Abschnitts 31.2 nicht neben den\nGebührenordnungspositionen 02300 bis 02302, 02310, 02340, 02341\n02344, 02360, 06350 bis 06352, 07310, 07311, 07320, 07330, 07340\n09360 bis 09362, 09364, 09365, 10330, 10340 bis 10342, 15321 bis\n15324, 18310, 18311, 18320, 18330, 18340, 18700, 20364, 20365 und\n26350 bis 26352 berechnungsfähig."
+    },
+    {
+      "code": "31626",
+      "title": "Postoperative Behandlung nach der Erbringung einer Leistung entsprechend den Gebührenordnungspositionen 31174 oder 31175 bei Überweisung durch den Operateur",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 42.68,
+        "valuation_in_points": 335
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31626 Postoperative Behandlung nach der Erbringung einer Leistung\nentsprechend den Gebührenordnungspositionen 31174 oder 31175 bei\nÜberweisung durch den Operateur\nObligater Leistungsinhalt\n- Befundkontrolle(n)\n- Befundbesprechung\nFakultativer Leistungsinhalt\n- Verbandwechsel\n- Drainagewechsel\n- Drainageentfernung\n- Einleitung und/oder Kontrolle der medikamentösen Therapie\neinmalig im Zeitraum von 21 Tagen nach Erbringung\neiner Leistung des Abschnitts 31.2\nDie Gebührenordnungsposition 31626 ist im Zeitraum von 21 Tagen\nnach Erbringung einer Leistung des Abschnitts 31.2 nicht neben den\nGebührenordnungspositionen 02300 bis 02302, 02310, 02340, 02341\n02344, 02360, 06350 bis 06352, 07310, 07311, 07320, 07330, 07340\n09360 bis 09362, 09364, 09365, 10330, 10340 bis 10342, 15321 bis\n15324, 18310, 18311, 18320, 18330, 18340, 18700, 20364, 20365 und\n26350 bis 26352 berechnungsfähig."
+    },
+    {
+      "code": "31627",
+      "title": "Postoperative Behandlung nach der Erbringung einer Leistung entsprechend den Gebührenordnungspositionen 31174 oder 31175 bei Erbringung durch den Operateur",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 34.65,
+        "valuation_in_points": 272
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31627 Postoperative Behandlung nach der Erbringung einer Leistung\nentsprechend den Gebührenordnungspositionen 31174 oder 31175 bei\nErbringung durch den Operateur\nObligater Leistungsinhalt\n- Befundkontrolle(n)\n- Befundbesprechung\nFakultativer Leistungsinhalt\n- Verbandwechsel\n- Drainagewechsel\n- Drainageentfernung\n- Einleitung und/oder Kontrolle der medikamentösen Therapie\neinmalig im Zeitraum von 21 Tagen nach Erbringung\neiner Leistung des Abschnitts 31.2\nDie Gebührenordnungsposition 31627 ist im Zeitraum von 21 Tagen\nnach Erbringung einer Leistung des Abschnitts 31.2 nicht neben den\nGebührenordnungspositionen 02300 bis 02302, 02310, 02340, 02341\n02344, 02360, 06350 bis 06352, 07310, 07311, 07320, 07330, 07340\n09360 bis 09362, 09364, 09365, 10330, 10340 bis 10342, 15321 bis\n15324, 18310, 18311, 18320, 18330, 18340, 18700, 20364, 20365 und\n26350 bis 26352 berechnungsfähig."
+    },
+    {
+      "code": "31628",
+      "title": "Postoperative Behandlung nach der Erbringung einer Leistung entsprechend den Gebührenordnungspositionen 31176 oder 31177 bei Überweisung durch den Operateur",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 50.58,
+        "valuation_in_points": 397
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31628 Postoperative Behandlung nach der Erbringung einer Leistung\nentsprechend den Gebührenordnungspositionen 31176 oder 31177 bei\nÜberweisung durch den Operateur\nObligater Leistungsinhalt\n- Befundkontrolle(n)\n- Befundbesprechung\nFakultativer Leistungsinhalt\n- Verbandwechsel\n- Drainagewechsel\n- Drainageentfernung\n- Einleitung und/oder Kontrolle der medikamentösen Therapie\neinmalig im Zeitraum von 21 Tagen nach Erbringung\neiner Leistung des Abschnitts 31.2\nDie Gebührenordnungsposition 31628 ist im Zeitraum von 21 Tagen\nnach Erbringung einer Leistung des Abschnitts 31.2 nicht neben den\nGebührenordnungspositionen 02300 bis 02302, 02310, 02340, 02341\n02344, 02360, 06350 bis 06352, 07310, 07311, 07320, 07330, 07340\n09360 bis 09362, 09364, 09365, 10330, 10340 bis 10342, 15321 bis\n15324, 18310, 18311, 18320, 18330, 18340, 18700, 20364, 20365 und\n26350 bis 26352 berechnungsfähig."
+    },
+    {
+      "code": "31629",
+      "title": "Postoperative Behandlung nach der Erbringung einer Leistung entsprechend den Gebührenordnungspositionen 31176 oder 31177 bei Erbringung durch den Operateur",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 42.68,
+        "valuation_in_points": 335
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31629 Postoperative Behandlung nach der Erbringung einer Leistung\nentsprechend den Gebührenordnungspositionen 31176 oder 31177 bei\nErbringung durch den Operateur\nObligater Leistungsinhalt\n- Befundkontrolle(n)\n- Befundbesprechung\nFakultativer Leistungsinhalt\n- Verbandwechsel\n- Drainagewechsel\n- Drainageentfernung\n- Einleitung und/oder Kontrolle der medikamentösen Therapie\neinmalig im Zeitraum von 21 Tagen nach Erbringung\neiner Leistung des Abschnitts 31.2\nDie Gebührenordnungsposition 31629 ist im Zeitraum von 21 Tagen\nnach Erbringung einer Leistung des Abschnitts 31.2 nicht neben den\nGebührenordnungspositionen 02300 bis 02302, 02310, 02340, 02341\n02344, 02360, 06350 bis 06352, 07310, 07311, 07320, 07330, 07340\n09360 bis 09362, 09364, 09365, 10330, 10340 bis 10342, 15321 bis\n15324, 18310, 18311, 18320, 18330, 18340, 18700, 20364, 20365 und\n26350 bis 26352 berechnungsfähig."
+    },
+    {
+      "code": "31630",
+      "title": "Postoperative Behandlung nach der Erbringung der Leistung entsprechend der Gebührenordnungsposition 31201 bei Überweisung durch den Operateur",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 22.68,
+        "valuation_in_points": 178
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31630 Postoperative Behandlung nach der Erbringung der Leistung\nentsprechend der Gebührenordnungsposition 31201 bei Überweisung\ndurch den Operateur\nObligater Leistungsinhalt\n- Befundbesprechung\n- Befundkontrolle(n)\nFakultativer Leistungsinhalt\n- Verbandwechsel\n- Drainagewechsel\n- Drainageentfernung\n- Einleitung und/oder Kontrolle der medikamentösen Therapie\neinmalig im Zeitraum von 21 Tagen nach Erbringung\neiner Leistung des Abschnitts 31.2\nDie Gebührenordnungsposition 31630 ist am Behandlungstag nicht\nneben der Gebührenordnungsposition 07320 und nicht neben den\nGebührenordnungspositionen des Kapitels 33 berechnungsfähig.\nDie Gebührenordnungsposition 31630 ist im Zeitraum von 21 Tagen\nnach Erbringung einer Leistung des Abschnitts 31.2 nicht neben den\nGebührenordnungspositionen 02300 bis 02302, 02310, 02340, 02341\n02344, 02360, 06350 bis 06352, 07310, 07311, 07320, 07330, 07340\n09360 bis 09362, 09364, 09365, 10330, 10340 bis 10342, 15321 bis\n15324, 18310, 18311, 18320, 18330, 18340, 18700, 20364, 20365\n26350 bis 26352, 33061, 33072 und 33076 berechnungsfähig."
+    },
+    {
+      "code": "31631",
+      "title": "Postoperative Behandlung nach der Erbringung der Leistung entsprechend der Gebührenordnungsposition 31201 bei Erbringung durch den Operateur",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 14.91,
+        "valuation_in_points": 117
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31631 Postoperative Behandlung nach der Erbringung der Leistung\nentsprechend der Gebührenordnungsposition 31201 bei Erbringung\ndurch den Operateur\nObligater Leistungsinhalt\n- Befundbesprechung\n- Befundkontrolle(n)\nFakultativer Leistungsinhalt\n- Verbandwechsel\n- Drainagewechsel\n- Drainageentfernung\n- Einleitung und/oder Kontrolle der medikamentösen Therapie\neinmalig im Zeitraum von 21 Tagen nach Erbringung\neiner Leistung des Abschnitts 31.2\nDie Gebührenordnungsposition 31631 ist am Behandlungstag nicht\nneben der Gebührenordnungsposition 07320 und nicht neben den\nGebührenordnungspositionen des Kapitels 33 berechnungsfähig.\nDie Gebührenordnungsposition 31631 ist im Zeitraum von 21 Tagen\nnach Erbringung einer Leistung des Abschnitts 31.2 nicht neben den\nGebührenordnungspositionen 02300 bis 02302, 02310, 02340, 02341\n02344, 02360, 06350 bis 06352, 07310, 07311, 07320, 07330, 07340\n09360 bis 09362, 09364, 09365, 10330, 10340 bis 10342, 15321 bis\n15324, 18310, 18311, 18320, 18330, 18340, 18700, 20364, 20365\n26350 bis 26352, 33061, 33072 und 33076 berechnungsfähig."
+    },
+    {
+      "code": "31632",
+      "title": "Postoperative Behandlung nach der Erbringung einer Leistung entsprechend den Gebührenordnungspositionen 31202 oder 31203 bei Überweisung durch den Operateur",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 32.23,
+        "valuation_in_points": 253
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31632 Postoperative Behandlung nach der Erbringung einer Leistung\nentsprechend den Gebührenordnungspositionen 31202 oder 31203 bei\nÜberweisung durch den Operateur\nObligater Leistungsinhalt\n- Befundkontrolle(n)\n- Befundbesprechung\nFakultativer Leistungsinhalt\n- Verbandwechsel\n- Sonographiekontrolle(n)\n- Drainagewechsel\n- Drainageentfernung\n- Einleitung und/oder Kontrolle der medikamentösen Therapie\neinmalig im Zeitraum von 21 Tagen nach Erbringung\neiner Leistung des Abschnitts 31.2\nDie Gebührenordnungsposition 31632 ist am Behandlungstag nicht\nneben der Gebührenordnungsposition 07320 und nicht neben den\nGebührenordnungspositionen des Kapitels 33 berechnungsfähig.\nDie Gebührenordnungsposition 31632 ist im Zeitraum von 21 Tagen\nnach Erbringung einer Leistung des Abschnitts 31.2 nicht neben den\nGebührenordnungspositionen 02300 bis 02302, 02310, 02340, 02341\n02344, 02360, 06350 bis 06352, 07310, 07311, 07320, 07330, 07340\n09360 bis 09362, 09364, 09365, 10330, 10340 bis 10342, 15321 bis\n15324, 18310, 18311, 18320, 18330, 18340, 18700, 20364, 20365\n26350 bis 26352, 33061, 33072 und 33076 berechnungsfähig."
+    },
+    {
+      "code": "31633",
+      "title": "Postoperative Behandlung nach der Erbringung einer Leistung entsprechend den Gebührenordnungspositionen 31202 oder 31203 bei Erbringung durch den Operateur",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 24.33,
+        "valuation_in_points": 191
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31633 Postoperative Behandlung nach der Erbringung einer Leistung\nentsprechend den Gebührenordnungspositionen 31202 oder 31203 bei\nErbringung durch den Operateur\nObligater Leistungsinhalt\n- Befundkontrolle(n)\n- Befundbesprechung\nFakultativer Leistungsinhalt\n- Verbandwechsel\n- Sonographiekontrolle(n)\n- Drainagewechsel\n- Drainageentfernung\n- Einleitung und/oder Kontrolle der medikamentösen Therapie\neinmalig im Zeitraum von 21 Tagen nach Erbringung\neiner Leistung des Abschnitts 31.2\nDie Gebührenordnungsposition 31633 ist am Behandlungstag nicht\nneben der Gebührenordnungsposition 07320 und nicht neben den\nGebührenordnungspositionen des Kapitels 33 berechnungsfähig.\nDie Gebührenordnungsposition 31633 ist im Zeitraum von 21 Tagen\nnach Erbringung einer Leistung des Abschnitts 31.2 nicht neben den\nGebührenordnungspositionen 02300 bis 02302, 02310, 02340, 02341\n02344, 02360, 06350 bis 06352, 07310, 07311, 07320, 07330, 07340\n09360 bis 09362, 09364, 09365, 10330, 10340 bis 10342, 15321 bis\n15324, 18310, 18311, 18320, 18330, 18340, 18700, 20364, 20365\n26350 bis 26352, 33061, 33072 und 33076 berechnungsfähig."
+    },
+    {
+      "code": "31634",
+      "title": "Postoperative Behandlung nach der Erbringung einer Leistung entsprechend den Gebührenordnungspositionen 31204 oder 31205 bei Überweisung durch den Operateur",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 42.68,
+        "valuation_in_points": 335
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31634 Postoperative Behandlung nach der Erbringung einer Leistung\nentsprechend den Gebührenordnungspositionen 31204 oder 31205 bei\nÜberweisung durch den Operateur\nObligater Leistungsinhalt\n- Befundbesprechung\n- Befundkontrolle(n)\nFakultativer Leistungsinhalt\n- Verbandwechsel\n- Sonographiekontrolle(n)\n- Drainagewechsel\n- Drainageentfernung\n- Einleitung und/oder Kontrolle der medikamentösen Therapie\neinmalig im Zeitraum von 21 Tagen nach Erbringung\neiner Leistung des Abschnitts 31.2\nDie Gebührenordnungsposition 31634 ist am Behandlungstag nicht\nneben der Gebührenordnungsposition 07320 und nicht neben den\nGebührenordnungspositionen des Kapitels 33 berechnungsfähig.\nDie Gebührenordnungsposition 31634 ist im Zeitraum von 21 Tagen\nnach Erbringung einer Leistung des Abschnitts 31.2 nicht neben den\nGebührenordnungspositionen 02300 bis 02302, 02310, 02340, 02341\n02344, 02360, 06350 bis 06352, 07310, 07311, 07320, 07330, 07340\n09360 bis 09362, 09364, 09365, 10330, 10340 bis 10342, 15321 bis\n15324, 18310, 18311, 18320, 18330, 18340, 18700, 20364, 20365\n26350 bis 26352, 33061, 33072 und 33076 berechnungsfähig."
+    },
+    {
+      "code": "31635",
+      "title": "Postoperative Behandlung nach der Erbringung einer Leistung entsprechend den Gebührenordnungspositionen 31204 oder 31205 bei Erbringung durch den Operateur",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 34.65,
+        "valuation_in_points": 272
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31635 Postoperative Behandlung nach der Erbringung einer Leistung\nentsprechend den Gebührenordnungspositionen 31204 oder 31205 bei\nErbringung durch den Operateur\nObligater Leistungsinhalt\n- Befundbesprechung\n- Befundkontrolle(n)\nFakultativer Leistungsinhalt\n- Verbandwechsel\n- Sonographiekontrolle(n)\n- Drainagewechsel\n- Drainageentfernung\n- Einleitung und/oder Kontrolle der medikamentösen Therapie\neinmalig im Zeitraum von 21 Tagen nach Erbringung\neiner Leistung des Abschnitts 31.2\nDie Gebührenordnungsposition 31635 ist am Behandlungstag nicht\nneben der Gebührenordnungsposition 07320 und nicht neben den\nGebührenordnungspositionen des Kapitels 33 berechnungsfähig.\nDie Gebührenordnungsposition 31635 ist im Zeitraum von 21 Tagen\nnach Erbringung einer Leistung des Abschnitts 31.2 nicht neben den\nGebührenordnungspositionen 02300 bis 02302, 02310, 02340, 02341\n02344, 02360, 06350 bis 06352, 07310, 07311, 07320, 07330, 07340\n09360 bis 09362, 09364, 09365, 10330, 10340 bis 10342, 15321 bis\n15324, 18310, 18311, 18320, 18330, 18340, 18700, 20364, 20365\n26350 bis 26352, 33061, 33072 und 33076 berechnungsfähig."
+    },
+    {
+      "code": "31636",
+      "title": "Postoperative Behandlung nach der Erbringung einer Leistung entsprechend den Gebührenordnungspositionen 31206 oder 31207 bei Überweisung durch den Operateur",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 50.58,
+        "valuation_in_points": 397
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "31636 Postoperative Behandlung nach der Erbringung einer Leistung\nentsprechend den Gebührenordnungspositionen 31206 oder 31207 bei\nÜberweisung durch den Operateur\nObligater Leistungsinhalt\n- Befundbesprechung\n- Befundkontrolle(n)\nFakultativer Leistungsinhalt\n- Verbandwechsel\n- Sonographiekontrolle(n)\n- Drainagewechsel\n- Drainageentfernung\n- Einleitung und/oder Kontrolle der medikamentösen Therapie\neinmalig im Zeitraum von 21 Tagen nach Erbringung\neiner Leistung des Abschnitts 31.2\nDie Gebührenordnungsposition 31636 ist am Behandlungstag nicht\nneben der Gebührenordnungsposition 07320 und nicht neben den\nGebührenordnungspositionen des Kapitels 33 berechnungsfähig.\nDie Gebührenordnungsposition 31636 ist im Zeitraum von 21 Tagen\nnach Erbringung einer Leistung des Abschnitts 31.2 nicht neben den\nGebührenordnungspositionen 02300 bis 02302, 02310, 02340, 02341\n02344, 02360, 06350 bis 06352, 07310, 07311, 07320, 07330, 07340\n09360 bis 09362, 09364, 09365, 10330, 10340 bis 10342, 15321 bis\n15324, 18310, 18311, 18320, 18330, 18340, 18700, 20364, 20365\n26350 bis 26352, 33061, 33072 und 33076 berechnungsfähig."
+    }
+  ]
+}

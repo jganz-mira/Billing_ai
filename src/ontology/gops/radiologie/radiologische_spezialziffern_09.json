@@ -1,0 +1,1204 @@
+{
+  "gops": [
+    {
+      "code": "32503",
+      "title": "Phospholipid-Antikörper, z. B. Cardiolipin-Antikörper",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 7.3,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32503 Phospholipid-Antikörper, z. B. Cardiolipin-Antikörper\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32504",
+      "title": "Thrombozyten-Antikörper",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 26.4,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32504 Thrombozyten-Antikörper\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32505",
+      "title": "Ähnliche Untersuchungen unter Angabe des Antikörpers",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 8.74,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32505 Ähnliche Untersuchungen unter Angabe des Antikörpers\nDie Berechnung der Gebührenordnungsposition 32505 setzt die\nBegründung der medizinischen Notwendigkeit der jeweiligen\nUntersuchung im Einzelfall voraus. Abweichend davon kann\ndie Begründung der medizinischen Notwendigkeit der jeweiligen\nUntersuchung im Einzelfall entfallen bei: Anti-Heparin/PF4\nAutoantikörper.\nDer Höchstwert für die Untersuchungen der\nGebührenordnungspositionen 32489 bis 32505 beträgt 42,60 EURO.\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32506",
+      "title": "Mixed antiglobulin reaction (MAR-Test) zum Nachweis von spermien- gebundenen Antikörpern",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 6.81,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32506 Mixed antiglobulin reaction (MAR-Test) zum Nachweis von spermien-\ngebundenen Antikörpern\nDie Gebührenordnungsposition 32506 ist nicht neben der\nGebührenordnungsposition 32507 berechnungsfähig.\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32507",
+      "title": "Nachweis von Antikörpern gegen Spermien, ggf. mit mehreren Methoden, insgesamt",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 15.73,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32507 Nachweis von Antikörpern gegen Spermien, ggf. mit mehreren\nMethoden, insgesamt\nDie Gebührenordnungsposition 32507 ist nicht neben der\nGebührenordnungsposition 32506 berechnungsfähig.\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32508",
+      "title": "Quantitative Bestimmung von TSH-Rezeptor-Antikörpern",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 10.3,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32508 Quantitative Bestimmung von TSH-Rezeptor-Antikörpern\neinmal im Behandlungsfall\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32509",
+      "title": "Quantitative Bestimmung von Acetylcholin-Rezeptor-Antikörpern",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 38.46,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32509 Quantitative Bestimmung von Acetylcholin-Rezeptor-Antikörpern\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32510",
+      "title": "Dichtegradienten- oder immunomagnetische Isolierung von Zellen als vorbereitende Untersuchung",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 9.57,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32510 Dichtegradienten- oder immunomagnetische Isolierung von Zellen\nals vorbereitende Untersuchung\nDie Gebührenordnungsposition 32510 ist im Behandlungsfall nicht neben\nder Gebührenordnungsposition 19430 berechnungsfähig.\nDifferenzierung und Quantifizierung von Zellen\n(Immunphänotypisierung) mittels Durchflußzytometrie und/oder\nmikroskopisch und mittels markierter monoklonaler Antikörper, gilt für die\nGebührenordnungspositionen 32520 bis 32527\nje Untersuchung\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32520",
+      "title": "B-Lymphozyten",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 8.19,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32520 B-Lymphozyten\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32521",
+      "title": "T-Lymphozyten",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 6.81,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32521 T-Lymphozyten\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32522",
+      "title": "CD4-T-Zellen",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 8.19,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32522 CD4-T-Zellen\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32523",
+      "title": "CD8-T-Zellen",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 8.19,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32523 CD8-T-Zellen\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32524",
+      "title": "Natürliche Killerzellen",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 8.19,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32524 Natürliche Killerzellen\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32525",
+      "title": "Aktivierte T-Zellen",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 8.19,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32525 Aktivierte T-Zellen\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32526",
+      "title": "Zytotoxische T-Zellen",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 8.19,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32526 Zytotoxische T-Zellen\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32527",
+      "title": "Ähnliche Untersuchungen unter Angabe der Art der Untersuchung",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 10.58,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32527 Ähnliche Untersuchungen unter Angabe der Art der Untersuchung\nDie Berechnung der Gebührenordnungsposition 32527 setzt die\nBegründung der medizinischen Notwendigkeit der jeweiligen\nUntersuchung im Einzelfall voraus.\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32532",
+      "title": "Lymphozyten-Transformations-Test(s), einschl. Kontrollkultur(en) ggf. mit mehreren Mitogenen und/oder Antigenen (nicht zur Erregerdiagnostik) insgesamt",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 48.21,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32532 Lymphozyten-Transformations-Test(s), einschl. Kontrollkultur(en)\nggf. mit mehreren Mitogenen und/oder Antigenen (nicht zur\nErregerdiagnostik)\ninsgesamt\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32533",
+      "title": "Untersuchung der Leukozytenfunktion, auch unter Anwendung mehrerer Methoden, z. B. Chemotaxis, Phagozytose, insgesamt 32.3.6 Blutgruppenserologische Untersuchungen",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 23.55,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32533 Untersuchung der Leukozytenfunktion, auch unter Anwendung\nmehrerer Methoden, z. B. Chemotaxis, Phagozytose, insgesamt\n32.3.6 Blutgruppenserologische Untersuchungen\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32540",
+      "title": "Nachweis der Blutgruppenmerkmale A, B, 0 und Rh-Faktor D",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 8.83,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32540 Nachweis der Blutgruppenmerkmale A, B, 0 und Rh-Faktor D\nObligater Leistungsinhalt\n- Nachweis der Blutgruppenmerkmale A, B, 0 und Rh-Faktor D\nFakultativer Leistungsinhalt\n- A-Untergruppe\n- Serumeigenschaften\nDie Gebührenordnungsposition 32540 ist nicht neben der\nGebührenordnungsposition 01804 berechnungsfähig.\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32541",
+      "title": "Nachweis eines Blutgruppenmerkmals (Antigens) mit agglutinierenden oder konglutinierenden Testseren, z. B. Rh- Merkmale, Lewis, M, N, P1",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 6.35,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32541 Nachweis eines Blutgruppenmerkmals (Antigens) mit\nagglutinierenden oder konglutinierenden Testseren, z. B. Rh-\nMerkmale, Lewis, M, N, P1\nje Untersuchung unter Angabe der Art des Antigens\nDie Gebührenordnungsposition 32541 ist nicht neben der\nGebührenordnungsposition 01806 berechnungsfähig.\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32542",
+      "title": "Nachweis eines Blutgruppenmerkmals (Antigens) mittels Antiglobulintest (Coombs-Test), z. B. Dweak, Duffy, Kell, Kidd",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 8.0,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32542 Nachweis eines Blutgruppenmerkmals (Antigens) mittels\nAntiglobulintest (Coombs-Test), z. B. Dweak, Duffy, Kell, Kidd\nje Untersuchung unter Angabe der Art des Antigens\nDie Gebührenordnungsposition 32542 ist nicht neben der\nGebührenordnungsposition 01805 berechnungsfähig.\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32543",
+      "title": "Nachweis von Erythrozytenantikörpern im direkten Antiglobulintest mit zwei verschiedenen polyspezifischen Antiglobulinseren",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 8.0,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32543 Nachweis von Erythrozytenantikörpern im direkten Antiglobulintest\nmit zwei verschiedenen polyspezifischen Antiglobulinseren\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32544",
+      "title": "Nachweis von Erythrozytenantikörpern ohne Antiglobulinphase, z. B. Kälteagglutinine",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 5.89,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32544 Nachweis von Erythrozytenantikörpern ohne Antiglobulinphase, z.\nB. Kälteagglutinine\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32545",
+      "title": "Antikörpersuchtest in mehreren Techniken einschl. indirekter Antiglobulintests mit mindestens zwei Testerythrozyten-Präparationen",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 7.3,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32545 Antikörpersuchtest in mehreren Techniken einschl. indirekter\nAntiglobulintests mit mindestens zwei Testerythrozyten-Präparationen\nDie Gebührenordnungsposition 32545 ist nicht neben der\nGebührenordnungsposition 01807 berechnungsfähig.\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32546",
+      "title": "Antikörperdifferenzierung in mehreren Techniken einschl. indirekter Antiglobulintests gegen mindestens acht Testerythrozyten- Präparationen",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 18.95,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32546 Antikörperdifferenzierung in mehreren Techniken einschl.\nindirekter Antiglobulintests gegen mindestens acht Testerythrozyten-\nPräparationen\nDie Gebührenordnungsposition 32546 ist nicht neben der\nGebührenordnungsposition 01808 berechnungsfähig.\nNachweis oder quantitative Bestimmung von Blutgruppenantigenen\noder -antikörpern mit aufwendigen Verfahren, gilt für die\nGebührenordnungspositionen 32550 bis 32555\nje Antigen oder Antikörper\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32550",
+      "title": "Antiglobulintest mit monospezifischem Antihumanglobulin",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 13.25,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32550 Antiglobulintest mit monospezifischem Antihumanglobulin\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32551",
+      "title": "Chemische oder thermische Elution von Erythrozytenantikörpern",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 17.66,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32551 Chemische oder thermische Elution von Erythrozytenantikörpern\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32552",
+      "title": "Absorption von Erythrozytenantikörpern an vorbehandelte Zellen",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 9.84,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32552 Absorption von Erythrozytenantikörpern an vorbehandelte Zellen\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32553",
+      "title": "Nachweis von Hämolysin(en) mit Komplementzusatz",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 12.7,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32553 Nachweis von Hämolysin(en) mit Komplementzusatz\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32554",
+      "title": "Quantitative Bestimmung eines Erythrozytenantikörpers",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 7.36,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32554 Quantitative Bestimmung eines Erythrozytenantikörpers\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32555",
+      "title": "Ähnliche Untersuchungen unter Angabe der Art der Untersuchung",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 8.0,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32555 Ähnliche Untersuchungen unter Angabe der Art der Untersuchung\nDie Berechnung der Gebührenordnungsposition 32555 setzt die\nBegründung der medizinischen Notwendigkeit der jeweiligen\nUntersuchung im Einzelfall voraus.\nDie Gebührenordnungsposition 32554 ist nicht neben der\nGebührenordnungsposition 01809 berechnungsfähig.\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32556",
+      "title": "Serologische Verträglichkeitsprobe (Kreuzprobe) mit indirektem Antiglobulintest",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 11.68,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32556 Serologische Verträglichkeitsprobe (Kreuzprobe) mit indirektem\nAntiglobulintest\nje Konserve\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32557",
+      "title": "Zuschlag zu der Gebührenordnungsposition 32545 oder 32556 für eine Vorbehandlung mit Dithiothreitol (DTT) zur Vermeidung von Interferenzen durch Daratumumab oder Isatuximab",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 19.2,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32557 Zuschlag zu der Gebührenordnungsposition 32545 oder 32556 für\neine Vorbehandlung mit Dithiothreitol (DTT) zur Vermeidung von\nInterferenzen durch Daratumumab oder Isatuximab\nje Untersuchung\nDie Gebührenordnungsposition 32557 ist am Behandlungstag höchstens\nviermal berechnungsfähig.\n32.3.7 Infektionsimmunologische Untersuchungen\nQuantitative Bestimmung von Streptokokken-Antikörpern, gilt für die\nGebührenordnungspositionen 32560 bis 32563\nje Untersuchung\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32560",
+      "title": "Antistreptolysin O-Reaktion",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 4.6,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32560 Antistreptolysin O-Reaktion\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32561",
+      "title": "Anti-DNase-B-Reaktion (Antistreptodornase)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 10.76,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32561 Anti-DNase-B-Reaktion (Antistreptodornase)\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32562",
+      "title": "Antistreptokokken - Hyaluronidase",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 11.13,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32562 Antistreptokokken - Hyaluronidase\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32563",
+      "title": "Antistreptokinase",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 10.67,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32563 Antistreptokinase\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32564",
+      "title": "Antistaphylolysinbestimmung",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 7.73,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32564 Antistaphylolysinbestimmung\nObligater Leistungsinhalt\n- Quantitative Antistaphylolysinbestimmung\nFakultativer Leistungsinhalt\n- Qualitativer Suchtest\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32565",
+      "title": "Cardiolipin-Flockungstest, quantitativ nur bei nachgewiesener Infektion",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 4.32,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32565 Cardiolipin-Flockungstest, quantitativ nur bei nachgewiesener\nInfektion\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32566",
+      "title": "Treponemenantikörper-Nachweis im TPHA/TPPA-Test (Lues- Suchreaktion) oder mittels Immunoassay",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 4.23,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32566 Treponemenantikörper-Nachweis im TPHA/TPPA-Test (Lues-\nSuchreaktion) oder mittels Immunoassay\nDie Gebührenordnungsposition 32566 ist nicht neben den\nGebührenordnungspositionen 01800 und 01935 berechnungsfähig.\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32567",
+      "title": "Treponemenantikörper-Bestimmung (nur bei positivem Suchtest) quantitativ je Immunglobulin IgG oder IgM",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 12.97,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32567 Treponemenantikörper-Bestimmung (nur bei positivem Suchtest)\nquantitativ je Immunglobulin IgG oder IgM\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32568",
+      "title": "Treponema pallidum Bestätigungsteste (Immunoblot oder FTA- ABS)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 20.3,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32568 Treponema pallidum Bestätigungsteste (Immunoblot oder FTA-\nABS)\neinmal im Krankheitsfall\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32572",
+      "title": "Qualitativer Nachweis und/oder quantitative Bestimmung von Toxoplasma-Antikörpern der Immunglobulinklasse IgM und/oder IgG, auch zur Verlaufskontrolle",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 10.81,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32572 Qualitativer Nachweis und/oder quantitative Bestimmung von\nToxoplasma-Antikörpern der Immunglobulinklasse IgM und/oder\nIgG, auch zur Verlaufskontrolle\nFakultativer Leistungsinhalt\n- quantitative Bestimmung von Toxoplasma-IgA-Antikörpern\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32573",
+      "title": "Zuschlag zur Gebührenordnungsposition 32572 für die Bestimmung der Avidität von Toxoplasma-IgG-Antikörpern als Abklärungstest nach positiver IgM-Antikörperbestimmung, in mehreren Ansätzen, insgesamt",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 23.83,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32573 Zuschlag zur Gebührenordnungsposition 32572 für die\nBestimmung der Avidität von Toxoplasma-IgG-Antikörpern als\nAbklärungstest nach positiver IgM-Antikörperbestimmung, in\nmehreren Ansätzen, insgesamt\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32574",
+      "title": "Rötelnantikörper-Nachweis mittels Immunoassay",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 8.83,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32574 Rötelnantikörper-Nachweis mittels Immunoassay\nObligater Leistungsinhalt\n- Untersuchung auf Antikörper der Klasse IgG\noder\n- Untersuchung auf Antikörper der Klasse IgM\nje Klasse\nDie Gebührenordnungsposition 32574 ist nicht neben den\nGebührenordnungspositionen 01802 und 01803 berechnungsfähig.\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32575",
+      "title": "Nachweis von HIV-1- und HIV-2-Antikörpern und von HIV-p24- Antigen",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 4.09,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32575 Nachweis von HIV-1- und HIV-2-Antikörpern und von HIV-p24-\nAntigen\nDie Gebührenordnungsposition 32575 ist nicht neben der\nGebührenordnungsposition 01931 berechnungsfähig.\nQualitativer Nachweis und/oder quantitative Bestimmung\nvon Antikörpern gegen Krankheitserreger mittels Immunoassay\nindirekter Immunfluoreszenz, Komplementbindungsreaktion\nImmunpräzipitation (z. B. Ouchterlony-Test), indirekter\nHämagglutination, Hämagglutinationshemmung oder\nBakterienagglutination (Widal-Reaktion), einschl. der Beurteilung\ndes Infektions- oder Immunstatus, gilt für die\nGebührenordnungspositionen 32584 bis 32639 und 32641\nje Krankheitserreger oder klinisch relevanter\nImmunglobulinklasse, z. B. IgG-, IgM-Antikörper\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32584",
+      "title": "HEV-Antikörper",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 11.1,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32584 HEV-Antikörper\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32585",
+      "title": "Bordetella pertussis-Antikörper",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 9.75,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32585 Bordetella pertussis-Antikörper\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32586",
+      "title": "Borrelia burgdorferi-Antikörper",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 6.53,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32586 Borrelia burgdorferi-Antikörper\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32587",
+      "title": "Brucella-Antikörper",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 7.18,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32587 Brucella-Antikörper\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32588",
+      "title": "Campylobacter-Antikörper",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 7.08,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32588 Campylobacter-Antikörper\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32589",
+      "title": "Chlamydien-Antikörper",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 9.29,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32589 Chlamydien-Antikörper\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32590",
+      "title": "Coxiella burnetii-Antikörper",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 12.7,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32590 Coxiella burnetii-Antikörper\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32591",
+      "title": "Gonokokken-Antikörper",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 7.36,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32591 Gonokokken-Antikörper\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32592",
+      "title": "Legionellen-Antikörper",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 8.92,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32592 Legionellen-Antikörper\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32593",
+      "title": "Leptospiren-Antikörper",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 10.67,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32593 Leptospiren-Antikörper\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32594",
+      "title": "Listerien-Antikörper",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 4.51,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32594 Listerien-Antikörper\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32595",
+      "title": "Mycoplasma pneumoniae-Antikörper",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 6.44,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32595 Mycoplasma pneumoniae-Antikörper\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32596",
+      "title": "S. typhi- oder S. paratyphi-Antikörper",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 4.97,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32596 S. typhi- oder S. paratyphi-Antikörper\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32597",
+      "title": "Tetanus-Antitoxin",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 8.37,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32597 Tetanus-Antitoxin\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32598",
+      "title": "Yersinien-Antikörper",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 5.61,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32598 Yersinien-Antikörper\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32599",
+      "title": "Leptospiren-Antikörper mittels Mikroagglutinationsreaktion mit Lebendkulturen",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 31.7,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32599 Leptospiren-Antikörper mittels Mikroagglutinationsreaktion mit\nLebendkulturen\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32600",
+      "title": "Chlamydien-Antikörper (speziesspezifisch) mittels Mikroimmunfluoreszenztest (MIF)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 14.44,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32600 Chlamydien-Antikörper (speziesspezifisch) mittels\nMikroimmunfluoreszenztest (MIF)\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32601",
+      "title": "Adenoviren-Antikörper",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 9.57,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32601 Adenoviren-Antikörper\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32602",
+      "title": "Cytomegalievirus-Antikörper",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 9.02,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32602 Cytomegalievirus-Antikörper\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32603",
+      "title": "Cytomegalievirus-IgM-Antikörper",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 8.92,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32603 Cytomegalievirus-IgM-Antikörper\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32604",
+      "title": "Coxsackieviren-Antikörper",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 7.27,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32604 Coxsackieviren-Antikörper\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32605",
+      "title": "EBV-EA-Antikörper",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 7.82,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32605 EBV-EA-Antikörper\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32606",
+      "title": "EBV-EBNA-Antikörper",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 7.73,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32606 EBV-EBNA-Antikörper\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32607",
+      "title": "EBV-VCA-Antikörper",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 8.37,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32607 EBV-VCA-Antikörper\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32608",
+      "title": "EBV-VCA-IgM-Antikörper",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 9.02,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32608 EBV-VCA-IgM-Antikörper\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32609",
+      "title": "Echoviren-Antikörper",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 7.54,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32609 Echoviren-Antikörper\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32610",
+      "title": "Enteroviren-Antikörper",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 6.81,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32610 Enteroviren-Antikörper\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32611",
+      "title": "FSME-Virus-Antikörper",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 10.21,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32611 FSME-Virus-Antikörper\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32612",
+      "title": "HAV-Antikörper",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 5.34,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32612 HAV-Antikörper\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32613",
+      "title": "HAV-IgM-Antikörper",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 6.16,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32613 HAV-IgM-Antikörper\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32614",
+      "title": "HBc-Antikörper",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 5.43,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32614 HBc-Antikörper\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32615",
+      "title": "HBc-IgM-Antikörper",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 7.82,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32615 HBc-IgM-Antikörper\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32616",
+      "title": "HBe-Antikörper",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 8.65,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32616 HBe-Antikörper\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32617",
+      "title": "HBs-Antikörper",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 5.06,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32617 HBs-Antikörper\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32618",
+      "title": "HCV-Antikörper",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 9.02,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32618 HCV-Antikörper\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32619",
+      "title": "HDV-Antikörper bei nachgewiesener HBV-Infektion",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 24.56,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32619 HDV-Antikörper bei nachgewiesener HBV-Infektion\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32620",
+      "title": "HDV-IgM-Antikörper bei nachgewiesener HBV-Infektion",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 26.59,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32620 HDV-IgM-Antikörper bei nachgewiesener HBV-Infektion\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32621",
+      "title": "HSV-Antikörper",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 10.21,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32621 HSV-Antikörper\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32622",
+      "title": "Influenzaviren-Antikörper",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 6.99,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32622 Influenzaviren-Antikörper\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32623",
+      "title": "Masernvirus-Antikörper",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 10.21,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32623 Masernvirus-Antikörper\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32624",
+      "title": "Mumpsvirus-Antikörper",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 11.04,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32624 Mumpsvirus-Antikörper\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32625",
+      "title": "Parainfluenzaviren-Antikörper",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 9.48,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32625 Parainfluenzaviren-Antikörper\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32626",
+      "title": "Parvoviren-Antikörper",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 15.92,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32626 Parvoviren-Antikörper\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32627",
+      "title": "Polioviren-Antikörper",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 9.02,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32627 Polioviren-Antikörper\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32628",
+      "title": "RSV-Antikörper",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 7.36,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32628 RSV-Antikörper\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32629",
+      "title": "Varicella-Zoster-Virus-Antikörper",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 10.4,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32629 Varicella-Zoster-Virus-Antikörper\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32630",
+      "title": "Varicella-Zoster-Virus-IgM-Antikörper",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 12.14,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32630 Varicella-Zoster-Virus-IgM-Antikörper\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32631",
+      "title": "Aspergillus-Antikörper",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 9.02,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32631 Aspergillus-Antikörper\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32632",
+      "title": "Candida-Antikörper",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 9.02,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32632 Candida-Antikörper\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32633",
+      "title": "Coccidioides-Antikörper",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 22.45,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32633 Coccidioides-Antikörper\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32634",
+      "title": "Histoplasma-Antikörper",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 16.93,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32634 Histoplasma-Antikörper\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32635",
+      "title": "Cysticercus-Antikörper",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 16.93,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32635 Cysticercus-Antikörper\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32636",
+      "title": "Echinococcus-Antikörper",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 13.06,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32636 Echinococcus-Antikörper\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32637",
+      "title": "Entamoeba histolytica-Antikörper",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 13.52,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32637 Entamoeba histolytica-Antikörper\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    }
+  ]
+}

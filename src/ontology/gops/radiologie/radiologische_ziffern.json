@@ -1,0 +1,125 @@
+{
+  "gops": [
+    {
+      "code": "24210",
+      "title": "Konsiliarpauschale für Versicherte bis zum vollendeten 5. Lebensjahr",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 9.3,
+        "valuation_in_points": 73
+      },
+      "mandatory_services": "- Persönlicher Arzt-Patienten-Kontakt.\n- Überprüfung der vorliegenden Indikation.",
+      "facultative_services": "- Veranlassung und Durchführung der radiologischen Untersuchung(en).\n- Interpretation.\n- In Anhang 1 aufgeführte Leistungen.",
+      "billing_info": "Einmal im Behandlungsfall. Die Gebührenordnungspositionen 24210 bis 24212 sind im Behandlungsfall nicht neben den Gebührenordnungspositionen 01600 bis 01602 berechnungsfähig. In den Gebührenordnungspositionen dieses Kapitels sind die Leistungen entsprechend den Gebührenordnungspositionen 01600 bis 01602 enthalten. Werden die in den Konsiliarpauschalen enthaltenen Leistungen entsprechend den Gebührenordnungspositionen 01600 und 01601 durchgeführt, sind für die Versendung bzw. den Transport die Kostenpauschalen nach den Gebührenordnungspositionen 40110 und 40111 berechnungsfähig."
+    },
+    {
+      "code": "24211",
+      "title": "Konsiliarpauschale für Versicherte ab Beginn des 6. bis zum vollendeten 59. Lebensjahr",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 7.77,
+        "valuation_in_points": 61
+      },
+      "mandatory_services": "- Persönlicher Arzt-Patienten-Kontakt.\n- Überprüfung der vorliegenden Indikation.",
+      "facultative_services": "- Veranlassung und Durchführung der radiologischen Untersuchung(en).\n- Interpretation.\n- In Anhang 1 aufgeführte Leistungen.",
+      "billing_info": "Einmal im Behandlungsfall. Die Gebührenordnungspositionen 24211 und 24212 sind am Behandlungstag nicht neben den Gebührenordnungspositionen 01871, 01872 und 01878 bis 01881 berechnungsfähig. Die Gebührenordnungspositionen 24210 bis 24212 sind im Behandlungsfall nicht neben den Gebührenordnungspositionen 01600 bis 01602 berechnungsfähig. In den Gebührenordnungspositionen dieses Kapitels sind die Leistungen entsprechend den Gebührenordnungspositionen 01600 bis 01602 enthalten. Werden die in den Konsiliarpauschalen enthaltenen Leistungen entsprechend den Gebührenordnungspositionen 01600 und 01601 durchgeführt, sind für die Versendung bzw. den Transport die Kostenpauschalen nach den Gebührenordnungspositionen 40110 und 40111 berechnungsfähig."
+    },
+    {
+      "code": "24212",
+      "title": "Konsiliarpauschale für Versicherte ab Beginn des 60. Lebensjahres",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 9.3,
+        "valuation_in_points": 73
+      },
+      "mandatory_services": "- Persönlicher Arzt-Patienten-Kontakt.\n- Überprüfung der vorliegenden Indikation.",
+      "facultative_services": "- Veranlassung und Durchführung der radiologischen Untersuchung(en).\n- Interpretation.\n- In Anhang 1 aufgeführte Leistungen.",
+      "billing_info": "Einmal im Behandlungsfall. Die Gebührenordnungspositionen 24211 und 24212 sind am Behandlungstag nicht neben den Gebührenordnungspositionen 01871, 01872 und 01878 bis 01881 berechnungsfähig. Die Gebührenordnungspositionen 24210 bis 24212 sind im Behandlungsfall nicht neben den Gebührenordnungspositionen 01600 bis 01602 berechnungsfähig. In den Gebührenordnungspositionen dieses Kapitels sind die Leistungen entsprechend den Gebührenordnungspositionen 01600 bis 01602 enthalten. Werden die in den Konsiliarpauschalen enthaltenen Leistungen entsprechend den Gebührenordnungspositionen 01600 und 01601 durchgeführt, sind für die Versendung bzw. den Transport die Kostenpauschalen nach den Gebührenordnungspositionen 40110 und 40111 berechnungsfähig."
+    },
+    {
+      "code": "24215",
+      "title": "Hygienezuschlag zu den Gebührenordnungspositionen 24210 bis 24212",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 0.25,
+        "valuation_in_points": 2
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Einmal im Behandlungsfall. Die Gebührenordnungsposition 24215 wird durch die zuständige Kassenärztliche Vereinigung zugesetzt."
+    },
+    {
+      "code": "24228",
+      "title": "Zuschlag zu den Gebührenordnungspositionen 24210 bis 24212 für die Behandlung aufgrund einer TSS-Vermittlung und/oder Vermittlung durch den Hausarzt gemäß Allgemeiner Bestimmung 4.3.10.1, 4.3.10.2 oder 4.3.10.3",
+      "valuation": {
+        "type": "categorized",
+        "category_type": "tss_or_hausarztvermittlung_interval_and_age",
+        "categories": [
+          {
+            "label": "TSS-Terminfall oder Hausarztvermittlung, gleicher bis 4. Kalendertag, bis zum vollendeten 5. Lebensjahr",
+            "valuation_in_euro": 9.3,
+            "valuation_in_points": 73
+          },
+          {
+            "label": "TSS-Terminfall oder Hausarztvermittlung, gleicher bis 4. Kalendertag, ab Beginn des 6. bis zum vollendeten 59. Lebensjahr",
+            "valuation_in_euro": 7.77,
+            "valuation_in_points": 61
+          },
+          {
+            "label": "TSS-Terminfall oder Hausarztvermittlung, gleicher bis 4. Kalendertag, ab Beginn des 60. Lebensjahres",
+            "valuation_in_euro": 9.3,
+            "valuation_in_points": 73
+          },
+          {
+            "label": "TSS-Terminfall, 5. bis 14. Kalendertag, bis zum vollendeten 5. Lebensjahr",
+            "valuation_in_euro": 7.44,
+            "valuation_in_points": 58
+          },
+          {
+            "label": "TSS-Terminfall, 5. bis 14. Kalendertag, ab Beginn des 6. bis zum vollendeten 59. Lebensjahr",
+            "valuation_in_euro": 6.22,
+            "valuation_in_points": 49
+          },
+          {
+            "label": "TSS-Terminfall, 5. bis 14. Kalendertag, ab Beginn des 60. Lebensjahres",
+            "valuation_in_euro": 7.44,
+            "valuation_in_points": 58
+          },
+          {
+            "label": "TSS-Terminfall, 15. bis 35. Kalendertag, bis zum vollendeten 5. Lebensjahr",
+            "valuation_in_euro": 3.72,
+            "valuation_in_points": 29
+          },
+          {
+            "label": "TSS-Terminfall, 15. bis 35. Kalendertag, ab Beginn des 6. bis zum vollendeten 59. Lebensjahr",
+            "valuation_in_euro": 3.11,
+            "valuation_in_points": 24
+          },
+          {
+            "label": "TSS-Terminfall, 15. bis 35. Kalendertag, ab Beginn des 60. Lebensjahres",
+            "valuation_in_euro": 3.72,
+            "valuation_in_points": 29
+          },
+          {
+            "label": "TSS-Akutfall, bis zum vollendeten 5. Lebensjahr",
+            "valuation_in_euro": 18.6,
+            "valuation_in_points": 146
+          },
+          {
+            "label": "TSS-Akutfall, ab Beginn des 6. bis zum vollendeten 59. Lebensjahr",
+            "valuation_in_euro": 15.54,
+            "valuation_in_points": 122
+          },
+          {
+            "label": "TSS-Akutfall, ab Beginn des 60. Lebensjahres",
+            "valuation_in_euro": 18.6,
+            "valuation_in_points": 146
+          }
+        ]
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Einmal im Arztgruppenfall. Die Gebührenordnungsposition 24228 kann durch die zuständige Kassenärztliche Vereinigung zugesetzt werden. Die Gebührenordnungsposition 24228 ist im Arztgruppenfall nicht neben der Gebührenordnungsposition 01710 berechnungsfähig. Die strukturierten Bewertungen sind aus den altersbezogenen Bewertungen der Gebührenordnungspositionen 24210 bis 24212 und den Zuschlagsregelungen der Allgemeinen Bestimmung 4.3.10 abgeleitet."
+    }
+  ]
+}

@@ -1,0 +1,1204 @@
+{
+  "gops": [
+    {
+      "code": "34212",
+      "title": "Röntgenaufnahme(n) der Halsorgane und/oder des Mundbodens",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 13.0,
+        "valuation_in_points": 102
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "34212 Röntgenaufnahme(n) der Halsorgane und/oder des Mundbodens\nObligater Leistungsinhalt\n- Aufnahme(n)\n- der Halsorgane\nund/oder\n- des Mundbodens\nFakultativer Leistungsinhalt\n- Breischluck\nDie Gebührenordnungsposition 34212 ist nicht neben den\nGebührenordnungspositionen 01205, 01207, 02100 bis 02102 und\n34503 berechnungsfähig.\n34.2.2 Thorax, Wirbelsäule, Myelographie"
+    },
+    {
+      "code": "34220",
+      "title": "Röntgenaufnahmen des knöchernen Thorax und/oder seiner Teile",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 11.59,
+        "valuation_in_points": 91
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "34220 Röntgenaufnahmen des knöchernen Thorax und/oder seiner Teile\nObligater Leistungsinhalt\n- Aufnahmen des knöchernen Thorax in mindestens 2 Ebenen\nund/oder\n- Aufnahmen seiner Teile in mindestens zwei Ebenen\nje Körperseite\nDie Gebührenordnungsposition 34220 ist nicht neben den\nGebührenordnungspositionen 01205, 01207, 02100 bis 02102 und\n34503 berechnungsfähig."
+    },
+    {
+      "code": "34221",
+      "title": "Röntgenaufnahmen von Teilen der Wirbelsäule",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 17.84,
+        "valuation_in_points": 140
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "34221 Röntgenaufnahmen von Teilen der Wirbelsäule\nObligater Leistungsinhalt\n- Aufnahmen in mindestens 2 Ebenen\n- Vollständige Darstellung mindestens eines Wirbelsäulenabschnittes\nje Wirbelsäulenabschnitt\nDie Gebührenordnungsposition 34221 ist nicht neben den\nGebührenordnungspositionen 01205, 01207, 02100 bis 02102, 34222\nund 34503 berechnungsfähig."
+    },
+    {
+      "code": "34222",
+      "title": "Röntgenaufnahme(n) der gesamten Wirbelsäule",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 20.89,
+        "valuation_in_points": 164
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "34222 Röntgenaufnahme(n) der gesamten Wirbelsäule\nObligater Leistungsinhalt\n- Aufnahme(n) im Stehen\n- Anterior-posteriorer Strahlengang\nund/oder\n- Seitlicher Strahlengang\nDie Gebührenordnungsposition 34222 ist nicht neben den\nGebührenordnungspositionen 01205, 01207, 02100 bis 02102, 34221\nund 34503 berechnungsfähig."
+    },
+    {
+      "code": "34223",
+      "title": "Myelographie(n)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 89.44,
+        "valuation_in_points": 702
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "34223 Myelographie(n)\nObligater Leistungsinhalt\n- Aufnahmen in mindestens 2 Ebenen\n- Einbringung des Kontrastmittels\n- Vollständige Darstellung mindestens eines Wirbelkanal-Abschnittes\n- Mindestens zweistündige Nachbetreuung mit ärztlicher\nAbschlussuntersuchung\nFakultativer Leistungsinhalt\n- Lumbalpunktion(en)\nDie Gebührenordnungsposition 34223 ist nicht neben den\nGebührenordnungspositionen 01205, 01207, 02100 bis 02102, 02342\nund 34503 berechnungsfähig.\n34.2.3 Röntgenaufnahmen von Teilen von Skelett, Kopf, Schultergürtel\nExtremitäten, Becken, Weichteile; Arthrographien"
+    },
+    {
+      "code": "34230",
+      "title": "Röntgenaufnahme von Teilen des Skeletts oder des Kopfes",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 9.43,
+        "valuation_in_points": 74
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "34230 Röntgenaufnahme von Teilen des Skeletts oder des Kopfes\nObligater Leistungsinhalt\n- Aufnahme eines Skelettteiles oder Kopfteiles\n- Aufnahme(n) in einer Ebene\nje Teil\nDie Gebührenordnungsposition 34230 ist nicht neben den\nGebührenordnungspositionen 01205, 01207, 02100 bis 02102 und\n34503 berechnungsfähig."
+    },
+    {
+      "code": "34231",
+      "title": "Röntgenaufnahmen und/oder Teilaufnahmen der Schulter und/oder des Schultergürtels",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 17.45,
+        "valuation_in_points": 137
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "34231 Röntgenaufnahmen und/oder Teilaufnahmen der Schulter und/oder\ndes Schultergürtels\nObligater Leistungsinhalt\n- Aufnahmen in mindestens 2 Ebenen\n- Aufnahmen und/oder Teilaufnahmen\n- der Schulter\nund/oder\n- des Schultergürtels\nje Teil\nDie Gebührenordnungsposition 34231 ist nicht neben den\nGebührenordnungspositionen 01205, 01207, 02100 bis 02102 und\n34503 berechnungsfähig."
+    },
+    {
+      "code": "34232",
+      "title": "Röntgenaufnahmen der Hand, des Fußes oder deren Teile",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 12.61,
+        "valuation_in_points": 99
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "34232 Röntgenaufnahmen der Hand, des Fußes oder deren Teile\nObligater Leistungsinhalt\n- Aufnahmen in mindestens 2 Ebenen\n- Aufnahmen\n- der Hand\noder\n- des Fußes\nund/oder\n- deren Teile\nje Teil\nDie Gebührenordnungsposition 34232 ist nicht neben den\nGebührenordnungspositionen 01205, 01207, 02100 bis 02102 und\n34503 berechnungsfähig."
+    },
+    {
+      "code": "34233",
+      "title": "Röntgenaufnahmen der Extremitäten oder deren Teile mit Ausnahme der in der Gebührenordnungsposition 34232 genannten Extremitätenteile",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 12.61,
+        "valuation_in_points": 99
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "34233 Röntgenaufnahmen der Extremitäten oder deren Teile mit\nAusnahme der in der Gebührenordnungsposition 34232 genannten\nExtremitätenteile\nObligater Leistungsinhalt\n- Aufnahmen in mindestens 2 Ebenen\n- Aufnahmen\n- der Extremitäten\nund/oder\n- deren Teile\nFakultativer Leistungsinhalt\n- Aufnahmen des distalen Unterarms\n- Aufnahmen des distalen Unterschenkels\nje Teil\nDie Gebührenordnungsposition 34233 ist nicht neben den\nGebührenordnungspositionen 01205, 01207, 02100 bis 02102 und\n34503 berechnungsfähig."
+    },
+    {
+      "code": "34234",
+      "title": "Röntgenaufnahme(n) des Beckens und/oder dessen Weichteile",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 9.05,
+        "valuation_in_points": 71
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "34234 Röntgenaufnahme(n) des Beckens und/oder dessen Weichteile\nObligater Leistungsinhalt\n- Aufnahme(n)\n- des Beckens\nund/oder\n- dessen Weichteile\n- Aufnahme(n) in einer Ebene\nDie Gebührenordnungsposition 34234 ist nicht neben den\nGebührenordnungspositionen 01205, 01207, 02100 bis 02102, 34260\nund 34503 berechnungsfähig."
+    },
+    {
+      "code": "34235",
+      "title": "Röntgenkontrastuntersuchung eines Schulter-, Ellbogen-, Hüft- oder Kniegelenks",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 77.84,
+        "valuation_in_points": 611
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "34235 Röntgenkontrastuntersuchung eines Schulter-, Ellbogen-, Hüft-\noder Kniegelenks\nObligater Leistungsinhalt\n- Aufnahmen in mindestens 2 Ebenen\n- Kontrastmitteleinbringung(en)\n- Röntgenkontrastuntersuchung\n- der Schulter\noder\n- des Ellbogens\noder\n- des Hüftgelenks\noder\n- des Kniegelenks\nFakultativer Leistungsinhalt\n- Gelenkpunktion(en)\nje Gelenk\nDie Gebührenordnungsposition 34235 ist nicht neben den\nGebührenordnungspositionen 01205, 01207, 02100 bis 02102, 02340\n02341, 02344, 17371, 17373, 34260 und 34503 berechnungsfähig."
+    },
+    {
+      "code": "34236",
+      "title": "Röntgenkontrastuntersuchung eines Gelenkes mit Ausnahme der in der Gebührenordnungsposition 34235 genannten Gelenke",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 65.49,
+        "valuation_in_points": 514
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "34236 Röntgenkontrastuntersuchung eines Gelenkes mit Ausnahme der\nin der Gebührenordnungsposition 34235 genannten Gelenke\nObligater Leistungsinhalt\n- Aufnahmen in mindestens 2 Ebenen\n- Kontrastmitteleinbringung(en)\nFakultativer Leistungsinhalt\n- Gelenkpunktion(en)\nje Seite, höchstens fünfmal am Behandlungstag\nDie Gebührenordnungsposition 34236 ist nicht neben den\nGebührenordnungspositionen 01205, 01207, 02100 bis 02102, 02340\n02341, 02344, 17371, 17373, 34260 und 34503 berechnungsfähig."
+    },
+    {
+      "code": "34237",
+      "title": "Röntgenteilaufnahmen des Beckens in mindestens zwei Ebenen",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 19.62,
+        "valuation_in_points": 154
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "34237 Röntgenteilaufnahmen des Beckens in mindestens zwei Ebenen\nObligater Leistungsinhalt\n- Röntgenteilaufnahmen des Beckens\n- Aufnahmen in mindestens zwei Ebenen\nDie Gebührenordnungsposition 34237 ist nicht neben den\nGebührenordnungspositionen 01205, 01207, 02100 bis 02102 und\n34503 berechnungsfähig."
+    },
+    {
+      "code": "34238",
+      "title": "Durchführung gehaltener Aufnahmen bzw. (standardisierter) gehaltener Stressaufnahmen zur Stabilitätsprüfung von Gelenk- und Bandapparatstrukturen im Zusammenhang mit den Gebührenordnungspositionen 34230 bis 34233",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 12.61,
+        "valuation_in_points": 99
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "34238 Durchführung gehaltener Aufnahmen bzw. (standardisierter)\ngehaltener Stressaufnahmen zur Stabilitätsprüfung von Gelenk-\nund Bandapparatstrukturen im Zusammenhang mit den\nGebührenordnungspositionen 34230 bis 34233\nObligater Leistungsinhalt\n- Aufnahme(n) in einer Ebene\nFakultativer Leistungsinhalt\n- Lokalanästhesien\n- Leitungsanästhesien\nje Teil\nDie Gebührenordnungsposition 34238 ist nicht neben den\nGebührenordnungspositionen 01205, 01207, 02100 bis 02102 und\n34503 berechnungsfähig.\n34.2.4 Röntgenuntersuchung des Thorax und Abdomens"
+    },
+    {
+      "code": "34240",
+      "title": "Röntgenübersichtsaufnahme(n) der Brustorgane",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 10.45,
+        "valuation_in_points": 82
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "34240 Röntgenübersichtsaufnahme(n) der Brustorgane\nObligater Leistungsinhalt\n- Aufnahme(n) der Brustorgane in einer Ebene\nFakultativer Leistungsinhalt\n- Breischluck\nDie Gebührenordnungsposition 34240 ist bei Erwachsenen in\nHartstrahltechnik durchzuführen.\nDie Gebührenordnungsposition 34240 ist nicht neben den\nGebührenordnungspositionen 01205, 01207, 02100 bis 02102, 09316\n13663, 34241, 34242 und 34503 berechnungsfähig."
+    },
+    {
+      "code": "34241",
+      "title": "Röntgenübersichtsaufnahmen der Brustorgane",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 18.6,
+        "valuation_in_points": 146
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "34241 Röntgenübersichtsaufnahmen der Brustorgane\nObligater Leistungsinhalt\n- Aufnahmen der Brustorgane in mindestens 2 Ebenen\nFakultativer Leistungsinhalt\n- Breischluck\nDie Gebührenordnungsposition 34241 ist bei Erwachsenen in\nHartstrahltechnik durchzuführen.\nDie Gebührenordnungsposition 34241 ist nicht neben den\nGebührenordnungspositionen 01205, 01207, 02100 bis 02102, 09316\n13663, 34240, 34242, 34280 und 34503 berechnungsfähig."
+    },
+    {
+      "code": "34242",
+      "title": "Röntgenübersichtsaufnahme(n) der Brustorgane einschließlich Durchleuchtung",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 33.89,
+        "valuation_in_points": 266
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "34242 Röntgenübersichtsaufnahme(n) der Brustorgane einschließlich\nDurchleuchtung\nObligater Leistungsinhalt\n- Aufnahmen der Brustorgane in mindestens 2 Ebenen\n- Durchleuchtung(en) (BV/TV)\nFakultativer Leistungsinhalt\n- Breischluck\nDie Gebührenordnungsposition 34242 ist bei Erwachsenen in\nHartstrahltechnik durchzuführen.\nDie Gebührenordnungsposition 34242 ist nicht neben den\nGebührenordnungspositionen 01205, 01207, 02100 bis 02102, 34240\n34241, 34246, 34280, 34281 und 34503 berechnungsfähig."
+    },
+    {
+      "code": "34243",
+      "title": "Röntgenübersichtsaufnahme(n) des Abdomens",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 11.85,
+        "valuation_in_points": 93
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "34243 Röntgenübersichtsaufnahme(n) des Abdomens\nObligater Leistungsinhalt\n- Aufnahme(n) des Abdomens in einer Ebene\nDie Gebührenordnungsposition 34243 ist nicht neben den\nGebührenordnungspositionen 01205, 01207, 02100 bis 02102, 34244\n34247, 34248, 34250 bis 34252, 34255 bis 34257, 34260 und 34503\nberechnungsfähig.\nDie Gebührenordnungsposition 34243 ist im Behandlungsfall nicht neben\nder Gebührenordnungsposition 26330 berechnungsfähig."
+    },
+    {
+      "code": "34244",
+      "title": "Röntgenübersichtsaufnahmen des Abdomens",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 17.96,
+        "valuation_in_points": 141
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "34244 Röntgenübersichtsaufnahmen des Abdomens\nObligater Leistungsinhalt\n- Aufnahmen des Abdomens in mindestens zwei Ebenen\nDie Gebührenordnungsposition 34244 ist nicht neben den\nGebührenordnungspositionen 01205, 01207, 02100 bis 02102, 34243\n34247, 34248, 34250 bis 34252, 34255 bis 34257, 34260 und 34503\nberechnungsfähig.\nDie Gebührenordnungsposition 34244 ist im Behandlungsfall nicht neben\nder Gebührenordnungsposition 26330 berechnungsfähig."
+    },
+    {
+      "code": "34245",
+      "title": "Röntgenaufnahme(n) von Teilen des Abdomens",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 13.5,
+        "valuation_in_points": 106
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "34245 Röntgenaufnahme(n) von Teilen des Abdomens\nObligater Leistungsinhalt\n- Aufnahme(n) von Teilen des Abdomens in einer Ebene\nDie Gebührenordnungsposition 34245 ist nicht neben den\nGebührenordnungspositionen 01205, 01207, 02100 bis 02102, 34247\n34248, 34250 bis 34252, 34255 bis 34257, 34260 und 34503\nberechnungsfähig.\nDie Gebührenordnungsposition 34245 ist im Behandlungsfall nicht neben\nder Gebührenordnungsposition 26330 berechnungsfähig."
+    },
+    {
+      "code": "34246",
+      "title": "Röntgenuntersuchung der Speiseröhre",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 36.82,
+        "valuation_in_points": 289
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "34246 Röntgenuntersuchung der Speiseröhre\nObligater Leistungsinhalt\n- Kontrastmitteleinbringung(en)\n- Durchleuchtung(en) (BV/TV)\nDie Gebührenordnungsposition 34246 ist nicht neben den\nGebührenordnungspositionen 01205, 01207, 02100 bis 02102, 34242\n34247, 34260, 34280, 34281 und 34503 berechnungsfähig."
+    },
+    {
+      "code": "34247",
+      "title": "Röntgenuntersuchung des Magens und/oder des Zwölffingerdarms",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 57.08,
+        "valuation_in_points": 448
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "34247 Röntgenuntersuchung des Magens und/oder des Zwölffingerdarms\nObligater Leistungsinhalt\n- Kontrastmitteleinbringung(en)\n- Durchleuchtung(en) (BV/TV)\n- Doppelkontrasttechnik\n- Darstellung\n- des Magens\nund/oder\n- des Zwölffingerdarms\nFakultativer Leistungsinhalt\n- Darstellung der Speiseröhre\nDie Gebührenordnungsposition 34247 ist nicht neben den\nGebührenordnungspositionen 01205, 01207, 02100 bis 02102, 34243\nbis 34246, 34280, 34281 und 34503 berechnungsfähig."
+    },
+    {
+      "code": "34248",
+      "title": "Röntgenuntersuchung des Dünndarms",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 132.12,
+        "valuation_in_points": 1037
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "34248 Röntgenuntersuchung des Dünndarms\nObligater Leistungsinhalt\n- Darstellung des ganzen Dünndarms in Doppelkontrasttechnik\n- Einbringung des Kontrastmittels mittels einer Sonde (Sellink-Technik)\nDie Gebührenordnungsposition 34248 ist nicht neben den\nGebührenordnungspositionen 01205, 01207, 02100 bis 02102, 34243\nbis 34245 und 34503 berechnungsfähig."
+    },
+    {
+      "code": "34250",
+      "title": "Röntgenuntersuchung der Gallenblase und/oder Gallengänge",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 50.71,
+        "valuation_in_points": 398
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "34250 Röntgenuntersuchung der Gallenblase und/oder Gallengänge\nObligater Leistungsinhalt\n- Kontrastmitteleinbringung(en)\n- Darstellung der\n- Gallenblase\nund/oder\n- Gallengänge\nDie Gebührenordnungsposition 34250 ist nicht neben den\nGebührenordnungspositionen 01205, 01207, 02100 bis 02102, 13430\n13431, 34243 bis 34245, 34260 und 34503 berechnungsfähig."
+    },
+    {
+      "code": "34251",
+      "title": "Röntgenkontrastuntersuchung des Dickdarms",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 111.99,
+        "valuation_in_points": 879
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "34251 Röntgenkontrastuntersuchung des Dickdarms\nObligater Leistungsinhalt\n- Darstellung des Dickdarmes retrograd bis zur Ileocoecalklappe in\nDoppelkontrasttechnik\nund/oder\n- Stopplokalisation bei Tumor und/oder Ileus\nund/oder\n- Darstellung des Restcolons über Stoma\n- Kontrastmitteleinbringung(en)\n- Durchleuchtung (BV/TV)\nDie Gebührenordnungsposition 34251 ist nicht neben den\nGebührenordnungspositionen 01205, 01207, 02100 bis 02102, 34243\nbis 34245, 34280, 34281 und 34503 berechnungsfähig."
+    },
+    {
+      "code": "34252",
+      "title": "Röntgenkontrastuntersuchung des Dickdarms beim Neugeborenen, Säugling, Kleinkind oder Kind bis zum vollendeten 12. Lebensjahr",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 94.28,
+        "valuation_in_points": 740
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "34252 Röntgenkontrastuntersuchung des Dickdarms beim\nNeugeborenen, Säugling, Kleinkind oder Kind bis zum vollendeten\n12. Lebensjahr\nObligater Leistungsinhalt\n- Darstellung des Dickdarms bei einem Neugeborenen, Säugling\nKleinkind oder Kind bis zum vollendeten 12. Lebensjahr\n- Kontrastmitteleinbringung(en)\n- Durchleuchtung (BV/TV)\nFakultativer Leistungsinhalt\n- Reposition bei Invagination\nDie Gebührenordnungsposition 34252 ist nicht neben den\nGebührenordnungspositionen 01205, 01207, 02100 bis 02102, 34243\nbis 34245, 34280, 34281 und 34503 berechnungsfähig.\n34.2.5 Urogenitalorgane"
+    },
+    {
+      "code": "34255",
+      "title": "Ausscheidungsurographie",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 55.68,
+        "valuation_in_points": 437
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "34255 Ausscheidungsurographie\nObligater Leistungsinhalt\n- Leeraufnahme(n) vor Kontrastmitteleinbringung\n- Kontrastmitteleinbringung(en)\n- Röntgenaufnahme(n) nach Kontrastmittelgabe\nFakultativer Leistungsinhalt\n- Spätaufnahme(n)\nDie Gebührenordnungsposition 34255 ist nicht neben den\nGebührenordnungspositionen 01205, 01207, 02100 bis 02102, 34243\nbis 34245, 34257, 34260 und 34503 berechnungsfähig.\nDie Gebührenordnungsposition 34255 ist im Behandlungsfall nicht neben\nder Gebührenordnungsposition 26330 berechnungsfähig."
+    },
+    {
+      "code": "34256",
+      "title": "Urethrozystographie oder Refluxzystogramm",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 69.94,
+        "valuation_in_points": 549
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "34256 Urethrozystographie oder Refluxzystogramm\nObligater Leistungsinhalt\n- Aufnahme(n) nach Kontrastmittelapplikation\n- Kontrastmitteleinbringung(en)\nFakultativer Leistungsinhalt\n- Miktionsaufnahme(n)\n- Leeraufnahme(n) vor Kontrastmitteleinbringung\nDie Gebührenordnungsposition 34256 ist nicht neben den\nGebührenordnungspositionen 01205, 01207, 02100 bis 02102, 34243\nbis 34245, 34257, 34260 und 34503 berechnungsfähig.\nDie Gebührenordnungsposition 34256 ist im Behandlungsfall nicht neben\nder Gebührenordnungsposition 26330 berechnungsfähig."
+    },
+    {
+      "code": "34257",
+      "title": "Retrograde Pyelographie einer Seite",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 107.66,
+        "valuation_in_points": 845
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "34257 Retrograde Pyelographie einer Seite\nObligater Leistungsinhalt\n- Leeraufnahme(n)\n- Kontrastmitteleinbringung(en)\n- Aufnahme(n) nach Kontrastmittelapplikation\n- Zystoskopie\nDie Gebührenordnungsposition 34257 ist bei Patienten mit Zustand\nnach Zystektomie auch ohne Durchführung der Zystoskopie\nberechnungsfähig.\nDie Gebührenordnungsposition 34257 ist nicht neben den\nGebührenordnungspositionen 01205, 01207, 02100 bis 02102, 08311\n26310, 26311, 34243 bis 34245, 34255, 34256, 34260 und 34503\nberechnungsfähig.\nDie Gebührenordnungsposition 34257 ist im Behandlungsfall nicht neben\nder Gebührenordnungsposition 26330 berechnungsfähig.\n34.2.6 Gangsysteme"
+    },
+    {
+      "code": "34260",
+      "title": "Röntgenuntersuchung natürlicher oder krankhaft entstandener Gangsysteme, Höhlen oder Fisteln",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 46.25,
+        "valuation_in_points": 363
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "34260 Röntgenuntersuchung natürlicher oder krankhaft entstandener\nGangsysteme, Höhlen oder Fisteln\nObligater Leistungsinhalt\n- Kontrastmitteleinbringung(en)\n- Darstellung von\n- natürlichen Gangsystemen\nund/oder\n- krankhaft entstandenen Gangsystemen\nund/oder\n- Höhlen\nund/oder\n- Fisteln\nFakultativer Leistungsinhalt\n- Leeraufnahme(n) vor Kontrastmitteleinbringung\nDie Gebührenordnungsposition 34260 ist nicht neben den\nGebührenordnungspositionen 01205, 01207, 02100 bis 02102, 34234\nbis 34236, 34243 bis 34246, 34250, 34255 bis 34257 und 34503\nberechnungsfähig.\n34.2.7 Mammographie"
+    },
+    {
+      "code": "34270",
+      "title": "Mammographie",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 34.91,
+        "valuation_in_points": 274
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "34270 Mammographie\nObligater Leistungsinhalt\n- Aufnahmen der Mamma mit axillärem Fortsatz\n- Aufnahmen in mindestens 2 Ebenen\nje Seite\nDie Gebührenordnungsposition 34270 ist nicht neben den\nGebührenordnungspositionen 01205, 01207, 01750, 01752 bis 01755\n01759, 02100 bis 02102, 34275 und 34503 berechnungsfähig."
+    },
+    {
+      "code": "34271",
+      "title": "Zuschlag zu der Gebührenordnungsposition 34270",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 110.71,
+        "valuation_in_points": 869
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "34271 Zuschlag zu der Gebührenordnungsposition 34270\nObligater Leistungsinhalt\n- Biopsie(n) bei nicht tastbarem Befund\nund/oder\n- Präoperative Markierung unter radiologischer Kontrolle bei nicht\ntastbarem Befund oder vor neoadjuvanter Therapie\nund/oder\n- Mammastanzbiopsie(n) unter radiologischer Kontrolle bei nicht\ntastbarem Befund\n- Mittels definierter Zielgeräte\nje Seite\nDie Gebührenordnungsposition 34271 ist bei Patienten mit einer\nmultifokalen oder multizentrischen bösartigen Neubildung der Brustdrüse\n(Mamma) bei ausgedehnten Befunden vor neoadjuvanter Therapie je\nSeite zweimal berechnungsfähig.\nDie Gebührenordnungsposition 34271 ist nicht neben den\nGebührenordnungspositionen 01205, 01207, 01750, 01752 bis 01755\n01759, 02100 bis 02102 und 34503 berechnungsfähig."
+    },
+    {
+      "code": "34272",
+      "title": "Mammateilaufnahme(n)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 34.02,
+        "valuation_in_points": 267
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "34272 Mammateilaufnahme(n)\nObligater Leistungsinhalt\n- Aufnahme(n) in mindestens einer Ebene\n- Vergrößerungstechnik\nje Seite\nDie Gebührenordnungsposition 34272 ist nicht neben den\nGebührenordnungspositionen 01205, 01207, 01750, 01752 bis 01755\n02100 bis 02102, 34275 und 34503 berechnungsfähig."
+    },
+    {
+      "code": "34273",
+      "title": "Röntgenuntersuchung eines Mammapräparates",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 12.49,
+        "valuation_in_points": 98
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "34273 Röntgenuntersuchung eines Mammapräparates\nObligater Leistungsinhalt\n- Aufnahme(n) in einer Ebene\nFakultativer Leistungsinhalt\n- Vergrößerungstechnik\nDie Gebührenordnungsposition 34273 ist nicht neben den\nGebührenordnungspositionen 01205, 01207, 01750, 01752 bis 01755\n01759, 02100 bis 02102 und 34503 berechnungsfähig."
+    },
+    {
+      "code": "34274",
+      "title": "Vakuumbiopsie(n) der Mamma im Zusammenhang mit der Erbringung der Gebührenordnungsposition 34270 nach der Qualitätssicherungsvereinbarung zur Vakuumbiopsie der Brust gemäß § 135 Abs. 2 SGB V",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 34.65,
+        "valuation_in_points": 272
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "34274 Vakuumbiopsie(n) der Mamma im Zusammenhang mit der\nErbringung der Gebührenordnungsposition 34270 nach der\nQualitätssicherungsvereinbarung zur Vakuumbiopsie der Brust\ngemäß § 135 Abs. 2 SGB V\nObligater Leistungsinhalt\n- Vakuumbiopsie(n) unter Röntgenkontrolle mittels geeignetem\nZielgerät\nje Seite\nDie Gebührenordnungsposition 34274 ist nicht neben den\nGebührenordnungspositionen 01205, 01207, 01750, 01752 bis 01755\n02100 bis 02102 und 34503 berechnungsfähig."
+    },
+    {
+      "code": "34275",
+      "title": "Durchführung einer Mammographie in einer Ebene gemäß der Qualitätssicherungsvereinbarung nach § 135 Abs. 2 SGB V zur Vakuumbiopsie der Brust im Zusammenhang mit der Gebührenordnungsposition 34274",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 27.14,
+        "valuation_in_points": 213
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "34275 Durchführung einer Mammographie in einer Ebene gemäß\nder Qualitätssicherungsvereinbarung nach § 135 Abs. 2 SGB\nV zur Vakuumbiopsie der Brust im Zusammenhang mit der\nGebührenordnungsposition 34274\nObligater Leistungsinhalt\n- Aufnahme der Mamma medio-lateral oder latero-medial\nje Seite\nDie Gebührenordnungsposition 34275 ist nicht neben den\nGebührenordnungspositionen 01205, 01207, 01750, 01752 bis 01755\n01759, 02100 bis 02102, 34270, 34272 und 34503 berechnungsfähig.\n34.2.8 Durchleuchtungen/Schichtaufnahmen"
+    },
+    {
+      "code": "34280",
+      "title": "Durchleuchtung(en)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 12.1,
+        "valuation_in_points": 95
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "34280 Durchleuchtung(en)\nObligater Leistungsinhalt\n- Durchleuchtung(en) unter Anwendung von BV/TV\nDie Gebührenordnungsposition 34280 kann nur berechnet werden, wenn\nweiter keine Gebührenordnungspositionen abgerechnet werden, die\nbereits Durchleuchtungs- und/oder Schichtaufnahmen beinhalten.\nDie Gebührenordnungsposition 34280 ist nicht neben den\nGebührenordnungspositionen 01205, 01207, 02100 bis 02102, 34241\n34242, 34246, 34247, 34251, 34252, 34281, 34283, 34284, 34286\n34287, 34290, 34292 bis 34294, 34296, 34298, 34500 und 34503\nberechnungsfähig.\nDie Gebührenordnungsposition 34280 ist im Behandlungsfall nicht neben\nder Gebührenordnungsposition 26330 berechnungsfähig."
+    },
+    {
+      "code": "34281",
+      "title": "Durchleuchtungen zur weiteren diagnostischen Abklärung",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 7.9,
+        "valuation_in_points": 62
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "34281 Durchleuchtungen zur weiteren diagnostischen Abklärung\nObligater Leistungsinhalt\n- Durchleuchtung(en) bei Fraktur(en), Luxation(en) oder\neingedrungenden Fremdkörpern zur weiteren diagnostischen\nAbklärung nach Durchführung von konventionell radiologischen\nAufnahme(n)\n- Vorlage von Aufnahmen in mindestens 2 Ebenen\nDie Gebührenordnungsposition 34281 kann nur berechnet werden\nwenn die zuvor angefertigten Aufnahmen keine ausreichende\ndiagnostische Abklärung ermöglichen. Die Begründung ist auf dem\nBehandlungsausweis zu dokumentieren.\nDie Gebührenordnungsposition 34281 kann nur berechnet werden, wenn\nweiter keine Gebührenordnungspositionen abgerechnet werden, die\nbereits Durchleuchtungen beinhalten.\nDie Gebührenordnungsposition 34281 ist nicht neben den\nGebührenordnungspositionen 01205, 01207, 02100 bis 02102, 34242\n34246, 34247, 34251, 34252, 34280, 34283, 34284, 34286, 34287\n34290, 34292 bis 34294, 34296, 34298, 34500 und 34503\nberechnungsfähig.\nDie Gebührenordnungsposition 34281 ist im Behandlungsfall nicht neben\nder Gebührenordnungsposition 26330 berechnungsfähig."
+    },
+    {
+      "code": "34282",
+      "title": "Schichtaufnahmen",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 47.39,
+        "valuation_in_points": 372
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "34282 Schichtaufnahmen\nje Strahlengang und Projektionsrichtung\nDie Gebührenordnungsposition 34282 ist nicht neben den\nGebührenordnungspositionen 01205, 01207, 02100 bis 02102, 34211\nund 34503 berechnungsfähig.\nDie Gebührenordnungsposition 34282 ist im Behandlungsfall nicht neben\nder Gebührenordnungsposition 26330 berechnungsfähig.\n34.2.9 Gefäße\n1. Die Gebührenordnungspositionen 34290 bis 34292 und 34298\nsind nur einmal im Behandlungsfall (kurativ-ambulant und/oder\nbelegärztlich) berechnungsfähig.\n2. Ambulant ausgeführte vertragsärztliche Leistungen werden gemäß §\n41 Abs. 1 Bundesmantelvertrag-Ärzte (BMV-Ä) nach den Grundsätzen\nder Vergütung für stationäre (belegärztliche) Behandlung honoriert\nwenn der Kranke an demselben Tag in die stationäre Behandlung\ndieses Vertragsarztes (Belegarztes) genommen wird.\n3. Die Berechnung der Gebührenordnungspositionen 34283 und 34286\nsetzt eine Genehmigung nach der Qualitätssicherungsvereinbarung\nzur interventionellen Radiologie gemäß § 135 Abs. 2 SGB V voraus.\n4. Die Berechnung der Gebührenordnungspositionen 34291, 34292 und\n34298 setzt eine Genehmigung der Kassenärztlichen Vereinigung\nnach der Vereinbarung zur invasiven Kardiologie gemäß § 135 Abs.\n2 SGB V voraus.\n5. Bei der weiteren Abklärung nach erfolgter Computertomographie-\nKoronarangiographie (CCTA) ist gem. § 3 Abs. 5 und 7 der Nr. 42 der\nAnlage I „Anerkannte Untersuchungs- oder Behandlungsmethoden“\nder Richtlinie Methoden vertragsärztliche Versorgung des\nGemeinsamen Bundesausschusses zu berücksichtigen, dass eine\ninvasive Koronarangiografie (ICA) nur veranlasst oder durchgeführt\nwerden soll\n- bei Verdacht auf Vorliegen einer stenosierenden KHK, deren\nSymptomatik trotz optimaler konservativer Therapie persistiert\nund bei der die Entscheidung für eine Revaskularisierung bereits\ngetroffen wurde\n- bei fehlender Auswertbarkeit der CCTA-Ergebnisse aufgrund\nder vorgefundenen Befundlage (zum Beispiel zu hoher\nVerkalkungsgrad) und vorliegenden Kontraindikationen für die\nDurchführung einer funktionellen Diagnostik\n- oder bei einer akuten klinischen kardialen\nSymptomverschlechterung, die auf das Vorliegen eines akuten\nKoronarsyndroms (AKS) hinweist.\nDie Entscheidung zum weiteren Vorgehen insbesondere bei unklaren\noder komplexen Befunden sollte nach Möglichkeit interdisziplinär\nmindestens unter Einbeziehung radiologischer und kardiologischer\nFachexpertise erfolgen."
+    },
+    {
+      "code": "34283",
+      "title": "Serienangiographie",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 197.73,
+        "valuation_in_points": 1552
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "34283 Serienangiographie\nObligater Leistungsinhalt\n- Serienangiographie der arteriellen Strombahn\n- Kontrastmitteleinbringung(en)\n- Dokumentation\nje Sitzung\nDie Gebührenordnungsposition 34283 ist im Behandlungsfall höchstens\nzweimal berechnungsfähig.\nNeben der Gebührenordnungsposition 34283 sind in demselben\nBehandlungsfall nur die Gebührenordnungspositionen 01100, 01101\n01220 bis 01222, 01414, 01530, 01620 bis 01622, 02100, 33072\n33075, 34489, die Gebührenordnungspositionen der Kapitel 13, 24\n31, 32 und 36 sowie der Abschnitte 34.2, 34.3 und 34.4.1 bis 34.4.6\nberechnungsfähig. Dies gilt nicht für Berufsausübungsgemeinschaften\ngemäß § 1a Nr. 12 Bundesmantelvertrag-Ärzte (BMV-Ä), sofern die\nLeistungen von unterschiedlichen Ärzten durchgeführt werden.\nDie Gebührenordnungsposition 34283 ist nicht neben den\nGebührenordnungspositionen 01205, 01207, 02100 bis 02102, 02330\n02331, 34280, 34281, 34470, 34475, 34480, 34485, 34486, 34489\n34490, 34492 und 34503 berechnungsfähig.\nDie Gebührenordnungsposition 34283 ist am Behandlungstag nicht\nneben den Gebührenordnungspositionen 34290, 34292 und 34298\nberechnungsfähig.\nDie Gebührenordnungsposition 34283 ist im Behandlungsfall nicht neben\nden Gebührenordnungspositionen 04410 und 34291 berechnungsfähig."
+    },
+    {
+      "code": "34284",
+      "title": "Zuschlag zu der Gebührenordnungsposition 34283 bei selektiver Darstellung hirnversorgender Gefäße",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 125.11,
+        "valuation_in_points": 982
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "34284 Zuschlag zu der Gebührenordnungsposition 34283 bei selektiver\nDarstellung hirnversorgender Gefäße\nObligater Leistungsinhalt\n- Selektive Darstellung hirnversorgender Gefäße\n- Kontrastmitteleinbringung(en)\nNeben der Gebührenordnungsposition 34284 ist in demselben\nBehandlungsfall zusätzlich zu den neben der Gebührenordnungsposition\n34283 berechnungsfähigen Gebührenordnungspositionen die\nGebührenordnungsposition 01531 berechnungsfähig.\nDie Gebührenordnungsposition 34284 ist nicht neben den\nGebührenordnungspositionen 01205, 01207, 02100 bis 02102, 02330\n02331, 34280, 34281, 34285 und 34503 berechnungsfähig.\nDie Gebührenordnungsposition 34284 ist am Behandlungstag nicht\nneben den Gebührenordnungspositionen 34290, 34292 und 34298\nberechnungsfähig.\nDie Gebührenordnungsposition 34284 ist im Behandlungsfall nicht neben\nder Gebührenordnungsposition 34291 berechnungsfähig."
+    },
+    {
+      "code": "34285",
+      "title": "Zuschlag zu der Gebührenordnungsposition 34283 bei selektiver Darstellung anderer als in der Gebührenordnungsposition 34284 genannter Gefäße",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 60.77,
+        "valuation_in_points": 477
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "34285 Zuschlag zu der Gebührenordnungsposition 34283 bei selektiver\nDarstellung anderer als in der Gebührenordnungsposition 34284\ngenannter Gefäße\nObligater Leistungsinhalt\n- Selektive Darstellung anderer als in der Gebührenordnungsposition\n34284 genannter Gefäße\n- Kontrastmitteleinbringung(en)\nNeben der Gebührenordnungsposition 34285 ist in demselben\nBehandlungsfall zusätzlich zu den neben der Gebührenordnungsposition\n34283 berechnungsfähigen Gebührenordnungspositionen die\nGebührenordnungsposition 01531 berechnungsfähig.\nDie Gebührenordnungsposition 34285 ist nicht neben den\nGebührenordnungspositionen 01205, 01207, 02100 bis 02102, 02330\n02331, 34284 und 34503 berechnungsfähig.\nDie Gebührenordnungsposition 34285 ist am Behandlungstag nicht\nneben den Gebührenordnungspositionen 34290, 34292 und 34298\nberechnungsfähig.\nDie Gebührenordnungsposition 34285 ist im Behandlungsfall nicht neben\nder Gebührenordnungsposition 34291 berechnungsfähig."
+    },
+    {
+      "code": "34286",
+      "title": "Zuschlag zu der Gebührenordnungsposition 34283 bei Durchführung einer interventionellen Maßnahme (PTA, Stent, Embolisation Atherektomie, Rotationsablatio, Lyse)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 282.96,
+        "valuation_in_points": 2221
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "34286 Zuschlag zu der Gebührenordnungsposition 34283 bei Durchführung\neiner interventionellen Maßnahme (PTA, Stent, Embolisation\nAtherektomie, Rotationsablatio, Lyse)\nObligater Leistungsinhalt\n- Durchführung einer interventionellen Maßnahme (PTA, Stent\nEmbolisation, Atherektomie, Rotationsablatio, Lyse)\n- Kontrastmitteleinbringung(en)\nNeben der Gebührenordnungsposition 34286 ist in demselben\nBehandlungsfall zusätzlich zu den neben der Gebührenordnungsposition\n34283 berechnungsfähigen Gebührenordnungspositionen die\nGebührenordnungsposition 01531 berechnungsfähig.\nDie Gebührenordnungsposition 34286 ist nicht neben den\nGebührenordnungspositionen 01205, 01207, 02100 bis 02102, 02330\n02331, 34280, 34281 und 34503 berechnungsfähig.\nDie Gebührenordnungsposition 34286 ist am Behandlungstag\nnicht neben den Gebührenordnungspositionen 34292 und 34298\nberechnungsfähig.\nDie Gebührenordnungsposition 34286 ist im Behandlungsfall nicht neben\nder Gebührenordnungsposition 34291 berechnungsfähig."
+    },
+    {
+      "code": "34287",
+      "title": "Zuschlag zu der Gebührenordnungsposition 34283 bei Verwendung eines C-Bogens",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 15.93,
+        "valuation_in_points": 125
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "34287 Zuschlag zu der Gebührenordnungsposition 34283 bei Verwendung\neines C-Bogens\nObligater Leistungsinhalt\n- Verwendung eines C-Bogens\n- Anwendung eines mindestens 36 cm-Bildverstärkers\nNeben der Gebührenordnungsposition 34287 ist in demselben\nBehandlungsfall zusätzlich zu den neben der Gebührenordnungsposition\n34283 berechnungsfähigen Gebührenordnungsposition die\nGebührenordnungsposition 01531 berechnungsfähig.\nDie Gebührenordnungsposition 34287 ist nicht neben den\nGebührenordnungspositionen 01205, 01207, 02100 bis 02102, 02330\n02331, 34280, 34281 und 34503 berechnungsfähig.\nDie Gebührenordnungsposition 34287 ist am Behandlungstag\nnicht neben den Gebührenordnungspositionen 34292 und 34298\nberechnungsfähig.\nDie Gebührenordnungsposition 34287 ist im Behandlungsfall nicht neben\nder Gebührenordnungsposition 34291 berechnungsfähig."
+    },
+    {
+      "code": "34290",
+      "title": "Angiokardiographie",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 178.88,
+        "valuation_in_points": 1404
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "34290 Angiokardiographie\nObligater Leistungsinhalt\n- Angiokardiographie bei Patienten\n- Kontrastmitteleinbringung(en)\n- Dokumentation\nFakultativer Leistungsinhalt\n- Druckmessung(-en)\neinmal im Behandlungsfall\nDie Berechnung der Gebührenordnungsposition 34290 im\nZusammenhang mit einer Leistung außerhalb Anhang 1 Abschnitt 2 des\nVertrages nach § 115b SGB V ist durch Angabe einer bundeseinheitlich\nkodierten Zusatzkennzeichnung zu dokumentieren.\nDie Gebührenordnungsposition 34290 ist nicht neben den\nGebührenordnungspositionen 01205, 01207, 02100 bis 02102, 02330\n02331, 34280, 34281 und 34503 berechnungsfähig.\nDie Gebührenordnungsposition 34290 ist am Behandlungstag nicht\nneben den Gebührenordnungspositionen 34283 bis 34285, 34292 und\n34298 berechnungsfähig.\nDie Gebührenordnungsposition 34290 ist im Behandlungsfall nicht neben\nder Gebührenordnungsposition 34291 berechnungsfähig."
+    },
+    {
+      "code": "34291",
+      "title": "Herzkatheteruntersuchung mit Koronarangiographie",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 404.51,
+        "valuation_in_points": 3175
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "34291 Herzkatheteruntersuchung mit Koronarangiographie\nObligater Leistungsinhalt\n- Herzkatheteruntersuchung mit Koronarangiographie\n- Begleitleistungen, die im unmittelbaren Zusammenhang mit der\nLeistungserbringung stehen\n- Kontrastmitteleinbringung(en)\nFakultativer Leistungsinhalt\n- Selektive Darstellung auch bei Patienten mit einem oder mehreren\nBypässen und/oder bei Patienten mit Herzvitium\n- Angiokardiographie (Nr. 34290)\n- Gerinnungsuntersuchung(en) (z. B. aktivierte Gerinnungszeit)\n- Qualitätssicherung gemäß der Richtlinie des Gemeinsamen\nBundesausschusses nach § 136 Abs. 1 Satz 1 Nr. 1 SGB V\nzur datengestützten einrichtungsübergreifenden Qualitätssicherung\n(DeQS-RL) für das Verfahren 1: Perkutane Koronarintervention (PCI)\nund Koronarangiographie\n- Aufklärungsgespräch gemäß DeQS-RL\neinmal im Behandlungsfall\nDie Gebührenordnungsposition 34291 ist nicht neben den\nGebührenordnungspositionen 01205, 01207, 02100 bis 02102, 02330\n02331 und 34503 und nicht neben den Gebührenordnungspositionen\ndes Kapitels 32 berechnungsfähig.\nDie Gebührenordnungsposition 34291 ist im Behandlungsfall nicht\nneben den Gebührenordnungspositionen 01530, 01531, 02300 bis\n02302, 02310, 02320 bis 02323, 02330, 02331, 02340 bis 02344\n02350, 02360, 34283 bis 34287 und 34290 und nicht neben\nden Gebührenordnungspositionen der Abschnitte 2.1, 34.3 und 34.4\nberechnungsfähig."
+    },
+    {
+      "code": "34292",
+      "title": "Zuschlag zu der Gebührenordnungsposition 34291 bei Durchführung einer interventionellen Maßnahme (z.B. PTCA, Stent)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 484.01,
+        "valuation_in_points": 3799
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "34292 Zuschlag zu der Gebührenordnungsposition 34291 bei Durchführung\neiner interventionellen Maßnahme (z.B. PTCA, Stent)\neinmal im Behandlungsfall\nDie Gebührenordnungsposition 34292 ist nicht neben den\nGebührenordnungspositionen 01205, 01207, 02100 bis 02102, 02330\n02331, 34280, 34281 und 34503 berechnungsfähig.\nDie Gebührenordnungsposition 34292 ist am Behandlungstag nicht\nneben den Gebührenordnungspositionen 34283 bis 34287 und 34290\nberechnungsfähig."
+    },
+    {
+      "code": "34293",
+      "title": "Lymphographie",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 86.63,
+        "valuation_in_points": 680
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "34293 Lymphographie\nObligater Leistungsinhalt\n- Kontrastmitteleinbringung(en)\n- Darstellung regionaler Abflussgebiete nach Kontrastmittelapplikation\nje Sitzung\nDie Gebührenordnungsposition 34293 ist nicht neben den\nGebührenordnungspositionen 01205, 01207, 02100 bis 02102, 34280\n34281, 34297 und 34503 berechnungsfähig."
+    },
+    {
+      "code": "34294",
+      "title": "Phlebographie",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 44.97,
+        "valuation_in_points": 353
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "34294 Phlebographie\nObligater Leistungsinhalt\n- Kontrastmitteleinbringung(en)\n- Darstellung regionaler Abflussgebiete nach Kontrastmittelapplikation\nje Extremität\nDie Gebührenordnungsposition 34294 ist nicht neben den\nGebührenordnungspositionen 01205, 01207, 02100 bis 02102, 34280\n34281, 34296, 34297 und 34503 berechnungsfähig."
+    },
+    {
+      "code": "34295",
+      "title": "Zuschlag zu der Gebührenordnungsposition 34294 für die computergestützte Analyse",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 12.1,
+        "valuation_in_points": 95
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "34295 Zuschlag zu der Gebührenordnungsposition 34294 für die\ncomputergestützte Analyse\nDie Gebührenordnungsposition 34295 ist nicht neben den\nGebührenordnungspositionen 01205, 01207, 02100 bis 02102 und\n34503 berechnungsfähig."
+    },
+    {
+      "code": "34296",
+      "title": "Phlebographie des Brust- und/oder Bauchraumes",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 99.38,
+        "valuation_in_points": 780
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "34296 Phlebographie des Brust- und/oder Bauchraumes\nObligater Leistungsinhalt\n- Phlebographie(n) des Brust- und/oder Bauchraumes\n- Kontrastmitteleinbringung(en)\n- Computergestützte Analyse\nje Sitzung\nDie Gebührenordnungsposition 34296 ist nicht neben den\nGebührenordnungspositionen 01205, 01207, 02100 bis 02102, 34280\n34281, 34294, 34297 und 34503 berechnungsfähig."
+    },
+    {
+      "code": "34297",
+      "title": "Embolisations- und/oder Sklerosierungsbehandlung von Varikozelen",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 115.05,
+        "valuation_in_points": 903
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "34297 Embolisations- und/oder Sklerosierungsbehandlung von\nVarikozelen\nObligater Leistungsinhalt\n- Embolisations- und/oder Sklerosierungsbehandlung(en) von\nVarikozelen\n- Kontrastmitteldarstellung(en)\nDie Gebührenordnungsposition 34297 ist nicht neben den\nGebührenordnungspositionen 01205, 01207, 02100 bis 02102, 34293\n34294, 34296 und 34503 berechnungsfähig."
+    },
+    {
+      "code": "34298",
+      "title": "Zuschlag zu der Gebührenordnungsposition 34291 für die Messung der myokardialen fraktionellen Flussreserve gemäß Nr. 23 der Anlage I „Anerkannte Untersuchungs- oder Behandlungsmethoden“ der Richtlinie Methoden vertragsärztliche Versorgung des Gemeinsamen Bundesausschusses",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 124.86,
+        "valuation_in_points": 980
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "34298 Zuschlag zu der Gebührenordnungsposition 34291 für die\nMessung der myokardialen fraktionellen Flussreserve gemäß\nNr. 23 der Anlage I „Anerkannte Untersuchungs- oder\nBehandlungsmethoden“ der Richtlinie Methoden vertragsärztliche\nVersorgung des Gemeinsamen Bundesausschusses\nObligater Leistungsinhalt\n- Messung der myokardialen fraktionellen Flussreserve\nFakultativer Leistungsinhalt\n- Medikamentöse Vasodilatation\n- Weitere Messungen\neinmal im Behandlungsfall\nDie Gebührenordnungsposition 34298 ist nicht neben den\nGebührenordnungspositionen 01205, 01207, 02100 bis 02102, 02330\n02331, 34280, 34281 und 34503 berechnungsfähig.\nDie Gebührenordnungsposition 34298 ist am Behandlungstag nicht\nneben den Gebührenordnungspositionen 34283 bis 34287 und 34290\nberechnungsfähig.\n34.3 Computertomographie\n1. Digitale Radiogramme zur Einstellung sind Bestandteil der\ncomputertomographischen Leistungen.\n2. Bei Benennung von Begrenzungen anatomischer Strukturen und/\noder der Anfertigung von Dünnschichten müssen die Schichten\naneinandergrenzen.\n34.3.1 Neurocranium und Wirbelsäule"
+    },
+    {
+      "code": "34310",
+      "title": "CT-Untersuchung des Neurocraniums",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 68.03,
+        "valuation_in_points": 534
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "34310 CT-Untersuchung des Neurocraniums\nObligater Leistungsinhalt\n- Darstellung des Neurocraniums\n- Anfertigung von Dünnschichten (<= 5mm) der hinteren Schädelgrube\nFakultativer Leistungsinhalt\n- Anfertigung weiterer Dünnschichten\nDie Gebührenordnungsposition 34310 ist nicht neben den\nGebührenordnungspositionen 01205, 01207, 02100 bis 02102, 34360\n34504 und 34505 berechnungsfähig.\nDie Gebührenordnungsposition 34310 ist im Behandlungsfall nicht neben\nder Gebührenordnungsposition 34291 berechnungsfähig."
+    },
+    {
+      "code": "34311",
+      "title": "CT-Untersuchung von Teilen der Wirbelsäule",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 84.34,
+        "valuation_in_points": 662
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "34311 CT-Untersuchung von Teilen der Wirbelsäule\nObligater Leistungsinhalt\n- Darstellung von mindestens 2 Segmenten\nFakultativer Leistungsinhalt\n- Darstellung weiterer Segmente\nje Wirbelsäulenabschnitt\nDie Gebührenordnungsposition 34311 ist nicht neben den\nGebührenordnungspositionen 01205, 01207, 02100 bis 02102, 34360\n34504 und 34505 berechnungsfähig.\nDie Gebührenordnungsposition 34311 ist im Behandlungsfall nicht neben\nder Gebührenordnungsposition 34291 berechnungsfähig."
+    },
+    {
+      "code": "34312",
+      "title": "Zuschlag zu den Gebührenordnungsposition 34310 und 34311 für die Durchführung von Serien nach intrathekaler Kontrastmittelgabe",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 50.2,
+        "valuation_in_points": 394
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "34312 Zuschlag zu den Gebührenordnungsposition 34310 und 34311 für die\nDurchführung von Serien nach intrathekaler Kontrastmittelgabe\nObligater Leistungsinhalt\n- Kontrastmitteleinbringung(en)\nDie Gebührenordnungsposition 34312 ist nicht neben den\nGebührenordnungspositionen 01205, 01207, 02100 bis 02102, 34360\n34504 und 34505 berechnungsfähig.\nDie Gebührenordnungsposition 34312 ist im Behandlungsfall nicht neben\nder Gebührenordnungsposition 34291 berechnungsfähig.\n34.3.2 Gesichtsschädel, Schädelbasis, Halsweichteile"
+    },
+    {
+      "code": "34320",
+      "title": "CT-Untersuchung des Gesichtsschädels",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 82.81,
+        "valuation_in_points": 650
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "34320 CT-Untersuchung des Gesichtsschädels\nObligater Leistungsinhalt\n- Anfertigung von Dünnschichten (<= 4mm)\nDie Gebührenordnungsposition 34320 ist nicht neben den\nGebührenordnungspositionen 01205, 01207, 02100 bis 02102, 34360\n34504 und 34505 berechnungsfähig.\nDie Gebührenordnungsposition 34320 ist im Behandlungsfall nicht neben\nder Gebührenordnungsposition 34291 berechnungsfähig."
+    },
+    {
+      "code": "34321",
+      "title": "CT-Untersuchung der Schädelbasis",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 71.47,
+        "valuation_in_points": 561
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "34321 CT-Untersuchung der Schädelbasis\nObligater Leistungsinhalt\n- Anfertigung von Dünnschichten (<= 2mm)\nDie Gebührenordnungsposition 34321 ist nicht neben den\nGebührenordnungspositionen 01205, 01207, 02100 bis 02102, 34360\n34504 und 34505 berechnungsfähig.\nDie Gebührenordnungsposition 34321 ist im Behandlungsfall nicht neben\nder Gebührenordnungsposition 34291 berechnungsfähig."
+    },
+    {
+      "code": "34322",
+      "title": "CT-Untersuchung der Halsweichteile",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 86.25,
+        "valuation_in_points": 677
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "34322 CT-Untersuchung der Halsweichteile\nObligater Leistungsinhalt\n- Darstellung von HWK 1 bis HWK 7\n- Anfertigung von Dünnschichten (<= 5 mm)\nDie Gebührenordnungsposition 34322 ist nicht neben den\nGebührenordnungspositionen 01205, 01207, 02100 bis 02102, 34360\n34422, 34504 und 34505 berechnungsfähig.\nDie Gebührenordnungsposition 34322 ist im Behandlungsfall nicht neben\nder Gebührenordnungsposition 34291 berechnungsfähig.\n34.3.3 Thorax"
+    },
+    {
+      "code": "34330",
+      "title": "CT-Untersuchung des Thorax",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 74.66,
+        "valuation_in_points": 586
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "34330 CT-Untersuchung des Thorax\nObligater Leistungsinhalt\n- Darstellung des Mediastinums\n- Darstellung der Lungen\n- Darstellung der Pleura\nFakultativer Leistungsinhalt\n- Darstellung knöcherner Strukturen des Thorax\nDie Gebührenordnungsposition 34330 ist nicht neben den\nGebührenordnungspositionen 01205, 01207, 02100 bis 02102, 34360\n34370, 34504 und 34505 berechnungsfähig.\nDie Gebührenordnungsposition 34330 ist am Behandlungstag\nnicht neben den Gebührenordnungspositionen 01871 und 01872\nberechnungsfähig.\nDie Gebührenordnungsposition 34330 ist im Behandlungsfall nicht neben\nder Gebührenordnungsposition 34291 berechnungsfähig.\n34.3.4 Abdomen, Retroperitoneum, Becken"
+    },
+    {
+      "code": "34340",
+      "title": "CT-Untersuchung des Oberbauches",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 74.02,
+        "valuation_in_points": 581
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "34340 CT-Untersuchung des Oberbauches\nObligater Leistungsinhalt\n- Darstellung vom Zwerchfell bis einschließlich Nieren\nDie Gebührenordnungsposition 34340 ist nicht neben den\nGebührenordnungspositionen 01205, 01207, 02100 bis 02102, 34341\n34342, 34360, 34504 und 34505 berechnungsfähig.\nDie Gebührenordnungsposition 34340 ist im Behandlungsfall nicht neben\nder Gebührenordnungsposition 34291 berechnungsfähig."
+    },
+    {
+      "code": "34341",
+      "title": "CT-Untersuchung des gesamten Abdomens",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 92.24,
+        "valuation_in_points": 724
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "34341 CT-Untersuchung des gesamten Abdomens\nObligater Leistungsinhalt\n- Darstellung vom Zwerchfell bis zum Beckenboden\nDie Gebührenordnungsposition 34341 ist nicht neben den\nGebührenordnungspositionen 01205, 01207, 02100 bis 02102, 34340\n34342, 34360, 34504 und 34505 berechnungsfähig.\nDie Gebührenordnungsposition 34341 ist im Behandlungsfall nicht neben\nder Gebührenordnungsposition 34291 berechnungsfähig."
+    },
+    {
+      "code": "34342",
+      "title": "CT-Untersuchung des Beckens",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 74.02,
+        "valuation_in_points": 581
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "34342 CT-Untersuchung des Beckens\nObligater Leistungsinhalt\n- Darstellung vom Beckenkamm bis zum Beckenboden\nDie Gebührenordnungsposition 34342 ist nicht neben den\nGebührenordnungspositionen 01205, 01207, 02100 bis 02102, 34340\n34341, 34360, 34504 und 34505 berechnungsfähig.\nDie Gebührenordnungsposition 34342 ist im Behandlungsfall nicht neben\nder Gebührenordnungsposition 34291 berechnungsfähig."
+    },
+    {
+      "code": "34343",
+      "title": "Zuschlag zu den Gebührenordnungspositionen 34310, 34311, 34320 bis 34322, 34330, 34340 bis 34342, 34350 und 34351 für ergänzende zweite Serie mit Kontrastmitteln",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 54.91,
+        "valuation_in_points": 431
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "34343 Zuschlag zu den Gebührenordnungspositionen 34310, 34311, 34320\nbis 34322, 34330, 34340 bis 34342, 34350 und 34351 für ergänzende\nzweite Serie mit Kontrastmitteln\nObligater Leistungsinhalt\n- Kontrastmitteleinbringung(en)\nje Sitzung\nDie Gebührenordnungsposition 34343 ist nicht neben den\nGebührenordnungspositionen 01205, 01207, 02100 bis 02102, 34344\n34345, 34360, 34370, 34504 und 34505 berechnungsfähig.\nDie Gebührenordnungsposition 34343 ist im Behandlungsfall nicht neben\nder Gebührenordnungsposition 34291 berechnungsfähig."
+    },
+    {
+      "code": "34344",
+      "title": "Zuschlag zu den Gebührenordnungspositionen 34310, 34311, 34320 bis 34322, 34330, 34340 bis 34342, 34350 und 34351 für die Anfertigung von dynamischen Serien",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 59.37,
+        "valuation_in_points": 466
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "34344 Zuschlag zu den Gebührenordnungspositionen 34310, 34311, 34320\nbis 34322, 34330, 34340 bis 34342, 34350 und 34351 für die Anfertigung\nvon dynamischen Serien\nObligater Leistungsinhalt\n- Kontrastmitteleinbringung(en)\n- Anfertigung von mindestens 2 vollständigen Kontrastmittel-Phasen\nDie Gebührenordnungsposition 34344 ist nicht neben den\nGebührenordnungspositionen 01205, 01207, 02100 bis 02102, 34343\n34345, 34360, 34370, 34504 und 34505 berechnungsfähig.\nDie Gebührenordnungsposition 34344 ist im Behandlungsfall nicht neben\nder Gebührenordnungsposition 34291 berechnungsfähig."
+    },
+    {
+      "code": "34345",
+      "title": "Zuschlag zu den Gebührenordnungspositionen 34310 und 34311",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 27.52,
+        "valuation_in_points": 216
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "34345 Zuschlag zu den Gebührenordnungspositionen 34310 und 34311\n34320 bis 34322, 34330 und 34340 bis 34342, 34350 und 34351 bei\nprimärer Untersuchung mit Kontrastmittel\nObligater Leistungsinhalt\n- Kontrastmitteleinbringung(en)\nDie Gebührenordnungsposition 34345 ist nicht neben den\nGebührenordnungspositionen 01205, 01207, 02100 bis 02102, 34343\n34344, 34370, 34504 und 34505 berechnungsfähig.\nDie Gebührenordnungsposition 34345 ist im Behandlungsfall nicht neben\nder Gebührenordnungsposition 34291 berechnungsfähig.\n34.3.5 Extremitäten, angrenzende Gelenke"
+    },
+    {
+      "code": "34350",
+      "title": "CT-Untersuchung der Extremitäten und/oder deren Teile, mit Ausnahme der in der Gebührenordnungsposition 34351 genannten Extremitätenteile",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 63.7,
+        "valuation_in_points": 500
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "34350 CT-Untersuchung der Extremitäten und/oder deren Teile, mit\nAusnahme der in der Gebührenordnungsposition 34351 genannten\nExtremitätenteile\nObligater Leistungsinhalt\n- Darstellung\n- der Extremitäten\nund/oder\n- der Teile der Extremitäten mit Ausnahme der in der\nGebührenordnungsposition 34351 genannten\nund/oder\n- von Teilen des Schultergürtels\nund/oder\n- des Beckens\nFakultativer Leistungsinhalt\n- Anfertigung von Dünnschichten\nDie Gebührenordnungsposition 34350 ist nicht neben den\nGebührenordnungspositionen 01205, 01207, 02100 bis 02102, 34360\n34504 und 34505 berechnungsfähig.\nDie Gebührenordnungsposition 34350 ist im Behandlungsfall nicht neben\nder Gebührenordnungsposition 34291 berechnungsfähig."
+    },
+    {
+      "code": "34351",
+      "title": "CT-Untersuchung der Hand, des Fußes und/oder deren Teile",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 63.7,
+        "valuation_in_points": 500
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "34351 CT-Untersuchung der Hand, des Fußes und/oder deren Teile\nObligater Leistungsinhalt\n- Darstellung der Hand oder des Fußes\nund/oder\n- Darstellung der Teile der Hand oder des Fußes\nFakultativer Leistungsinhalt\n- Darstellung des distalen Unterarms\n- Darstellung des distalen Unterschenkels\n- Darstellung angrenzender Gelenke\n- Beidseitige Untersuchung\nDie Gebührenordnungsposition 34351 ist nicht neben den\nGebührenordnungspositionen 01205, 01207, 02100 bis 02102, 34360\n34504 und 34505 berechnungsfähig.\nDie Gebührenordnungsposition 34351 ist im Behandlungsfall nicht neben\nder Gebührenordnungsposition 34291 berechnungsfähig.\n34.3.6 Bestrahlungsplanung CT"
+    },
+    {
+      "code": "34360",
+      "title": "CT-gesteuerte Untersuchung von Organabschnitten für die Bestrahlungsplanung bei Tele- oder Brachytherapie",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 45.1,
+        "valuation_in_points": 354
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "34360 CT-gesteuerte Untersuchung von Organabschnitten für die\nBestrahlungsplanung bei Tele- oder Brachytherapie\nObligater Leistungsinhalt\n- Durchführung als Bestrahlungsplanung\nDie Gebührenordnungsposition 34360 darf nur in unmittelbarem\nZusammenhang mit und für den Zweck der Bestrahlungsplanung\nberechnet werden.\nDie Gebührenordnungsposition 34360 ist nicht neben den\nGebührenordnungspositionen 01205, 01207, 02100 bis 02102, 34310\nbis 34312, 34320 bis 34322, 34330, 34340 bis 34344, 34350 und 34351\nberechnungsfähig.\nDie Gebührenordnungsposition 34360 ist im Behandlungsfall nicht neben\nder Gebührenordnungsposition 34291 berechnungsfähig.\n34.3.7 Computertomographie-Koronarangiographie gemäß der Nr. 42 der\nAnlage I der MVV-RL\n1. Die Gebührenordnungspositionen dieses Abschnitts sind nur\nberechnungsfähig bei Vorliegen einer Indikation gemäß § 2\nder Nr. 42 der Anlage I „Anerkannte Untersuchungs- oder\nBehandlungsmethoden“ der Richtlinie Methoden vertragsärztliche\nVersorgung des Gemeinsamen Bundesausschusses (MVV-RL).\nLiegt die Vortestwahrscheinlichkeit (VTW) für das Vorliegen einer\nchronisch koronaren Herzkrankheit (KHK) zwischen 15 % und 50\n%, soll gemäß § 3 Abs. 1 der Nr. 42 der Anlage I „Anerkannte\nUntersuchungs- oder Behandlungsmethoden“ der Richtlinie Methoden\nvertragsärztliche Versorgung des Gemeinsamen Bundesausschusses\n(MVV-RL) die Abklärung durch eine Computertomographie-\nKoronarangiographie (CCTA) erfolgen.\n2. Voraussetzung für die Berechnung der Gebührenordnungsposition\n34370 ist eine Genehmigung der zuständigen Kassenärztlichen\nVereinigung gemäß der Vereinbarung zur Strahlendiagnostik und -\ntherapie nach § 135 Abs. 2 SGB V. Die Gebührenordnungsposition\n34371 ist abweichend von Nr. 2 der Präambel 34.1 ohne\nGenehmigung der zuständigen Kassenärztlichen Vereinigung gemäß\nder Vereinbarung zur Strahlendiagnostik und -therapie nach §\n135 Abs. 2 SGB V und entgegen Nr. 1 der Präambel 34.1\nberechnungsfähig."
+    },
+    {
+      "code": "34370",
+      "title": "CT-Koronarangiographie gemäß der Nr. 42 der Anlage I der MVV-RL",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 163.71,
+        "valuation_in_points": 1285
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "34370 CT-Koronarangiographie gemäß der Nr. 42 der Anlage I der MVV-RL\nObligater Leistungsinhalt\n- Native computertomographische Darstellung des Herzens mit\nBestimmung des Koronarkalks\n- CT-Koronarangiographie mit Kontrastmitteleinbringung\n- EKG-getriggerte Bildakquisition\n- Befunderstellung gemäß § 3 Abs. 4 der Nr. 42 der Anlage I der\nMVV-RL sowie gemäß der Vereinbarung zur Strahlendiagnostik und\n-therapie nach § 135 Abs. 2 SGB V\nFakultativer Leistungsinhalt\n- Pharmakologische Maßnahmen zur Annäherung an eine\nZielherzfrequenz von ≤ 60 Schlägen pro Minute während der\nUntersuchung\n- Infusion(en) (GOP 02100)\n- Nachbeobachtung\neinmal im Krankheitsfall\nDie Berechnung der Gebührenordnungsposition 34370 setzt\ndas Vorliegen einer Überweisung mit Dokumentation von\nVortestwahrscheinlichkeit (Ergebnis und Art der Ermittlung) sowie\nvon weiteren Befunden im Rahmen der Vordiagnostik z. B.\nLaborergebnisse(n) voraus.\nDie Berechnung der Gebührenordnungsposition 34370 setzt die Angabe\nder Vortestwahrscheinlichkeit voraus.\nDie Gebührenordnungsposition 34370 ist nicht neben den\nGebührenordnungspositionen 01205, 01207, 02100 bis 02102, 34330\nund 34343 bis 34345 berechnungsfähig."
+    },
+    {
+      "code": "34371",
+      "title": "Interdisziplinäre Fallkonferenz nach erfolgter CT- Koronarangiographie gemäß der Gebührenordnungsposition 34370",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 16.31,
+        "valuation_in_points": 128
+      },
+      "mandatory_services": "- Teilnahme an einer interdisziplinären Fallkonferenz zur Entscheidung zum weiteren Vorgehen bei unklaren oder komplexen Befunden nach erfolgter CT-Koronarangiographie",
+      "facultative_services": "- Teilnahme des überweisenden Arztes",
+      "billing_info": "Koronarangiographie gemäß der Gebührenordnungsposition 34370 Die Gebührenordnungsposition 34371 ist nur bei Teilnahme mindestens eines Facharztes für Radiologie und eines Facharztes für Innere Medizin und Kardiologie berechnungsfähig. Die Gebührenordnungsposition 34371 ist auch bei Durchführung der Fallkonferenz als Videofallkonferenz berechnungsfähig. Für die Abrechnung gelten die Anforderungen gemäß Anlage 31b zum BMV-Ä entsprechend. Die Gebührenordnungsposition 34371 ist nicht neben den Gebührenordnungspositionen 01670 bis 01672, 34800 und 34821 berechnungsfähig. 34.4 Magnet-Resonanz-Tomographie 1. Die MRT-Untersuchung beinhaltet die Durchführung von mindestens 4 Sequenzen. Dies gilt nicht für die Bestrahlungsplanung mittels MRT gemäß Abschnitt 34.4.6 und nicht für MRT-Angiographien des Abschnitts 34.4.7. 2. Topogramm und/oder mehrere Echos stellen keine gesonderten Sequenzen dar. 3. Die Berechnung der Gebührenordnungspositionen dieses Abschnitts setzt eine Genehmigung der Kassenärztlichen Vereinigung nach der Kernspintomographie-Vereinbarung gemäß § 135 Abs. 2 SGB V voraus. 4. MRT-Untersuchungen der Mamma außerhalb der Indikation nach der Nr. 34431, MRT-Untersuchungen der Herzkranzgefäße sowie MR-Spektroskopien sind kein Leistungsbestandteil der Gebührenordnungspositionen 34410, 34411, 34420 bis 34422, 34430, 34431, 34440 bis 34442, 34450 bis 34452 und 34460. 5. Einstellungs- und Lokalisationssequenzen sind in den Gebührenordnungspositionen enthalten. 6. MRT-Untersuchungen und MRT-Angiographien der Herzkranzgefäße können nicht mit den Gebührenordnungspositionen des Abschnitts 34.4 berechnet werden. 7. Gebührenordnungspositionen des Abschnitts 34.4.7 sind neben Gebührenordnungspositionen der Abschnitte 34.4.1 bis 34.4.6 nur mit besonderer Begründung berechnungsfähig. 8. Voraussetzung für die Berechnung der Gebührenordnungspositionen des Abschnitts 34.4.7 ist eine Genehmigung der zuständigen Kassenärztlichen Vereinigung gemäß § 135 Abs. 2 SGB V. 9. Gebührenordnungspositionen des Abschnitts 34.4.7 können nur bei Nachweis einer klinischen Fragestellung gemäß § 7 Abs. 5 und 6 der Qualitätssicherungsvereinbarung zur MR-Angiographie gemäß § 135 Abs. 2 SGB V erbracht werden. 34.4.1 Neurocranium und Wirbelsäule"
+    },
+    {
+      "code": "34410",
+      "title": "MRT-Untersuchung des Neurocraniums",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 134.16,
+        "valuation_in_points": 1053
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "34410 MRT-Untersuchung des Neurocraniums\nObligater Leistungsinhalt\n- Darstellung des Neurocraniums\nFakultativer Leistungsinhalt\n- Kontrastmitteleinbringung(en)\nDie Berechnung der Gebührenordnungsposition 34410 zur Einleitung\nund im Zusammenhang mit einer Therapie mit Lecanemab\ngemäß der jeweils aktuell gültigen Fachinformation bei Patienten\nmit nachgewiesener Amyloid-Beta-Pathologie und nach Ausschluss\neines homozygoten ApoE ε4-Trägerstatus ist durch Angabe einer\nbundeseinheitlich kodierten Zusatzkennzeichnung zu dokumentieren.\nDie Berechnung der Gebührenordnungsposition 34410 zur Einleitung\nund im Zusammenhang mit einer Therapie mit Lecanemab gemäß\nder jeweils aktuell gültigen Fachinformation setzt das Vorliegen\neiner Überweisung von Fachärzten für Neurologie, Fachärzten für\nNervenheilkunde, Fachärzten für Neurologie und Psychiatrie oder\nFachärzten für Psychiatrie und Psychotherapie voraus.\nDie Gebührenordnungsposition 34410 ist nicht neben den\nGebührenordnungspositionen 01205, 01207, 02100 bis 02102 und\n34460 berechnungsfähig.\nDie Gebührenordnungsposition 34410 ist im Behandlungsfall nicht neben\nder Gebührenordnungsposition 34291 berechnungsfähig."
+    },
+    {
+      "code": "34411",
+      "title": "MRT-Untersuchung von Teilen der Wirbelsäule",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 134.16,
+        "valuation_in_points": 1053
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "34411 MRT-Untersuchung von Teilen der Wirbelsäule\nObligater Leistungsinhalt\n- Darstellung mindestens des gesamten Wirbelsäulenabschnittes der\nHWS (HWK1 bis HWK7/BWK1)\noder\n- Darstellung des gesamten Wirbelsäulenabschnittes der BWS (BWK1\nbis LWK1)\noder\n- Darstellung des gesamten Wirbelsäulenabschnittes der LWS (LWK1\nbis SWK1)\nund/oder\n- Darstellung in 2 Ebenen\nFakultativer Leistungsinhalt\n- Darstellung des Kreuzbeines\n- Kontrastmitteleinbringung(en)\nje Wirbelsäulenabschnitt\nDie Gebührenordnungsposition 34411 ist nicht neben den\nGebührenordnungspositionen 01205, 01207, 02100 bis 02102 und\n34460 berechnungsfähig.\nDie Gebührenordnungsposition 34411 ist im Behandlungsfall nicht neben\nder Gebührenordnungsposition 34291 berechnungsfähig.\n34.4.2 Gesichtsschädel, Schädelbasis, Halsweichteile"
+    },
+    {
+      "code": "34420",
+      "title": "MRT-Untersuchung des Gesichtsschädels",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 134.16,
+        "valuation_in_points": 1053
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "34420 MRT-Untersuchung des Gesichtsschädels\nObligater Leistungsinhalt\n- Darstellung in 2 Ebenen\nFakultativer Leistungsinhalt\n- Kontrastmitteleinbringung(en)\nDie Gebührenordnungsposition 34420 ist nicht neben den\nGebührenordnungspositionen 01205, 01207, 02100 bis 02102 und\n34460 berechnungsfähig.\nDie Gebührenordnungsposition 34420 ist im Behandlungsfall nicht neben\nder Gebührenordnungsposition 34291 berechnungsfähig."
+    },
+    {
+      "code": "34421",
+      "title": "MRT-Untersuchung der Schädelbasis",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 134.16,
+        "valuation_in_points": 1053
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "34421 MRT-Untersuchung der Schädelbasis\nObligater Leistungsinhalt\n- Darstellung in 2 Ebenen\nFakultativer Leistungsinhalt\n- Kontrastmitteleinbringung(en)\nDie Gebührenordnungsposition 34421 ist nicht neben den\nGebührenordnungspositionen 01205, 01207, 02100 bis 02102 und\n34460 berechnungsfähig.\nDie Gebührenordnungsposition 34421 ist im Behandlungsfall nicht neben\nder Gebührenordnungsposition 34291 berechnungsfähig."
+    },
+    {
+      "code": "34422",
+      "title": "MRT-Untersuchung der Halsweichteile, HWK 1 bis HWK 7",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 134.16,
+        "valuation_in_points": 1053
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "34422 MRT-Untersuchung der Halsweichteile, HWK 1 bis HWK 7\nObligater Leistungsinhalt\n- Darstellung in 2 Ebenen\nFakultativer Leistungsinhalt\n- Kontrastmitteleinbringung(en)\nDie Gebührenordnungsposition 34422 ist nicht neben den\nGebührenordnungspositionen 01205, 01207, 02100 bis 02102, 34322\nund 34460 berechnungsfähig.\nDie Gebührenordnungsposition 34422 ist im Behandlungsfall nicht neben\nder Gebührenordnungsposition 34291 berechnungsfähig.\n34.4.3 Thorax"
+    },
+    {
+      "code": "34430",
+      "title": "MRT-Untersuchung des Thorax",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 134.16,
+        "valuation_in_points": 1053
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "34430 MRT-Untersuchung des Thorax\nObligater Leistungsinhalt\n- Darstellung in 2 Ebenen\n- Darstellung\n- des Mediastinums\nund/oder\n- der Lunge\nFakultativer Leistungsinhalt\n- Kontrastmitteleinbringung(en)\nDie Berechnung der Gebührenordnungsposition 34430 im\nZusammenhang mit der Durchführung der perkutanen Biopsie\nentsprechend der Gebührenordnungsposition 02344 ist durch\nAngabe einer bundeseinheitlich kodierten Zusatzkennzeichnung zu\ndokumentieren.\nDie Gebührenordnungsposition 34430 ist nicht neben den\nGebührenordnungspositionen 01205, 01207, 02100 bis 02102 und\n34460 berechnungsfähig.\nDie Gebührenordnungsposition 34430 ist im Behandlungsfall nicht neben\nder Gebührenordnungsposition 34291 berechnungsfähig."
+    },
+    {
+      "code": "34431",
+      "title": "MRT-Untersuchung(en) der weiblichen Brustdrüse gemäß der Kernspintomographie-Vereinbarung nach § 135 Abs. 2 SGB V",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 255.7,
+        "valuation_in_points": 2007
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "34431 MRT-Untersuchung(en) der weiblichen Brustdrüse gemäß der\nKernspintomographie-Vereinbarung nach § 135 Abs. 2 SGB V\nObligater Leistungsinhalt\n- MRT-Untersuchung(en) der weiblichen Brustdrüse zum\nRezidivausschluss (frühestens 6 Monate nach der Operation oder\n12 Monate nach Beendigung der Bestrahlungstherapie) eines\nhistologisch gesicherten Mamma-Karzinoms nach brusterhaltender\nTherapie, auch nach Wiederaufbauplastik, für den Fall, dass\neine vorausgegangene mammographische und sonographische\nUntersuchung die Dignität des Rezidivverdachtes nicht klären konnte\noder\n- MRT-Untersuchung(en) der weiblichen Brustdrüse zur\nPrimärtumorsuche bei axillärer(n) Lymphknotenmetastase(n)\nderen histologische Morphologie ein Mamma-Karzinom nicht\nausschließt, wenn ein Primärtumor weder klinisch noch mittels\nmammographischer und sonographischer Untersuchung dargestellt\nwerden konnte\n- Native Darstellung\n- Gabe eines paramagnetischen Kontrastmittels\n- Mindestens 4 Untersuchungssequenzen\n- Dynamische Messungen\n- Kontrastmitteleinbringung(en)\nDie Gebührenordnungsposition 34431 ist nicht neben den\nGebührenordnungspositionen 01205, 01207, 02100 bis 02102, 34452\nund 34460 berechnungsfähig.\nDie Gebührenordnungsposition 34431 ist im Behandlungsfall nicht neben\nder Gebührenordnungsposition 34291 berechnungsfähig.\n34.4.4 Abdomen, Retroperitoneum, Becken"
+    },
+    {
+      "code": "34440",
+      "title": "MRT-Untersuchung des Oberbauches",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 134.16,
+        "valuation_in_points": 1053
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "34440 MRT-Untersuchung des Oberbauches\nObligater Leistungsinhalt\n- Darstellung des Zwerchfells bis einschließlich Nieren\nFakultativer Leistungsinhalt\n- Kontrastmitteleinbringung(en)\nDie Gebührenordnungsposition 34440 ist nicht neben den\nGebührenordnungspositionen 01205, 01207, 02100 bis 02102, 34441\n34442 und 34460 berechnungsfähig.\nDie Gebührenordnungsposition 34440 ist im Behandlungsfall nicht neben\nder Gebührenordnungsposition 34291 berechnungsfähig."
+    },
+    {
+      "code": "34441",
+      "title": "MRT-Untersuchung des Abdomens",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 134.16,
+        "valuation_in_points": 1053
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "34441 MRT-Untersuchung des Abdomens\nObligater Leistungsinhalt\n- Darstellung des Zwerchfells bis zum Beckenboden\nFakultativer Leistungsinhalt\n- Kontrastmitteleinbringung(en)\nDie Berechnung der Gebührenordnungsposition 34441 im\nZusammenhang mit der Durchführung der perkutanen Biopsie\nentsprechend der Gebührenordnungsposition 02344 ist durch\nAngabe einer bundeseinheitlich kodierten Zusatzkennzeichnung zu\ndokumentieren.\nDie Gebührenordnungsposition 34441 ist nicht neben den\nGebührenordnungspositionen 01205, 01207, 02100 bis 02102, 34440\n34442 und 34460 berechnungsfähig.\nDie Gebührenordnungsposition 34441 ist im Behandlungsfall nicht neben\nder Gebührenordnungsposition 34291 berechnungsfähig."
+    },
+    {
+      "code": "34442",
+      "title": "MRT-Untersuchung des Beckens",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 134.16,
+        "valuation_in_points": 1053
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "34442 MRT-Untersuchung des Beckens\nObligater Leistungsinhalt\n- Darstellung des gesamten Beckens\nFakultativer Leistungsinhalt\n- Kontrastmitteleinbringung(en)\nDie Berechnung der Gebührenordnungsposition 34442 im\nZusammenhang mit der Durchführung der perkutanen Biopsie\nentsprechend der Gebührenordnungsposition 02344 ist durch\nAngabe einer bundeseinheitlich kodierten Zusatzkennzeichnung zu\ndokumentieren.\nDie Gebührenordnungsposition 34442 ist nicht neben den\nGebührenordnungspositionen 01205, 01207, 02100 bis 02102, 34440\n34441 und 34460 berechnungsfähig.\nDie Gebührenordnungsposition 34442 ist im Behandlungsfall nicht neben\nder Gebührenordnungsposition 34291 berechnungsfähig.\n34.4.5 Extremitäten, angrenzende Gelenke"
+    },
+    {
+      "code": "34450",
+      "title": "MRT-Untersuchung der Extremitäten und/oder deren Teile, mit Ausnahme der nach der Gebührenordnungsposition 34451 abzurechnenden Extremitätenteile",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 134.16,
+        "valuation_in_points": 1053
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "34450 MRT-Untersuchung der Extremitäten und/oder deren Teile, mit\nAusnahme der nach der Gebührenordnungsposition 34451\nabzurechnenden Extremitätenteile\nObligater Leistungsinhalt\n- Darstellung\n- der Extremitäten\nund/oder\n- der Teile der Extremitäten mit Ausnahme der nach\nGebührenordnungsposition 34451 genannten\nund/oder\n- von Teilen des Schultergürtels\nund/oder\n- des Beckens\nFakultativer Leistungsinhalt\n- Kontrastmitteleinbringung(en)\nDie Gebührenordnungsposition 34450 ist nicht neben den\nGebührenordnungspositionen 01205, 01207, 02100 bis 02102 und\n34460 berechnungsfähig.\nDie Gebührenordnungsposition 34450 ist im Behandlungsfall nicht neben\nder Gebührenordnungsposition 34291 berechnungsfähig."
+    },
+    {
+      "code": "34451",
+      "title": "MRT-Untersuchung der Hand, des Fußes und/oder deren Teile",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 134.16,
+        "valuation_in_points": 1053
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "34451 MRT-Untersuchung der Hand, des Fußes und/oder deren Teile\nObligater Leistungsinhalt\n- Darstellung der Hand oder des Fußes\nund/oder\n- Darstellung der Teile der Hand oder des Fußes\nFakultativer Leistungsinhalt\n- Darstellung des distalen Unterarms\n- Darstellung des distalen Unterschenkels\n- Darstellung angrenzende Gelenke\n- Kontrastmitteleinbringung(en)\nDie Gebührenordnungsposition 34451 ist nicht neben den\nGebührenordnungspositionen 01205, 01207, 02100 bis 02102 und\n34460 berechnungsfähig.\nDie Gebührenordnungsposition 34451 ist im Behandlungsfall nicht neben\nder Gebührenordnungsposition 34291 berechnungsfähig."
+    },
+    {
+      "code": "34452",
+      "title": "Zuschlag zu den Gebührenordnungspositionen 34410, 34411, 34420 bis 34422, 34430, 34440 bis 34442, 34450 und 34451 für mindestens 2 weitere Sequenzen nach Kontrastmitteleinbringung(en)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 48.41,
+        "valuation_in_points": 380
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "34452 Zuschlag zu den Gebührenordnungspositionen 34410, 34411, 34420\nbis 34422, 34430, 34440 bis 34442, 34450 und 34451 für mindestens 2\nweitere Sequenzen nach Kontrastmitteleinbringung(en)\nObligater Leistungsinhalt\n- Durchführung der jeweils zuschlagsberechtigten Leistung erfolgte mit\nKontrastmitteleinbringung(en)\nDie Gebührenordnungsposition 34452 ist nicht neben den\nGebührenordnungspositionen 01205, 01207, 02100 bis 02102, 34431\nund 34460 berechnungsfähig.\nDie Gebührenordnungsposition 34452 ist im Behandlungsfall nicht neben\nder Gebührenordnungsposition 34291 berechnungsfähig.\n34.4.6 Bestrahlungsplanung MRT"
+    },
+    {
+      "code": "34460",
+      "title": "MRT-gesteuerte Untersuchung von Organabschnitten für die Bestrahlungsplanung bei Tele- oder Brachytherapie",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 86.25,
+        "valuation_in_points": 677
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "34460 MRT-gesteuerte Untersuchung von Organabschnitten für die\nBestrahlungsplanung bei Tele- oder Brachytherapie\nObligater Leistungsinhalt\n- Durchführung als Bestrahlungsplanung\nFakultativer Leistungsinhalt\n- Kontrastmitteleinbringung(en)\nDie Gebührenordnungsposition 34460 darf nur in unmittelbarem\nZusammenhang mit und für den Zweck der Bestrahlungsplanung\nberechnet werden.\nDie Gebührenordnungsposition 34460 ist nicht neben den\nGebührenordnungspositionen 01205, 01207 und 02100 bis 02102 und\nnicht neben den Gebührenordnungspositionen der Abschnitte 34.4.1\n34.4.2, 34.4.3, 34.4.4 und 34.4.5 berechnungsfähig.\nDie Gebührenordnungsposition 34460 ist im Behandlungsfall nicht neben\nder Gebührenordnungsposition 34291 berechnungsfähig.\n34.4.7 MRT-Angiographien"
+    },
+    {
+      "code": "34470",
+      "title": "MRT-Angiographie der Hirngefäße gemäß den Qualitätssicherungsvereinbarungen nach § 135 Abs. 2 SGB V",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 88.16,
+        "valuation_in_points": 692
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "34470 MRT-Angiographie der Hirngefäße gemäß den\nQualitätssicherungsvereinbarungen nach § 135 Abs. 2 SGB V\nObligater Leistungsinhalt\n- Darstellung der Hirngefäße\nFakultativer Leistungsinhalt\n- Kontrastmitteleinbringung(en)\n- Darstellung der venösen Phase\nEine Nebeneinanderberechnung von zwei oder mehr\nGebührenordnungspositionen 34470, 34475, 34480, 34485, 34486\n34489 und 34490 in derselben Sitzung ist nur mit Begründung möglich.\nNeben der Gebührenordnungsposition 34470 können die\nGebührenordnungspositionen 34410, 34411, 34420 bis 34422, 34430\n34431, 34440 bis 34442, 34450 bis 34452 und 34460 und 34492 nur mit\nBegründung berechnet werden.\nDie Gebührenordnungsposition 34470 ist nicht neben den\nGebührenordnungspositionen 01205, 01207, 02100 bis 02102 und\n34283 berechnungsfähig.\nDie Gebührenordnungsposition 34470 ist im Behandlungsfall nicht neben\nder Gebührenordnungsposition 34291 berechnungsfähig."
+    },
+    {
+      "code": "34475",
+      "title": "MRT-Angiographie der Halsgefäße gemäß den Qualitätssicherungsvereinbarungen nach § 135 Abs. 2 SGB V",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 117.08,
+        "valuation_in_points": 919
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "34475 MRT-Angiographie der Halsgefäße gemäß den\nQualitätssicherungsvereinbarungen nach § 135 Abs. 2 SGB V\nObligater Leistungsinhalt\n- Darstellung der Halsgefäße\nFakultativer Leistungsinhalt\n- Kontrastmitteleinbringung(en)\n- Darstellung der venösen Phase\nEine Nebeneinanderberechnung von zwei oder mehr\nGebührenordnungspositionen 34470, 34475, 34480, 34485, 34486\n34489 und 34490 in derselben Sitzung ist nur mit Begründung möglich.\nNeben der Gebührenordnungsposition nach der Nr. 34475 können\ndie Gebührenordnungspositionen 34410, 34411, 34420 bis 34422\n34430, 34431, 34440 bis 34442, 34450 bis 34452 und 34460 nur mit\nBegründung berechnet werden.\nDie Gebührenordnungsposition 34475 ist nicht neben den\nGebührenordnungspositionen 01205, 01207, 02100 bis 02102 und\n34283 berechnungsfähig.\nDie Gebührenordnungsposition 34475 ist im Behandlungsfall nicht neben\nder Gebührenordnungsposition 34291 berechnungsfähig."
+    },
+    {
+      "code": "34480",
+      "title": "MRT-Angiographie der thorakalen Aorta und ihrer Abgänge und/oder ihrer Äste (Truncus brachiocephalicus, A. subclavia, A. carotis communis, A. vertebralis) gemäß den Qualitätssicherungsvereinbarungen nach § 135 Abs. 2 SGB V",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 117.08,
+        "valuation_in_points": 919
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "34480 MRT-Angiographie der thorakalen Aorta und ihrer Abgänge\nund/oder ihrer Äste (Truncus brachiocephalicus, A.\nsubclavia, A. carotis communis, A. vertebralis) gemäß den\nQualitätssicherungsvereinbarungen nach § 135 Abs. 2 SGB V\nObligater Leistungsinhalt\n- Darstellung der thorakalen Aorta\nFakultativer Leistungsinhalt\n- Kontrastmitteleinbringung(en)\nEine Nebeneinanderberechnung von zwei oder mehr\nGebührenordnungspositionen 34470, 34475, 34480, 34485, 34486\n34489 und 34490 in derselben Sitzung ist nur mit Begründung möglich.\nNeben der Gebührenordnungsposition 34480 können die\nGebührenordnungspositionen 34410, 34411, 34420 bis 34422, 34430\n34431, 34440 bis 34442, 34450 bis 34452 und 34460 nur mit\nBegründung berechnet werden.\nDie Gebührenordnungsposition 34480 ist nicht neben den\nGebührenordnungspositionen 01205, 01207, 02100 bis 02102 und\n34283 berechnungsfähig.\nDie Gebührenordnungsposition 34480 ist im Behandlungsfall nicht neben\nder Gebührenordnungsposition 34291 berechnungsfähig."
+    },
+    {
+      "code": "34485",
+      "title": "MRT-Angiographie der abdominalen Aorta und ihrer Äste 1. Ordnung gemäß den Qualitätssicherungsvereinbarungen nach § 135 Abs. 2 SGB V",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 117.08,
+        "valuation_in_points": 919
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "34485 MRT-Angiographie der abdominalen Aorta und ihrer Äste 1.\nOrdnung gemäß den Qualitätssicherungsvereinbarungen nach § 135\nAbs. 2 SGB V\nObligater Leistungsinhalt\n- Darstellung der abdominalen Aorta\nFakultativer Leistungsinhalt\n- Kontrastmitteleinbringung(en)\nEine Nebeneinanderberechnung von zwei oder mehr\nGebührenordnungspositionen 34470, 34475, 34480, 34485, 34486\n34489 und 34490 in derselben Sitzung ist nur mit Begründung möglich.\nNeben der Gebührenordnungsposition 34485 können die\nGebührenordnungspositionen 34410, 34411, 34420 bis 34422, 34430\n34431, 34440 bis 34442, 34450 bis 34452 und 34460 nur mit\nBegründung berechnet werden.\nDie Gebührenordnungsposition 34485 ist nicht neben den\nGebührenordnungspositionen 01205, 01207, 02100 bis 02102 und\n34283 berechnungsfähig.\nDie Gebührenordnungsposition 34485 ist im Behandlungsfall nicht neben\nder Gebührenordnungsposition 34291 berechnungsfähig."
+    },
+    {
+      "code": "34486",
+      "title": "MRT-Angiographie von Venen gemäß den Qualitätssicherungsvereinbarungen nach § 135 Abs. 2 SGB V",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 117.08,
+        "valuation_in_points": 919
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "34486 MRT-Angiographie von Venen gemäß den\nQualitätssicherungsvereinbarungen nach § 135 Abs. 2 SGB V\nObligater Leistungsinhalt\n- Darstellung der Venen von:\n- Kopf/Hals\nund/oder\n- des Thorax einschließlich der venae subclaviae\nund/oder\n- des Abdomens\nund/oder\n- des Beckens\nFakultativer Leistungsinhalt\n- Kontrastmitteleinbringung(en)\nEine Nebeneinanderberechnung von zwei oder mehr\nGebührenordnungspositionen 34470, 34475, 34480, 34485, 34486\n34489 und 34490 in derselben Sitzung ist nur mit Begründung möglich.\nNeben der Gebührenordnungsposition 34486 können die\nGebührenordnungspositionen 34410, 34411, 34420 bis 34422, 34430\n34431, 34440 bis 34442, 34450 bis 34452 und 34460 nur mit\nBegründung berechnet werden.\nDie Gebührenordnungsposition 34486 ist nicht neben den\nGebührenordnungspositionen 01205, 01207, 02100 bis 02102 und\n34283 berechnungsfähig.\nDie Gebührenordnungsposition 34486 ist im Behandlungsfall nicht neben\nder Gebührenordnungsposition 34291 berechnungsfähig."
+    },
+    {
+      "code": "34489",
+      "title": "MRT-Angiographie der Becken- und Beinarterien (ohne Fußgefäße) gemäß den Qualitätssicherungsvereinbarungen nach § 135 Abs. 2 SGB V",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 234.68,
+        "valuation_in_points": 1842
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "34489 MRT-Angiographie der Becken- und Beinarterien (ohne Fußgefäße)\ngemäß den Qualitätssicherungsvereinbarungen nach § 135 Abs. 2 SGB\nV\nObligater Leistungsinhalt\n- Darstellung der Becken- und Beinarterien (ohne Fußgefäße)\nFakultativer Leistungsinhalt\n- Kontrastmitteleinbringung(en)\nEine Nebeneinanderberechnung von zwei oder mehr\nGebührenordnungspositionen 34470, 34475, 34480, 34485, 34486\n34489 und 34490 in derselben Sitzung ist nur mit Begründung möglich.\nNeben der Gebührenordnungsposition 34489 können die\nGebührenordnungspositionen 34410, 34411, 34420 bis 34422, 34430\n34431, 34440 bis 34442, 34450 bis 34452 und 34460 nur mit\nBegründung berechnet werden.\nDie Gebührenordnungsposition 34489 ist nicht neben den\nGebührenordnungspositionen 01205, 01207, 02100 bis 02102 und\n34283 berechnungsfähig.\nDie Gebührenordnungsposition 34489 ist im Behandlungsfall nicht neben\nder Gebührenordnungsposition 34291 berechnungsfähig."
+    },
+    {
+      "code": "34490",
+      "title": "MRT-Angiographie der Armarterien und armversorgenden Arterien und einschließlich/oder Cimino-Shunt (ohne Handgefäße) gemäß den Qualitätssicherungsvereinbarungen nach § 135 Abs. 2 SGB V",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 117.08,
+        "valuation_in_points": 919
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "34490 MRT-Angiographie der Armarterien und armversorgenden Arterien\nund einschließlich/oder Cimino-Shunt (ohne Handgefäße) gemäß\nden Qualitätssicherungsvereinbarungen nach § 135 Abs. 2 SGB V\nObligater Leistungsinhalt\n- Darstellung der Arterien einer oberen Extremität und/oder Cimino-\nShunt\nFakultativer Leistungsinhalt\n- Kontrastmitteleinbringung(en)\nEine Nebeneinanderberechnung von zwei oder mehr\nGebührenordnungspositionen 34470, 34475, 34480, 34485, 34486\n34489 und 34490 in derselben Sitzung ist nur mit Begründung möglich.\nNeben der Gebührenordnungsposition 34490 können die\nGebührenordnungspositionen 34410, 34411, 34420 bis 34422, 34430\n34431, 34440 bis 34442, 34450 bis 34452 und 34460 und 34492 nur mit\nBegründung berechnet werden.\nDie Gebührenordnungsposition 34490 ist nicht neben den\nGebührenordnungspositionen 01205, 01207, 02100 bis 02102 und\n34283 berechnungsfähig.\nDie Gebührenordnungsposition 34490 ist im Behandlungsfall nicht neben\nder Gebührenordnungsposition 34291 berechnungsfähig."
+    },
+    {
+      "code": "34492",
+      "title": "Zuschlag zu der Gebührenordnungsposition 34470 für weitere Sequenzen nach Kontrastmitteleinbringung(en)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 53.0,
+        "valuation_in_points": 416
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "34492 Zuschlag zu der Gebührenordnungsposition 34470 für weitere\nSequenzen nach Kontrastmitteleinbringung(en)\nDie Gebührenordnungsposition 34492 kann nur mit Begründung\nberechnet werden.\nDie Gebührenordnungsposition 34492 ist nicht neben den\nGebührenordnungspositionen 01205, 01207, 02100 bis 02102 und\n34283 berechnungsfähig.\nDie Gebührenordnungsposition 34492 ist im Behandlungsfall nicht neben\nder Gebührenordnungsposition 34291 berechnungsfähig.\n34.5 Nicht vaskuläre interventionelle Maßnahmen\n1. Die Leistung nach der Gebührenordnungsposition 34504 ist\nnur berechnungsfähig, wenn sie von Ärzten erbracht wird\nwelche die Voraussetzungen gemäß Qualitätssicherungsvereinbarung\nzur schmerztherapeutischen Versorgung chronisch schmerzkranker\nPatienten nach § 135 Abs. 2 SGB V erfüllen, oder die Behandlung\nauf Überweisung eines Arztes erfolgt, der die Voraussetzungen\ngemäß Qualitätssicherungsvereinbarung zur schmerztherapeutischen\nVersorgung chronisch schmerzkranker Patienten nach § 135 Abs. 2\nSGB V erfüllt oder die Zusatzweiterbildung Schmerztherapie gemäß\nder Weiterbildungsordnung besitzt.\n2. Eine Überweisung nach Satz 1 kann nur für Patienten mit einer\ngesicherten Diagnose (Zusatzkennzeichen \"G\" nach ICD-10-GM)\nerfolgen.\n3. Die Leistung nach der Gebührenordnungsposition 34504 darf\nnicht solitär erbracht werden, sondern ausschließlich im\nRahmen eines multimodalen Schmerztherapiekonzeptes. Bei\nfunktionellen Störungen und chronischen Schmerzsyndromen mit\nüberwiegend funktionellem Störungsanteil ist die Leistung nach der\nGebührenordnungsposition 34504 nicht berechnungsfähig.\n4. Die Gebührenordnungspositionen dieses Abschnitts sind nicht\nfür Interventionen in bzw. an (einer) Bandscheibe(n)\n(z. B. Volumenreduktion durch Chemonukleolyse und/oder\nCoblation) berechnungsfähig. Diese Eingriffe sind über die\nGebührenordnungspositionen der Abschnitte 31.2 bzw. 36.2 zu\nberechnen."
+    },
+    {
+      "code": "34500",
+      "title": "Durchleuchtungsgestützte Intervention bei PTC",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 85.62,
+        "valuation_in_points": 672
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "34500 Durchleuchtungsgestützte Intervention bei PTC\nObligater Leistungsinhalt\n- Durchleuchtungsgestützte Intervention gemäß der Vereinbarung zur\nStrahlendiagnostik und -therapie gemäß § 135 Abs. 2 SGB V\neinmal im Behandlungsfall\nDie Gebührenordnungsposition 34500 ist nicht neben den\nGebührenordnungspositionen 01205, 01207, 02100 bis 02102, 02300\nbis 02302, 02340, 02341, 02344, 34280 und 34281 berechnungsfähig."
+    },
+    {
+      "code": "34501",
+      "title": "Durchleuchtungsgestützte Intervention bei Anlage eines Ösophagus-Stent",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 114.03,
+        "valuation_in_points": 895
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "34501 Durchleuchtungsgestützte Intervention bei Anlage eines\nÖsophagus-Stent\nObligater Leistungsinhalt\n- Durchleuchtungsgestützte Intervention gemäß der Vereinbarung zur\nStrahlendiagnostik und -therapie gemäß § 135 Abs. 2 SGB V\neinmal im Behandlungsfall\nDie Gebührenordnungsposition 34501 ist nicht neben den\nGebührenordnungspositionen 01205, 01207, 02100 bis 02102, 02300\nbis 02302, 02340, 02341 und 02344 berechnungsfähig."
+    },
+    {
+      "code": "34503",
+      "title": "Bildwandlergestützte Intervention(en) an der Wirbelsäule",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 84.98,
+        "valuation_in_points": 667
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "34503 Bildwandlergestützte Intervention(en) an der Wirbelsäule\nObligater Leistungsinhalt\n- Bildwandlergestützte Intervention in bzw. an Nerven, Ganglien\nGelenkkörper(n) und/oder Gelenkfacette(n) der Wirbelsäule\n- Überwachung über mindestens 30 Minuten\n- Dokumentation\nFakultativer Leistungsinhalt\n- Kontrolle mittels Bildwandler\n- Infusion(en) (Nr. 02100)\n- Punktion(en) I (Nr. 02340)\n- Punktion(en) II (Nr. 02341)\neinmal am Behandlungstag\nDie Gebührenordnungsposition 34503 ist nicht neben den\nGebührenordnungspositionen 01205, 01207, 01510 bis 01512, 01520\nbis 01522, 01530, 01531, 01540 bis 01545, 02100 bis 02102, 02300\nbis 02302, 02340 bis 02345, 02360, 30710, 30712, 30720 bis 30724\n30730, 30731, 30740, 30751, 30760, 31540, 34504 und 34505 und\nnicht neben den Gebührenordnungspositionen des Abschnitts 34.2\nberechnungsfähig."
+    },
+    {
+      "code": "34504",
+      "title": "CT-gesteuerte schmerztherapeutische Intervention(en) bei akutem und/oder chronischem Schmerz nach vorausgegangener interdisziplinärer Diagnostik",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 123.33,
+        "valuation_in_points": 968
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "34504 CT-gesteuerte schmerztherapeutische Intervention(en) bei\nakutem und/oder chronischem Schmerz nach vorausgegangener\ninterdisziplinärer Diagnostik\nObligater Leistungsinhalt\n- CT-gesteuerte Intervention bei Punktionen und/oder\npharmakotherapeutischen Applikationen\n- Intervention in bzw. an Nerven, Ganglien, Malignomen\nGelenkkörper(n) und/oder Gelenkfacette(n)\n- Überwachung über mindestens 30 Minuten\n- Dokumentation\nFakultativer Leistungsinhalt\n- Kontrolle mittel CT-Untersuchung\n- Infusion(en) (Nr. 02100)\n- Intraarterielle Injektion(en) (Nr. 02331)\n- Punktion(en) I (Nr. 02340)\n- Punktion(en) II (Nr. 02341)\neinmal am Behandlungstag\nDie Gebührenordnungsposition 34504 ist nicht neben den\nGebührenordnungspositionen 01205, 01207, 01510 bis 01512, 01520\nbis 01522, 01530, 01531, 01540 bis 01545, 02100 bis 02102, 02300 bis\n02302, 02331, 02340 bis 02344, 30710, 30712, 30720 bis 30724, 30730\n30731, 30740, 30751, 30760, 31540, 34503 und 34505 und nicht neben\nden Gebührenordnungspositionen der Abschnitte 34.3.1, 34.3.2, 34.3.3\n34.3.4 und 34.3.5 berechnungsfähig."
+    },
+    {
+      "code": "34505",
+      "title": "CT-gesteuerte Intervention(en)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 123.33,
+        "valuation_in_points": 968
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "34505 CT-gesteuerte Intervention(en)\nObligater Leistungsinhalt\n- CT-gesteuerte Intervention bei Punktionen und/oder\npharmakotherapeutischen Applikationen\n- Intervention in bzw. an Nerven, Ganglien, Malignomen\nGelenkkörper(n) und /oder Gelenkfacette(n)\n- Überwachung über mindestens 30 Minuten\n- Dokumentation\nFakultativer Leistungsinhalt\n- Kontrolle mittel CT-Untersuchung\n- Infusion(en) (Nr. 02100)\n- Intraarterielle Injektion(en) (Nr. 02331)\n- Punktion(en) I (Nr. 02340)\n- Punktion(en) II (Nr. 02341)\neinmal am Behandlungstag\nDie Gebührenordnungsposition 34505 ist nur berechnungsfähig\nbei Diagnostik/Behandlung einer der im Folgenden genannten\nErkrankungen nach den ICD-10-GM Kodes: Neubildungen C00-D48\nsowie Krankheiten des Blutes und der blutbildenden Organe sowie\nbestimmte Störungen mit Beteiligung des Immunsystems D50-D90.\nDie Berechnung der Gebührenordnungsposition 34505 bei anderen als\nden genannten Erkrankungen setzt eine ausführliche Begründung der\nmedizinischen Notwendigkeit im Einzelfall voraus. Die Begründung ist\neinschließlich des ICD-10-GM Kodes für die betreffende Erkrankung bei\nder Abrechnung anzugeben.\nDie Gebührenordnungsposition 34505 ist nicht neben den\nGebührenordnungspositionen 01205, 01207, 01510 bis 01512, 01520\nbis 01522, 01530, 01531, 01540 bis 01545, 02100 bis 02102, 02300 bis\n02302, 02340 bis 02345, 02360, 30710, 30712, 30720 bis 30724, 30730\n30731, 30740, 30751, 30760, 31540, 34503 und 34504 und nicht neben\nden Gebührenordnungspositionen der Abschnitte 34.3.1, 34.3.2, 34.3.3\n34.3.4 und 34.3.5 berechnungsfähig.\n34.6 Osteodensitometrie"
+    },
+    {
+      "code": "34600",
+      "title": "Osteodensitometrische Untersuchung I",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 34.14,
+        "valuation_in_points": 268
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "34600 Osteodensitometrische Untersuchung I\nObligater Leistungsinhalt\n- Osteodensitometrische Untersuchung(en) nach den Richtlinien\ndes Gemeinsamen Bundesausschusses (Nr. 7 in der Anlage\nI \"Anerkannte Untersuchungs- oder Behandlungsmethoden\" der\nRichtlinie Methoden vertragsärztliche Versorgung, mittels einer\nzentralen DXA [Dual-Energy X-ray Absorptiometrie]) bei Patienten\ndie eine Fraktur ohne nachweisbares adäquates Trauma erlitten\nhaben und bei denen gleichzeitig aufgrund anderer anamnestischer\nund klinischer Befunde ein begründeter Verdacht auf Osteoporose\nbesteht\n- am Schenkelhals\nund/oder\n- an der LWS\nDie Gebührenordnungsposition 34600 ist nicht neben den\nGebührenordnungspositionen 01205, 01207, 02100 bis 02102 und\n34601 berechnungsfähig."
+    },
+    {
+      "code": "34601",
+      "title": "Osteodensitometrische Untersuchung II",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 34.14,
+        "valuation_in_points": 268
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "34601 Osteodensitometrische Untersuchung II\nObligater Leistungsinhalt\n- Osteodensitometrische Untersuchung(en) nach den Richtlinien\ndes Gemeinsamen Bundesausschusses (Nr. 7 in der Anlage\nI \"Anerkannte Untersuchungs- oder Behandlungsmethoden\" der\nRichtlinie Methoden vertragsärztliche Versorgung, mittels einer\nzentralen DXA [Dual-Energy X-ray Absorptiometrie]) zum Zweck der\nOptimierung der Therapieentscheidung, wenn aufgrund konkreter\nanamnestischer und klinischer Befunde eine Absicht für eine\nspezifische medikamentöse Therapie einer Osteoporose besteht\n- am Schenkelhals\nund/oder\n- an der LWS\nDie Gebührenordnungsposition 34601 ist nicht neben den\nGebührenordnungspositionen 01205, 01207, 02100 bis 02102 und\n34600 berechnungsfähig.\n34.7 Diagnostische Positronenemissionstomographie (PET)\nDiagnostische Positronenemissionstomographie mit\nComputertomographie (PET/CT)\n1. Die Gebührenordnungspositionen dieses Abschnitts können\nausschließlich von Fachärzten für Nuklearmedizin und\nFachärzten für Radiologie abgerechnet werden, die über eine\nGenehmigung der Kassenärztlichen Vereinigung gemäß der\nQualitätssicherungsvereinbarung PET, PET/CT gemäß § 135 Abs. 2\nSGB V verfügen.\n2. Haben an der Erbringung einer Leistung entsprechend einer\nGebührenordnungsposition des Abschnittes 34.7 mehrere Ärzte\nmitgewirkt, so hat der die Gebührenordnungsposition des Abschnittes\n34.7 abrechnende Arzt in seiner Quartalsabrechnung zu bestätigen\ndass er mit den anderen Ärzten eine Vereinbarung darüber getroffen\nhat, wonach nur er allein in den jeweiligen Fällen diese Leistung\nabrechnet.\n3. Die Gebührenordnungspositionen dieses Abschnitts sind abweichend\nvon Nr. 1 und Nr. 2 der Präambel 34.1 nur dann\nberechnungsfähig, wenn ihre Durchführung gemäß Nr. 14 der Anlage\nI \"Anerkannte Untersuchungs- oder Behandlungsmethoden\" der\nRichtlinie Methoden vertragsärztliche Versorgung des Gemeinsamen\nBundesausschusses (gilt nur für die Gebührenordnungspositionen\n34700 bis 34707), nach Maßgabe der Strahlenschutzverordnung, der\nRichtlinie zur Strahlenschutzverordnung, des Strahlenschutzgesetzes\ndes Medizinprodukterecht-Durchführungsgesetzes i. V. m. der\neuropäischen Medizinprodukteverordnung und der Medizinprodukte-\nBetreiberverordnung erfolgt.\n4. Die Gebührenordnungspositionen 34700 bis 34707 sind nur\nberechnungsfähig bei Vorliegen mindestens einer der in §\n1 Nr. 14 der Anlage I \"Anerkannte Untersuchungs- oder\nBehandlungsmethoden\" der Richtlinie Methoden vertragsärztliche\nVersorgung des Gemeinsamen Bundesausschusses genannten\nIndikationen.\n5. Kontrastmitteleinbringungen sind Bestandteil der\nGebührenordnungspositionen.\n6. Die Gebührenordnungspositionen 34720 und 34721 sind\nausschließlich für zwingend erforderliche Untersuchungen zur\nIndikationsstellung für eine nach der jeweils gültigen Fachinformation\nfür diese Indikation zugelassene nuklearmedizinische Therapie mit\n(177Lu)Lutetiumvipivotidtetraxetan berechnungsfähig.\nF-18-Fluorodesoxyglukose-Positronenemissionstomographie\n(PET) des Körperstammes mit technischer Bildfusion einer\ndiagnostischen Computertomographie (CT)\nObligater Leistungsinhalt\n- Untersuchung von Schädelbasis bis proximaler Oberschenkel\n- Schwächungskorrektur\n- Quantitative Auswertung der Daten mittels Standardized-Uptake-\nValue (SUV)\n- Rotierende MIP-Projektion der Daten\n- Befundung und interdisziplinäre Befundbesprechung\nFakultativer Leistungsinhalt\n- Niedrigdosis-Computertomographie\n- Untersuchung in weiteren Bettpositionen\n- Ergänzende Spätuntersuchungen\neinmal im Behandlungsfall"
+    }
+  ]
+}

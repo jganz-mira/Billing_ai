@@ -1,0 +1,748 @@
+{
+  "gops": [
+    {
+      "code": "40546",
+      "title": "Kostenpauschale für die Sachkosten im Zusammenhang mit der Durchführung der Leistung entsprechend der Gebührenordnungsposition 17372 bei Verwendung von J-131-MIBG",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 1784.0,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "mit der Durchführung der Leistung entsprechend der Gebührenordnungsposition 17372 bei Verwendung von J-131-MIBG Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "40548",
+      "title": "Kostenpauschale für die Sachkosten im Zusammenhang mit der Durchführung der Leistung entsprechend der Gebührenordnungsposition 17350 bei Verwendung von In-111-Oxinat (Zellmarkierung)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 140.0,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "mit der Durchführung der Leistung entsprechend der Gebührenordnungsposition 17350 bei Verwendung von In-111-Oxinat (Zellmarkierung) Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "40550",
+      "title": "Kostenpauschale für die Sachkosten im Zusammenhang mit der Durchführung der Leistungen entsprechend der Gebührenordnungspositionen 17310 oder 17311 bei Verwendung von In-111-Octreotid (Somatostatinrezeptor-Diagnostik)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 766.0,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "mit der Durchführung der Leistungen entsprechend der Gebührenordnungspositionen 17310 oder 17311 bei Verwendung von In-111-Octreotid (Somatostatinrezeptor-Diagnostik) Die Gebührenordnungsposition 40550 ist im Behandlungsfall nicht neben der Gebührenordnungsposition 40551 berechnungsfähig. Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "40551",
+      "title": "Kostenpauschale für die Sachkosten im Zusammenhang mit der Durchführung der Leistungen entsprechend der Gebührenordnungspositionen 17310 oder 17311 bei Verwendung von Tc-99m-Tektrotyd (Somatostatinrezeptor-Diagnostik)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 860.41,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "mit der Durchführung der Leistungen entsprechend der Gebührenordnungspositionen 17310 oder 17311 bei Verwendung von Tc-99m-Tektrotyd (Somatostatinrezeptor-Diagnostik) Die Gebührenordnungsposition 40551 ist im Behandlungsfall nicht neben der Gebührenordnungsposition 40550 berechnungsfähig. Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "40552",
+      "title": "Kostenpauschale für die Sachkosten im Zusammenhang mit der Durchführung der Leistung entsprechend der Gebührenordnungspositionen 17310 oder 17311 bei Verwendung von In-111-DTPA",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 304.7,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "mit der Durchführung der Leistung entsprechend der Gebührenordnungspositionen 17310 oder 17311 bei Verwendung von In-111-DTPA Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "40554",
+      "title": "Kostenpauschale für die Sachkosten im Zusammenhang mit der Durchführung der Leistung entsprechend der Gebührenordnungsposition 17351 bei Verwendung von Se-75-SeHCAT (Gallensäuren)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 474.75,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "mit der Durchführung der Leistung entsprechend der Gebührenordnungsposition 17351 bei Verwendung von Se-75-SeHCAT (Gallensäuren) Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "40556",
+      "title": "Kostenpauschale für die Sachkosten im Zusammenhang mit der Durchführung der Leistung entsprechend der Gebührenordnungspositionen 17371 oder 17373 bei Verwendung von Y-90-Colloid (Radiosynoviorthese)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 130.0,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "mit der Durchführung der Leistung entsprechend der Gebührenordnungspositionen 17371 oder 17373 bei Verwendung von Y-90-Colloid (Radiosynoviorthese) Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "40558",
+      "title": "Kostenpauschale für die Sachkosten im Zusammenhang mit der Durchführung der Leistung entsprechend der Gebührenordnungspositionen 17371 oder 17373 bei Verwendung von Re-186-Colloid (Radiosynoviorthese)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 163.0,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "mit der Durchführung der Leistung entsprechend der Gebührenordnungspositionen 17371 oder 17373 bei Verwendung von Re-186-Colloid (Radiosynoviorthese) Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "40560",
+      "title": "Kostenpauschale für die Sachkosten im Zusammenhang mit der Durchführung der Leistung entsprechend der Gebührenordnungsposition 17371 bei Verwendung von Er-169-Colloid (Radiosynoviorthese)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 124.0,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "mit der Durchführung der Leistung entsprechend der Gebührenordnungsposition 17371 bei Verwendung von Er-169-Colloid (Radiosynoviorthese) Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "40562",
+      "title": "Kostenpauschale für die Sachkosten im Zusammenhang mit der Erbringung der Leistung entsprechend der Gebührenordnungsposition 17372 zur Therapie von Knochenmetastasen mit Radioisotopen",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 1355.0,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Erbringung der Leistung entsprechend der Gebührenordnungsposition 17372 zur Therapie von Knochenmetastasen mit Radioisotopen Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "40568",
+      "title": "Kostenpauschale für die Sachkosten im Zusammenhang mit der Durchführung der Leistung entsprechend der Gebührenordnungsposition 17340 bei Verwendung von J-123-Hippuran (Niere)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 143.0,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "mit der Durchführung der Leistung entsprechend der Gebührenordnungsposition 17340 bei Verwendung von J-123-Hippuran (Niere) Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "40576",
+      "title": "Kostenpauschale für die Sachkosten im Zusammenhang mit der Durchführung der Leistung entsprechend der Gebührenordnungsposition 17310 bei Verwendung von radioaktiv markierten Gasen (Lunge)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 350.0,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "mit der Durchführung der Leistung entsprechend der Gebührenordnungsposition 17310 bei Verwendung von radioaktiv markierten Gasen (Lunge) Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "40580",
+      "title": "Kostenpauschale für die Sachkosten im Zusammenhang mit der Durchführung der Leistung entsprechend der Gebührenordnungspositionen 25331, 25332 oder 25333 bei Verwendung von Ir-192",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 320.0,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "mit der Durchführung der Leistung entsprechend der Gebührenordnungspositionen 25331, 25332 oder 25333 bei Verwendung von Ir-192 Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "40582",
+      "title": "Kostenpauschale für die Sachkosten, die im Rahmen des Umgangs, der Beschaffung und Lagerung sowie der Materialverwaltung, der Abfallbeseitigung und Entsorgung gemäß Strahlenschutzverordnung (StrlSchV) sowie dem Gesetz über den Verkehr mit Arzneimitteln (AMG) im Zusammenhang mit der Erbringung der Leistung entsprechend der Gebührenordnungsposition 17372 bei Verwendung von Radium-223- dichlorid entstehen",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 65.0,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "der Beschaffung und Lagerung sowie der Materialverwaltung, der Abfallbeseitigung und Entsorgung gemäß Strahlenschutzverordnung (StrlSchV) sowie dem Gesetz über den Verkehr mit Arzneimitteln (AMG) im Zusammenhang mit der Erbringung der Leistung entsprechend der Gebührenordnungsposition 17372 bei Verwendung von Radium-223- dichlorid entstehen, je Injektion In der Kostenpauschale 40582 sind die Kosten für Radium-223-dichlorid nicht enthalten. Die Verordnung und Abrechnung von Radium-223-dichlorid erfolgt über das Arzneiverordnungsblatt (Muster 16). Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "40584",
+      "title": "Kostenpauschale für die Sachkosten im Zusammenhang mit der Durchführung der Leistungen entsprechend der Gebührenordnungspositionen 34700 bis 34707 bei Verwendung von F-18-Fluorodesoxyglukose In der Kostenpauschale 40584 sind alle Kosten, einschließlich der Transportkosten, enthalten.",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 255.0,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "mit der Durchführung der Leistungen entsprechend der Gebührenordnungspositionen 34700 bis 34707 bei Verwendung von F-18-Fluorodesoxyglukose In der Kostenpauschale 40584 sind alle Kosten, einschließlich der Transportkosten, enthalten. Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "40585",
+      "title": "Kostenpauschale für die Sachkosten im Zusammenhang mit der Durchführung der Leistungen entsprechend der Gebührenordnungspositionen 34720 und 34721 bei Verwendung eines Ga-68-PSMA-Liganden In der Kostenpauschale 40585 sind alle Kosten, einschließlich der Transportkosten, enthalten. 40.11 Leistungsbezogene Kostenpauschalen für ophthalmologische Eingriffe und Untersuchungen und gynäkologische Eingriffe",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 1100.0,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "mit der Durchführung der Leistungen entsprechend der Gebührenordnungspositionen 34720 und 34721 bei Verwendung eines Ga-68-PSMA-Liganden In der Kostenpauschale 40585 sind alle Kosten, einschließlich der Transportkosten, enthalten. 40.11 Leistungsbezogene Kostenpauschalen für ophthalmologische Eingriffe und Untersuchungen und gynäkologische Eingriffe Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "40680",
+      "title": "Kostenpauschale für die Sachkosten im Zusammenhang mit der Erbringung einer Leistung entsprechend der Gebührenordnungsposition 31362",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 513.0,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Erbringung einer Leistung entsprechend der Gebührenordnungsposition 31362 Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "40681",
+      "title": "Kostenpauschale für Riboflavin im Zusammenhang mit der Erbringung einer Leistung entsprechend der Gebührenordnungsposition 31364",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 117.81,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "der Erbringung einer Leistung entsprechend der Gebührenordnungsposition 31364 Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "40682",
+      "title": "Kostenpauschale für den Teststoff Indozyaningrün bei Durchführung einer Fluoreszenzangiographischen Untersuchung im Zusammenhang mit der Leistung entsprechend den Gebührenordnungspositionen 06331 oder 06332",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 72.31,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Durchführung einer Fluoreszenzangiographischen Untersuchung im Zusammenhang mit der Leistung entsprechend den Gebührenordnungspositionen 06331 oder 06332 Die Berechnung der Kostenpauschale 40682 setzt die medizinische Begründung der Notwendigkeit der Verwendung des Teststoffs Indozyaningrün voraus. Die Kostenpauschale 40682 ist je Praxis bis zu einer Anzahl in Höhe von 5 % der Gesamtanzahl der abgerechneten Gebührenordnungspositionen 06331 und 06332 berechnungsfähig. Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "40685",
+      "title": "Kostenpauschale für die Sachkosten im Zusammenhang mit der Durchführung einer Hochfrequenzablation des Endometriums mittels Netzelektrode entsprechend der Gebührenordnungsposition 31319 40.12 Kostenpauschalen für Sachkosten im Zusammenhang mit der Kryokonservierung von Ei- oder Samenzellen oder Keimzellgewebe 1. Für die Abrechnung von Sachkosten aus diesem Abschnitt gelten die Rahmenbedingungen der Anlage 35 zum Bundesmantelvertrag-Ärzte (BMV-Ä). 2. Die Kosten für den Transport gemäß der Richtlinie zur Kryokonservierung von Ei- oder Samenzellen oder Keimzellgewebe sowie entsprechende medizinische Maßnahmen wegen keimzellschädigender Therapie (Kryo-RL) von der Entnahmeeinrichtung zur Lagerungseinrichtung sowie von der Lagerungseinrichtung zur reproduktionsmedizinischen Einrichtung, welche die reproduktionsmedizinischen Maßnahmen nach erfolgter Kryokonservierung durchführt, sind abweichend von 7.1 der Allgemeinen Bestimmungen zusätzlich gemäß 7.3 berechnungsfähig. 3. Die Kosten für eine sachgemäße Beseitigung bzw. Entsorgung aller Materialien sind in den Gebührenordnungspositionen enthalten.",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 1020.0,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "mit der Durchführung einer Hochfrequenzablation des Endometriums mittels Netzelektrode entsprechend der Gebührenordnungsposition 31319 40.12 Kostenpauschalen für Sachkosten im Zusammenhang mit der Kryokonservierung von Ei- oder Samenzellen oder Keimzellgewebe 1. Für die Abrechnung von Sachkosten aus diesem Abschnitt gelten die Rahmenbedingungen der Anlage 35 zum Bundesmantelvertrag-Ärzte (BMV-Ä). 2. Die Kosten für den Transport gemäß der Richtlinie zur Kryokonservierung von Ei- oder Samenzellen oder Keimzellgewebe sowie entsprechende medizinische Maßnahmen wegen keimzellschädigender Therapie (Kryo-RL) von der Entnahmeeinrichtung zur Lagerungseinrichtung sowie von der Lagerungseinrichtung zur reproduktionsmedizinischen Einrichtung, welche die reproduktionsmedizinischen Maßnahmen nach erfolgter Kryokonservierung durchführt, sind abweichend von 7.1 der Allgemeinen Bestimmungen zusätzlich gemäß 7.3 berechnungsfähig. 3. Die Kosten für eine sachgemäße Beseitigung bzw. Entsorgung aller Materialien sind in den Gebührenordnungspositionen enthalten. Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "40700",
+      "title": "Kostenpauschale für Lagerung gemäß Kryo-RL",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 68.0,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "einmal im Behandlungsfall Die Kostenpauschale 40700 ist für jedes Quartal berechnungsfähig in dem die Lagerung erfolgt, unabhängig davon, ob in diesem Quartal weitere ärztliche Leistungen abgerechnet werden. Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "40701",
+      "title": "Zuschlag zur Kostenpauschale 40700 für die Lagerung unter Quarantänebedingungen",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 10.0,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Quarantänebedingungen, einmal im Behandlungsfall Die Gebührenordnungsposition 40701 ist nur im Falle eines bestätigten labordiagnostischen Befundes, der eine Lagerung unter Quarantänebedingungen erfordert, berechnungsfähig. Darüber hinaus ist die Gebührenordnungsposition 40701 bis zum Vorliegen eines bestätigten labordiagnostischen Befundes, der eine Lagerung ohne Quarantänebedingungen erlaubt, berechnungsfähig. Die Berechnung setzt in diesem Fall die Angabe einer Begründung voraus. 40.13 Leistungsbezogene Kostenpauschalen für endoskopische Gelenkeingriffe inklusive Arthroskopielösungen Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "40750",
+      "title": "Kostenpauschale für die Sachkosten in Zusammenhang mit der Durchführung von endoskopischen Gelenkeingriffen (Arthroskopien) entsprechend der Gebührenordnungspositionen 31141 und 31142",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 122.0,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Durchführung von endoskopischen Gelenkeingriffen (Arthroskopien) entsprechend der Gebührenordnungspositionen 31141 und 31142 Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "40752",
+      "title": "Kostenpauschale für die Sachkosten in Zusammenhang mit der Durchführung von endoskopischen Gelenkeingriffen (Arthroskopien) entsprechend der Gebührenordnungspositionen 31143 und 31144",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 200.0,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Durchführung von endoskopischen Gelenkeingriffen (Arthroskopien) entsprechend der Gebührenordnungspositionen 31143 und 31144 Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "40754",
+      "title": "Kostenpauschale für die Sachkosten in Zusammenhang mit der Durchführung von endoskopischen Gelenkeingriffen (Arthroskopien) entsprechend der Gebührenordnungspositionen 31145 bis 31147 40.14 Leistungsbezogene Kostenpauschalen für Sach- und Dienstleistungen bei Behandlung mit renalen Ersatzverfahren und extrakorporalen Blutreinigungsverfahren 1. Eine Behandlungswoche ist jede Kalenderwoche, in der die wöchentlichen Dialysen (d. h. mindestens 3 Hämodialysentage bzw. IPD-Dialysentage oder mindestens 4 von 7 Peritonealdialysentagen als CAPD bzw. CCPD) durchgeführt werden. Die Vorverlegung einer Hämodialyse kann unter Berücksichtigung sozialer Aspekte mit Angabe einer Begründung von einem Montag auf den vorherigen Sonntag erfolgen. Für die Berechnungsfähigkeit der Kostenpauschale nach der Gebührenordnungsposition 40823 ist in diesem Fall der Sonntag auf die aktuelle Behandlungswoche anzurechnen. 2. Eine Dialysewoche ist definiert als eine abgerechnete Kostenpauschale nach der Gebührenordnungsposition 40823 oder als drei abgerechnete Kostenpauschalen nach der Gebührenordnungsposition 40824. Interkurrente Dialysen während einer stationären Behandlung im Krankenhaus und Nachtdialysen zwischen 20:00 Uhr und 7:00 Uhr des Folgetages mit einer Dialysedauer von mindestens 6 Stunden und einem Dialyseende frühestens um 3:00 Uhr des Folgetages werden bei der Bestimmung der Anzahl der Dialysewochen gemäß Nummer 3 nicht berücksichtigt. 3. Die Preise für die Kostenpauschalen nach den Gebührenordnungspositionen 40823 und 40824 werden nach der Anzahl der Dialysewochen der Betriebsstätte/Nebenbetriebsstätte im abgerechneten Quartal in vier Preisstufen differenziert. 1. Bis zur 650. Dialysewoche im abgerechneten Quartal werden die Kostenpauschalen nach den Gebührenordnungspositionen 40823 und 40824 mit den Preisen der Preisstufe 1 vergütet. Von der 651.",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 333.0,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Durchführung von endoskopischen Gelenkeingriffen (Arthroskopien) entsprechend der Gebührenordnungspositionen 31145 bis 31147 40.14 Leistungsbezogene Kostenpauschalen für Sach- und Dienstleistungen bei Behandlung mit renalen Ersatzverfahren und extrakorporalen Blutreinigungsverfahren 1. Eine Behandlungswoche ist jede Kalenderwoche, in der die wöchentlichen Dialysen (d. h. mindestens 3 Hämodialysentage bzw. IPD-Dialysentage oder mindestens 4 von 7 Peritonealdialysentagen als CAPD bzw. CCPD) durchgeführt werden. Die Vorverlegung einer Hämodialyse kann unter Berücksichtigung sozialer Aspekte mit Angabe einer Begründung von einem Montag auf den vorherigen Sonntag erfolgen. Für die Berechnungsfähigkeit der Kostenpauschale nach der Gebührenordnungsposition 40823 ist in diesem Fall der Sonntag auf die aktuelle Behandlungswoche anzurechnen. 2. Eine Dialysewoche ist definiert als eine abgerechnete Kostenpauschale nach der Gebührenordnungsposition 40823 oder als drei abgerechnete Kostenpauschalen nach der Gebührenordnungsposition 40824. Interkurrente Dialysen während einer stationären Behandlung im Krankenhaus und Nachtdialysen zwischen 20:00 Uhr und 7:00 Uhr des Folgetages mit einer Dialysedauer von mindestens 6 Stunden und einem Dialyseende frühestens um 3:00 Uhr des Folgetages werden bei der Bestimmung der Anzahl der Dialysewochen gemäß Nummer 3 nicht berücksichtigt. 3. Die Preise für die Kostenpauschalen nach den Gebührenordnungspositionen 40823 und 40824 werden nach der Anzahl der Dialysewochen der Betriebsstätte/Nebenbetriebsstätte im abgerechneten Quartal in vier Preisstufen differenziert. 1. Bis zur 650. Dialysewoche im abgerechneten Quartal werden die Kostenpauschalen nach den Gebührenordnungspositionen 40823 und 40824 mit den Preisen der Preisstufe 1 vergütet. Von der 651. bis zur 1300. Dialysewoche im abgerechneten Quartal erfolgt die Vergütung dieser Gebührenordnungspositionen mit den Preisen der Preisstufe 2. Von der 1301. bis zur 1950. Dialysewoche im abgerechneten Quartal erfolgt die Vergütung mit den Preisen der Preisstufe 3. Ab der 1951. Dialysewoche im abgerechneten Quartal werden diese Gebührenordnungspositionen mit den Preisen der Preisstufe 4 vergütet. 2. Ein Beispiel: Eine Betriebsstätte/Nebenbetriebsstätte rechnet 1400 Kostenpauschalen nach der Gebührenordnungsposition 40823 und 600 Kostenpauschalen nach der Gebührenordnungsposition 40824 ab. Für die Betriebsstätte/Nebenbetriebsstätte ergeben sich somit 1600 Dialysewochen. Im Ergebnis werden der Betriebsstätte/ Nebenbetriebsstätte von den 1600 Dialysewochen 650 mit dem Preis der Preisstufe 1, weitere 650 Dialysewochen mit dem Preis der Preisstufe 2 und 300 Dialysewochen mit dem Preis der Preisstufe 3 vergütet. 3. Die Unterscheidung der erbrachten Dialysewochen im abgerechneten Quartal nach dem Ort der Erbringung (Betriebsstätte/Nebenbetriebsstätte) setzt voraus, dass Betriebsstätte und Nebenbetriebsstätte(n) sich nicht in derselben Örtlichkeit (zum Beispiel im gleichen Gebäude oder Gebäudekomplex) befinden. Andernfalls werden die in Betriebs- und Nebenbetriebsstätte(n) einer Praxis erbrachten Dialysewochen so zusammengefasst, als wenn sie in einer Betriebsstätte/einem Ort erbracht worden wären. Erbringen Praxen, Praxen mit angestellten Ärzten, Berufsausübungsgemeinschaften, Medizinische Versorgungszentren, ermächtigte Einrichtungen oder rechtlich voneinander unabhängige Dialyseeinrichtungen Leistungen des Abschnitts 40.14 EBM in derselben Örtlichkeit und nutzen dabei gemeinsam apparative Ausstattungen (Anlage zur Dialysewasseraufbereitung in Verbindung mit Dialysewasser- Ringleitung), so werden die von diesen Dialyseeinrichtungen abgerechneten Kostenpauschalen 40823 und 40824 mit einem Abschlag in Höhe von 5 Prozent versehen. 4. Ein Abschlag auf die Kostenpauschalen 40823 und 40824 erfolgt nicht, wenn die betreffenden Dialyseeinrichtungen der Kassenärztlichen Vereinigung nachweisen, dass die zur Erbringung der Leistungen des Abschnitts 40.14 EBM erforderliche apparative Ausstattung (Anlage zur Dialysewasseraufbereitung in Verbindung mit Dialysewasser-Ringleitung) ausschließlich von dieser Dialysepraxis genutzt wird. 4. Die Kostenpauschalen nach den Gebührenordnungspositionen 40815 bis 40819 und 40823 bis 40828 enthalten alle Sachkosten, einschließlich Dialysegerät, Dialysator, Schlauchsysteme, Infusionslösungen, am Dialysetag verabreichte Heparine, Aufbereitungs- und Entsorgungsmaßnahmen, Sprechstundenbedarf sowie die Kosten der Beköstigung des Patienten in Abhängigkeit von der jeweiligen Dialyseart für die Zeit der Dialysebehandlung. Weiterhin ist im Falle der Hämodialyse als Heimdialyse von dem Vertragsarzt, dem ermächtigten Arzt oder der ärztlich geleiteten Einrichtung die Erstattung der dialysebedingten Strom-, Wasser- und Entsorgungskosten an den Heimdialysepatienten sicherzustellen. Zur Erstattung kann mit dem Dialysepatienten eine Pauschale vereinbart werden. Dies gilt auch für die Erstattung der Stromkosten im Falle der kontinuierlichen cyclergestützten Peritonealdialyse (CCPD) und für die Erstattung der Entsorgungskosten im Rahmen von Peritonealdialysen als Heimdialysen. Die Kostenpauschalen nach den Gebührenordnungspositionen 40815 bis 40819 und 40823 bis 40828 enthalten nicht die Kosten für Arzneimittel, insbesondere Erythropoetin, Vitamin- oder Mineralstoffpräparate. Die Allgemeinen Bestimmungen Nr. 7 finden keine Anwendung. 5. Die Berechnung der Kostenpauschalen nach den Gebührenordnungspositionen 40815 bis 40819 und 40823 bis 40828 setzt eine Genehmigung der Kassenärztlichen Vereinigung nach der Vereinbarung zu den Blutreinigungsverfahren gemäß § 135 Abs. 2 SGB V voraus. 6. Soweit die Partner der Gesamtverträge eine im wirtschaftlichen Ergebnis mit dieser Regelung vergleichbare niedrigere Erstattungshöhe der Kosten für nichtärztliche Dialyseleistungen vereinbart haben, können diese Vereinbarungen fortgeführt werden. 7. Eine erstmalige Heimdialysebehandlung (Perionealdialyse als CAPD oder CCPD oder Heimhämodialyse) gemäß den Zuschlägen nach den Gebührenordnungspositionen 40845 bis 40847 liegt vor, wenn für einen Zeitraum von vier Quartalen vor der erstmaligen Berechnung der Kostenpauschalen nach den Gebührenordnungspositionen 40825 bis 40827 für den Versicherten in der Arztpraxis keine Kostenpauschalen nach den Gebührenordnungspositionen 40825 bis 40827 abgerechnet wurden. Dabei werden die Kostenpauschalen nach den Gebührenordnungspositionen 40825 und 40827 nicht berücksichtigt, wenn sie für die intermittierende Peritonealdialyse (IPD) abgerechnet wurden. Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "40815",
+      "title": "Kostenpauschale für Sachkosten bei Durchführung von Hämodialysen einschl. Sonderverfahren (z. B. Hämofiltration, Hämodiafiltration) bei Patienten bis zum vollendeten 18. Lebensjahr mit einer dialysepflichtigen Nierenerkrankung bei Dialysen am Wohnort",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 709.04,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "einschl. Sonderverfahren (z. B. Hämofiltration, Hämodiafiltration) bei Patienten bis zum vollendeten 18. Lebensjahr mit einer dialysepflichtigen Nierenerkrankung bei Dialysen am Wohnort, je durchgeführter Dialyse Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "40816",
+      "title": "Kostenpauschale für Sachkosten bei Durchführung von Peritonealdialysen bei Patienten bis zum vollendeten 18. Lebensjahr mit einer dialysepflichtigen Nierenerkrankung",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 938.6,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "von Peritonealdialysen bei Patienten bis zum vollendeten 18. Lebensjahr mit einer dialysepflichtigen Nierenerkrankung, je Behandlungswoche Die Gebührenordnungsposition 40816 ist je Behandlungswoche nicht neben den Gebührenordnungspositionen 40817 und 40819 berechnungsfähig. Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "40817",
+      "title": "Kostenpauschale für Sachkosten bei Durchführung von Peritonealdialysen bei Patienten bis zum vollendeten 18. Lebensjahr mit einer dialysepflichtigen Nierenerkrankung bei Dialysen am Wohnort, die nicht mindestens 4 von 7 Peritonealdialysetage in der Behandlungswoche umfassen",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 134.12,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "von Peritonealdialysen bei Patienten bis zum vollendeten 18. Lebensjahr mit einer dialysepflichtigen Nierenerkrankung bei Dialysen am Wohnort, die nicht mindestens 4 von 7 Peritonealdialysetage in der Behandlungswoche umfassen, je durchgeführter Dialyse, höchstens dreimal in der Kalenderwoche Die Gebührenordnungsposition 40817 ist je Behandlungswoche nicht neben der Gebührenordnungsposition 40816 berechnungsfähig. Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "40818",
+      "title": "Kostenpauschale für Sachkosten bei Durchführung von Hämodialysen einschl. Sonderverfahren (z. B. Hämofiltration, Hämodiafiltration) bei Patienten bis zum vollendeten 18. Lebensjahr mit einer dialysepflichtigen Nierenerkrankung bei einer Feriendialyse während des Ferienaufenthalts am Ferienort, bei Dialyse wegen beruflich bedingter oder sonstiger Abwesenheit vom Wohnort",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 744.55,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "von Hämodialysen einschl. Sonderverfahren (z. B. Hämofiltration, Hämodiafiltration) bei Patienten bis zum vollendeten 18. Lebensjahr mit einer dialysepflichtigen Nierenerkrankung bei einer Feriendialyse während des Ferienaufenthalts am Ferienort, bei Dialyse wegen beruflich bedingter oder sonstiger Abwesenheit vom Wohnort, je durchgeführter Dialyse Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "40819",
+      "title": "Kostenpauschale für Sachkosten bei Durchführung von Peritonealdialysen bei Patienten bis zum vollendeten 18. Lebensjahr mit einer dialysepflichtigen Nierenerkrankung bei einer Feriendialyse während des Ferienaufenthalts am Ferienort, bei Dialyse wegen beruflich bedingter oder sonstiger Abwesenheit vom Wohnort",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 140.79,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Peritonealdialysen bei Patienten bis zum vollendeten 18. Lebensjahr mit einer dialysepflichtigen Nierenerkrankung bei einer Feriendialyse während des Ferienaufenthalts am Ferienort, bei Dialyse wegen beruflich bedingter oder sonstiger Abwesenheit vom Wohnort, je durchgeführter Dialyse, höchstens dreimal in der Kalenderwoche Die Gebührenordnungsposition 40819 ist je Behandlungswoche nicht neben der Gebührenordnungsposition 40816 berechnungsfähig. Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "40825",
+      "title": "Kostenpauschale für Sachkosten bei Durchführung von Peritonealdialysen (z. B. CAPD, CCPD, IPD) oder Heimhämodialysen, bei Versicherten ab dem vollendeten 18. Lebensjahr mit einer dialysepflichtigen Nierenerkrankung",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 563.0,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Peritonealdialysen (z. B. CAPD, CCPD, IPD) oder Heimhämodialysen, bei Versicherten ab dem vollendeten 18. Lebensjahr mit einer dialysepflichtigen Nierenerkrankung, je Behandlungswoche Die Gebührenordnungsposition 40825 ist je Behandlungswoche nicht neben den Gebührenordnungspositionen 40823, 40824 und 40826 bis 40828 berechnungsfähig. Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "40826",
+      "title": "Kostenpauschale für Sachkosten bei Durchführung von Peritonealdialysen als CAPD bzw. CCPD, bei Versicherten ab dem vollendeten 18. Lebensjahr mit einer dialysepflichtigen Nierenerkrankung bei Dialysen am Wohnort, die nicht mindestens 4 von 7 Peritonealdialysetage in der Behandlungswoche umfassen",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 80.42,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Peritonealdialysen als CAPD bzw. CCPD, bei Versicherten ab dem vollendeten 18. Lebensjahr mit einer dialysepflichtigen Nierenerkrankung bei Dialysen am Wohnort, die nicht mindestens 4 von 7 Peritonealdialysetage in der Behandlungswoche umfassen, je durchgeführter Dialyse, höchstens dreimal in der Kalenderwoche Die Gebührenordnungsposition 40826 ist je Behandlungswoche nicht neben den Gebührenordnungspositionen 40823 und 40825 berechnungsfähig. Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "40827",
+      "title": "Kostenpauschale für Sachkosten bei Durchführung von intermittierenden Peritonealdialysen (IPD) oder Heimhämodialysen, bei Versicherten ab dem vollendeten 18. Lebensjahr mit einer dialysepflichtigen Nierenerkrankung bei Dialysen am Wohnort, die nicht mindestens dreimal in der Behandlungswoche durchgeführt werden können",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 187.67,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "von intermittierenden Peritonealdialysen (IPD) oder Heimhämodialysen, bei Versicherten ab dem vollendeten 18. Lebensjahr mit einer dialysepflichtigen Nierenerkrankung bei Dialysen am Wohnort, die nicht mindestens dreimal in der Behandlungswoche durchgeführt werden können, je durchgeführter Dialyse, höchstens zweimal in der Kalenderwoche Die Gebührenordnungsposition 40827 ist je Behandlungswoche nicht neben den Gebührenordnungspositionen 40823 und 40825 berechnungsfähig. Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "40828",
+      "title": "Kostenpauschale für Sachkosten bei Durchführung von Hämo- oder Peritonealdialysen, als Zentrums- bzw. Praxisdialyse, Heimdialyse oder zentralisierte Heimdialyse, einschl. Sonderverfahren (z. B. Hämofiltration, Hämodiafiltration), bei Versicherten ab dem vollendeten 18. Lebensjahr mit einer dialysepflichtigen Nierenerkrankung, bei einer Feriendialyse während des Ferienaufenthalts am Ferienort, bei Dialyse wegen beruflich oder sonstiger Abwesenheit vom Wohnort",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 194.6,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Peritonealdialysen, als Zentrums- bzw. Praxisdialyse, Heimdialyse oder zentralisierte Heimdialyse, einschl. Sonderverfahren (z. B. Hämofiltration, Hämodiafiltration), bei Versicherten ab dem vollendeten 18. Lebensjahr mit einer dialysepflichtigen Nierenerkrankung, bei einer Feriendialyse während des Ferienaufenthalts am Ferienort, bei Dialyse wegen beruflich oder sonstiger Abwesenheit vom Wohnort, je durchgeführter Dialyse, höchstens zweimal in der Kalenderwoche Die Gebührenordnungsposition 40828 ist je Behandlungswoche nicht neben den Gebührenordnungspositionen 40823 und 40825 berechnungsfähig. Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "40829",
+      "title": "Zuschlag zur Kostenpauschale 40823 oder 40825 bei Versicherten ab dem vollendeten 59. Lebensjahr bis zum vollendeten 69. Lebensjahr",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 11.22,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "dem vollendeten 59. Lebensjahr bis zum vollendeten 69. Lebensjahr Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "40830",
+      "title": "Zuschlag zur Kostenpauschale 40824, 40826 und 40827 bei Versicherten ab dem vollendeten 59. Lebensjahr bis zum vollendeten 69. Lebensjahr",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 3.74,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Versicherten ab dem vollendeten 59. Lebensjahr bis zum vollendeten 69. Lebensjahr Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "40831",
+      "title": "Zuschlag zur Kostenpauschale 40823 oder 40825 bei Versicherten ab dem vollendeten 69. Lebensjahr bis zum vollendeten 79. Lebensjahr",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 22.44,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "dem vollendeten 69. Lebensjahr bis zum vollendeten 79. Lebensjahr Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "40832",
+      "title": "Zuschlag zur Kostenpauschale 40824, 40826 und 40827 bei Versicherten ab dem vollendeten 69. Lebensjahr bis zum vollendeten 79. Lebensjahr",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 7.48,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Versicherten ab dem vollendeten 69. Lebensjahr bis zum vollendeten 79. Lebensjahr Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "40833",
+      "title": "Zuschlag zur Kostenpauschale 40823 oder 40825 bei Versicherten ab dem vollendeten 79. Lebensjahr",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 33.65,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "dem vollendeten 79. Lebensjahr Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "40834",
+      "title": "Zuschlag zur Kostenpauschale 40824, 40826 und 40827 bei Versicherten ab dem vollendeten 79. Lebensjahr",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 11.22,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Versicherten ab dem vollendeten 79. Lebensjahr Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "40835",
+      "title": "Zuschlag zur Kostenpauschale 40816, 40823 oder 40825 für die Infektionsdialyse - bei Patienten mit Infektionserkrankungen mit Problemkeimen gemäß der mit der Kommission für Krankenhaushygiene und Infektionsprävention beim Robert Koch-Institut (KRINKO) abgestimmten Hygieneleitlinie als Ergänzung zum Dialysestandard und/oder - bei Vorliegen einer Infektion mit dem Coronavirus SARS-CoV-2",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 100.94,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Infektionsdialyse - bei Patienten mit Infektionserkrankungen mit Problemkeimen gemäß der mit der Kommission für Krankenhaushygiene und Infektionsprävention beim Robert Koch-Institut (KRINKO) abgestimmten Hygieneleitlinie als Ergänzung zum Dialysestandard und/oder - bei Vorliegen einer Infektion mit dem Coronavirus SARS-CoV-2 Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "40836",
+      "title": "Zuschlag zur Kostenpauschale 40815, 40817, 40818, 40819, 40824, 40826 bis 40828 für die Infektionsdialyse - bei Patienten mit Infektionserkrankungen mit Problemkeimen gemäß der mit der Kommission für Krankenhaushygiene und Infektionsprävention beim Robert Koch-Institut (KRINKO) abgestimmten Hygieneleitlinie als Ergänzung zum Dialysestandard und/oder - bei Vorliegen einer Infektion mit dem Coronavirus SARS-CoV-2",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 33.65,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "40826 bis 40828 für die Infektionsdialyse - bei Patienten mit Infektionserkrankungen mit Problemkeimen gemäß der mit der Kommission für Krankenhaushygiene und Infektionsprävention beim Robert Koch-Institut (KRINKO) abgestimmten Hygieneleitlinie als Ergänzung zum Dialysestandard und/oder - bei Vorliegen einer Infektion mit dem Coronavirus SARS-CoV-2 je durchgeführter Dialyse, höchstens zweimal in der Kalenderwoche Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "40837",
+      "title": "Zuschlag zur Kostenpauschale 40816 oder 40825 für die intermittierende Peritonealdialyse (IPD)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 334.18,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "die intermittierende Peritonealdialyse (IPD) Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "40838",
+      "title": "Zuschlag zur Kostenpauschale 40817, 40819, 40827 oder 40828 für die intermittierende Peritonealdialyse (IPD)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 111.39,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "die intermittierende Peritonealdialyse (IPD), je durchgeführter Dialyse, höchstens zweimal in der Kalenderwoche Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "40840",
+      "title": "Zuschlag zur Kostenpauschale 40823 oder 40824 für die Nachtdialyse",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 27.24,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Nachtdialyse, je durchgeführter Dialyse, höchstens dreimal in der Kalenderwoche Die Kostenpauschale 40840 ist berechnungsfähig, wenn die Dialyse zwischen 20:00 Uhr und 7:00 Uhr des Folgetages durchgeführt wird, eine Dialysedauer von mindestens 6 Stunden vorliegt und die Dialyse frühestens um 3:00 Uhr des Folgetages beendet wird. Die Berechnung der Kostenpauschale 40840 setzt die Angabe der Uhrzeit für das Ende der Dialysebehandlung voraus. Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "40841",
+      "title": "Zuschlag zur Kostenpauschale 40816 oder 40825 für die kontinuierliche zyklische Peritonealdialyse (CCPD)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 42.51,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "kontinuierliche zyklische Peritonealdialyse (CCPD) Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "40842",
+      "title": "Zuschlag zur Kostenpauschale 40817, 40819 oder 40826 für die kontinuierliche zyklische Peritonealdialyse (CCPD)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 6.08,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "kontinuierliche zyklische Peritonealdialyse (CCPD), je durchgeführter Dialyse, höchstens dreimal in der Kalenderwoche Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "40843",
+      "title": "Zuschlag zur Kostenpauschale 40825 für die Heimhämodialyse",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 94.47,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "40844",
+      "title": "Zuschlag zur Kostenpauschale 40827 für die Heimhämodialyse",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 31.49,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "je durchgeführter Dialyse, höchstens zweimal in der Kalenderwoche Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "40845",
+      "title": "Zuschlag zur Kostenpauschale 40825 bei Beginn einer erstmaligen Heimdialysebehandlung (Peritonealdialyse als CAPD oder CCPD oder Heimhämodialyse) Der Zuschlag nach der Gebührenordnungsposition 40845 ist ab Beginn einer erstmaligen Heimdialysebehandlung gemäß Nr. 7 der Bestimmungen des Abschnitts 40.14 für einen Zeitraum von insgesamt 52 Wochen berechnungsfähig.",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 99.2,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Heimdialysebehandlung (Peritonealdialyse als CAPD oder CCPD oder Heimhämodialyse) Der Zuschlag nach der Gebührenordnungsposition 40845 ist ab Beginn einer erstmaligen Heimdialysebehandlung gemäß Nr. 7 der Bestimmungen des Abschnitts 40.14 für einen Zeitraum von insgesamt 52 Wochen berechnungsfähig. Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "40846",
+      "title": "Zuschlag zur Kostenpauschale 40826 bei Beginn einer erstmaligen Heimdialysebehandlung (Peritonealdialyse als CAPD oder CCPD)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 14.18,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Heimdialysebehandlung (Peritonealdialyse als CAPD oder CCPD), je durchgeführter Dialyse, höchstens dreimal in der Kalenderwoche Der Zuschlag nach der Gebührenordnungsposition 40846 ist ab Beginn einer erstmaligen Heimdialysebehandlung gemäß Nr. 7 der Bestimmungen des Abschnitts 40.14 für einen Zeitraum von insgesamt 52 Wochen berechnungsfähig. Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "40847",
+      "title": "Zuschlag zur Kostenpauschale 40827 bei Beginn einer erstmaligen Heimdialysebehandlung (Heimhämodialyse)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 33.07,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Heimdialysebehandlung (Heimhämodialyse), je durchgeführter Dialyse, höchstens zweimal in der Kalenderwoche Der Zuschlag nach der Gebührenordnungsposition 40847 ist ab Beginn einer erstmaligen Heimdialysebehandlung gemäß Nr. 7 der Bestimmungen des Abschnitts 40.14 für einen Zeitraum von insgesamt 52 Wochen berechnungsfähig. 40.16 Leistungsbezogene Kostenpauschalen im Rahmen der Früherkennung von Brustkrebs durch Mammographie-Screening gemäß den Richtlinien des Gemeinsamen Bundesausschusses (Mammographie-Screening-Programm) Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "40850",
+      "title": "Kostenpauschale für Sachkosten bei Durchführung der Leistung entsprechend der Gebührenordnungsposition 01750",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 5.85,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "entsprechend der Gebührenordnungsposition 01750 Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "40852",
+      "title": "Kostenpauschale für die ggf. erforderliche Teilnahme an Fallkonferenzen im Zusammenhang mit der Durchführung der Leistungen entsprechend der Gebührenordnungspositionen 01752, 01756 und 01758 oder Kostenpauschale für die Versendung bzw. den Transport von Röntgenaufnahmen und/oder Filmfolien Bei Mitgabe von Röntgenaufnahmen oder Filmfolien ist die Kostenpauschale nach der Nr. 40852 nicht berechnungsfähig.",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 0.51,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Fallkonferenzen im Zusammenhang mit der Durchführung der Leistungen entsprechend der Gebührenordnungspositionen 01752, 01756 und 01758 oder Kostenpauschale für die Versendung bzw. den Transport von Röntgenaufnahmen und/oder Filmfolien Bei Mitgabe von Röntgenaufnahmen oder Filmfolien ist die Kostenpauschale nach der Nr. 40852 nicht berechnungsfähig. Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "40854",
+      "title": "Kostenpauschale für sämtliche Sachkosten im Zusammenhang mit der Erbringung der Leistung entsprechend der Gebührenordnungsposition 01759 mit Ausnahme der im Zuschlag nach der Nr. 40855 enthaltenen Markierungsclips",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 320.0,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "mit der Erbringung der Leistung entsprechend der Gebührenordnungsposition 01759 mit Ausnahme der im Zuschlag nach der Nr. 40855 enthaltenen Markierungsclips je Seite Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "40855",
+      "title": "Zuschlag zu der Kostenpauschale nach der Nr. 40854 für die Verwendung von Markierungsclips",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 100.0,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Verwendung von Markierungsclips je Seite 40.17 Leistungsbezogene Kostenpauschalen für Sachkosten bei der Vakuumversiegelungstherapie Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "40900",
+      "title": "Kostenpauschale für die Sachkosten im Zusammenhang mit der Durchführung der Leistung entsprechend der Gebührenordnungsposition 31401",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 430.67,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "mit der Durchführung der Leistung entsprechend der Gebührenordnungsposition 31401, je durchgeführter Leistung Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "40901",
+      "title": "Kostenpauschale für die Sachkosten im Zusammenhang mit der Durchführung der Leistung entsprechend der Gebührenordnungsposition 02314 bei einer Wundfläche bis 2 einschließlich 20 cm",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 91.14,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "mit der Durchführung der Leistung entsprechend der Gebührenordnungsposition 02314 bei einer Wundfläche bis 2 einschließlich 20 cm , je durchgeführter Leistung, höchstens dreimal in der Kalenderwoche Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "40902",
+      "title": "Kostenpauschale für die Sachkosten im Zusammenhang mit der Durchführung der Leistung entsprechend der 2 Gebührenordnungsposition 02314 bei einer Wundfläche > 20 cm",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 94.27,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "mit der Durchführung der Leistung entsprechend der 2 Gebührenordnungsposition 02314 bei einer Wundfläche > 20 cm , je durchgeführter Leistung, höchstens dreimal in der Kalenderwoche Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "40903",
+      "title": "Kostenpauschale für die Vakuumpumpe im Zusammenhang mit der Durchführung der Leistung entsprechend der Gebührenordnungsposition 02314",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 47.54,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "mit der Durchführung der Leistung entsprechend der Gebührenordnungsposition 02314, je Kalendertag 40.18 Kostenpauschalen im Rahmen des Telemonitoring bei Herzinsuffizienz und der telemedizinischen Funktionsanalyse 1. Sofern der Patient bereits mit einem Übertragungsgerät (Transmitter) versorgt wurde, das im Rahmen des Telemonitoring bei Herzinsuffizienz mittels kardialer Aggregate nach der Gebührenordnungsposition 13584 beziehungsweise für die telemedizinische Funktionsanalyse nach den Gebührenordnungspositionen 04414, 04416, 13574 oder 13576 genutzt werden kann, ist die Kostenpauschale 40909 nicht berechnungsfähig. Der Arzt ist verpflichtet, sich diesbezüglich zu erkundigen. Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "40909",
+      "title": "Kostenpauschale für einen erforderlichen Transmitter im Zusammenhang mit der Durchführung der Leistung(en) nach der/ den Gebührenordnungsposition(en) 04414, 04416, 13574, 13576 oder 13584",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 396.67,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Zusammenhang mit der Durchführung der Leistung(en) nach der/ den Gebührenordnungsposition(en) 04414, 04416, 13574, 13576 oder 13584, einmal im Krankheitsfall Die Kostenpauschale 40909 ist je Patient höchstens dreimal berechnungsfähig. Sofern im Zusammenhang mit einem Wechsel des kardialen Aggregates ein neuer Transmitter erforderlich ist, ist die Kostenpauschale je Patient erneut höchstens dreimal berechnungsfähig. Die Kostenpauschale 40909 umfasst die Gerätekosten des Transmitters sowie sämtliche Kosten im Zusammenhang mit der Nutzung des Transmitters. Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "40910",
+      "title": "Kostenpauschale für die erforderliche Geräteausstattung des Patienten im Zusammenhang mit der Durchführung der Leistung(en) nach der/den Gebührenordnungsposition(en) 13586 und/oder 13587",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 68.0,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Patienten im Zusammenhang mit der Durchführung der Leistung(en) nach der/den Gebührenordnungsposition(en) 13586 und/oder 13587, einmal im Behandlungsfall Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    }
+  ]
+}

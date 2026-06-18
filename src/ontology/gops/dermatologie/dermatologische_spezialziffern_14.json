@@ -1,0 +1,1204 @@
+{
+  "gops": [
+    {
+      "code": "35174",
+      "title": "Gruppenpsychotherapeutische Grundversorgung mit 4 Teilnehmern",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 95.94,
+        "valuation_in_points": 753
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Entgegen den Allgemeinen Bestimmungen 2.1 sind die Gebührenordnungspositionen 35173 bis 35179 auch bei einer Sitzung von weniger als 100 Minuten, aber mindestens 50 Minuten Dauer, berechnungsfähig. In diesem Fall ist durch die Kassenärztliche Vereinigung von der Punktzahl der jeweiligen Gebührenordnungsposition ein Abschlag in Höhe von 50 % vorzunehmen und die Prüfzeit um 50 % zu reduzieren. Die Gebührenordnungspositionen 35173 bis 35179 sind gemäß § 11a Abs. 3 der Psychotherapie-Richtlinie höchstens 4- mal im Krankheitsfall berechnungsfähig. Für den Fall der Einbeziehung von relevanten Bezugspersonen sind im Rahmen einer Kinder- und Jugendlichenpsychotherapie und bei Versicherten mit Vorliegen einer Intelligenzstörung (ICD-10-GM: F70-F79) die Gebührenordnungspositionen 35173 bis 35179 höchstens 5-mal im Krankheitsfall berechnungsfähig. Die Gebührenordnungspositionen 35173 bis 35179 sind in der Systemischen Therapie auch bei Durchführung der Leistungen im Mehrpersonensetting berechnungsfähig. Die Gebührenordnungspositionen 35173 bis 35179 sind nicht neben den Gebührenordnungspositionen 01205, 01207, 01210, 01212, 01214, 01216, 01218, 03230, 04230, 04231, 04355, 04356, 04430, 14220 bis 14222, 14310, 14311, 16220, 16230 bis 16233, 21216, 21220, 21221, 21230 bis 21233, 22213, 22220 bis 22222, 23220, 30702, 35100, 35110, 35140 bis 35142 und 35150 bis 35152 berechnungsfähig. Die Gebührenordnungspositionen 35173 bis 35179 sind am Behandlungstag nicht neben den Gebührenordnungspositionen des Abschnitts 35.2.2 berechnungsfähig. Die Gebührenordnungspositionen 35173 bis 35179 sind im Behandlungsfall nicht neben den Gebührenordnungspositionen 03040, 03220, 03221, 04040, 04220 und 04221 berechnungsfähig. 35.2 Antragspflichtige Leistungen 1. Die in dem Abschnitt 35.2 aufgeführten Gebührenordnungspositionen können ausschließlich von Vertragsärzten bzw. -psychotherapeuten, die über eine Genehmigung zur Ausführung und Abrechnung psychotherapeutischer Leistungen gemäß der Psychotherapie- Vereinbarung verfügen, berechnet werden. 2. Voraussetzung für die Berechnung der Gebührenordnungspositionen 35571 bis 35573 ist eine im Quartalszeitraum abgerechnete Gesamtpunktzahl der Gebührenordnungspositionen 30932, 30933, 35151, 35152, 35173 bis 35179, der Gebührenordnungspositionen der Abschnitte 35.2.1 und 35.2.2 und der Gebührenordnungspositionen 37500 und 37600 von mindestens 173.957 Punkten je Vertragsarzt bzw. -psychotherapeut (Mindestpunktzahl) nach Nummer 1 der Präambel. Sofern bei einem Vertragsarzt bzw. -psychotherapeuten kein voller Tätigkeitsumfang vorliegt, ist die Mindestpunktzahl mit dem Tätigkeitsumfang laut Zulassungs- bzw. Genehmigungsbescheid anteilig zu reduzieren. 3. Die Gebührenordnungspositionen 35571 bis 35573 sind berechnungsfähig, sobald im Abrechnungsquartal die abgerechnete Gesamtpunktzahl der Gebührenordnungspositionen 30932, 30933, 35151, 35152, 35173 bis 35179, der Gebührenordnungspositionen der Abschnitte 35.2.1 und 35.2.2 und der Gebührenordnungspositionen 37500 und 37600 das Punktzahlvolumen gemäß Nummer 2 überschreitet. Sofern die abgerechnete Gesamtpunktzahl der Gebührenordnungspositionen 30932, 30933, 35151, 35152, 35173 bis 35179, der Gebührenordnungspositionen der Abschnitte 35.2.1 und 35.2.2 und der Gebührenordnungspositionen 37500 und 37600 im Abrechnungsquartal das Doppelte der zu berücksichtigenden Mindestpunktzahlen gemäß Nummer 2 überschreitet, werden die Bewertungen der überschreitenden Gebührenordnungspositionen 35571 bis 35573 bis zu einer Maximalpunktzahl von 405.899 Punkten (voller Tätigkeitsumfang) bzw. 202.949 Punkten (hälftiger Tätigkeitsumfang) mit einem Faktor von 0,5 multipliziert. Sobald die abgerechnete Gesamtpunktzahl der Gebührenordnungspositionen 30932, 30933, 35151, 35152, 35173 bis 35179, der Gebührenordnungspositionen der Abschnitte 35.2.1 und 35.2.2 und der Gebührenordnungspositionen 37500 und 37600 die Maximalpunktzahl von 405.899 Punkten bei vollem Tätigkeitsumfang bzw. 202.949 Punkten bei hälftigem Tätigkeitsumfang überschreitet, sind die Gebührenordnungspositionen 35571 bis 35573 nicht mehr berechnungsfähig. 4. Die Regelung gemäß Nummer 3 wird wie folgt umgesetzt: Die Kassenärztliche Vereinigung setzt die Gebührenordnungspositionen 35571 bis 35573 im Quartal als Zuschläge zu allen abgerechneten Leistungen nach den Gebührenordnungspositionen 30932, 30933, 35151, 35152, 35173 bis 35179 und der Gebührenordnungspositionen der Abschnitte 35.2.1 und 35.2.2 und der Gebührenordnungspositionen 37500 und 37600 zu. 1. Sofern die im Abrechnungsquartal abgerechnete Gesamtpunktzahl der Gebührenordnungspositionen 30932, 30933, 35151, 35152, 35173 bis 35179, der Gebührenordnungspositionen der Abschnitte 35.2.1 und 35.2.2 und der Gebührenordnungspositionen 37500 und 37600 das Doppelte der zu berücksichtigenden Mindestpunktzahl gemäß Nummer 2 nicht überschreitet, ist die Bewertung der zugesetzten Gebührenordnungspositionen 35571 bis 35573 jeweils mit einer Quote zu multiplizieren, die sich aus der Differenz der abgerechneten Gesamtpunktzahl der Gebührenordnungspositionen 30932, 30933, 35151, 35152, 35173 bis 35179, der Gebührenordnungspositionen der Abschnitte 35.2.1 und 35.2.2 und der Gebührenordnungspositionen 37500 und 37600 des Vertragsarztes bzw. - psychotherapeuten zur Mindestpunktzahl gemäß Nummer 2 im Verhältnis zur abgerechneten Gesamtpunktzahl der Gebührenordnungspositionen 30932, 30933, 35151, 35152, 35173 bis 35179, der Gebührenordnungspositionen der Abschnitte 35.2.1 und 35.2.2 und der Gebührenordnungspositionen 37500 und 37600 des Vertragsarztes bzw. -psychotherapeuten ergibt und mindestens den Wert 0 annimmt. 2. Sofern die im Abrechnungsquartal abgerechnete Gesamtpunktzahl der Gebührenordnungspositionen 30932, 30933, 35151, 35152, 35173 bis 35179, der Gebührenordnungspositionen der Abschnitte 35.2.1 und 35.2.2 und der Gebührenordnungspositionen 37500 und 37600 das Doppelte der zu berücksichtigenden Mindestpunktzahl gemäß Nummer 2 überschreitet, ist die Bewertung der zugesetzten Gebührenordnungspositionen 35571 bis 35573 jeweils mit einer Quote zu multiplizieren, die sich aus der zu berücksichtigenden Mindestpunktzahl gemäß Nummer 2 zuzüglich dem 0,5- fachen der Differenz der abgerechneten Gesamtpunktzahl der Gebührenordnungspositionen 30932, 30933, 35151, 35152, 35173 bis 35179, der Gebührenordnungspositionen der Abschnitte 35.2.1 und 35.2.2 und der Gebührenordnungspositionen 37500 und 37600 - jedoch maximal 405. bei vollem Tätigkeitsumfang bzw. 202.949 Punkte bei hälftigem Tätigkeitsumfang - und des Doppelten der zu berücksichtigenden Mindestpunktzahl gemäß Nummer 2 im Verhältnis zur abgerechneten Gesamtpunktzahl der Gebührenordnungspositionen 30932, 30933, 35151, 35152, 35173 bis 35179, der Gebührenordnungspositionen der Abschnitte 35.2.1 und 35.2.2 und der Gebührenordnungspositionen 37500 und 37600 des Vertragsarztes bzw. -psychotherapeuten ergibt und mindestens den Wert 0 annimmt. 5. Bei der Ermittlung der abgerechneten Gesamtpunktzahl gemäß den Nummern 2 und 3 sowie der Quote gemäß Nummer 4 sind die in einem Selektivvertrag abgerechneten Leistungen inhaltlich entsprechend der Abschnitte 35.2.1 und 35.2.2, der psychotherapeutischen Sprechstunde gemäß der Gebührenordnungsposition 35151, der psychotherapeutischen Akutbehandlung gemäß der Gebührenordnungsposition 35152 sowie der gruppenpsychotherapeutischen Grundversorgung gemäß den Gebührenordnungspositionen 35173 bis 35179, den Gebührenordnungspositionen 30932 und 30933 und der Gebührenordnungspositionen 37500 und 37600 auf Nachweis des Vertragsarztes bzw. -psychotherapeuten zu berücksichtigen. 6. Die Gebührenordnungspositionen des Abschnitts 35.2.1, die Gebührenordnungspositionen 35503 bis 35508, 35513 bis 35518, 35523 bis 35528, 35533 bis 35538, 35543 bis 35548, 35553 bis 35558, 35703 bis 35708, 35713 bis 35718 und die Zuschläge nach den Gebührenordnungspositionen 35571, 35572, 35573, 35591 und 35593 bis 35598 sind auch bei Durchführung der Leistungen im Rahmen einer Videosprechstunde berechnungsfähig, wenn die Voraussetzungen gemäß § 21 der Anlage 1 zum Bundesmantelvertrag-Ärzte (BMV-Ä) und der Anlage 31b zum BMV- Ä erfüllt sind. Die Durchführung als Videosprechstunde ist durch Angabe einer bundeseinheitlich kodierten Zusatzkennzeichnung zu dokumentieren. 7. Im Falle der gemeinsamen Durchführung von Gruppentherapie durch zwei Psychotherapeuten mit ihnen jeweils fest zugeordneten Patienten (Bezugspatienten) gemäß § 21 Abs. 1 Nr. 2 der Psychotherapie-Richtlinie berechnet jeder Psychotherapeut die Gebührenordnungsposition (letzte Ziffer) nach der Anzahl seiner jeweiligen Bezugspatienten. 8. Für Gruppenbehandlungen gemäß § 19 Abs. 6 der Psychotherapie- Vereinbarung, bei denen in derselben Sitzung bei verschiedenen Patienten entweder Gruppentherapie oder probatorische Sitzungen im Gruppensetting zeitgleich angewendet werden, sind alle Patienten zur Ermittlung der gesamten Gruppengröße mitzuzählen. Maßgeblich für die jeweilige Bewertung je Teilnehmer ist die gesamte Gruppengröße (bestehend aus Patienten, für die Gruppentherapie angewendet wird und Patienten in einer probatorischen Sitzung im Gruppensetting). Auf Basis dieser gesamten Gruppengröße mit insgesamt mindestens drei Patienten ist für Patienten mit einer probatorischen Sitzung im Gruppensetting eine Bewertung je Teilnehmer gemäß den Gebührenordnungspositionen 35163 bis 35169 und für Patienten mit einer antrags- und genehmigungspflichtigen Gruppentherapie eine Bewertung je Teilnehmer gemäß den entsprechenden Gebührenordnungspositionen aus Abschnitt 35.2.2 EBM heranzuziehen. 9. Im Falle der gemeinsamen Durchführung einer Gruppenbehandlung gemäß Nummer 8 durch zwei Psychotherapeuten mit ihnen jeweils fest zugeordneten Patienten (Bezugspatienten) gemäß § 21 Abs. 1 Nr. 2 der Psychotherapie-Richtlinie berechnet jeder Psychotherapeut die Gebührenordnungsposition (letzte Ziffer) nach der Anzahl seiner jeweiligen Bezugspatienten. 35.2.1 Einzeltherapien"
+    },
+    {
+      "code": "35175",
+      "title": "Gruppenpsychotherapeutische Grundversorgung mit 5 Teilnehmern",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 85.23,
+        "valuation_in_points": 669
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Entgegen den Allgemeinen Bestimmungen 2.1 sind die Gebührenordnungspositionen 35173 bis 35179 auch bei einer Sitzung von weniger als 100 Minuten, aber mindestens 50 Minuten Dauer, berechnungsfähig. In diesem Fall ist durch die Kassenärztliche Vereinigung von der Punktzahl der jeweiligen Gebührenordnungsposition ein Abschlag in Höhe von 50 % vorzunehmen und die Prüfzeit um 50 % zu reduzieren. Die Gebührenordnungspositionen 35173 bis 35179 sind gemäß § 11a Abs. 3 der Psychotherapie-Richtlinie höchstens 4- mal im Krankheitsfall berechnungsfähig. Für den Fall der Einbeziehung von relevanten Bezugspersonen sind im Rahmen einer Kinder- und Jugendlichenpsychotherapie und bei Versicherten mit Vorliegen einer Intelligenzstörung (ICD-10-GM: F70-F79) die Gebührenordnungspositionen 35173 bis 35179 höchstens 5-mal im Krankheitsfall berechnungsfähig. Die Gebührenordnungspositionen 35173 bis 35179 sind in der Systemischen Therapie auch bei Durchführung der Leistungen im Mehrpersonensetting berechnungsfähig. Die Gebührenordnungspositionen 35173 bis 35179 sind nicht neben den Gebührenordnungspositionen 01205, 01207, 01210, 01212, 01214, 01216, 01218, 03230, 04230, 04231, 04355, 04356, 04430, 14220 bis 14222, 14310, 14311, 16220, 16230 bis 16233, 21216, 21220, 21221, 21230 bis 21233, 22213, 22220 bis 22222, 23220, 30702, 35100, 35110, 35140 bis 35142 und 35150 bis 35152 berechnungsfähig. Die Gebührenordnungspositionen 35173 bis 35179 sind am Behandlungstag nicht neben den Gebührenordnungspositionen des Abschnitts 35.2.2 berechnungsfähig. Die Gebührenordnungspositionen 35173 bis 35179 sind im Behandlungsfall nicht neben den Gebührenordnungspositionen 03040, 03220, 03221, 04040, 04220 und 04221 berechnungsfähig. 35.2 Antragspflichtige Leistungen 1. Die in dem Abschnitt 35.2 aufgeführten Gebührenordnungspositionen können ausschließlich von Vertragsärzten bzw. -psychotherapeuten, die über eine Genehmigung zur Ausführung und Abrechnung psychotherapeutischer Leistungen gemäß der Psychotherapie- Vereinbarung verfügen, berechnet werden. 2. Voraussetzung für die Berechnung der Gebührenordnungspositionen 35571 bis 35573 ist eine im Quartalszeitraum abgerechnete Gesamtpunktzahl der Gebührenordnungspositionen 30932, 30933, 35151, 35152, 35173 bis 35179, der Gebührenordnungspositionen der Abschnitte 35.2.1 und 35.2.2 und der Gebührenordnungspositionen 37500 und 37600 von mindestens 173.957 Punkten je Vertragsarzt bzw. -psychotherapeut (Mindestpunktzahl) nach Nummer 1 der Präambel. Sofern bei einem Vertragsarzt bzw. -psychotherapeuten kein voller Tätigkeitsumfang vorliegt, ist die Mindestpunktzahl mit dem Tätigkeitsumfang laut Zulassungs- bzw. Genehmigungsbescheid anteilig zu reduzieren. 3. Die Gebührenordnungspositionen 35571 bis 35573 sind berechnungsfähig, sobald im Abrechnungsquartal die abgerechnete Gesamtpunktzahl der Gebührenordnungspositionen 30932, 30933, 35151, 35152, 35173 bis 35179, der Gebührenordnungspositionen der Abschnitte 35.2.1 und 35.2.2 und der Gebührenordnungspositionen 37500 und 37600 das Punktzahlvolumen gemäß Nummer 2 überschreitet. Sofern die abgerechnete Gesamtpunktzahl der Gebührenordnungspositionen 30932, 30933, 35151, 35152, 35173 bis 35179, der Gebührenordnungspositionen der Abschnitte 35.2.1 und 35.2.2 und der Gebührenordnungspositionen 37500 und 37600 im Abrechnungsquartal das Doppelte der zu berücksichtigenden Mindestpunktzahlen gemäß Nummer 2 überschreitet, werden die Bewertungen der überschreitenden Gebührenordnungspositionen 35571 bis 35573 bis zu einer Maximalpunktzahl von 405.899 Punkten (voller Tätigkeitsumfang) bzw. 202.949 Punkten (hälftiger Tätigkeitsumfang) mit einem Faktor von 0,5 multipliziert. Sobald die abgerechnete Gesamtpunktzahl der Gebührenordnungspositionen 30932, 30933, 35151, 35152, 35173 bis 35179, der Gebührenordnungspositionen der Abschnitte 35.2.1 und 35.2.2 und der Gebührenordnungspositionen 37500 und 37600 die Maximalpunktzahl von 405.899 Punkten bei vollem Tätigkeitsumfang bzw. 202.949 Punkten bei hälftigem Tätigkeitsumfang überschreitet, sind die Gebührenordnungspositionen 35571 bis 35573 nicht mehr berechnungsfähig. 4. Die Regelung gemäß Nummer 3 wird wie folgt umgesetzt: Die Kassenärztliche Vereinigung setzt die Gebührenordnungspositionen 35571 bis 35573 im Quartal als Zuschläge zu allen abgerechneten Leistungen nach den Gebührenordnungspositionen 30932, 30933, 35151, 35152, 35173 bis 35179 und der Gebührenordnungspositionen der Abschnitte 35.2.1 und 35.2.2 und der Gebührenordnungspositionen 37500 und 37600 zu. 1. Sofern die im Abrechnungsquartal abgerechnete Gesamtpunktzahl der Gebührenordnungspositionen 30932, 30933, 35151, 35152, 35173 bis 35179, der Gebührenordnungspositionen der Abschnitte 35.2.1 und 35.2.2 und der Gebührenordnungspositionen 37500 und 37600 das Doppelte der zu berücksichtigenden Mindestpunktzahl gemäß Nummer 2 nicht überschreitet, ist die Bewertung der zugesetzten Gebührenordnungspositionen 35571 bis 35573 jeweils mit einer Quote zu multiplizieren, die sich aus der Differenz der abgerechneten Gesamtpunktzahl der Gebührenordnungspositionen 30932, 30933, 35151, 35152, 35173 bis 35179, der Gebührenordnungspositionen der Abschnitte 35.2.1 und 35.2.2 und der Gebührenordnungspositionen 37500 und 37600 des Vertragsarztes bzw. - psychotherapeuten zur Mindestpunktzahl gemäß Nummer 2 im Verhältnis zur abgerechneten Gesamtpunktzahl der Gebührenordnungspositionen 30932, 30933, 35151, 35152, 35173 bis 35179, der Gebührenordnungspositionen der Abschnitte 35.2.1 und 35.2.2 und der Gebührenordnungspositionen 37500 und 37600 des Vertragsarztes bzw. -psychotherapeuten ergibt und mindestens den Wert 0 annimmt. 2. Sofern die im Abrechnungsquartal abgerechnete Gesamtpunktzahl der Gebührenordnungspositionen 30932, 30933, 35151, 35152, 35173 bis 35179, der Gebührenordnungspositionen der Abschnitte 35.2.1 und 35.2.2 und der Gebührenordnungspositionen 37500 und 37600 das Doppelte der zu berücksichtigenden Mindestpunktzahl gemäß Nummer 2 überschreitet, ist die Bewertung der zugesetzten Gebührenordnungspositionen 35571 bis 35573 jeweils mit einer Quote zu multiplizieren, die sich aus der zu berücksichtigenden Mindestpunktzahl gemäß Nummer 2 zuzüglich dem 0,5- fachen der Differenz der abgerechneten Gesamtpunktzahl der Gebührenordnungspositionen 30932, 30933, 35151, 35152, 35173 bis 35179, der Gebührenordnungspositionen der Abschnitte 35.2.1 und 35.2.2 und der Gebührenordnungspositionen 37500 und 37600 - jedoch maximal 405. bei vollem Tätigkeitsumfang bzw. 202.949 Punkte bei hälftigem Tätigkeitsumfang - und des Doppelten der zu berücksichtigenden Mindestpunktzahl gemäß Nummer 2 im Verhältnis zur abgerechneten Gesamtpunktzahl der Gebührenordnungspositionen 30932, 30933, 35151, 35152, 35173 bis 35179, der Gebührenordnungspositionen der Abschnitte 35.2.1 und 35.2.2 und der Gebührenordnungspositionen 37500 und 37600 des Vertragsarztes bzw. -psychotherapeuten ergibt und mindestens den Wert 0 annimmt. 5. Bei der Ermittlung der abgerechneten Gesamtpunktzahl gemäß den Nummern 2 und 3 sowie der Quote gemäß Nummer 4 sind die in einem Selektivvertrag abgerechneten Leistungen inhaltlich entsprechend der Abschnitte 35.2.1 und 35.2.2, der psychotherapeutischen Sprechstunde gemäß der Gebührenordnungsposition 35151, der psychotherapeutischen Akutbehandlung gemäß der Gebührenordnungsposition 35152 sowie der gruppenpsychotherapeutischen Grundversorgung gemäß den Gebührenordnungspositionen 35173 bis 35179, den Gebührenordnungspositionen 30932 und 30933 und der Gebührenordnungspositionen 37500 und 37600 auf Nachweis des Vertragsarztes bzw. -psychotherapeuten zu berücksichtigen. 6. Die Gebührenordnungspositionen des Abschnitts 35.2.1, die Gebührenordnungspositionen 35503 bis 35508, 35513 bis 35518, 35523 bis 35528, 35533 bis 35538, 35543 bis 35548, 35553 bis 35558, 35703 bis 35708, 35713 bis 35718 und die Zuschläge nach den Gebührenordnungspositionen 35571, 35572, 35573, 35591 und 35593 bis 35598 sind auch bei Durchführung der Leistungen im Rahmen einer Videosprechstunde berechnungsfähig, wenn die Voraussetzungen gemäß § 21 der Anlage 1 zum Bundesmantelvertrag-Ärzte (BMV-Ä) und der Anlage 31b zum BMV- Ä erfüllt sind. Die Durchführung als Videosprechstunde ist durch Angabe einer bundeseinheitlich kodierten Zusatzkennzeichnung zu dokumentieren. 7. Im Falle der gemeinsamen Durchführung von Gruppentherapie durch zwei Psychotherapeuten mit ihnen jeweils fest zugeordneten Patienten (Bezugspatienten) gemäß § 21 Abs. 1 Nr. 2 der Psychotherapie-Richtlinie berechnet jeder Psychotherapeut die Gebührenordnungsposition (letzte Ziffer) nach der Anzahl seiner jeweiligen Bezugspatienten. 8. Für Gruppenbehandlungen gemäß § 19 Abs. 6 der Psychotherapie- Vereinbarung, bei denen in derselben Sitzung bei verschiedenen Patienten entweder Gruppentherapie oder probatorische Sitzungen im Gruppensetting zeitgleich angewendet werden, sind alle Patienten zur Ermittlung der gesamten Gruppengröße mitzuzählen. Maßgeblich für die jeweilige Bewertung je Teilnehmer ist die gesamte Gruppengröße (bestehend aus Patienten, für die Gruppentherapie angewendet wird und Patienten in einer probatorischen Sitzung im Gruppensetting). Auf Basis dieser gesamten Gruppengröße mit insgesamt mindestens drei Patienten ist für Patienten mit einer probatorischen Sitzung im Gruppensetting eine Bewertung je Teilnehmer gemäß den Gebührenordnungspositionen 35163 bis 35169 und für Patienten mit einer antrags- und genehmigungspflichtigen Gruppentherapie eine Bewertung je Teilnehmer gemäß den entsprechenden Gebührenordnungspositionen aus Abschnitt 35.2.2 EBM heranzuziehen. 9. Im Falle der gemeinsamen Durchführung einer Gruppenbehandlung gemäß Nummer 8 durch zwei Psychotherapeuten mit ihnen jeweils fest zugeordneten Patienten (Bezugspatienten) gemäß § 21 Abs. 1 Nr. 2 der Psychotherapie-Richtlinie berechnet jeder Psychotherapeut die Gebührenordnungsposition (letzte Ziffer) nach der Anzahl seiner jeweiligen Bezugspatienten. 35.2.1 Einzeltherapien"
+    },
+    {
+      "code": "35176",
+      "title": "Gruppenpsychotherapeutische Grundversorgung mit 6 Teilnehmern",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 77.97,
+        "valuation_in_points": 612
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Entgegen den Allgemeinen Bestimmungen 2.1 sind die Gebührenordnungspositionen 35173 bis 35179 auch bei einer Sitzung von weniger als 100 Minuten, aber mindestens 50 Minuten Dauer, berechnungsfähig. In diesem Fall ist durch die Kassenärztliche Vereinigung von der Punktzahl der jeweiligen Gebührenordnungsposition ein Abschlag in Höhe von 50 % vorzunehmen und die Prüfzeit um 50 % zu reduzieren. Die Gebührenordnungspositionen 35173 bis 35179 sind gemäß § 11a Abs. 3 der Psychotherapie-Richtlinie höchstens 4- mal im Krankheitsfall berechnungsfähig. Für den Fall der Einbeziehung von relevanten Bezugspersonen sind im Rahmen einer Kinder- und Jugendlichenpsychotherapie und bei Versicherten mit Vorliegen einer Intelligenzstörung (ICD-10-GM: F70-F79) die Gebührenordnungspositionen 35173 bis 35179 höchstens 5-mal im Krankheitsfall berechnungsfähig. Die Gebührenordnungspositionen 35173 bis 35179 sind in der Systemischen Therapie auch bei Durchführung der Leistungen im Mehrpersonensetting berechnungsfähig. Die Gebührenordnungspositionen 35173 bis 35179 sind nicht neben den Gebührenordnungspositionen 01205, 01207, 01210, 01212, 01214, 01216, 01218, 03230, 04230, 04231, 04355, 04356, 04430, 14220 bis 14222, 14310, 14311, 16220, 16230 bis 16233, 21216, 21220, 21221, 21230 bis 21233, 22213, 22220 bis 22222, 23220, 30702, 35100, 35110, 35140 bis 35142 und 35150 bis 35152 berechnungsfähig. Die Gebührenordnungspositionen 35173 bis 35179 sind am Behandlungstag nicht neben den Gebührenordnungspositionen des Abschnitts 35.2.2 berechnungsfähig. Die Gebührenordnungspositionen 35173 bis 35179 sind im Behandlungsfall nicht neben den Gebührenordnungspositionen 03040, 03220, 03221, 04040, 04220 und 04221 berechnungsfähig. 35.2 Antragspflichtige Leistungen 1. Die in dem Abschnitt 35.2 aufgeführten Gebührenordnungspositionen können ausschließlich von Vertragsärzten bzw. -psychotherapeuten, die über eine Genehmigung zur Ausführung und Abrechnung psychotherapeutischer Leistungen gemäß der Psychotherapie- Vereinbarung verfügen, berechnet werden. 2. Voraussetzung für die Berechnung der Gebührenordnungspositionen 35571 bis 35573 ist eine im Quartalszeitraum abgerechnete Gesamtpunktzahl der Gebührenordnungspositionen 30932, 30933, 35151, 35152, 35173 bis 35179, der Gebührenordnungspositionen der Abschnitte 35.2.1 und 35.2.2 und der Gebührenordnungspositionen 37500 und 37600 von mindestens 173.957 Punkten je Vertragsarzt bzw. -psychotherapeut (Mindestpunktzahl) nach Nummer 1 der Präambel. Sofern bei einem Vertragsarzt bzw. -psychotherapeuten kein voller Tätigkeitsumfang vorliegt, ist die Mindestpunktzahl mit dem Tätigkeitsumfang laut Zulassungs- bzw. Genehmigungsbescheid anteilig zu reduzieren. 3. Die Gebührenordnungspositionen 35571 bis 35573 sind berechnungsfähig, sobald im Abrechnungsquartal die abgerechnete Gesamtpunktzahl der Gebührenordnungspositionen 30932, 30933, 35151, 35152, 35173 bis 35179, der Gebührenordnungspositionen der Abschnitte 35.2.1 und 35.2.2 und der Gebührenordnungspositionen 37500 und 37600 das Punktzahlvolumen gemäß Nummer 2 überschreitet. Sofern die abgerechnete Gesamtpunktzahl der Gebührenordnungspositionen 30932, 30933, 35151, 35152, 35173 bis 35179, der Gebührenordnungspositionen der Abschnitte 35.2.1 und 35.2.2 und der Gebührenordnungspositionen 37500 und 37600 im Abrechnungsquartal das Doppelte der zu berücksichtigenden Mindestpunktzahlen gemäß Nummer 2 überschreitet, werden die Bewertungen der überschreitenden Gebührenordnungspositionen 35571 bis 35573 bis zu einer Maximalpunktzahl von 405.899 Punkten (voller Tätigkeitsumfang) bzw. 202.949 Punkten (hälftiger Tätigkeitsumfang) mit einem Faktor von 0,5 multipliziert. Sobald die abgerechnete Gesamtpunktzahl der Gebührenordnungspositionen 30932, 30933, 35151, 35152, 35173 bis 35179, der Gebührenordnungspositionen der Abschnitte 35.2.1 und 35.2.2 und der Gebührenordnungspositionen 37500 und 37600 die Maximalpunktzahl von 405.899 Punkten bei vollem Tätigkeitsumfang bzw. 202.949 Punkten bei hälftigem Tätigkeitsumfang überschreitet, sind die Gebührenordnungspositionen 35571 bis 35573 nicht mehr berechnungsfähig. 4. Die Regelung gemäß Nummer 3 wird wie folgt umgesetzt: Die Kassenärztliche Vereinigung setzt die Gebührenordnungspositionen 35571 bis 35573 im Quartal als Zuschläge zu allen abgerechneten Leistungen nach den Gebührenordnungspositionen 30932, 30933, 35151, 35152, 35173 bis 35179 und der Gebührenordnungspositionen der Abschnitte 35.2.1 und 35.2.2 und der Gebührenordnungspositionen 37500 und 37600 zu. 1. Sofern die im Abrechnungsquartal abgerechnete Gesamtpunktzahl der Gebührenordnungspositionen 30932, 30933, 35151, 35152, 35173 bis 35179, der Gebührenordnungspositionen der Abschnitte 35.2.1 und 35.2.2 und der Gebührenordnungspositionen 37500 und 37600 das Doppelte der zu berücksichtigenden Mindestpunktzahl gemäß Nummer 2 nicht überschreitet, ist die Bewertung der zugesetzten Gebührenordnungspositionen 35571 bis 35573 jeweils mit einer Quote zu multiplizieren, die sich aus der Differenz der abgerechneten Gesamtpunktzahl der Gebührenordnungspositionen 30932, 30933, 35151, 35152, 35173 bis 35179, der Gebührenordnungspositionen der Abschnitte 35.2.1 und 35.2.2 und der Gebührenordnungspositionen 37500 und 37600 des Vertragsarztes bzw. - psychotherapeuten zur Mindestpunktzahl gemäß Nummer 2 im Verhältnis zur abgerechneten Gesamtpunktzahl der Gebührenordnungspositionen 30932, 30933, 35151, 35152, 35173 bis 35179, der Gebührenordnungspositionen der Abschnitte 35.2.1 und 35.2.2 und der Gebührenordnungspositionen 37500 und 37600 des Vertragsarztes bzw. -psychotherapeuten ergibt und mindestens den Wert 0 annimmt. 2. Sofern die im Abrechnungsquartal abgerechnete Gesamtpunktzahl der Gebührenordnungspositionen 30932, 30933, 35151, 35152, 35173 bis 35179, der Gebührenordnungspositionen der Abschnitte 35.2.1 und 35.2.2 und der Gebührenordnungspositionen 37500 und 37600 das Doppelte der zu berücksichtigenden Mindestpunktzahl gemäß Nummer 2 überschreitet, ist die Bewertung der zugesetzten Gebührenordnungspositionen 35571 bis 35573 jeweils mit einer Quote zu multiplizieren, die sich aus der zu berücksichtigenden Mindestpunktzahl gemäß Nummer 2 zuzüglich dem 0,5- fachen der Differenz der abgerechneten Gesamtpunktzahl der Gebührenordnungspositionen 30932, 30933, 35151, 35152, 35173 bis 35179, der Gebührenordnungspositionen der Abschnitte 35.2.1 und 35.2.2 und der Gebührenordnungspositionen 37500 und 37600 - jedoch maximal 405. bei vollem Tätigkeitsumfang bzw. 202.949 Punkte bei hälftigem Tätigkeitsumfang - und des Doppelten der zu berücksichtigenden Mindestpunktzahl gemäß Nummer 2 im Verhältnis zur abgerechneten Gesamtpunktzahl der Gebührenordnungspositionen 30932, 30933, 35151, 35152, 35173 bis 35179, der Gebührenordnungspositionen der Abschnitte 35.2.1 und 35.2.2 und der Gebührenordnungspositionen 37500 und 37600 des Vertragsarztes bzw. -psychotherapeuten ergibt und mindestens den Wert 0 annimmt. 5. Bei der Ermittlung der abgerechneten Gesamtpunktzahl gemäß den Nummern 2 und 3 sowie der Quote gemäß Nummer 4 sind die in einem Selektivvertrag abgerechneten Leistungen inhaltlich entsprechend der Abschnitte 35.2.1 und 35.2.2, der psychotherapeutischen Sprechstunde gemäß der Gebührenordnungsposition 35151, der psychotherapeutischen Akutbehandlung gemäß der Gebührenordnungsposition 35152 sowie der gruppenpsychotherapeutischen Grundversorgung gemäß den Gebührenordnungspositionen 35173 bis 35179, den Gebührenordnungspositionen 30932 und 30933 und der Gebührenordnungspositionen 37500 und 37600 auf Nachweis des Vertragsarztes bzw. -psychotherapeuten zu berücksichtigen. 6. Die Gebührenordnungspositionen des Abschnitts 35.2.1, die Gebührenordnungspositionen 35503 bis 35508, 35513 bis 35518, 35523 bis 35528, 35533 bis 35538, 35543 bis 35548, 35553 bis 35558, 35703 bis 35708, 35713 bis 35718 und die Zuschläge nach den Gebührenordnungspositionen 35571, 35572, 35573, 35591 und 35593 bis 35598 sind auch bei Durchführung der Leistungen im Rahmen einer Videosprechstunde berechnungsfähig, wenn die Voraussetzungen gemäß § 21 der Anlage 1 zum Bundesmantelvertrag-Ärzte (BMV-Ä) und der Anlage 31b zum BMV- Ä erfüllt sind. Die Durchführung als Videosprechstunde ist durch Angabe einer bundeseinheitlich kodierten Zusatzkennzeichnung zu dokumentieren. 7. Im Falle der gemeinsamen Durchführung von Gruppentherapie durch zwei Psychotherapeuten mit ihnen jeweils fest zugeordneten Patienten (Bezugspatienten) gemäß § 21 Abs. 1 Nr. 2 der Psychotherapie-Richtlinie berechnet jeder Psychotherapeut die Gebührenordnungsposition (letzte Ziffer) nach der Anzahl seiner jeweiligen Bezugspatienten. 8. Für Gruppenbehandlungen gemäß § 19 Abs. 6 der Psychotherapie- Vereinbarung, bei denen in derselben Sitzung bei verschiedenen Patienten entweder Gruppentherapie oder probatorische Sitzungen im Gruppensetting zeitgleich angewendet werden, sind alle Patienten zur Ermittlung der gesamten Gruppengröße mitzuzählen. Maßgeblich für die jeweilige Bewertung je Teilnehmer ist die gesamte Gruppengröße (bestehend aus Patienten, für die Gruppentherapie angewendet wird und Patienten in einer probatorischen Sitzung im Gruppensetting). Auf Basis dieser gesamten Gruppengröße mit insgesamt mindestens drei Patienten ist für Patienten mit einer probatorischen Sitzung im Gruppensetting eine Bewertung je Teilnehmer gemäß den Gebührenordnungspositionen 35163 bis 35169 und für Patienten mit einer antrags- und genehmigungspflichtigen Gruppentherapie eine Bewertung je Teilnehmer gemäß den entsprechenden Gebührenordnungspositionen aus Abschnitt 35.2.2 EBM heranzuziehen. 9. Im Falle der gemeinsamen Durchführung einer Gruppenbehandlung gemäß Nummer 8 durch zwei Psychotherapeuten mit ihnen jeweils fest zugeordneten Patienten (Bezugspatienten) gemäß § 21 Abs. 1 Nr. 2 der Psychotherapie-Richtlinie berechnet jeder Psychotherapeut die Gebührenordnungsposition (letzte Ziffer) nach der Anzahl seiner jeweiligen Bezugspatienten. 35.2.1 Einzeltherapien"
+    },
+    {
+      "code": "35177",
+      "title": "Gruppenpsychotherapeutische Grundversorgung mit 7 Teilnehmern",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 72.75,
+        "valuation_in_points": 571
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Entgegen den Allgemeinen Bestimmungen 2.1 sind die Gebührenordnungspositionen 35173 bis 35179 auch bei einer Sitzung von weniger als 100 Minuten, aber mindestens 50 Minuten Dauer, berechnungsfähig. In diesem Fall ist durch die Kassenärztliche Vereinigung von der Punktzahl der jeweiligen Gebührenordnungsposition ein Abschlag in Höhe von 50 % vorzunehmen und die Prüfzeit um 50 % zu reduzieren. Die Gebührenordnungspositionen 35173 bis 35179 sind gemäß § 11a Abs. 3 der Psychotherapie-Richtlinie höchstens 4- mal im Krankheitsfall berechnungsfähig. Für den Fall der Einbeziehung von relevanten Bezugspersonen sind im Rahmen einer Kinder- und Jugendlichenpsychotherapie und bei Versicherten mit Vorliegen einer Intelligenzstörung (ICD-10-GM: F70-F79) die Gebührenordnungspositionen 35173 bis 35179 höchstens 5-mal im Krankheitsfall berechnungsfähig. Die Gebührenordnungspositionen 35173 bis 35179 sind in der Systemischen Therapie auch bei Durchführung der Leistungen im Mehrpersonensetting berechnungsfähig. Die Gebührenordnungspositionen 35173 bis 35179 sind nicht neben den Gebührenordnungspositionen 01205, 01207, 01210, 01212, 01214, 01216, 01218, 03230, 04230, 04231, 04355, 04356, 04430, 14220 bis 14222, 14310, 14311, 16220, 16230 bis 16233, 21216, 21220, 21221, 21230 bis 21233, 22213, 22220 bis 22222, 23220, 30702, 35100, 35110, 35140 bis 35142 und 35150 bis 35152 berechnungsfähig. Die Gebührenordnungspositionen 35173 bis 35179 sind am Behandlungstag nicht neben den Gebührenordnungspositionen des Abschnitts 35.2.2 berechnungsfähig. Die Gebührenordnungspositionen 35173 bis 35179 sind im Behandlungsfall nicht neben den Gebührenordnungspositionen 03040, 03220, 03221, 04040, 04220 und 04221 berechnungsfähig. 35.2 Antragspflichtige Leistungen 1. Die in dem Abschnitt 35.2 aufgeführten Gebührenordnungspositionen können ausschließlich von Vertragsärzten bzw. -psychotherapeuten, die über eine Genehmigung zur Ausführung und Abrechnung psychotherapeutischer Leistungen gemäß der Psychotherapie- Vereinbarung verfügen, berechnet werden. 2. Voraussetzung für die Berechnung der Gebührenordnungspositionen 35571 bis 35573 ist eine im Quartalszeitraum abgerechnete Gesamtpunktzahl der Gebührenordnungspositionen 30932, 30933, 35151, 35152, 35173 bis 35179, der Gebührenordnungspositionen der Abschnitte 35.2.1 und 35.2.2 und der Gebührenordnungspositionen 37500 und 37600 von mindestens 173.957 Punkten je Vertragsarzt bzw. -psychotherapeut (Mindestpunktzahl) nach Nummer 1 der Präambel. Sofern bei einem Vertragsarzt bzw. -psychotherapeuten kein voller Tätigkeitsumfang vorliegt, ist die Mindestpunktzahl mit dem Tätigkeitsumfang laut Zulassungs- bzw. Genehmigungsbescheid anteilig zu reduzieren. 3. Die Gebührenordnungspositionen 35571 bis 35573 sind berechnungsfähig, sobald im Abrechnungsquartal die abgerechnete Gesamtpunktzahl der Gebührenordnungspositionen 30932, 30933, 35151, 35152, 35173 bis 35179, der Gebührenordnungspositionen der Abschnitte 35.2.1 und 35.2.2 und der Gebührenordnungspositionen 37500 und 37600 das Punktzahlvolumen gemäß Nummer 2 überschreitet. Sofern die abgerechnete Gesamtpunktzahl der Gebührenordnungspositionen 30932, 30933, 35151, 35152, 35173 bis 35179, der Gebührenordnungspositionen der Abschnitte 35.2.1 und 35.2.2 und der Gebührenordnungspositionen 37500 und 37600 im Abrechnungsquartal das Doppelte der zu berücksichtigenden Mindestpunktzahlen gemäß Nummer 2 überschreitet, werden die Bewertungen der überschreitenden Gebührenordnungspositionen 35571 bis 35573 bis zu einer Maximalpunktzahl von 405.899 Punkten (voller Tätigkeitsumfang) bzw. 202.949 Punkten (hälftiger Tätigkeitsumfang) mit einem Faktor von 0,5 multipliziert. Sobald die abgerechnete Gesamtpunktzahl der Gebührenordnungspositionen 30932, 30933, 35151, 35152, 35173 bis 35179, der Gebührenordnungspositionen der Abschnitte 35.2.1 und 35.2.2 und der Gebührenordnungspositionen 37500 und 37600 die Maximalpunktzahl von 405.899 Punkten bei vollem Tätigkeitsumfang bzw. 202.949 Punkten bei hälftigem Tätigkeitsumfang überschreitet, sind die Gebührenordnungspositionen 35571 bis 35573 nicht mehr berechnungsfähig. 4. Die Regelung gemäß Nummer 3 wird wie folgt umgesetzt: Die Kassenärztliche Vereinigung setzt die Gebührenordnungspositionen 35571 bis 35573 im Quartal als Zuschläge zu allen abgerechneten Leistungen nach den Gebührenordnungspositionen 30932, 30933, 35151, 35152, 35173 bis 35179 und der Gebührenordnungspositionen der Abschnitte 35.2.1 und 35.2.2 und der Gebührenordnungspositionen 37500 und 37600 zu. 1. Sofern die im Abrechnungsquartal abgerechnete Gesamtpunktzahl der Gebührenordnungspositionen 30932, 30933, 35151, 35152, 35173 bis 35179, der Gebührenordnungspositionen der Abschnitte 35.2.1 und 35.2.2 und der Gebührenordnungspositionen 37500 und 37600 das Doppelte der zu berücksichtigenden Mindestpunktzahl gemäß Nummer 2 nicht überschreitet, ist die Bewertung der zugesetzten Gebührenordnungspositionen 35571 bis 35573 jeweils mit einer Quote zu multiplizieren, die sich aus der Differenz der abgerechneten Gesamtpunktzahl der Gebührenordnungspositionen 30932, 30933, 35151, 35152, 35173 bis 35179, der Gebührenordnungspositionen der Abschnitte 35.2.1 und 35.2.2 und der Gebührenordnungspositionen 37500 und 37600 des Vertragsarztes bzw. - psychotherapeuten zur Mindestpunktzahl gemäß Nummer 2 im Verhältnis zur abgerechneten Gesamtpunktzahl der Gebührenordnungspositionen 30932, 30933, 35151, 35152, 35173 bis 35179, der Gebührenordnungspositionen der Abschnitte 35.2.1 und 35.2.2 und der Gebührenordnungspositionen 37500 und 37600 des Vertragsarztes bzw. -psychotherapeuten ergibt und mindestens den Wert 0 annimmt. 2. Sofern die im Abrechnungsquartal abgerechnete Gesamtpunktzahl der Gebührenordnungspositionen 30932, 30933, 35151, 35152, 35173 bis 35179, der Gebührenordnungspositionen der Abschnitte 35.2.1 und 35.2.2 und der Gebührenordnungspositionen 37500 und 37600 das Doppelte der zu berücksichtigenden Mindestpunktzahl gemäß Nummer 2 überschreitet, ist die Bewertung der zugesetzten Gebührenordnungspositionen 35571 bis 35573 jeweils mit einer Quote zu multiplizieren, die sich aus der zu berücksichtigenden Mindestpunktzahl gemäß Nummer 2 zuzüglich dem 0,5- fachen der Differenz der abgerechneten Gesamtpunktzahl der Gebührenordnungspositionen 30932, 30933, 35151, 35152, 35173 bis 35179, der Gebührenordnungspositionen der Abschnitte 35.2.1 und 35.2.2 und der Gebührenordnungspositionen 37500 und 37600 - jedoch maximal 405. bei vollem Tätigkeitsumfang bzw. 202.949 Punkte bei hälftigem Tätigkeitsumfang - und des Doppelten der zu berücksichtigenden Mindestpunktzahl gemäß Nummer 2 im Verhältnis zur abgerechneten Gesamtpunktzahl der Gebührenordnungspositionen 30932, 30933, 35151, 35152, 35173 bis 35179, der Gebührenordnungspositionen der Abschnitte 35.2.1 und 35.2.2 und der Gebührenordnungspositionen 37500 und 37600 des Vertragsarztes bzw. -psychotherapeuten ergibt und mindestens den Wert 0 annimmt. 5. Bei der Ermittlung der abgerechneten Gesamtpunktzahl gemäß den Nummern 2 und 3 sowie der Quote gemäß Nummer 4 sind die in einem Selektivvertrag abgerechneten Leistungen inhaltlich entsprechend der Abschnitte 35.2.1 und 35.2.2, der psychotherapeutischen Sprechstunde gemäß der Gebührenordnungsposition 35151, der psychotherapeutischen Akutbehandlung gemäß der Gebührenordnungsposition 35152 sowie der gruppenpsychotherapeutischen Grundversorgung gemäß den Gebührenordnungspositionen 35173 bis 35179, den Gebührenordnungspositionen 30932 und 30933 und der Gebührenordnungspositionen 37500 und 37600 auf Nachweis des Vertragsarztes bzw. -psychotherapeuten zu berücksichtigen. 6. Die Gebührenordnungspositionen des Abschnitts 35.2.1, die Gebührenordnungspositionen 35503 bis 35508, 35513 bis 35518, 35523 bis 35528, 35533 bis 35538, 35543 bis 35548, 35553 bis 35558, 35703 bis 35708, 35713 bis 35718 und die Zuschläge nach den Gebührenordnungspositionen 35571, 35572, 35573, 35591 und 35593 bis 35598 sind auch bei Durchführung der Leistungen im Rahmen einer Videosprechstunde berechnungsfähig, wenn die Voraussetzungen gemäß § 21 der Anlage 1 zum Bundesmantelvertrag-Ärzte (BMV-Ä) und der Anlage 31b zum BMV- Ä erfüllt sind. Die Durchführung als Videosprechstunde ist durch Angabe einer bundeseinheitlich kodierten Zusatzkennzeichnung zu dokumentieren. 7. Im Falle der gemeinsamen Durchführung von Gruppentherapie durch zwei Psychotherapeuten mit ihnen jeweils fest zugeordneten Patienten (Bezugspatienten) gemäß § 21 Abs. 1 Nr. 2 der Psychotherapie-Richtlinie berechnet jeder Psychotherapeut die Gebührenordnungsposition (letzte Ziffer) nach der Anzahl seiner jeweiligen Bezugspatienten. 8. Für Gruppenbehandlungen gemäß § 19 Abs. 6 der Psychotherapie- Vereinbarung, bei denen in derselben Sitzung bei verschiedenen Patienten entweder Gruppentherapie oder probatorische Sitzungen im Gruppensetting zeitgleich angewendet werden, sind alle Patienten zur Ermittlung der gesamten Gruppengröße mitzuzählen. Maßgeblich für die jeweilige Bewertung je Teilnehmer ist die gesamte Gruppengröße (bestehend aus Patienten, für die Gruppentherapie angewendet wird und Patienten in einer probatorischen Sitzung im Gruppensetting). Auf Basis dieser gesamten Gruppengröße mit insgesamt mindestens drei Patienten ist für Patienten mit einer probatorischen Sitzung im Gruppensetting eine Bewertung je Teilnehmer gemäß den Gebührenordnungspositionen 35163 bis 35169 und für Patienten mit einer antrags- und genehmigungspflichtigen Gruppentherapie eine Bewertung je Teilnehmer gemäß den entsprechenden Gebührenordnungspositionen aus Abschnitt 35.2.2 EBM heranzuziehen. 9. Im Falle der gemeinsamen Durchführung einer Gruppenbehandlung gemäß Nummer 8 durch zwei Psychotherapeuten mit ihnen jeweils fest zugeordneten Patienten (Bezugspatienten) gemäß § 21 Abs. 1 Nr. 2 der Psychotherapie-Richtlinie berechnet jeder Psychotherapeut die Gebührenordnungsposition (letzte Ziffer) nach der Anzahl seiner jeweiligen Bezugspatienten. 35.2.1 Einzeltherapien"
+    },
+    {
+      "code": "35178",
+      "title": "Gruppenpsychotherapeutische Grundversorgung mit 8 Teilnehmern",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 69.05,
+        "valuation_in_points": 542
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Entgegen den Allgemeinen Bestimmungen 2.1 sind die Gebührenordnungspositionen 35173 bis 35179 auch bei einer Sitzung von weniger als 100 Minuten, aber mindestens 50 Minuten Dauer, berechnungsfähig. In diesem Fall ist durch die Kassenärztliche Vereinigung von der Punktzahl der jeweiligen Gebührenordnungsposition ein Abschlag in Höhe von 50 % vorzunehmen und die Prüfzeit um 50 % zu reduzieren. Die Gebührenordnungspositionen 35173 bis 35179 sind gemäß § 11a Abs. 3 der Psychotherapie-Richtlinie höchstens 4- mal im Krankheitsfall berechnungsfähig. Für den Fall der Einbeziehung von relevanten Bezugspersonen sind im Rahmen einer Kinder- und Jugendlichenpsychotherapie und bei Versicherten mit Vorliegen einer Intelligenzstörung (ICD-10-GM: F70-F79) die Gebührenordnungspositionen 35173 bis 35179 höchstens 5-mal im Krankheitsfall berechnungsfähig. Die Gebührenordnungspositionen 35173 bis 35179 sind in der Systemischen Therapie auch bei Durchführung der Leistungen im Mehrpersonensetting berechnungsfähig. Die Gebührenordnungspositionen 35173 bis 35179 sind nicht neben den Gebührenordnungspositionen 01205, 01207, 01210, 01212, 01214, 01216, 01218, 03230, 04230, 04231, 04355, 04356, 04430, 14220 bis 14222, 14310, 14311, 16220, 16230 bis 16233, 21216, 21220, 21221, 21230 bis 21233, 22213, 22220 bis 22222, 23220, 30702, 35100, 35110, 35140 bis 35142 und 35150 bis 35152 berechnungsfähig. Die Gebührenordnungspositionen 35173 bis 35179 sind am Behandlungstag nicht neben den Gebührenordnungspositionen des Abschnitts 35.2.2 berechnungsfähig. Die Gebührenordnungspositionen 35173 bis 35179 sind im Behandlungsfall nicht neben den Gebührenordnungspositionen 03040, 03220, 03221, 04040, 04220 und 04221 berechnungsfähig. 35.2 Antragspflichtige Leistungen 1. Die in dem Abschnitt 35.2 aufgeführten Gebührenordnungspositionen können ausschließlich von Vertragsärzten bzw. -psychotherapeuten, die über eine Genehmigung zur Ausführung und Abrechnung psychotherapeutischer Leistungen gemäß der Psychotherapie- Vereinbarung verfügen, berechnet werden. 2. Voraussetzung für die Berechnung der Gebührenordnungspositionen 35571 bis 35573 ist eine im Quartalszeitraum abgerechnete Gesamtpunktzahl der Gebührenordnungspositionen 30932, 30933, 35151, 35152, 35173 bis 35179, der Gebührenordnungspositionen der Abschnitte 35.2.1 und 35.2.2 und der Gebührenordnungspositionen 37500 und 37600 von mindestens 173.957 Punkten je Vertragsarzt bzw. -psychotherapeut (Mindestpunktzahl) nach Nummer 1 der Präambel. Sofern bei einem Vertragsarzt bzw. -psychotherapeuten kein voller Tätigkeitsumfang vorliegt, ist die Mindestpunktzahl mit dem Tätigkeitsumfang laut Zulassungs- bzw. Genehmigungsbescheid anteilig zu reduzieren. 3. Die Gebührenordnungspositionen 35571 bis 35573 sind berechnungsfähig, sobald im Abrechnungsquartal die abgerechnete Gesamtpunktzahl der Gebührenordnungspositionen 30932, 30933, 35151, 35152, 35173 bis 35179, der Gebührenordnungspositionen der Abschnitte 35.2.1 und 35.2.2 und der Gebührenordnungspositionen 37500 und 37600 das Punktzahlvolumen gemäß Nummer 2 überschreitet. Sofern die abgerechnete Gesamtpunktzahl der Gebührenordnungspositionen 30932, 30933, 35151, 35152, 35173 bis 35179, der Gebührenordnungspositionen der Abschnitte 35.2.1 und 35.2.2 und der Gebührenordnungspositionen 37500 und 37600 im Abrechnungsquartal das Doppelte der zu berücksichtigenden Mindestpunktzahlen gemäß Nummer 2 überschreitet, werden die Bewertungen der überschreitenden Gebührenordnungspositionen 35571 bis 35573 bis zu einer Maximalpunktzahl von 405.899 Punkten (voller Tätigkeitsumfang) bzw. 202.949 Punkten (hälftiger Tätigkeitsumfang) mit einem Faktor von 0,5 multipliziert. Sobald die abgerechnete Gesamtpunktzahl der Gebührenordnungspositionen 30932, 30933, 35151, 35152, 35173 bis 35179, der Gebührenordnungspositionen der Abschnitte 35.2.1 und 35.2.2 und der Gebührenordnungspositionen 37500 und 37600 die Maximalpunktzahl von 405.899 Punkten bei vollem Tätigkeitsumfang bzw. 202.949 Punkten bei hälftigem Tätigkeitsumfang überschreitet, sind die Gebührenordnungspositionen 35571 bis 35573 nicht mehr berechnungsfähig. 4. Die Regelung gemäß Nummer 3 wird wie folgt umgesetzt: Die Kassenärztliche Vereinigung setzt die Gebührenordnungspositionen 35571 bis 35573 im Quartal als Zuschläge zu allen abgerechneten Leistungen nach den Gebührenordnungspositionen 30932, 30933, 35151, 35152, 35173 bis 35179 und der Gebührenordnungspositionen der Abschnitte 35.2.1 und 35.2.2 und der Gebührenordnungspositionen 37500 und 37600 zu. 1. Sofern die im Abrechnungsquartal abgerechnete Gesamtpunktzahl der Gebührenordnungspositionen 30932, 30933, 35151, 35152, 35173 bis 35179, der Gebührenordnungspositionen der Abschnitte 35.2.1 und 35.2.2 und der Gebührenordnungspositionen 37500 und 37600 das Doppelte der zu berücksichtigenden Mindestpunktzahl gemäß Nummer 2 nicht überschreitet, ist die Bewertung der zugesetzten Gebührenordnungspositionen 35571 bis 35573 jeweils mit einer Quote zu multiplizieren, die sich aus der Differenz der abgerechneten Gesamtpunktzahl der Gebührenordnungspositionen 30932, 30933, 35151, 35152, 35173 bis 35179, der Gebührenordnungspositionen der Abschnitte 35.2.1 und 35.2.2 und der Gebührenordnungspositionen 37500 und 37600 des Vertragsarztes bzw. - psychotherapeuten zur Mindestpunktzahl gemäß Nummer 2 im Verhältnis zur abgerechneten Gesamtpunktzahl der Gebührenordnungspositionen 30932, 30933, 35151, 35152, 35173 bis 35179, der Gebührenordnungspositionen der Abschnitte 35.2.1 und 35.2.2 und der Gebührenordnungspositionen 37500 und 37600 des Vertragsarztes bzw. -psychotherapeuten ergibt und mindestens den Wert 0 annimmt. 2. Sofern die im Abrechnungsquartal abgerechnete Gesamtpunktzahl der Gebührenordnungspositionen 30932, 30933, 35151, 35152, 35173 bis 35179, der Gebührenordnungspositionen der Abschnitte 35.2.1 und 35.2.2 und der Gebührenordnungspositionen 37500 und 37600 das Doppelte der zu berücksichtigenden Mindestpunktzahl gemäß Nummer 2 überschreitet, ist die Bewertung der zugesetzten Gebührenordnungspositionen 35571 bis 35573 jeweils mit einer Quote zu multiplizieren, die sich aus der zu berücksichtigenden Mindestpunktzahl gemäß Nummer 2 zuzüglich dem 0,5- fachen der Differenz der abgerechneten Gesamtpunktzahl der Gebührenordnungspositionen 30932, 30933, 35151, 35152, 35173 bis 35179, der Gebührenordnungspositionen der Abschnitte 35.2.1 und 35.2.2 und der Gebührenordnungspositionen 37500 und 37600 - jedoch maximal 405. bei vollem Tätigkeitsumfang bzw. 202.949 Punkte bei hälftigem Tätigkeitsumfang - und des Doppelten der zu berücksichtigenden Mindestpunktzahl gemäß Nummer 2 im Verhältnis zur abgerechneten Gesamtpunktzahl der Gebührenordnungspositionen 30932, 30933, 35151, 35152, 35173 bis 35179, der Gebührenordnungspositionen der Abschnitte 35.2.1 und 35.2.2 und der Gebührenordnungspositionen 37500 und 37600 des Vertragsarztes bzw. -psychotherapeuten ergibt und mindestens den Wert 0 annimmt. 5. Bei der Ermittlung der abgerechneten Gesamtpunktzahl gemäß den Nummern 2 und 3 sowie der Quote gemäß Nummer 4 sind die in einem Selektivvertrag abgerechneten Leistungen inhaltlich entsprechend der Abschnitte 35.2.1 und 35.2.2, der psychotherapeutischen Sprechstunde gemäß der Gebührenordnungsposition 35151, der psychotherapeutischen Akutbehandlung gemäß der Gebührenordnungsposition 35152 sowie der gruppenpsychotherapeutischen Grundversorgung gemäß den Gebührenordnungspositionen 35173 bis 35179, den Gebührenordnungspositionen 30932 und 30933 und der Gebührenordnungspositionen 37500 und 37600 auf Nachweis des Vertragsarztes bzw. -psychotherapeuten zu berücksichtigen. 6. Die Gebührenordnungspositionen des Abschnitts 35.2.1, die Gebührenordnungspositionen 35503 bis 35508, 35513 bis 35518, 35523 bis 35528, 35533 bis 35538, 35543 bis 35548, 35553 bis 35558, 35703 bis 35708, 35713 bis 35718 und die Zuschläge nach den Gebührenordnungspositionen 35571, 35572, 35573, 35591 und 35593 bis 35598 sind auch bei Durchführung der Leistungen im Rahmen einer Videosprechstunde berechnungsfähig, wenn die Voraussetzungen gemäß § 21 der Anlage 1 zum Bundesmantelvertrag-Ärzte (BMV-Ä) und der Anlage 31b zum BMV- Ä erfüllt sind. Die Durchführung als Videosprechstunde ist durch Angabe einer bundeseinheitlich kodierten Zusatzkennzeichnung zu dokumentieren. 7. Im Falle der gemeinsamen Durchführung von Gruppentherapie durch zwei Psychotherapeuten mit ihnen jeweils fest zugeordneten Patienten (Bezugspatienten) gemäß § 21 Abs. 1 Nr. 2 der Psychotherapie-Richtlinie berechnet jeder Psychotherapeut die Gebührenordnungsposition (letzte Ziffer) nach der Anzahl seiner jeweiligen Bezugspatienten. 8. Für Gruppenbehandlungen gemäß § 19 Abs. 6 der Psychotherapie- Vereinbarung, bei denen in derselben Sitzung bei verschiedenen Patienten entweder Gruppentherapie oder probatorische Sitzungen im Gruppensetting zeitgleich angewendet werden, sind alle Patienten zur Ermittlung der gesamten Gruppengröße mitzuzählen. Maßgeblich für die jeweilige Bewertung je Teilnehmer ist die gesamte Gruppengröße (bestehend aus Patienten, für die Gruppentherapie angewendet wird und Patienten in einer probatorischen Sitzung im Gruppensetting). Auf Basis dieser gesamten Gruppengröße mit insgesamt mindestens drei Patienten ist für Patienten mit einer probatorischen Sitzung im Gruppensetting eine Bewertung je Teilnehmer gemäß den Gebührenordnungspositionen 35163 bis 35169 und für Patienten mit einer antrags- und genehmigungspflichtigen Gruppentherapie eine Bewertung je Teilnehmer gemäß den entsprechenden Gebührenordnungspositionen aus Abschnitt 35.2.2 EBM heranzuziehen. 9. Im Falle der gemeinsamen Durchführung einer Gruppenbehandlung gemäß Nummer 8 durch zwei Psychotherapeuten mit ihnen jeweils fest zugeordneten Patienten (Bezugspatienten) gemäß § 21 Abs. 1 Nr. 2 der Psychotherapie-Richtlinie berechnet jeder Psychotherapeut die Gebührenordnungsposition (letzte Ziffer) nach der Anzahl seiner jeweiligen Bezugspatienten. 35.2.1 Einzeltherapien"
+    },
+    {
+      "code": "35179",
+      "title": "Gruppenpsychotherapeutische Grundversorgung mit 9 Teilnehmern Entgegen den Allgemeinen Bestimmungen 2.1 sind die Gebührenordnungspositionen 35173 bis 35179 auch bei einer Sitzung von weniger als 100 Minuten, aber mindestens 50 Minuten Dauer, berechnungsfähig. In diesem Fall ist durch die Kassenärztliche Vereinigung von der Punktzahl der jeweiligen Gebührenordnungsposition ein Abschlag in Höhe von 50 % vorzunehmen und die Prüfzeit um 50 % zu reduzieren.",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 66.12,
+        "valuation_in_points": 519
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Entgegen den Allgemeinen Bestimmungen 2.1 sind die Gebührenordnungspositionen 35173 bis 35179 auch bei einer Sitzung von weniger als 100 Minuten, aber mindestens 50 Minuten Dauer, berechnungsfähig. In diesem Fall ist durch die Kassenärztliche Vereinigung von der Punktzahl der jeweiligen Gebührenordnungsposition ein Abschlag in Höhe von 50 % vorzunehmen und die Prüfzeit um 50 % zu reduzieren. Die Gebührenordnungspositionen 35173 bis 35179 sind gemäß § 11a Abs. 3 der Psychotherapie-Richtlinie höchstens 4- mal im Krankheitsfall berechnungsfähig. Für den Fall der Einbeziehung von relevanten Bezugspersonen sind im Rahmen einer Kinder- und Jugendlichenpsychotherapie und bei Versicherten mit Vorliegen einer Intelligenzstörung (ICD-10-GM: F70-F79) die Gebührenordnungspositionen 35173 bis 35179 höchstens 5-mal im Krankheitsfall berechnungsfähig. Die Gebührenordnungspositionen 35173 bis 35179 sind in der Systemischen Therapie auch bei Durchführung der Leistungen im Mehrpersonensetting berechnungsfähig. Die Gebührenordnungspositionen 35173 bis 35179 sind nicht neben den Gebührenordnungspositionen 01205, 01207, 01210, 01212, 01214, 01216, 01218, 03230, 04230, 04231, 04355, 04356, 04430, 14220 bis 14222, 14310, 14311, 16220, 16230 bis 16233, 21216, 21220, 21221, 21230 bis 21233, 22213, 22220 bis 22222, 23220, 30702, 35100, 35110, 35140 bis 35142 und 35150 bis 35152 berechnungsfähig. Die Gebührenordnungspositionen 35173 bis 35179 sind am Behandlungstag nicht neben den Gebührenordnungspositionen des Abschnitts 35.2.2 berechnungsfähig. Die Gebührenordnungspositionen 35173 bis 35179 sind im Behandlungsfall nicht neben den Gebührenordnungspositionen 03040, 03220, 03221, 04040, 04220 und 04221 berechnungsfähig. 35.2 Antragspflichtige Leistungen 1. Die in dem Abschnitt 35.2 aufgeführten Gebührenordnungspositionen können ausschließlich von Vertragsärzten bzw. -psychotherapeuten, die über eine Genehmigung zur Ausführung und Abrechnung psychotherapeutischer Leistungen gemäß der Psychotherapie- Vereinbarung verfügen, berechnet werden. 2. Voraussetzung für die Berechnung der Gebührenordnungspositionen 35571 bis 35573 ist eine im Quartalszeitraum abgerechnete Gesamtpunktzahl der Gebührenordnungspositionen 30932, 30933, 35151, 35152, 35173 bis 35179, der Gebührenordnungspositionen der Abschnitte 35.2.1 und 35.2.2 und der Gebührenordnungspositionen 37500 und 37600 von mindestens 173.957 Punkten je Vertragsarzt bzw. -psychotherapeut (Mindestpunktzahl) nach Nummer 1 der Präambel. Sofern bei einem Vertragsarzt bzw. -psychotherapeuten kein voller Tätigkeitsumfang vorliegt, ist die Mindestpunktzahl mit dem Tätigkeitsumfang laut Zulassungs- bzw. Genehmigungsbescheid anteilig zu reduzieren. 3. Die Gebührenordnungspositionen 35571 bis 35573 sind berechnungsfähig, sobald im Abrechnungsquartal die abgerechnete Gesamtpunktzahl der Gebührenordnungspositionen 30932, 30933, 35151, 35152, 35173 bis 35179, der Gebührenordnungspositionen der Abschnitte 35.2.1 und 35.2.2 und der Gebührenordnungspositionen 37500 und 37600 das Punktzahlvolumen gemäß Nummer 2 überschreitet. Sofern die abgerechnete Gesamtpunktzahl der Gebührenordnungspositionen 30932, 30933, 35151, 35152, 35173 bis 35179, der Gebührenordnungspositionen der Abschnitte 35.2.1 und 35.2.2 und der Gebührenordnungspositionen 37500 und 37600 im Abrechnungsquartal das Doppelte der zu berücksichtigenden Mindestpunktzahlen gemäß Nummer 2 überschreitet, werden die Bewertungen der überschreitenden Gebührenordnungspositionen 35571 bis 35573 bis zu einer Maximalpunktzahl von 405.899 Punkten (voller Tätigkeitsumfang) bzw. 202.949 Punkten (hälftiger Tätigkeitsumfang) mit einem Faktor von 0,5 multipliziert. Sobald die abgerechnete Gesamtpunktzahl der Gebührenordnungspositionen 30932, 30933, 35151, 35152, 35173 bis 35179, der Gebührenordnungspositionen der Abschnitte 35.2.1 und 35.2.2 und der Gebührenordnungspositionen 37500 und 37600 die Maximalpunktzahl von 405.899 Punkten bei vollem Tätigkeitsumfang bzw. 202.949 Punkten bei hälftigem Tätigkeitsumfang überschreitet, sind die Gebührenordnungspositionen 35571 bis 35573 nicht mehr berechnungsfähig. 4. Die Regelung gemäß Nummer 3 wird wie folgt umgesetzt: Die Kassenärztliche Vereinigung setzt die Gebührenordnungspositionen 35571 bis 35573 im Quartal als Zuschläge zu allen abgerechneten Leistungen nach den Gebührenordnungspositionen 30932, 30933, 35151, 35152, 35173 bis 35179 und der Gebührenordnungspositionen der Abschnitte 35.2.1 und 35.2.2 und der Gebührenordnungspositionen 37500 und 37600 zu. 1. Sofern die im Abrechnungsquartal abgerechnete Gesamtpunktzahl der Gebührenordnungspositionen 30932, 30933, 35151, 35152, 35173 bis 35179, der Gebührenordnungspositionen der Abschnitte 35.2.1 und 35.2.2 und der Gebührenordnungspositionen 37500 und 37600 das Doppelte der zu berücksichtigenden Mindestpunktzahl gemäß Nummer 2 nicht überschreitet, ist die Bewertung der zugesetzten Gebührenordnungspositionen 35571 bis 35573 jeweils mit einer Quote zu multiplizieren, die sich aus der Differenz der abgerechneten Gesamtpunktzahl der Gebührenordnungspositionen 30932, 30933, 35151, 35152, 35173 bis 35179, der Gebührenordnungspositionen der Abschnitte 35.2.1 und 35.2.2 und der Gebührenordnungspositionen 37500 und 37600 des Vertragsarztes bzw. - psychotherapeuten zur Mindestpunktzahl gemäß Nummer 2 im Verhältnis zur abgerechneten Gesamtpunktzahl der Gebührenordnungspositionen 30932, 30933, 35151, 35152, 35173 bis 35179, der Gebührenordnungspositionen der Abschnitte 35.2.1 und 35.2.2 und der Gebührenordnungspositionen 37500 und 37600 des Vertragsarztes bzw. -psychotherapeuten ergibt und mindestens den Wert 0 annimmt. 2. Sofern die im Abrechnungsquartal abgerechnete Gesamtpunktzahl der Gebührenordnungspositionen 30932, 30933, 35151, 35152, 35173 bis 35179, der Gebührenordnungspositionen der Abschnitte 35.2.1 und 35.2.2 und der Gebührenordnungspositionen 37500 und 37600 das Doppelte der zu berücksichtigenden Mindestpunktzahl gemäß Nummer 2 überschreitet, ist die Bewertung der zugesetzten Gebührenordnungspositionen 35571 bis 35573 jeweils mit einer Quote zu multiplizieren, die sich aus der zu berücksichtigenden Mindestpunktzahl gemäß Nummer 2 zuzüglich dem 0,5- fachen der Differenz der abgerechneten Gesamtpunktzahl der Gebührenordnungspositionen 30932, 30933, 35151, 35152, 35173 bis 35179, der Gebührenordnungspositionen der Abschnitte 35.2.1 und 35.2.2 und der Gebührenordnungspositionen 37500 und 37600 - jedoch maximal 405. bei vollem Tätigkeitsumfang bzw. 202.949 Punkte bei hälftigem Tätigkeitsumfang - und des Doppelten der zu berücksichtigenden Mindestpunktzahl gemäß Nummer 2 im Verhältnis zur abgerechneten Gesamtpunktzahl der Gebührenordnungspositionen 30932, 30933, 35151, 35152, 35173 bis 35179, der Gebührenordnungspositionen der Abschnitte 35.2.1 und 35.2.2 und der Gebührenordnungspositionen 37500 und 37600 des Vertragsarztes bzw. -psychotherapeuten ergibt und mindestens den Wert 0 annimmt. 5. Bei der Ermittlung der abgerechneten Gesamtpunktzahl gemäß den Nummern 2 und 3 sowie der Quote gemäß Nummer 4 sind die in einem Selektivvertrag abgerechneten Leistungen inhaltlich entsprechend der Abschnitte 35.2.1 und 35.2.2, der psychotherapeutischen Sprechstunde gemäß der Gebührenordnungsposition 35151, der psychotherapeutischen Akutbehandlung gemäß der Gebührenordnungsposition 35152 sowie der gruppenpsychotherapeutischen Grundversorgung gemäß den Gebührenordnungspositionen 35173 bis 35179, den Gebührenordnungspositionen 30932 und 30933 und der Gebührenordnungspositionen 37500 und 37600 auf Nachweis des Vertragsarztes bzw. -psychotherapeuten zu berücksichtigen. 6. Die Gebührenordnungspositionen des Abschnitts 35.2.1, die Gebührenordnungspositionen 35503 bis 35508, 35513 bis 35518, 35523 bis 35528, 35533 bis 35538, 35543 bis 35548, 35553 bis 35558, 35703 bis 35708, 35713 bis 35718 und die Zuschläge nach den Gebührenordnungspositionen 35571, 35572, 35573, 35591 und 35593 bis 35598 sind auch bei Durchführung der Leistungen im Rahmen einer Videosprechstunde berechnungsfähig, wenn die Voraussetzungen gemäß § 21 der Anlage 1 zum Bundesmantelvertrag-Ärzte (BMV-Ä) und der Anlage 31b zum BMV- Ä erfüllt sind. Die Durchführung als Videosprechstunde ist durch Angabe einer bundeseinheitlich kodierten Zusatzkennzeichnung zu dokumentieren. 7. Im Falle der gemeinsamen Durchführung von Gruppentherapie durch zwei Psychotherapeuten mit ihnen jeweils fest zugeordneten Patienten (Bezugspatienten) gemäß § 21 Abs. 1 Nr. 2 der Psychotherapie-Richtlinie berechnet jeder Psychotherapeut die Gebührenordnungsposition (letzte Ziffer) nach der Anzahl seiner jeweiligen Bezugspatienten. 8. Für Gruppenbehandlungen gemäß § 19 Abs. 6 der Psychotherapie- Vereinbarung, bei denen in derselben Sitzung bei verschiedenen Patienten entweder Gruppentherapie oder probatorische Sitzungen im Gruppensetting zeitgleich angewendet werden, sind alle Patienten zur Ermittlung der gesamten Gruppengröße mitzuzählen. Maßgeblich für die jeweilige Bewertung je Teilnehmer ist die gesamte Gruppengröße (bestehend aus Patienten, für die Gruppentherapie angewendet wird und Patienten in einer probatorischen Sitzung im Gruppensetting). Auf Basis dieser gesamten Gruppengröße mit insgesamt mindestens drei Patienten ist für Patienten mit einer probatorischen Sitzung im Gruppensetting eine Bewertung je Teilnehmer gemäß den Gebührenordnungspositionen 35163 bis 35169 und für Patienten mit einer antrags- und genehmigungspflichtigen Gruppentherapie eine Bewertung je Teilnehmer gemäß den entsprechenden Gebührenordnungspositionen aus Abschnitt 35.2.2 EBM heranzuziehen. 9. Im Falle der gemeinsamen Durchführung einer Gruppenbehandlung gemäß Nummer 8 durch zwei Psychotherapeuten mit ihnen jeweils fest zugeordneten Patienten (Bezugspatienten) gemäß § 21 Abs. 1 Nr. 2 der Psychotherapie-Richtlinie berechnet jeder Psychotherapeut die Gebührenordnungsposition (letzte Ziffer) nach der Anzahl seiner jeweiligen Bezugspatienten. 35.2.1 Einzeltherapien"
+    },
+    {
+      "code": "35401",
+      "title": "Tiefenpsychologisch fundierte Psychotherapie (Kurzzeittherapie 1, Einzelbehandlung)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 114.54,
+        "valuation_in_points": 899
+      },
+      "mandatory_services": "- Tiefenpsychologisch fundierte Psychotherapie,\n- Kurzzeittherapie 1 im Behandlungsumfang gemäß § 29 der Richtlinie des Gemeinsamen Bundesausschusses über die Durchführung der Psychotherapie,\n- Einzelbehandlung,\n- Höchstens 12 Sitzungen,",
+      "facultative_services": "- Unterteilung in 2 Einheiten von jeweils mindestens 25 Minuten Dauer,\n- Als Doppelsitzung bei zweimaligem Ansatz der Gebührenordnungsposition 35401 gemäß § 28 Abs. 4 der Richtlinie des Gemeinsamen Bundesausschusses über die Durchführung der Psychotherapie und § 17 Abs. 2 der Psychotherapie-Vereinbarung,",
+      "billing_info": "Einzelbehandlung) je vollendete 50 Minuten Die Gebührenordnungsposition 35401 ist nicht neben den Gebührenordnungspositionen 01205, 01207, 01210, 01212, 01214, 01216, 01218, 03230, 04230, 04231, 04355, 04356, 04430, 14220 bis 14222, 14310, 14311, 16220, 16230 bis 16233, 21216, 21220, 21221, 21230 bis 21233, 22213, 22220 bis 22222, 23220, 30702, 35100, 35110 bis 35113, 35120, 35140, 35150 und 35163 bis 35169 berechnungsfähig. Die Gebührenordnungsposition 35401 ist am Behandlungstag nicht neben den Gebührenordnungspositionen 35151 und 35152 berechnungsfähig. Die Gebührenordnungsposition 35401 ist im Behandlungsfall nicht neben den Gebührenordnungspositionen 03040, 03220, 03221, 04040, 04220 und 04221 berechnungsfähig."
+    },
+    {
+      "code": "35402",
+      "title": "Tiefenpsychologisch fundierte Psychotherapie (Kurzzeittherapie 2, Einzelbehandlung)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 114.54,
+        "valuation_in_points": 899
+      },
+      "mandatory_services": "- Tiefenpsychologisch fundierte Psychotherapie,\n- Kurzzeittherapie 2 im Behandlungsumfang gemäß § 29 der Richtlinie des Gemeinsamen Bundesausschusses über die Durchführung der Psychotherapie,\n- Einzelbehandlung,\n- Höchstens 12 Sitzungen,",
+      "facultative_services": "- Unterteilung in 2 Einheiten von jeweils mindestens 25 Minuten Dauer,\n- Als Doppelsitzung bei zweimaligem Ansatz der Gebührenordnungsposition 35402 gemäß § 28 Abs. 4 der Richtlinie des Gemeinsamen Bundesausschusses über die Durchführung der Psychotherapie und § 17 Abs. 2 der Psychotherapie-Vereinbarung,",
+      "billing_info": "Einzelbehandlung) je vollendete 50 Minuten Die Gebührenordnungsposition 35402 ist nicht neben den Gebührenordnungspositionen 01205, 01207, 01210, 01212, 01214, 01216, 01218, 03230, 04230, 04231, 04355, 04356, 04430, 14220 bis 14222, 14310, 14311, 16220, 16230 bis 16233, 21216, 21220, 21221, 21230 bis 21233, 22213, 22220 bis 22222, 23220, 30702, 35100, 35110 bis 35113, 35120, 35140, 35150 und 35163 bis 35169 berechnungsfähig. Die Gebührenordnungsposition 35402 ist am Behandlungstag nicht neben den Gebührenordnungspositionen 35151 und 35152 berechnungsfähig. Die Gebührenordnungsposition 35402 ist im Behandlungsfall nicht neben den Gebührenordnungspositionen 03040, 03220, 03221, 04040, 04220 und 04221 berechnungsfähig."
+    },
+    {
+      "code": "35405",
+      "title": "Tiefenpsychologisch fundierte Psychotherapie (Langzeittherapie, Einzelbehandlung)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 114.54,
+        "valuation_in_points": 899
+      },
+      "mandatory_services": "- Tiefenpsychologisch fundierte Psychotherapie,\n- Langzeittherapie im Behandlungsumfang gemäß § 30 der Richtlinie des Gemeinsamen Bundesausschusses über die Durchführung der Psychotherapie,\n- Einzelbehandlung,",
+      "facultative_services": "- Als Doppelsitzung bei zweimaligem Ansatz der Gebührenordnungsposition 35405 gemäß § 28 Abs. 4 der Richtlinie des Gemeinsamen Bundesausschusses über die Durchführung der Psychotherapie und § 17 Abs. 2 der Psychotherapie-Vereinbarung,",
+      "billing_info": "Einzelbehandlung) je vollendete 50 Minuten Die Gebührenordnungsposition 35405 ist nicht neben den Gebührenordnungspositionen 01205, 01207, 01210, 01212, 01214, 01216, 01218, 03230, 04230, 04231, 04355, 04356, 04430, 14220 bis 14222, 14310, 14311, 16220, 16230 bis 16233, 21216, 21220, 21221, 21230 bis 21233, 22213, 22220 bis 22222, 23220, 30702, 35100, 35110 bis 35113, 35120, 35140, 35150 und 35163 bis 35169 berechnungsfähig. Die Gebührenordnungsposition 35405 ist am Behandlungstag nicht neben den Gebührenordnungspositionen 35151 und 35152 berechnungsfähig. Die Gebührenordnungsposition 35405 ist im Behandlungsfall nicht neben den Gebührenordnungspositionen 03040, 03220, 03221, 04040, 04220 und 04221 berechnungsfähig."
+    },
+    {
+      "code": "35411",
+      "title": "Analytische Psychotherapie (Kurzzeittherapie 1, Einzelbehandlung)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 114.54,
+        "valuation_in_points": 899
+      },
+      "mandatory_services": "- Analytische Psychotherapie,\n- Kurzzeittherapie 1 im Behandlungsumfang gemäß § 29 der Richtlinie des Gemeinsamen Bundesausschusses über die Durchführung der Psychotherapie,\n- Einzelbehandlung,\n- Höchstens 12 Sitzungen,",
+      "facultative_services": "- Als Doppelsitzung bei zweimaligem Ansatz der Gebührenordnungsposition 35411 gemäß § 17 Abs. 2 der Psychotherapie-Vereinbarung,",
+      "billing_info": "je vollendete 50 Minuten Die Gebührenordnungsposition 35411 ist nicht neben den Gebührenordnungspositionen 01205, 01207, 01210, 01212, 01214, 01216, 01218, 03230, 04230, 04231, 04355, 04356, 04430, 14220 bis 14222, 14310, 14311, 16220, 16230 bis 16233, 21216, 21220, 21221, 21230 bis 21233, 22213, 22220 bis 22222, 23220, 30702, 35100, 35110 bis 35113, 35120, 35140, 35150 und 35163 bis 35169 berechnungsfähig. Die Gebührenordnungsposition 35411 ist am Behandlungstag nicht neben den Gebührenordnungspositionen 35151 und 35152 berechnungsfähig. Die Gebührenordnungsposition 35411 ist im Behandlungsfall nicht neben den Gebührenordnungspositionen 03040, 03220, 03221, 04040, 04220 und 04221 berechnungsfähig."
+    },
+    {
+      "code": "35412",
+      "title": "Analytische Psychotherapie (Kurzzeittherapie 2, Einzelbehandlung)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 114.54,
+        "valuation_in_points": 899
+      },
+      "mandatory_services": "- Analytische Psychotherapie,\n- Kurzzeittherapie 2 im Behandlungsumfang gemäß § 29 der Richtlinie des Gemeinsamen Bundesausschusses über die Durchführung der Psychotherapie,\n- Einzelbehandlung,\n- Höchstens 12 Sitzungen,",
+      "facultative_services": "- Als Doppelsitzung bei zweimaligem Ansatz der Gebührenordnungsposition 35412 gemäß § 17 Abs. 2 der Psychotherapie-Vereinbarung,",
+      "billing_info": "je vollendete 50 Minuten Die Gebührenordnungsposition 35412 ist nicht neben den Gebührenordnungspositionen 01205, 01207, 01210, 01212, 01214, 01216, 01218, 03230, 04230, 04231, 04355, 04356, 04430, 14220 bis 14222, 14310, 14311, 16220, 16230 bis 16233, 21216, 21220, 21221, 21230 bis 21233, 22213, 22220 bis 22222, 23220, 30702, 35100, 35110 bis 35113, 35120, 35140, 35150 und 35163 bis 35169 berechnungsfähig. Die Gebührenordnungsposition 35412 ist am Behandlungstag nicht neben den Gebührenordnungspositionen 35151 und 35152 berechnungsfähig. Die Gebührenordnungsposition 35412 ist im Behandlungsfall nicht neben den Gebührenordnungspositionen 03040, 03220, 03221, 04040, 04220 und 04221 berechnungsfähig."
+    },
+    {
+      "code": "35415",
+      "title": "Analytische Psychotherapie (Langzeittherapie, Einzelbehandlung)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 114.54,
+        "valuation_in_points": 899
+      },
+      "mandatory_services": "- Analytische Psychotherapie,\n- Langzeittherapie im Behandlungsumfang gemäß § 30 der Richtlinie des Gemeinsamen Bundesausschusses über die Durchführung der Psychotherapie,\n- Einzelbehandlung,",
+      "facultative_services": "- Als Doppelsitzung bei zweimaligem Ansatz der Gebührenordnungsposition 35415 gemäß § 17 Abs. 2 der Psychotherapie-Vereinbarung,",
+      "billing_info": "je vollendete 50 Minuten Die Gebührenordnungsposition 35415 ist nicht neben den Gebührenordnungspositionen 01205, 01207, 01210, 01212, 01214, 01216, 01218, 03230, 04230, 04231, 04355, 04356, 04430, 14220 bis 14222, 14310, 14311, 16220, 16230 bis 16233, 21216, 21220, 21221, 21230 bis 21233, 22213, 22220 bis 22222, 23220, 30702, 35100, 35110 bis 35113, 35120, 35140, 35150 und 35163 bis 35169 berechnungsfähig. Die Gebührenordnungsposition 35415 ist am Behandlungstag nicht neben den Gebührenordnungspositionen 35151 und 35152 berechnungsfähig. Die Gebührenordnungsposition 35415 ist im Behandlungsfall nicht neben den Gebührenordnungspositionen 03040, 03220, 03221, 04040, 04220 und 04221 berechnungsfähig."
+    },
+    {
+      "code": "35421",
+      "title": "Verhaltenstherapie (Kurzzeittherapie 1, Einzelbehandlung)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 114.54,
+        "valuation_in_points": 899
+      },
+      "mandatory_services": "- Verhaltenstherapie,\n- Kurzzeittherapie 1 im Behandlungsumfang gemäß § 29 der Richtlinie des Gemeinsamen Bundesausschusses über die Durchführung der Psychotherapie,\n- Einzelbehandlung,\n- Höchstens 12 Sitzungen,",
+      "facultative_services": "- Unterteilung in 2 Einheiten von jeweils mindestens 25 Minuten Dauer,\n- Als Doppelsitzung bei zweimaligem Ansatz der Gebührenordnungsposition 35421 gemäß § 28 Abs. 4 und 6 der Richtlinie des Gemeinsamen Bundesausschusses über die Durchführung der Psychotherapie und § 17 Abs. 2 der Psychotherapie-Vereinbarung,\n- Bei der Expositionsbehandlung auch als Mehrfachsitzung bei drei- oder viermaligem Ansatz der Gebührenordnungsposition 35421,",
+      "billing_info": "je vollendete 50 Minuten Die Gebührenordnungsposition 35421 ist nicht neben den Gebührenordnungspositionen 01205, 01207, 01210, 01212, 01214, 01216, 01218, 03230, 04230, 04231, 04355, 04356, 04430, 14220 bis 14222, 14310, 14311, 16220, 16230 bis 16233, 21216, 21220, 21221, 21230 bis 21233, 22213, 22220 bis 22222, 23220, 30702, 35100, 35110, 35140, 35150 und 35163 bis 35169 berechnungsfähig. Die Gebührenordnungsposition 35421 ist am Behandlungstag nicht neben den Gebührenordnungspositionen 35151 und 35152 berechnungsfähig. Die Gebührenordnungsposition 35421 ist im Behandlungsfall nicht neben den Gebührenordnungspositionen 03040, 03220, 03221, 04040, 04220 und 04221 berechnungsfähig."
+    },
+    {
+      "code": "35422",
+      "title": "Verhaltenstherapie (Kurzzeittherapie 2, Einzelbehandlung)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 114.54,
+        "valuation_in_points": 899
+      },
+      "mandatory_services": "- Verhaltenstherapie,\n- Kurzzeittherapie 2 im Behandlungsumfang gemäß § 29 der Richtlinie des Gemeinsamen Bundesausschusses über die Durchführung der Psychotherapie,\n- Einzelbehandlung,\n- Höchstens 12 Sitzungen,",
+      "facultative_services": "- Unterteilung in 2 Einheiten von jeweils mindestens 25 Minuten Dauer,\n- Als Doppelsitzung bei zweimaligem Ansatz der Gebührenordnungsposition 35422 gemäß § 28 Abs. 4 und 6 der Richtlinie des Gemeinsamen Bundesausschusses über die Durchführung der Psychotherapie und § 17 Abs. 2 der Psychotherapie-Vereinbarung,\n- Bei der Expositionsbehandlung auch als Mehrfachsitzung bei drei- oder viermaligem Ansatz der Gebührenordnungsposition 35422,",
+      "billing_info": "je vollendete 50 Minuten Die Gebührenordnungsposition 35422 ist nicht neben den Gebührenordnungspositionen 01205, 01207, 01210, 01212, 01214, 01216, 01218, 03230, 04230, 04231, 04355, 04356, 04430, 14220 bis 14222, 14310, 14311, 16220, 16230 bis 16233, 21216, 21220, 21221, 21230 bis 21233, 22213, 22220 bis 22222, 23220, 30702, 35100, 35110, 35140, 35150 und 35163 bis 35169 berechnungsfähig. Die Gebührenordnungsposition 35422 ist am Behandlungstag nicht neben den Gebührenordnungspositionen 35151 und 35152 berechnungsfähig. Die Gebührenordnungsposition 35422 ist im Behandlungsfall nicht neben den Gebührenordnungspositionen 03040, 03220, 03221, 04040, 04220 und 04221 berechnungsfähig."
+    },
+    {
+      "code": "35425",
+      "title": "Verhaltenstherapie (Langzeittherapie, Einzelbehandlung)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 114.54,
+        "valuation_in_points": 899
+      },
+      "mandatory_services": "- Verhaltenstherapie,\n- Langzeittherapie im Behandlungsumfang gemäß § 30 der Richtlinie des Gemeinsamen Bundesausschusses über die Durchführung der Psychotherapie,\n- Einzelbehandlung,",
+      "facultative_services": "- Unterteilung in 2 Einheiten von jeweils mindestens 25 Minuten Dauer,\n- Als Doppelsitzung bei zweimaligem Ansatz der Gebührenordnungsposition 35425 gemäß § 28 Abs. 4 und 6 der Richtlinie des Gemeinsamen Bundesausschusses über die Durchführung der Psychotherapie und § 17 Abs. 2 der Psychotherapie-Vereinbarung,\n- Bei der Expositionsbehandlung auch als Mehrfachsitzung bei drei- oder viermaligem Ansatz der Gebührenordnungsposition 35425,",
+      "billing_info": "je vollendete 50 Minuten Die Gebührenordnungsposition 35425 ist nicht neben den Gebührenordnungspositionen 01205, 01207, 01210, 01212, 01214, 01216, 01218, 03230, 04230, 04231, 04355, 04356, 04430, 14220 bis 14222, 14310, 14311, 16220, 16230 bis 16233, 21216, 21220, 21221, 21230 bis 21233, 22213, 22220 bis 22222, 23220, 30702, 35100, 35110, 35140, 35150 und 35163 bis 35169 berechnungsfähig. Die Gebührenordnungsposition 35425 ist am Behandlungstag nicht neben den Gebührenordnungspositionen 35151 und 35152 berechnungsfähig. Die Gebührenordnungsposition 35425 ist im Behandlungsfall nicht neben den Gebührenordnungspositionen 03040, 03220, 03221, 04040, 04220 und 04221 berechnungsfähig."
+    },
+    {
+      "code": "35431",
+      "title": "Systemische Therapie (Kurzzeittherapie 1, Einzelbehandlung)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 114.54,
+        "valuation_in_points": 899
+      },
+      "mandatory_services": "- Systemische Therapie,\n- Kurzzeittherapie 1 im Behandlungsumfang gemäß § 29 der Richtlinie des Gemeinsamen Bundesausschusses über die Durchführung der Psychotherapie,\n- Einzelbehandlung,\n- Höchstens 12 Sitzungen,",
+      "facultative_services": "- Unterteilung in 2 Einheiten von jeweils mindestens 25 Minuten Dauer,\n- Als Doppelsitzung bei zweimaligem Ansatz der Gebührenordnungsposition 35431 gemäß § 28 Abs. 4 und 6 der Richtlinie des Gemeinsamen Bundesausschusses über die Durchführung der Psychotherapie und § 17 Abs. 2 der Psychotherapie-Vereinbarung,",
+      "billing_info": "je vollendete 50 Minuten Die Gebührenordnungsposition 35431 ist auch bei Durchführung der Leistung im Mehrpersonensetting berechnungsfähig. In diesem Fall ist eine Unterteilung in zwei Einheiten von jeweils mindestens 25 Minuten Dauer nicht möglich. Die Gebührenordnungsposition 35431 ist nicht neben den Gebührenordnungspositionen 01205, 01207, 01210, 01212, 01214, 01216, 01218, 03230, 04230, 04231, 04355, 04356, 04430, 14220 bis 14222, 14310, 14311, 16220, 16230 bis 16233, 21216, 21220, 21221, 21230 bis 21233, 22213, 22220 bis 22222, 23220, 30702, 35100, 35110, 35140, 35150 und 35163 bis 35169 berechnungsfähig. Die Gebührenordnungsposition 35431 ist am Behandlungstag nicht neben den Gebührenordnungspositionen 35151 und 35152 berechnungsfähig. Die Gebührenordnungsposition 35431 ist im Behandlungsfall nicht neben den Gebührenordnungspositionen 03040, 03220, 03221, 04040, 04220 und 04221 berechnungsfähig."
+    },
+    {
+      "code": "35432",
+      "title": "Systemische Therapie (Kurzzeittherapie 2, Einzelbehandlung)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 114.54,
+        "valuation_in_points": 899
+      },
+      "mandatory_services": "- Systemische Therapie,\n- Kurzzeittherapie 2 im Behandlungsumfang gemäß § 29 der Richtlinie des Gemeinsamen Bundesausschusses über die Durchführung der Psychotherapie,\n- Einzelbehandlung,\n- Höchstens 12 Sitzungen,",
+      "facultative_services": "- Unterteilung in 2 Einheiten von jeweils mindestens 25 Minuten Dauer,\n- Als Doppelsitzung bei zweimaligem Ansatz der Gebührenordnungsposition 35432 gemäß § 28 Abs. 4 und 6 der Richtlinie des Gemeinsamen Bundesausschusses über die Durchführung der Psychotherapie und § 17 Abs. 2 der Psychotherapie-Vereinbarung,",
+      "billing_info": "je vollendete 50 Minuten Die Gebührenordnungsposition 35432 ist auch bei Durchführung der Leistung im Mehrpersonensetting berechnungsfähig. In diesem Fall ist eine Unterteilung in zwei Einheiten von jeweils mindestens 25 Minuten Dauer nicht möglich. Die Gebührenordnungsposition 35432 ist nicht neben den Gebührenordnungspositionen 01205, 01207, 01210, 01212, 01214, 01216, 01218, 03230, 04230, 04231, 04355, 04356, 04430, 14220 bis 14222, 14310, 14311, 16220, 16230 bis 16233, 21216, 21220, 21221, 21230 bis 21233, 22213, 22220 bis 22222, 23220, 30702, 35100, 35110, 35140, 35150 und 35163 bis 35169 berechnungsfähig. Die Gebührenordnungsposition 35432 ist am Behandlungstag nicht neben den Gebührenordnungspositionen 35151 und 35152 berechnungsfähig. Die Gebührenordnungsposition 35432 ist im Behandlungsfall nicht neben den Gebührenordnungspositionen 03040, 03220, 03221, 04040, 04220 und 04221 berechnungsfähig."
+    },
+    {
+      "code": "35435",
+      "title": "Systemische Therapie (Langzeittherapie, Einzelbehandlung)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 114.54,
+        "valuation_in_points": 899
+      },
+      "mandatory_services": "- Systemische Therapie,\n- Langzeittherapie im Behandlungsumfang gemäß § 30 der Richtlinie des Gemeinsamen Bundesausschusses über die Durchführung der Psychotherapie,\n- Einzelbehandlung,\n- Tiefenpsychologisch fundierte Psychotherapie,\n- Kurzzeittherapie 1 im Behandlungsumfang gemäß § 29 der Richtlinie des Gemeinsamen Bundesausschusses über die Durchführung der Psychotherapie oder\n- Kurzzeittherapie 2 im Behandlungsumfang gemäß § 29 der Richtlinie des Gemeinsamen Bundesausschusses über die Durchführung der Psychotherapie,\n- Gruppenbehandlung,\n- Höchstens 24 Sitzungen,\n- Dauer mindestens 100 Minuten,\n- Höchstens 2 Sitzungen am Behandlungstag,",
+      "facultative_services": "- Unterteilung in 2 Einheiten von jeweils mindestens 25 Minuten Dauer,\n- Als Doppelsitzung bei zweimaligem Ansatz der Gebührenordnungsposition 35435 gemäß § 28 Abs. 4 und 6 der Richtlinie des Gemeinsamen Bundesausschusses über die Durchführung der Psychotherapie und § 17 Abs. 2 der Psychotherapie-Vereinbarung,",
+      "billing_info": "je vollendete 50 Minuten Die Gebührenordnungsposition 35435 ist auch bei Durchführung der Leistung im Mehrpersonensetting berechnungsfähig. In diesem Fall ist eine Unterteilung in zwei Einheiten von jeweils mindestens 25 Minuten Dauer nicht möglich. Die Gebührenordnungsposition 35435 ist nicht neben den Gebührenordnungspositionen 01205, 01207, 01210, 01212, 01214, 01216, 01218, 03230, 04230, 04231, 04355, 04356, 04430, 14220 bis 14222, 14310, 14311, 16220, 16230 bis 16233, 21216, 21220, 21221, 21230 bis 21233, 22213, 22220 bis 22222, 23220, 30702, 35100, 35110, 35140, 35150 und 35163 bis 35169 berechnungsfähig. Die Gebührenordnungsposition 35435 ist am Behandlungstag nicht neben den Gebührenordnungspositionen 35151 und 35152 berechnungsfähig. Die Gebührenordnungsposition 35435 ist im Behandlungsfall nicht neben den Gebührenordnungspositionen 03040, 03220, 03221, 04040, 04220 und 04221 berechnungsfähig. 35.2.2 Gruppentherapien Komplex für Gruppentherapien (Tiefenpsychologische Therapie, Kurzzeittherapie) je Teilnehmer"
+    },
+    {
+      "code": "35503",
+      "title": "Gruppentherapie mit 3 Teilnehmern",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 113.77,
+        "valuation_in_points": 893
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": null
+    },
+    {
+      "code": "35504",
+      "title": "Gruppentherapie mit 4 Teilnehmern",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 95.94,
+        "valuation_in_points": 753
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": null
+    },
+    {
+      "code": "35505",
+      "title": "Gruppentherapie mit 5 Teilnehmern",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 85.23,
+        "valuation_in_points": 669
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": null
+    },
+    {
+      "code": "35506",
+      "title": "Gruppentherapie mit 6 Teilnehmern",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 77.97,
+        "valuation_in_points": 612
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": null
+    },
+    {
+      "code": "35507",
+      "title": "Gruppentherapie mit 7 Teilnehmern",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 72.75,
+        "valuation_in_points": 571
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": null
+    },
+    {
+      "code": "35508",
+      "title": "Gruppentherapie mit 8 Teilnehmern",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 69.05,
+        "valuation_in_points": 542
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": null
+    },
+    {
+      "code": "35509",
+      "title": "Gruppentherapie mit 9 Teilnehmern Entgegen den Allgemeinen Bestimmungen 2.1 sind die Gebührenordnungspositionen 35503 bis 35509 auch bei einer Sitzung von weniger als 100 Minuten, aber mindestens 50 Minuten Dauer, berechnungsfähig. In diesem Fall ist durch die Kassenärztliche Vereinigung von der Punktzahl der jeweiligen Gebührenordnungsposition ein Abschlag in Höhe von 50 % vorzunehmen und die Prüfzeit um 50 % zu reduzieren.",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 66.12,
+        "valuation_in_points": 519
+      },
+      "mandatory_services": "- Tiefenpsychologisch fundierte Psychotherapie,\n- Langzeittherapie im Behandlungsumfang gemäß § 30 der Richtlinie des Gemeinsamen Bundesausschusses über die Durchführung der Psychotherapie,\n- Gruppenbehandlung,\n- Dauer mindestens 100 Minuten,\n- Höchstens 2 Sitzungen am Behandlungstag,",
+      "facultative_services": null,
+      "billing_info": "Entgegen den Allgemeinen Bestimmungen 2.1 sind die Gebührenordnungspositionen 35503 bis 35509 auch bei einer Sitzung von weniger als 100 Minuten, aber mindestens 50 Minuten Dauer, berechnungsfähig. In diesem Fall ist durch die Kassenärztliche Vereinigung von der Punktzahl der jeweiligen Gebührenordnungsposition ein Abschlag in Höhe von 50 % vorzunehmen und die Prüfzeit um 50 % zu reduzieren. Die Gebührenordnungspositionen 35503 bis 35509 sind nicht neben den Gebührenordnungspositionen 01205, 01207, 01210, 01212, 01214, 01216, 01218, 03230, 04230, 04231, 04355, 04356, 04430, 14220 bis 14222, 14310, 14311, 16220, 16230 bis 16233, 21216, 21220, 21221, 21230 bis 21233, 22213, 22220 bis 22222, 23220, 30702, 35100, 35110 bis 35113, 35120, 35140, 35150 und 35163 bis 35169 berechnungsfähig. Die Gebührenordnungspositionen 35503 bis 35509 sind am Behandlungstag nicht neben den Gebührenordnungspositionen 35151, 35152 und 35173 bis 35179 berechnungsfähig. Die Gebührenordnungspositionen 35503 bis 35509 sind im Behandlungsfall nicht neben den Gebührenordnungspositionen 03040, 03220, 03221, 04040, 04220 und 04221 berechnungsfähig. Komplex für Gruppentherapien (Tiefenpsychologische Therapie, Langzeittherapie) je Teilnehmer"
+    },
+    {
+      "code": "35513",
+      "title": "Gruppentherapie mit 3 Teilnehmern",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 113.77,
+        "valuation_in_points": 893
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": null
+    },
+    {
+      "code": "35514",
+      "title": "Gruppentherapie mit 4 Teilnehmern",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 95.94,
+        "valuation_in_points": 753
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": null
+    },
+    {
+      "code": "35515",
+      "title": "Gruppentherapie mit 5 Teilnehmern",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 85.23,
+        "valuation_in_points": 669
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": null
+    },
+    {
+      "code": "35516",
+      "title": "Gruppentherapie mit 6 Teilnehmern",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 77.97,
+        "valuation_in_points": 612
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": null
+    },
+    {
+      "code": "35517",
+      "title": "Gruppentherapie mit 7 Teilnehmern",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 72.75,
+        "valuation_in_points": 571
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": null
+    },
+    {
+      "code": "35518",
+      "title": "Gruppentherapie mit 8 Teilnehmern",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 69.05,
+        "valuation_in_points": 542
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": null
+    },
+    {
+      "code": "35519",
+      "title": "Gruppentherapie mit 9 Teilnehmern Entgegen den Allgemeinen Bestimmungen 2.1 sind die Gebührenordnungspositionen 35513 bis 35519 auch bei einer Sitzung von weniger als 100 Minuten, aber mindestens 50 Minuten Dauer, berechnungsfähig. In diesem Fall ist durch die Kassenärztliche Vereinigung von der Punktzahl der jeweiligen Gebührenordnungsposition ein Abschlag in Höhe von 50 % vorzunehmen und die Prüfzeit um 50 % zu reduzieren.",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 66.12,
+        "valuation_in_points": 519
+      },
+      "mandatory_services": "- Analytische Psychotherapie,\n- Kurzzeittherapie 1 im Behandlungsumfang gemäß § 29 der Richtlinie des Gemeinsamen Bundesausschusses über die Durchführung der Psychotherapie oder\n- Kurzzeittherapie 2 im Behandlungsumfang gemäß § 29 der Richtlinie des Gemeinsamen Bundesausschusses über die Durchführung der Psychotherapie,\n- Gruppenbehandlung,\n- Höchstens 24 Sitzungen,\n- Dauer mindestens 100 Minuten,\n- Höchstens 2 Sitzungen am Behandlungstag,",
+      "facultative_services": null,
+      "billing_info": "Entgegen den Allgemeinen Bestimmungen 2.1 sind die Gebührenordnungspositionen 35513 bis 35519 auch bei einer Sitzung von weniger als 100 Minuten, aber mindestens 50 Minuten Dauer, berechnungsfähig. In diesem Fall ist durch die Kassenärztliche Vereinigung von der Punktzahl der jeweiligen Gebührenordnungsposition ein Abschlag in Höhe von 50 % vorzunehmen und die Prüfzeit um 50 % zu reduzieren. Die Gebührenordnungspositionen 35513 bis 35519 sind nicht neben den Gebührenordnungspositionen 01205, 01207, 01210, 01212, 01214, 01216, 01218, 03230, 04230, 04231, 04355, 04356, 04430, 14220 bis 14222, 14310, 14311, 16220, 16230 bis 16233, 21216, 21220, 21221, 21230 bis 21233, 22213, 22220 bis 22222, 23220, 30702, 35100, 35110 bis 35113, 35120, 35140, 35150 und 35163 bis 35169 berechnungsfähig. Die Gebührenordnungspositionen 35513 bis 35519 sind am Behandlungstag nicht neben den Gebührenordnungspositionen 35151, 35152 und 35173 bis 35179 berechnungsfähig. Die Gebührenordnungspositionen 35513 bis 35519 sind im Behandlungsfall nicht neben den Gebührenordnungspositionen 03040, 03220, 03221, 04040, 04220 und 04221 berechnungsfähig. Komplex für Gruppentherapien (Analytische Therapie, Kurzzeittherapie) je Teilnehmer"
+    },
+    {
+      "code": "35523",
+      "title": "Gruppentherapie mit 3 Teilnehmern",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 113.77,
+        "valuation_in_points": 893
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": null
+    },
+    {
+      "code": "35524",
+      "title": "Gruppentherapie mit 4 Teilnehmern",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 95.94,
+        "valuation_in_points": 753
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": null
+    },
+    {
+      "code": "35525",
+      "title": "Gruppentherapie mit 5 Teilnehmern",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 85.23,
+        "valuation_in_points": 669
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": null
+    },
+    {
+      "code": "35526",
+      "title": "Gruppentherapie mit 6 Teilnehmern",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 77.97,
+        "valuation_in_points": 612
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": null
+    },
+    {
+      "code": "35527",
+      "title": "Gruppentherapie mit 7 Teilnehmern",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 72.75,
+        "valuation_in_points": 571
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": null
+    },
+    {
+      "code": "35528",
+      "title": "Gruppentherapie mit 8 Teilnehmern",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 69.05,
+        "valuation_in_points": 542
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": null
+    },
+    {
+      "code": "35529",
+      "title": "Gruppentherapie mit 9 Teilnehmern Entgegen den Allgemeinen Bestimmungen 2.1 sind die Gebührenordnungspositionen 35523 bis 35529 auch bei einer Sitzung von weniger als 100 Minuten, aber mindestens 50 Minuten Dauer, berechnungsfähig. In diesem Fall ist durch die Kassenärztliche Vereinigung von der Punktzahl der jeweiligen Gebührenordnungsposition ein Abschlag in Höhe von 50 % vorzunehmen und die Prüfzeit um 50 % zu reduzieren.",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 66.12,
+        "valuation_in_points": 519
+      },
+      "mandatory_services": "- Analytische Psychotherapie,\n- Langzeittherapie im Behandlungsumfang gemäß § 30 der Richtlinie des Gemeinsamen Bundesausschusses über die Durchführung der Psychotherapie,\n- Gruppenbehandlung,\n- Dauer mindestens 100 Minuten,\n- Höchstens 2 Sitzungen am Behandlungstag,",
+      "facultative_services": null,
+      "billing_info": "Entgegen den Allgemeinen Bestimmungen 2.1 sind die Gebührenordnungspositionen 35523 bis 35529 auch bei einer Sitzung von weniger als 100 Minuten, aber mindestens 50 Minuten Dauer, berechnungsfähig. In diesem Fall ist durch die Kassenärztliche Vereinigung von der Punktzahl der jeweiligen Gebührenordnungsposition ein Abschlag in Höhe von 50 % vorzunehmen und die Prüfzeit um 50 % zu reduzieren. Die Gebührenordnungspositionen 35523 bis 35529 sind nicht neben den Gebührenordnungspositionen 01205, 01207, 01210, 01212, 01214, 01216, 01218, 03230, 04230, 04231, 04355, 04356, 04430, 14220 bis 14222, 14310, 14311, 16220, 16230 bis 16233, 21216, 21220, 21221, 21230 bis 21233, 22213, 22220 bis 22222, 23220, 30702, 35100, 35110 bis 35113, 35120, 35140, 35150 und 35163 bis 35169 berechnungsfähig. Die Gebührenordnungspositionen 35523 bis 35529 sind am Behandlungstag nicht neben den Gebührenordnungspositionen 35151, 35152 und 35173 bis 35179 berechnungsfähig. Die Gebührenordnungspositionen 35523 bis 35529 sind im Behandlungsfall nicht neben den Gebührenordnungspositionen 03040, 03220, 03221, 04040, 04220 und 04221 berechnungsfähig. Komplex für Gruppentherapien (Analytische Therapie, Langzeittherapie) je Teilnehmer"
+    },
+    {
+      "code": "35533",
+      "title": "Gruppentherapie mit 3 Teilnehmern",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 113.77,
+        "valuation_in_points": 893
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": null
+    },
+    {
+      "code": "35534",
+      "title": "Gruppentherapie mit 4 Teilnehmern",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 95.94,
+        "valuation_in_points": 753
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": null
+    },
+    {
+      "code": "35535",
+      "title": "Gruppentherapie mit 5 Teilnehmern",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 85.23,
+        "valuation_in_points": 669
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": null
+    },
+    {
+      "code": "35536",
+      "title": "Gruppentherapie mit 6 Teilnehmern",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 77.97,
+        "valuation_in_points": 612
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": null
+    },
+    {
+      "code": "35537",
+      "title": "Gruppentherapie mit 7 Teilnehmern",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 72.75,
+        "valuation_in_points": 571
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": null
+    },
+    {
+      "code": "35538",
+      "title": "Gruppentherapie mit 8 Teilnehmern",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 69.05,
+        "valuation_in_points": 542
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": null
+    },
+    {
+      "code": "35539",
+      "title": "Gruppentherapie mit 9 Teilnehmern Entgegen den Allgemeinen Bestimmungen 2.1 sind die Gebührenordnungspositionen 35533 bis 35539 auch bei einer Sitzung von weniger als 100 Minuten, aber mindestens 50 Minuten Dauer, berechnungsfähig. In diesem Fall ist durch die Kassenärztliche Vereinigung von der Punktzahl der jeweiligen Gebührenordnungsposition ein Abschlag in Höhe von 50 % vorzunehmen und die Prüfzeit um 50 % zu reduzieren.",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 66.12,
+        "valuation_in_points": 519
+      },
+      "mandatory_services": "- Verhaltenstherapie,\n- Kurzzeittherapie 1 im Behandlungsumfang gemäß § 29 der Richtlinie des Gemeinsamen Bundesausschusses über die Durchführung der Psychotherapie oder\n- Kurzzeittherapie 2 im Behandlungsumfang gemäß § 29 der Richtlinie des Gemeinsamen Bundesausschusses über die Durchführung der Psychotherapie,\n- Gruppenbehandlung,\n- Höchstens 24 Sitzungen,\n- Dauer mindestens 100 Minuten,\n- Höchstens 2 Sitzungen am Behandlungstag,",
+      "facultative_services": null,
+      "billing_info": "Entgegen den Allgemeinen Bestimmungen 2.1 sind die Gebührenordnungspositionen 35533 bis 35539 auch bei einer Sitzung von weniger als 100 Minuten, aber mindestens 50 Minuten Dauer, berechnungsfähig. In diesem Fall ist durch die Kassenärztliche Vereinigung von der Punktzahl der jeweiligen Gebührenordnungsposition ein Abschlag in Höhe von 50 % vorzunehmen und die Prüfzeit um 50 % zu reduzieren. Die Gebührenordnungspositionen 35533 bis 35539 sind nicht neben den Gebührenordnungspositionen 01205, 01207, 01210, 01212, 01214, 01216, 01218, 03230, 04230, 04231, 04355, 04356, 04430, 14220 bis 14222, 14310, 14311, 16220, 16230 bis 16233, 21216, 21220, 21221, 21230 bis 21233, 22213, 22220 bis 22222, 23220, 30702, 35100, 35110 bis 35113, 35120, 35140, 35150 und 35163 bis 35169 berechnungsfähig. Die Gebührenordnungspositionen 35533 bis 35539 sind am Behandlungstag nicht neben den Gebührenordnungspositionen 35151, 35152 und 35173 bis 35179 berechnungsfähig. Die Gebührenordnungspositionen 35533 bis 35539 sind im Behandlungsfall nicht neben den Gebührenordnungspositionen 03040, 03220, 03221, 04040, 04220 und 04221 berechnungsfähig. Komplex für Gruppentherapien (Verhaltenstherapie, Kurzzeittherapie) je Teilnehmer"
+    },
+    {
+      "code": "35543",
+      "title": "Gruppentherapie mit 3 Teilnehmern",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 113.77,
+        "valuation_in_points": 893
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": null
+    },
+    {
+      "code": "35544",
+      "title": "Gruppentherapie mit 4 Teilnehmern",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 95.94,
+        "valuation_in_points": 753
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": null
+    },
+    {
+      "code": "35545",
+      "title": "Gruppentherapie mit 5 Teilnehmern",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 85.23,
+        "valuation_in_points": 669
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": null
+    },
+    {
+      "code": "35546",
+      "title": "Gruppentherapie mit 6 Teilnehmern",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 77.97,
+        "valuation_in_points": 612
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": null
+    },
+    {
+      "code": "35547",
+      "title": "Gruppentherapie mit 7 Teilnehmern",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 72.75,
+        "valuation_in_points": 571
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": null
+    },
+    {
+      "code": "35548",
+      "title": "Gruppentherapie mit 8 Teilnehmern",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 69.05,
+        "valuation_in_points": 542
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": null
+    },
+    {
+      "code": "35549",
+      "title": "Gruppentherapie mit 9 Teilnehmern Entgegen der Allgemeinen Bestimmungen 2.1 sind die Gebührenordnungspositionen 35543 bis 35549 auch bei einer Sitzung von weniger als 100 Minuten aber mindestens 50 Minuten Dauer berechnungsfähig. In diesem Fall ist durch die Kassenärztliche Vereinigung von der Punktzahl der jeweiligen Gebührenordnungsposition ein Abschlag in Höhe von 50 % vorzunehmen und die Prüfzeit um 50 % zu reduzieren.",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 66.12,
+        "valuation_in_points": 519
+      },
+      "mandatory_services": "- Verhaltenstherapie,\n- Langzeittherapie im Behandlungsumfang gemäß § 30 der Richtlinie des Gemeinsamen Bundesausschusses über die Durchführung der Psychotherapie,\n- Gruppenbehandlung,\n- Dauer mindestens 100 Minuten,\n- Höchstens 2 Sitzungen am Behandlungstag,",
+      "facultative_services": null,
+      "billing_info": "Entgegen der Allgemeinen Bestimmungen 2.1 sind die Gebührenordnungspositionen 35543 bis 35549 auch bei einer Sitzung von weniger als 100 Minuten aber mindestens 50 Minuten Dauer berechnungsfähig. In diesem Fall ist durch die Kassenärztliche Vereinigung von der Punktzahl der jeweiligen Gebührenordnungsposition ein Abschlag in Höhe von 50 % vorzunehmen und die Prüfzeit um 50 % zu reduzieren. Die Gebührenordnungspositionen 35543 bis 35549 sind nicht neben den Gebührenordnungspositionen 01205, 01207, 01210, 01212, 01214, 01216, 01218, 03230, 04230, 04231, 04355, 04356, 04430, 14220 bis 14222, 14310, 14311, 16220, 16230 bis 16233, 21216, 21220, 21221, 21230 bis 21233, 22213, 22220 bis 22222, 23220, 30702, 35100, 35110, 35140, 35150 und 35163 bis 35169 berechnungsfähig. Die Gebührenordnungspositionen 35543 bis 35549 sind am Behandlungstag nicht neben den Gebührenordnungspositionen 35151, 35152 und 35173 bis 35179 berechnungsfähig. Die Gebührenordnungspositionen 35543 bis 35549 sind im Behandlungsfall nicht neben den Gebührenordnungspositionen 03040, 03220, 03221, 04040, 04220 und 04221 berechnungsfähig. Komplex für Gruppentherapien (Verhaltenstherapie, Langzeittherapie) je Teilnehmer"
+    },
+    {
+      "code": "35553",
+      "title": "Gruppentherapie mit 3 Teilnehmern",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 113.77,
+        "valuation_in_points": 893
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": null
+    },
+    {
+      "code": "35554",
+      "title": "Gruppentherapie mit 4 Teilnehmern",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 95.94,
+        "valuation_in_points": 753
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": null
+    },
+    {
+      "code": "35555",
+      "title": "Gruppentherapie mit 5 Teilnehmern",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 85.23,
+        "valuation_in_points": 669
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": null
+    },
+    {
+      "code": "35556",
+      "title": "Gruppentherapie mit 6 Teilnehmern",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 77.97,
+        "valuation_in_points": 612
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": null
+    },
+    {
+      "code": "35557",
+      "title": "Gruppentherapie mit 7 Teilnehmern",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 72.75,
+        "valuation_in_points": 571
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": null
+    },
+    {
+      "code": "35558",
+      "title": "Gruppentherapie mit 8 Teilnehmern",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 69.05,
+        "valuation_in_points": 542
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": null
+    },
+    {
+      "code": "35559",
+      "title": "Gruppentherapie mit 9 Teilnehmern Entgegen der Allgemeinen Bestimmungen 2.1 sind die Gebührenordnungspositionen 35553 bis 35559 auch bei einer Sitzung von weniger als 100 Minuten aber mindestens 50 Minuten Dauer berechnungsfähig. In diesem Fall ist durch die Kassenärztliche Vereinigung von der Punktzahl der jeweiligen Gebührenordnungsposition ein Abschlag in Höhe von 50 % vorzunehmen und die Prüfzeit um 50 % zu reduzieren.",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 66.12,
+        "valuation_in_points": 519
+      },
+      "mandatory_services": "- Systemische Therapie,\n- Kurzzeittherapie 1 im Behandlungsumfang gemäß § 29 der Richtlinie des Gemeinsamen Bundesausschusses über die Durchführung der Psychotherapie oder\n- Kurzzeittherapie 2 im Behandlungsumfang gemäß § 29 der Richtlinie des Gemeinsamen Bundesausschusses über die Durchführung der Psychotherapie,\n- Gruppenbehandlung,\n- Höchstens 24 Sitzungen,\n- Dauer mindestens 100 Minuten,\n- Höchstens 2 Sitzungen am Behandlungstag,",
+      "facultative_services": null,
+      "billing_info": "Entgegen der Allgemeinen Bestimmungen 2.1 sind die Gebührenordnungspositionen 35553 bis 35559 auch bei einer Sitzung von weniger als 100 Minuten aber mindestens 50 Minuten Dauer berechnungsfähig. In diesem Fall ist durch die Kassenärztliche Vereinigung von der Punktzahl der jeweiligen Gebührenordnungsposition ein Abschlag in Höhe von 50 % vorzunehmen und die Prüfzeit um 50 % zu reduzieren. Die Gebührenordnungspositionen 35553 bis 35559 sind nicht neben den Gebührenordnungspositionen 01205, 01207, 01210, 01212, 01214, 01216, 01218, 03230, 04230, 04231, 04355, 04356, 04430, 14220 bis 14222, 14310, 14311, 16220, 16230 bis 16233, 21216, 21220, 21221, 21230 bis 21233, 22213, 22220 bis 22222, 23220, 30702, 35100, 35110, 35140, 35150 und 35163 bis 35169 berechnungsfähig. Die Gebührenordnungspositionen 35553 bis 35559 sind am Behandlungstag nicht neben den Gebührenordnungspositionen 35151, 35152 und 35173 bis 35179 berechnungsfähig. Die Gebührenordnungspositionen 35553 bis 35559 sind im Behandlungsfall nicht neben den Gebührenordnungspositionen 03040, 03220, 03221, 04040, 04220 und 04221 berechnungsfähig. Komplex für Gruppentherapien (Systemische Therapie, Kurzzeittherapie) je Teilnehmer"
+    },
+    {
+      "code": "35571",
+      "title": "Zuschlag zur Gebührenordnungsposition 30932 und zu den Gebührenordnungspositionen des Abschnittes 35.2.1 gemäß der Nummer 2 der Präambel zu Abschnitt 35.2",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 23.19,
+        "valuation_in_points": 182
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Gebührenordnungspositionen des Abschnittes 35.2.1 gemäß der Nummer 2 der Präambel zu Abschnitt 35.2 Die Gebührenordnungsposition 35571 wird durch die zuständige Kassenärztliche Vereinigung zugesetzt und gemäß Nummer 4 der Präambel zum Abschnitt 35.2 bewertet. Die Gebührenordnungsposition 35571 ist nicht neben den Gebührenordnungspositionen 35163 bis 35169 berechnungsfähig."
+    },
+    {
+      "code": "35572",
+      "title": "Zuschlag zu den Gebührenordnungspositionen 30933, 35173 bis 35179 und zu den Gebührenordnungspositionen des Abschnittes 35.2.2 gemäß der Nummer 2 der Präambel zu Abschnitt 35.2 Sofern die Gebührenordnungspositionen 35173 bis 35179, 35503 bis 35509, 35513 bis 35519, 35543 bis 35549, 35553 bis 35559, 35703 bis 35709 und 35713 bis 35719 für eine Sitzung von weniger als 100 Minuten aber mindestens 50 Minuten Dauer berechnet werden, ist durch die Kassenärztliche Vereinigung von der Punktzahl der Gebührenordnungsposition 35572 ein Abschlag in Höhe von 50 % vorzunehmen.",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 9.56,
+        "valuation_in_points": 75
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "35179 und zu den Gebührenordnungspositionen des Abschnittes 35.2.2 gemäß der Nummer 2 der Präambel zu Abschnitt 35.2 Sofern die Gebührenordnungspositionen 35173 bis 35179, 35503 bis 35509, 35513 bis 35519, 35543 bis 35549, 35553 bis 35559, 35703 bis 35709 und 35713 bis 35719 für eine Sitzung von weniger als 100 Minuten aber mindestens 50 Minuten Dauer berechnet werden, ist durch die Kassenärztliche Vereinigung von der Punktzahl der Gebührenordnungsposition 35572 ein Abschlag in Höhe von 50 % vorzunehmen. Die Gebührenordnungsposition 35572 wird durch die zuständige Kassenärztliche Vereinigung zugesetzt und gemäß Nummer 4 der Präambel zum Abschnitt 35.2 bewertet. Die Gebührenordnungsposition 35572 ist nicht neben den Gebührenordnungspositionen 35163 bis 35169 berechnungsfähig."
+    },
+    {
+      "code": "35573",
+      "title": "Zuschlag zu den Gebührenordnungspositionen 35151, 35152, 37500 und 37600 gemäß der Nummer 2 der Präambel zu Abschnitt 35.2",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 11.85,
+        "valuation_in_points": 93
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "und 37600 gemäß der Nummer 2 der Präambel zu Abschnitt 35.2 Die Gebührenordnungsposition 35573 wird durch die zuständige Kassenärztliche Vereinigung zugesetzt und gemäß Nummer 4 der Präambel zum Abschnitt 35.2 bewertet. Die Gebührenordnungsposition 35573 ist nicht neben den Gebührenordnungspositionen 35163 bis 35169 berechnungsfähig. 35.2.3.2 Zuschläge für Kurzzeittherapie 1. Die Zuschläge nach den Gebührenordnungspositionen dieses Abschnitts sind nur für Vertragsärzte bzw. -psychotherapeuten berechnungsfähig, die für die Mindestsprechstundenanzahl gemäß § 19a Abs. 1 Ärzte-ZV zur Verfügung stehen. 2. Die Zuschläge nach den Gebührenordnungspositionen dieses Abschnitts sind nur für die ersten 10 Sitzungen einer Kurzzeittherapie berechnungsfähig."
+    },
+    {
+      "code": "35591",
+      "title": "Zuschlag zu den Gebührenordnungspositionen 35401, 35402, 35411, 35412, 35421, 35422, 35431 und 35432",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 17.2,
+        "valuation_in_points": 135
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "35411, 35412, 35421, 35422, 35431 und 35432, höchstens 10-mal im Krankheitsfall Die Gebührenordnungsposition 35591 ist nicht neben den Gebührenordnungspositionen 35163 bis 35169 berechnungsfähig."
+    },
+    {
+      "code": "35593",
+      "title": "Zuschlag zu den Gebührenordnungspositionen 35503, 35523, 35543 und 35703",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 17.07,
+        "valuation_in_points": 134
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "und 35703, höchstens 10-mal im Krankheitsfall Die Gebührenordnungsposition 35593 ist nicht neben den Gebührenordnungspositionen 35163 bis 35169 berechnungsfähig."
+    },
+    {
+      "code": "35594",
+      "title": "Zuschlag zu den Gebührenordnungspositionen 35504, 35524, 35544 und 35704",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 14.4,
+        "valuation_in_points": 113
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "und 35704, höchstens 10-mal im Krankheitsfall Die Gebührenordnungsposition 35594 ist nicht neben den Gebührenordnungspositionen 35163 bis 35169 berechnungsfähig."
+    },
+    {
+      "code": "35595",
+      "title": "Zuschlag zu den Gebührenordnungspositionen 35505, 35525, 35545 und 35705",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 12.74,
+        "valuation_in_points": 100
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "und 35705, höchstens 10-mal im Krankheitsfall Die Gebührenordnungsposition 35595 ist nicht neben den Gebührenordnungspositionen 35163 bis 35169 berechnungsfähig."
+    },
+    {
+      "code": "35596",
+      "title": "Zuschlag zu den Gebührenordnungspositionen 35506, 35526, 35546 und 35706",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 11.72,
+        "valuation_in_points": 92
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "und 35706, höchstens 10-mal im Krankheitsfall Die Gebührenordnungsposition 35596 ist nicht neben den Gebührenordnungspositionen 35163 bis 35169 berechnungsfähig."
+    },
+    {
+      "code": "35597",
+      "title": "Zuschlag zu den Gebührenordnungspositionen 35507, 35527, 35547 und 35707",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 10.96,
+        "valuation_in_points": 86
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "und 35707, höchstens 10-mal im Krankheitsfall Die Gebührenordnungsposition 35597 ist nicht neben den Gebührenordnungspositionen 35163 bis 35169 berechnungsfähig."
+    },
+    {
+      "code": "35598",
+      "title": "Zuschlag zu den Gebührenordnungspositionen 35508, 35528, 35548 und 35708",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 10.32,
+        "valuation_in_points": 81
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "und 35708, höchstens 10-mal im Krankheitsfall Die Gebührenordnungsposition 35598 ist nicht neben den Gebührenordnungspositionen 35163 bis 35169 berechnungsfähig."
+    },
+    {
+      "code": "35599",
+      "title": "Zuschlag zu den Gebührenordnungspositionen 35509, 35529, 35549 und 35709",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 9.94,
+        "valuation_in_points": 78
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "und 35709, höchstens 10-mal im Krankheitsfall Die Gebührenordnungsposition 35599 ist nicht neben den Gebührenordnungspositionen 35163 bis 35169 berechnungsfähig. 35.3 Psychodiagnostische Testverfahren 1. Die in diesem Abschnitt genannten Leistungen sind je Behandlungsfall - für Versicherte bis zum vollendeten 21. Lebensjahr nur bis zu einer Gesamtpunktzahl von 1.636 Punkten, - für Versicherte ab Beginn des 22. Lebensjahres nur bis zu einer Gesamtpunktzahl von 1.092 Punkten berechnungsfähig. 2. Die Gebührenordnungspositionen 35600 bis 35602 sind auch bei Durchführung der Leistungen im Rahmen einer Videosprechstunde berechnungsfähig, wenn die Voraussetzungen gemäß § 21 der Anlage 1 zum Bundesmantelvertrag-Ärzte (BMV-Ä) und der Anlage 31b zum BMV-Ä erfüllt sind. Die Durchführung als Videosprechstunde ist durch Angabe einer bundeseinheitlich kodierten Zusatzkennzeichnung zu dokumentieren."
+    },
+    {
+      "code": "35600",
+      "title": "Anwendung und Auswertung standardisierter Testverfahren",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 4.33,
+        "valuation_in_points": 34
+      },
+      "mandatory_services": "- Anwendung standardisierter Testverfahren\n- Fragebogentest und/oder\n- Orientierender Test,\n- Auswertung eines Testverfahrens,\n- Schriftliche Aufzeichnung,\n- Dauer mindestens 5 Minuten,",
+      "facultative_services": null,
+      "billing_info": "je vollendete 5 Minuten Die Gebührenordnungsposition 35600 ist nur für Ärzte mit den Gebietsbezeichnungen Nervenheilkunde, Neurologie, Psychiatrie, Kinder- und Jugendpsychiatrie, Psychosomatische Medizin und Psychotherapie und Kinder- und Jugendmedizin sowie für Vertragsärzte und -psychotherapeuten, die über eine Abrechnungsgenehmigung für Psychotherapie nach der Psychotherapie-Vereinbarung verfügen, berechnungsfähig. Die Gebührenordnungsposition 35600 ist für Ärzte mit der Gebietsbezeichnung Phoniatrie und Pädaudiologie auch dann berechnungsfähig, wenn diese nicht über eine Abrechnungsgenehmigung für Psychotherapie nach der Psychotherapie-Vereinbarung verfügen. Die Gebührenordnungsposition 35600 ist - mit Ausnahme der Indikationsstellung, Bewertung bzw. Interpretation, schriftlichen Aufzeichnung - grundsätzlich delegierbar. Die Gebührenordnungsposition 35600 ist nicht neben den Gebührenordnungspositionen 01205, 01207, 01210, 01212, 01214, 01216 und 01218 berechnungsfähig. Die Gebührenordnungsposition 35600 ist im Behandlungsfall nicht neben den Gebührenordnungspositionen 16371 und 20371 berechnungsfähig."
+    },
+    {
+      "code": "35601",
+      "title": "Anwendung und Auswertung von psychometrischen Testverfahren",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 4.97,
+        "valuation_in_points": 39
+      },
+      "mandatory_services": "- Anwendung psychometrischer Testverfahren\n- Funktionstest und/oder\n- Entwicklungstest und/oder\n- Intelligenztest,\n- Auswertung eines Testverfahrens,\n- Schriftliche Aufzeichnung,\n- Dauer mindestens 5 Minuten,",
+      "facultative_services": null,
+      "billing_info": "je vollendete 5 Minuten Die Gebührenordnungsposition 35601 ist nur für Ärzte mit den Gebietsbezeichnungen Nervenheilkunde, Neurologie, Psychiatrie, Kinder- und Jugendpsychiatrie, Psychosomatische Medizin und Psychotherapie und Kinder- und Jugendmedizin sowie für Vertragsärzte und -psychotherapeuten, die über eine Abrechnungsgenehmigung für Psychotherapie nach der Psychotherapie-Vereinbarung verfügen, berechnungsfähig. Die Gebührenordnungsposition 35601 ist für Ärzte mit der Gebietsbezeichnung Phoniatrie und Pädaudiologie auch dann berechnungsfähig, wenn diese nicht über eine Abrechnungsgenehmigung für Psychotherapie nach der Psychotherapie-Vereinbarung verfügen. Die Gebührenordnungsposition 35601 ist - mit Ausnahme der Indikationsstellung, Bewertung bzw. Interpretation, schriftlichen Aufzeichnung - grundsätzlich delegierbar. Die Gebührenordnungsposition 35601 ist nicht neben den Gebührenordnungspositionen 01205, 01207, 01210, 01212, 01214, 01216 und 01218 berechnungsfähig. Die Gebührenordnungsposition 35601 ist im Behandlungsfall nicht neben den Gebührenordnungspositionen 16371 und 20371 berechnungsfähig."
+    },
+    {
+      "code": "35602",
+      "title": "Anwendung und Auswertung von projektiven Verfahren",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 7.13,
+        "valuation_in_points": 56
+      },
+      "mandatory_services": "- Anwendung projektiver Verfahren,\n- Auswertung eines Verfahrens,\n- Schriftliche Aufzeichnung,\n- Dauer mindestens 5 Minuten,",
+      "facultative_services": null,
+      "billing_info": "je vollendete 5 Minuten Die Gebührenordnungsposition 35602 ist nur für Ärzte mit den Gebietsbezeichnungen Nervenheilkunde, Psychiatrie, Kinder- und Jugendpsychiatrie und Psychosomatische Medizin und Psychotherapie sowie für Vertragsärzte und -psychotherapeuten, die über eine Abrechnungsgenehmigung für Psychotherapie nach der Psychotherapie-Vereinbarung verfügen, berechnungsfähig. Die Gebührenordnungsposition 35602 ist - mit Ausnahme der Indikationsstellung, Bewertung bzw. Interpretation, schriftlichen Aufzeichnung - grundsätzlich delegierbar. Die Gebührenordnungsposition 35602 ist nicht neben den Gebührenordnungspositionen 01205, 01207, 01210, 01212, 01214, 01216 und 01218 berechnungsfähig. Die Gebührenordnungsposition 35602 ist im Behandlungsfall nicht neben den Gebührenordnungspositionen 16371 und 20371 berechnungsfähig."
+    },
+    {
+      "code": "35703",
+      "title": "Gruppentherapie mit 3 Teilnehmern",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 113.77,
+        "valuation_in_points": 893
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": null
+    },
+    {
+      "code": "35704",
+      "title": "Gruppentherapie mit 4 Teilnehmern",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 95.94,
+        "valuation_in_points": 753
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": null
+    },
+    {
+      "code": "35705",
+      "title": "Gruppentherapie mit 5 Teilnehmern",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 85.23,
+        "valuation_in_points": 669
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": null
+    },
+    {
+      "code": "35706",
+      "title": "Gruppentherapie mit 6 Teilnehmern",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 77.97,
+        "valuation_in_points": 612
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": null
+    },
+    {
+      "code": "35707",
+      "title": "Gruppentherapie mit 7 Teilnehmern",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 72.75,
+        "valuation_in_points": 571
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": null
+    },
+    {
+      "code": "35708",
+      "title": "Gruppentherapie mit 8 Teilnehmern",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 69.05,
+        "valuation_in_points": 542
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": null
+    },
+    {
+      "code": "35709",
+      "title": "Gruppentherapie mit 9 Teilnehmern Entgegen der Allgemeinen Bestimmungen 2.1 sind die Gebührenordnungspositionen 35703 bis 35709 auch bei einer Sitzung von weniger als 100 Minuten aber mindestens 50 Minuten Dauer berechnungsfähig. In diesem Fall ist durch die Kassenärztliche Vereinigung von der Punktzahl der jeweiligen Gebührenordnungsposition ein Abschlag in Höhe von 50 % vorzunehmen und die Prüfzeit um 50 % zu reduzieren.",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 66.12,
+        "valuation_in_points": 519
+      },
+      "mandatory_services": "- Systemische Therapie,\n- Langzeittherapie im Behandlungsumfang gemäß § 30 der Richtlinie des Gemeinsamen Bundesausschusses über die Durchführung der Psychotherapie,\n- Gruppenbehandlung,\n- Dauer mindestens 100 Minuten,\n- Höchstens 2 Sitzungen am Behandlungstag,",
+      "facultative_services": null,
+      "billing_info": "Entgegen der Allgemeinen Bestimmungen 2.1 sind die Gebührenordnungspositionen 35703 bis 35709 auch bei einer Sitzung von weniger als 100 Minuten aber mindestens 50 Minuten Dauer berechnungsfähig. In diesem Fall ist durch die Kassenärztliche Vereinigung von der Punktzahl der jeweiligen Gebührenordnungsposition ein Abschlag in Höhe von 50 % vorzunehmen und die Prüfzeit um 50 % zu reduzieren. Die Gebührenordnungspositionen 35703 bis 35709 sind auch bei Durchführung der Leistungen im Mehrpersonensetting berechnungsfähig. Die Gebührenordnungspositionen 35703 bis 35709 sind nicht neben den Gebührenordnungspositionen 01205, 01207, 01210, 01212, 01214, 01216, 01218, 03230, 04230, 04231, 04355, 04356, 04430, 14220 bis 14222, 14310, 14311, 16220, 16230 bis 16233, 21216, 21220, 21221, 21230 bis 21233, 22213, 22220 bis 22222, 23220, 30702, 35100, 35110, 35140, 35150 und 35163 bis 35169 berechnungsfähig. Die Gebührenordnungspositionen 35703 bis 35709 sind am Behandlungstag nicht neben den Gebührenordnungspositionen 35151, 35152 und 35173 bis 35179 berechnungsfähig. Die Gebührenordnungspositionen 35703 bis 35709 sind im Behandlungsfall nicht neben den Gebührenordnungspositionen 03040, 03220, 03221, 04040, 04220 und 04221 berechnungsfähig. Komplex für Gruppentherapien (Systemische Therapie, Langzeittherapie) je Teilnehmer"
+    },
+    {
+      "code": "35713",
+      "title": "Gruppentherapie mit 3 Teilnehmern",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 113.77,
+        "valuation_in_points": 893
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": null
+    },
+    {
+      "code": "35714",
+      "title": "Gruppentherapie mit 4 Teilnehmern",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 95.94,
+        "valuation_in_points": 753
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": null
+    },
+    {
+      "code": "35715",
+      "title": "Gruppentherapie mit 5 Teilnehmern",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 85.23,
+        "valuation_in_points": 669
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": null
+    },
+    {
+      "code": "35716",
+      "title": "Gruppentherapie mit 6 Teilnehmern",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 77.97,
+        "valuation_in_points": 612
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": null
+    },
+    {
+      "code": "35717",
+      "title": "Gruppentherapie mit 7 Teilnehmern",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 72.75,
+        "valuation_in_points": 571
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": null
+    },
+    {
+      "code": "35718",
+      "title": "Gruppentherapie mit 8 Teilnehmern",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 69.05,
+        "valuation_in_points": 542
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": null
+    },
+    {
+      "code": "35719",
+      "title": "Gruppentherapie mit 9 Teilnehmern Entgegen der Allgemeinen Bestimmungen 2.1 sind die Gebührenordnungspositionen 35713 bis 35719 auch bei einer Sitzung von weniger als 100 Minuten aber mindestens 50 Minuten Dauer berechnungsfähig. In diesem Fall ist durch die Kassenärztliche Vereinigung von der Punktzahl der jeweiligen Gebührenordnungsposition ein Abschlag in Höhe von 50 % vorzunehmen und die Prüfzeit um 50 % zu reduzieren.",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 66.12,
+        "valuation_in_points": 519
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Entgegen der Allgemeinen Bestimmungen 2.1 sind die Gebührenordnungspositionen 35713 bis 35719 auch bei einer Sitzung von weniger als 100 Minuten aber mindestens 50 Minuten Dauer berechnungsfähig. In diesem Fall ist durch die Kassenärztliche Vereinigung von der Punktzahl der jeweiligen Gebührenordnungsposition ein Abschlag in Höhe von 50 % vorzunehmen und die Prüfzeit um 50 % zu reduzieren. Die Gebührenordnungspositionen 35713 bis 35719 sind auch bei Durchführung der Leistungen im Mehrpersonensetting berechnungsfähig. Die Gebührenordnungspositionen 35713 bis 35719 sind nicht neben den Gebührenordnungspositionen 01205, 01207, 01210, 01212, 01214, 01216, 01218, 03230, 04230, 04231, 04355, 04356, 04430, 14220 bis 14222, 14310, 14311, 16220, 16230 bis 16233, 21216, 21220, 21221, 21230 bis 21233, 22213, 22220 bis 22222, 23220, 30702, 35100, 35110, 35140, 35150 und 35163 bis 35169 berechnungsfähig. Die Gebührenordnungspositionen 35713 bis 35719 sind am Behandlungstag nicht neben den Gebührenordnungspositionen 35151, 35152 und 35173 bis 35179 berechnungsfähig. Die Gebührenordnungspositionen 35713 bis 35719 sind im Behandlungsfall nicht neben den Gebührenordnungspositionen 03040, 03220, 03221, 04040, 04220 und 04221 berechnungsfähig. 35.2.3 Zuschläge 35.2.3.1 Zuschläge gemäß Nr. 2 der Präambel zu Abschnitt 35.2"
+    },
+    {
+      "code": "36096",
+      "title": "Liposuktion bei Lipödem im Stadium III gemäß Nr. 32 der Anlage I \"Anerkannte Untersuchungs- oder Behandlungsmethoden\" der Richtlinie Methoden vertragsärztliche Versorgung des Gemeinsamen Bundesausschusses",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 486.94,
+        "valuation_in_points": 3822
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "36096 Liposuktion bei Lipödem im Stadium III gemäß Nr. 32 der Anlage\nI \"Anerkannte Untersuchungs- oder Behandlungsmethoden\"\nder Richtlinie Methoden vertragsärztliche Versorgung des\nGemeinsamen Bundesausschusses\nObligater Leistungsinhalt\n- Eingriff der Kategorie AA6 entsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Gebührenordnungsposition\n36096 kann für die postoperative Überwachung die\nGebührenordnungsposition 36506 berechnet werden."
+    },
+    {
+      "code": "36097",
+      "title": "Liposuktion bei Lipödem im Stadium III gemäß Nr. 32 der Anlage I \"Anerkannte Untersuchungs- oder Behandlungsmethoden\" der Richtlinie Methoden vertragsärztliche Versorgung des Gemeinsamen Bundesausschusses",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 524.65,
+        "valuation_in_points": 4118
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "36097 Liposuktion bei Lipödem im Stadium III gemäß Nr. 32 der Anlage\nI \"Anerkannte Untersuchungs- oder Behandlungsmethoden\"\nder Richtlinie Methoden vertragsärztliche Versorgung des\nGemeinsamen Bundesausschusses\nObligater Leistungsinhalt\n- Eingriff der Kategorie AA7 entsprechend Anhang 2\nFakultativer Leistungsinhalt\n- Ein postoperativer Arzt-Patienten-Kontakt\nIm Anschluss an die Leistung nach der Gebührenordnungsposition\n36097 kann für die postoperative Überwachung die\nGebührenordnungsposition 36507 berechnet werden."
+    },
+    {
+      "code": "36098",
+      "title": "Zuschlag zur Gebührenordnungsposition 36096 bei Simultaneingriffen sowie zur Gebührenordnungsposition 36097",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 48.03,
+        "valuation_in_points": 377
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "36098 Zuschlag zur Gebührenordnungsposition 36096 bei\nSimultaneingriffen sowie zur Gebührenordnungsposition 36097\nObligater Leistungsinhalt\n- Schnitt-Naht-Zeit je weitere vollendete 15 Minuten\n- Nachweis der Schnitt-Naht-Zeit über das Anästhesieprotokoll oder\nden OP-Bericht\nje weitere vollendete 15 Minuten Schnitt-Naht-Zeit\nDie Gebührenordnungsposition 36098 kann entsprechend Anhang\n2, Präambel 2.1, Nr. 14 als Zuschlag zu anderen belegärztlichen\nOperationen des Abschnitts 36.2 abgerechnet werden."
+    },
+    {
+      "code": "36101",
+      "title": "Dermatochirurgischer Eingriff der Kategorie A1",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 54.91,
+        "valuation_in_points": 431
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "36101 Dermatochirurgischer Eingriff der Kategorie A1\nObligater Leistungsinhalt\n- Chirurgischer Eingriff an der Körperoberfläche der Kategorie A1\nentsprechend Anhang 2\nIm Anschluss an die Leistung nach der Nr. 36101 kann für die\npostoperative Überwachung die Gebührenordnungsposition 36502\nberechnet werden."
+    },
+    {
+      "code": "36102",
+      "title": "Dermatochirurgischer Eingriff der Kategorie A2",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 101.03,
+        "valuation_in_points": 793
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "36102 Dermatochirurgischer Eingriff der Kategorie A2\nObligater Leistungsinhalt\n- Chirurgischer Eingriff an der Körperoberfläche der Kategorie A2\nentsprechend Anhang 2\nIm Anschluss an die Leistung nach der Nr. 36102 kann für die\npostoperative Überwachung die Gebührenordnungsposition 36503\nberechnet werden."
+    },
+    {
+      "code": "36103",
+      "title": "Dermatochirurgischer Eingriff der Kategorie A3",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 162.82,
+        "valuation_in_points": 1278
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "36103 Dermatochirurgischer Eingriff der Kategorie A3\nObligater Leistungsinhalt\n- Chirurgischer Eingriff an der Körperoberfläche der Kategorie A3\nentsprechend Anhang 2\nIm Anschluss an die Leistung nach der Nr. 36103 kann für die\npostoperative Überwachung die Gebührenordnungsposition 36504\nberechnet werden."
+    },
+    {
+      "code": "36104",
+      "title": "Dermatochirurgischer Eingriff der Kategorie A4",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 255.06,
+        "valuation_in_points": 2002
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "36104 Dermatochirurgischer Eingriff der Kategorie A4\nObligater Leistungsinhalt\n- Chirurgischer Eingriff an der Körperoberfläche der Kategorie A4\nentsprechend Anhang 2\nIm Anschluss an die Leistung nach der Nr. 36104 kann für die\npostoperative Überwachung die Gebührenordnungsposition 36504\nberechnet werden."
+    },
+    {
+      "code": "36105",
+      "title": "Dermatochirurgischer Eingriff der Kategorie A5",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 404.76,
+        "valuation_in_points": 3177
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "36105 Dermatochirurgischer Eingriff der Kategorie A5\nObligater Leistungsinhalt\n- Chirurgischer Eingriff an der Körperoberfläche der Kategorie A5\nentsprechend Anhang 2\nIm Anschluss an die Leistung nach der Nr. 36105 kann für die\npostoperative Überwachung die Gebührenordnungsposition 36505\nberechnet werden."
+    },
+    {
+      "code": "36106",
+      "title": "Dermatochirurgischer Eingriff der Kategorie A6",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 555.99,
+        "valuation_in_points": 4364
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "36106 Dermatochirurgischer Eingriff der Kategorie A6\nObligater Leistungsinhalt\n- Chirurgischer Eingriff an der Körperoberfläche der Kategorie A6\nentsprechend Anhang 2\nIm Anschluss an die Leistung nach der Nr. 36106 kann für die\npostoperative Überwachung die Gebührenordnungsposition 36506\nberechnet werden."
+    },
+    {
+      "code": "36107",
+      "title": "Dermatochirurgischer Eingriff der Kategorie A7",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 662.63,
+        "valuation_in_points": 5201
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "36107 Dermatochirurgischer Eingriff der Kategorie A7\nObligater Leistungsinhalt\n- Chirurgischer Eingriff an der Körperoberfläche der Kategorie A7\nentsprechend Anhang 2\nIm Anschluss an die Leistung nach der Nr. 36107 kann für die\npostoperative Überwachung die Gebührenordnungsposition 36507\nberechnet werden."
+    },
+    {
+      "code": "36108",
+      "title": "Zuschlag zu den Gebührenordnungspositionen 36101 bis 36106 bei Simultaneingriffen sowie zu der Gebührenordnungsposition 36107",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 50.07,
+        "valuation_in_points": 393
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "36108 Zuschlag zu den Gebührenordnungspositionen 36101 bis 36106 bei\nSimultaneingriffen sowie zu der Gebührenordnungsposition 36107\nObligater Leistungsinhalt\n- Schnitt-Naht-Zeit je weitere vollendete 15 Minuten\n- Nachweis der Schnitt-Naht-Zeit über das Anästhesieprotokoll oder\nden OP-Bericht\nje weitere vollendete 15 Minuten Schnitt-Naht-Zeit\nDie Gebührenordnungsposition 36108 kann entsprechend Anhang\n2, Präambel 2.1 Nr. 14 als Zuschlag zu anderen belegärztlichen\nOperationen des Abschnitts 36.2 abgerechnet werden."
+    },
+    {
+      "code": "36111",
+      "title": "Eingriff an der Brustdrüse der Kategorie B1",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 60.64,
+        "valuation_in_points": 476
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "36111 Eingriff an der Brustdrüse der Kategorie B1\nObligater Leistungsinhalt\n- Chirurgischer Eingriff an der Brustdrüse der Kategorie B1\nentsprechend Anhang 2\nIm Anschluss an die Leistung nach der Nr. 36111 kann für die\npostoperative Überwachung die Gebührenordnungsposition 36502\nberechnet werden."
+    }
+  ]
+}

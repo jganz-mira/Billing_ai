@@ -1,0 +1,1204 @@
+{
+  "gops": [
+    {
+      "code": "32638",
+      "title": "Leishmania-Antikörper",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 17.39,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32638 Leishmania-Antikörper\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32639",
+      "title": "Plasmodien-Antikörper",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 14.17,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32639 Plasmodien-Antikörper\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32641",
+      "title": "Ähnliche Untersuchungen unter Angabe der Antikörperspezifität",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 10.21,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32641 Ähnliche Untersuchungen unter Angabe der Antikörperspezifität\nDie Berechnung der Gebührenordnungsposition 32641 setzt die\nBegründung der medizinischen Notwendigkeit der jeweiligen\nUntersuchung im Einzelfall voraus.\nAntikörperuntersuchungen auf vorgefertigten Reagenzträgern (z.\nB. immunchromatographische Schnellteste) oder Schnellteste mit\nvorgefertigten Reagenzzubereitungen (z. B. Latexteste) sind nicht\nnach den Gebührenordnungspositionen 32584 bis 32639 und 32641\nberechnungsfähig.\nDer Höchstwert für die Untersuchungen nach den\nGebührenordnungspositionen 32572 und 32573, 32584 bis 32639 und\n32641, 32642 und 32660 bis 32664 beträgt 66,30 EURO.\nDie Gebührenordnungsposition 32594 ist nicht neben der\nGebührenordnungsposition 32803 berechnungsfähig.\nDie Gebührenordnungsposition 32601 ist nicht neben der\nGebührenordnungsposition 32809 berechnungsfähig.\nDie Gebührenordnungspositionen 32602 und 32603 sind nicht neben\nden Gebührenordnungspositionen 32818 und 32831 berechnungsfähig.\nDie Gebührenordnungsposition 32614 ist nicht neben der\nGebührenordnungsposition 01932 berechnungsfähig.\nDie Gebührenordnungsposition 32617 ist nicht neben der\nGebührenordnungsposition 01933 berechnungsfähig.\nDie Gebührenordnungsposition 32618 ist nicht neben der\nGebührenordnungsposition 01934 berechnungsfähig.\nDie Gebührenordnungsposition 32629 ist nicht neben der\nGebührenordnungsposition 01833 berechnungsfähig.\nDie Gebührenordnungsposition 32630 ist nicht neben der\nGebührenordnungsposition 32801 berechnungsfähig.\nDie Gebührenordnungspositionen 32589, 32592, 32595, 32600\n32622, 32625 und 32628 sind am Behandlungstag nicht neben der\nGebührenordnungsposition 32851 berechnungsfähig.\nDie Gebührenordnungspositionen 32601, 32604, 32609 und 32610\nsind am Behandlungstag nicht neben den Gebührenordnungspositionen\n32851 und 32853 berechnungsfähig.\nDie Gebührenordnungsposition 32618 ist am Behandlungstag nicht\nneben der Gebührenordnungsposition 01865 berechnungsfähig.\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32642",
+      "title": "Nachweis neutralisierender Antikörper mittels Zellkultur(en), in vivo oder im Brutei",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 13.06,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32642 Nachweis neutralisierender Antikörper mittels Zellkultur(en), in vivo\noder im Brutei\nje Untersuchung unter Angabe des Antikörpers\nUntersuchungen auf Antikörper gegen Krankheitserreger\nmittels Immunreaktion mit elektrophoretisch aufgetrennten und/\noder diagnostisch gleichwertigen rekombinanten mikrobiellen/viralen\nAntigenen (Immunoblot) als Bestätigungs- oder Abklärungstest\nnach positivem oder fraglich positivem Antikörpernachweis, gilt für die\nGebührenordnungspositionen 32660 bis 32664\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32660",
+      "title": "HIV-1- und/oder HIV-2-Antikörper (Westernblot)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 20.3,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32660 HIV-1- und/oder HIV-2-Antikörper (Westernblot)\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32661",
+      "title": "HCV-Antikörper",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 20.3,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32661 HCV-Antikörper\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32662",
+      "title": "Borrelia-Antikörper",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 18.68,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32662 Borrelia-Antikörper\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32663",
+      "title": "Yersinien-Antikörper, auch als Eingangstest",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 18.49,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32663 Yersinien-Antikörper, auch als Eingangstest\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32664",
+      "title": "Ähnliche Untersuchungen unter Angabe des Krankheitserregers",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 17.66,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32664 Ähnliche Untersuchungen unter Angabe des Krankheitserregers\nDie Berechnung der Gebührenordnungsposition 32664 setzt die\nBegründung der medizinischen Notwendigkeit der jeweiligen\nUntersuchung im Einzelfall voraus.\nDie Gebührenordnungspositionen 32660 bis 32664 sind je\nKrankheitserreger bis zu zweimal berechnungsfähig.\nDie Gebührenordnungsposition 32660 ist nicht neben der\nGebührenordnungsposition 32850 berechnungsfähig.\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32670",
+      "title": "Quantitative Bestimmung einer in-vitro-Freisetzung von Interferon-gamma oder IP-10 nach ex-vivo-Stimulation mit Antigenen (mindestens ESAT-6 und CFP-10) spezifisch für Mycobacterium tuberculosis-Complex (außer BCG) bei Patienten",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 53.36,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32670 Quantitative Bestimmung einer in-vitro-Freisetzung von\nInterferon-gamma oder IP-10 nach ex-vivo-Stimulation mit\nAntigenen (mindestens ESAT-6 und CFP-10) spezifisch für\nMycobacterium tuberculosis-Complex (außer BCG) bei Patienten\n- vor Einleitung oder während einer Behandlung mit einem\nArzneimittel, für das der Ausschluss einer latenten oder aktiven\nTuberkulose in der Fachinformation (Zusammenfassung der\nMerkmale des Arzneimittels / Summary of Product Characteristics)\ndes Herstellers gefordert wird\n- mit einer HI-Virus Infektion nur vor einer Therapieentscheidung einer\nbehandlungsbedürftigen Infektion mit Mycobacterium-tuberculosis-\nComplex (außer BCG)\n- vor Einleitung einer Dialysebehandlung bei chronischer\nNiereninsuffizienz\n- vor Durchführung einer Organtransplantation (Niere, Herz, Lunge\nLeber, Pankreas)\nDie Gebührenordnungsposition 32670 ist auf die genannten Indikationen\nbeschränkt und dient weder als Screeninguntersuchung noch zur\nUmgebungsuntersuchung von Kontaktpersonen. Die Berechnung als\n\"Ähnliche Untersuchung\" für die genannten und andere Indikationen ist\nunzulässig.\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32674",
+      "title": "Qualitativer Nachweis und/oder quantitative Bestimmung von Antikörpern gegen Adeno-assoziierte Viren (AAV) zur Indikationsstellung einer gezielten medikamentösen Behandlung wenn diese(r) laut Fachinformation obligat ist",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 40.0,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32674 Qualitativer Nachweis und/oder quantitative Bestimmung\nvon Antikörpern gegen Adeno-assoziierte Viren (AAV) zur\nIndikationsstellung einer gezielten medikamentösen Behandlung\nwenn diese(r) laut Fachinformation obligat ist\neinmal am Behandlungstag\n32.3.8 Parasitologische Untersuchungen\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32680",
+      "title": "Nachweis von Parasiten-Antigenen aus einem Körpermaterial (Direktnachweis) mittels Immunfluoreszenz und/oder Immunoassay mit photometrischer oder gleichwertiger Messung",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 8.28,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32680 Nachweis von Parasiten-Antigenen aus einem Körpermaterial\n(Direktnachweis) mittels Immunfluoreszenz und/oder Immunoassay\nmit photometrischer oder gleichwertiger Messung\nje Untersuchung unter Angabe des Antigens\nDie Gebührenordnungsposition 32680 ist nicht neben der\nGebührenordnungsposition 32683 berechnungsfähig.\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32681",
+      "title": "Kulturelle Untersuchung auf Protozoen",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 5.24,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32681 Kulturelle Untersuchung auf Protozoen\nObligater Leistungsinhalt\n- Kulturelle Untersuchung auf Protozoen, z. B. auf Trichomonaden\nLamblien\nFakultativer Leistungsinhalt\n- Nachfolgende mikroskopische Prüfung(en)\nje Untersuchung unter Angabe der Art der Untersuchung\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32682",
+      "title": "Systematische parasitologische Untersuchung auf einheimische und/oder tropische Helminthen und/oder Helmintheneier nach Anreicherung, z. B. SAF-, Zink-Sulfat-Anreicherung, einschl. aller mikroskopischen Untersuchungen",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 6.35,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32682 Systematische parasitologische Untersuchung auf einheimische\nund/oder tropische Helminthen und/oder Helmintheneier nach\nAnreicherung, z. B. SAF-, Zink-Sulfat-Anreicherung, einschl. aller\nmikroskopischen Untersuchungen\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32683",
+      "title": "Nukleinsäurenachweis von Erregern von Parasitosen bei immundefizienten Patienten außer Toxoplasma aus einem Körpermaterial",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 18.31,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32683 Nukleinsäurenachweis von Erregern von Parasitosen bei\nimmundefizienten Patienten außer Toxoplasma aus einem\nKörpermaterial\nje Erregerart, höchstens drei Erregerarten je\nUntersuchungsprobe\nDie Gebührenordnungsposition 32683 ist nicht neben den\nGebührenordnungspositionen 32680 und 32833 berechnungsfähig.\n32.3.9 Mykologische Untersuchungen\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32685",
+      "title": "Nachweis von Pilz-Antigenen aus einem Körpermaterial (Direktnachweis) mittels Agglutination und/oder Immunpräzipitation",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 9.57,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32685 Nachweis von Pilz-Antigenen aus einem Körpermaterial\n(Direktnachweis) mittels Agglutination und/oder Immunpräzipitation\nje Untersuchung unter Angabe des Antigens\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32686",
+      "title": "Nachweis von Pilz-Antigenen aus einem Körpermaterial (Direktnachweis) mittels Immunfluoreszenz und/oder Immunoassay mit photometrischer oder gleichwertiger Messung",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 10.76,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32686 Nachweis von Pilz-Antigenen aus einem Körpermaterial\n(Direktnachweis) mittels Immunfluoreszenz und/oder Immunoassay\nmit photometrischer oder gleichwertiger Messung\nje Untersuchung unter Angabe des Antigens\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32687",
+      "title": "Kulturelle mykologische Untersuchung",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 4.23,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32687 Kulturelle mykologische Untersuchung\nObligater Leistungsinhalt\n- Kulturelle mykologische Untersuchung\n- nach Aufbereitung (z. B. Zentrifugation, Auswaschung)\nund/oder\n- unter Verwendung von mindestens 2 Nährmedien\nund/oder\n- als Langzeitkultivierung\nFakultativer Leistungsinhalt\n- Keimzahlbestimmung\n- nachfolgende mikroskopische Prüfung(en) und Kultur(en)\nunter Angabe der Art des Untersuchungsmaterials\nDie mykologische Untersuchung von Haut-, Schleimhaut-\noder Vaginalabstrichen einschl. von Vaginalsekret ist nicht\nnach der Gebührenordnungsposition 32687, sondern nach der\nGebührenordnungsposition 32151 berechnungsfähig.\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32688",
+      "title": "Morphologische Differenzierung gezüchteter Pilze außer Hefen",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 2.48,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32688 Morphologische Differenzierung gezüchteter Pilze außer Hefen\nObligater Leistungsinhalt\n- Morphologische Differenzierung gezüchteter Pilze außer Hefen\nmittels kultureller Verfahren und mikroskopischer Prüfung\nFakultativer Leistungsinhalt\n- Biochemische Differenzierung\nje Pilzart\nDie Gebührenordnungsposition 32688 ist bei derselben Pilzart nicht\nneben der Gebührenordnungsposition 32692 berechnungsfähig.\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32689",
+      "title": "Biochemische Differenzierung von Hefen",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 9.29,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32689 Biochemische Differenzierung von Hefen\nObligater Leistungsinhalt\n- Biochemische Differenzierung von Hefen in Reinkultur mit\nmindestens 8 Reaktionen\nFakultativer Leistungsinhalt\n- Kulturelle Verfahren\nje Hefeart\nDie Gebührenordnungsposition 32689 ist bei derselben Hefeart nicht\nneben der Gebührenordnungsposition 32692 berechnungsfähig.\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32690",
+      "title": "Differenzierung gezüchteter Pilze mittels mono- oder polyvalenter Seren",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 2.12,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32690 Differenzierung gezüchteter Pilze mittels mono- oder polyvalenter\nSeren\nje Antiserum\nDer Höchstwert für die Untersuchung nach der Nr. 32690 beträgt 11,50\nEURO.\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32691",
+      "title": "Orientierende Empfindlichkeitsprüfung(en) von Hefen in Reinkultur insgesamt je Körpermaterial",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 5.15,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32691 Orientierende Empfindlichkeitsprüfung(en) von Hefen in Reinkultur\ninsgesamt je Körpermaterial\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32692",
+      "title": "Differenzierung gezüchteter Pilze mittels MALDI-TOF- Massenspektrometrie (Matrix-unterstützte Laser-Desorptions- Ionisations-Flugzeit)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 6.06,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32692 Differenzierung gezüchteter Pilze mittels MALDI-TOF-\nMassenspektrometrie (Matrix-unterstützte Laser-Desorptions-\nIonisations-Flugzeit)\nje Art\nDie Gebührenordnungsposition 32692 ist bei derselben Art nicht neben\nden Gebührenordnungspositionen 32688 und 32689 berechnungsfähig.\n32.3.10 Bakteriologische Untersuchungen\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32700",
+      "title": "Nachweis von Bakterien-Antigenen aus einem Körpermaterial (Direktnachweis) mittels Agglutination und/oder Immunpräzipitation",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 8.74,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32700 Nachweis von Bakterien-Antigenen aus einem Körpermaterial\n(Direktnachweis) mittels Agglutination und/oder Immunpräzipitation\nje Untersuchung unter Angabe des Antigens\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32701",
+      "title": "Clostridioides difficile-Nachweis im Stuhl",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 23.8,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32701 Clostridioides difficile-Nachweis im Stuhl\nObligater Leistungsinhalt\n- Nachweis des Glutamat-Dehydrogenase-Enzyms\n- Nachweis der Toxine A und B\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32702",
+      "title": "Zuschlag zur Gebührenordnungsposition 32701 für den Nukleinsäurenachweis von Clostridioides difficile bei diskordanten Ergebnissen des Immunoassays Nachweis von Bakterien-Antigenen aus einem Körpermaterial (Direktnachweis) mittels Immunfluoreszenz und/oder Immunoassay mit photometrischer oder gleichwertiger Messung, gilt für die Gebührenordnungspositionen 32704 bis 32707",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 18.31,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32702 Zuschlag zur Gebührenordnungsposition 32701 für den\nNukleinsäurenachweis von Clostridioides difficile bei diskordanten\nErgebnissen des Immunoassays\nNachweis von Bakterien-Antigenen aus einem Körpermaterial\n(Direktnachweis) mittels Immunfluoreszenz und/oder Immunoassay\nmit photometrischer oder gleichwertiger Messung, gilt für die\nGebührenordnungspositionen 32704 bis 32707\nje Untersuchung\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32704",
+      "title": "Mycoplasma pneumoniae",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 8.92,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32704 Mycoplasma pneumoniae\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32705",
+      "title": "Shigatoxin (Verotoxin), ggf. einschl. kultureller Anreicherung",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 8.56,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32705 Shigatoxin (Verotoxin), ggf. einschl. kultureller Anreicherung\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32706",
+      "title": "Helicobacter pylori-Antigen im Stuhl",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 21.62,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32706 Helicobacter pylori-Antigen im Stuhl\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32707",
+      "title": "Ähnliche Untersuchungen unter Angabe des Antigens",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 10.95,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32707 Ähnliche Untersuchungen unter Angabe des Antigens\nDie Berechnung der Gebührenordnungsposition 32707 setzt die\nBegründung der medizinischen Notwendigkeit der jeweiligen\nUntersuchung im Einzelfall voraus.\nDie Gebührenordnungsposition 32706 ist grundsätzlich nur\nberechnungsfähig vor einer geplanten Dauermedikation mit niedrig\ndosiertem ASS oder mit nicht steroidalen Antirheumatika (NSAR) und\nerhöhtem Risiko für eine Ulcus-Erkrankung sowie zur Erfolgskontrolle\nnach Eradikationstherapie einer Helicobacter pylori-Infektion (frühestens\n4 Wochen nach Ende der Therapie) oder zum Ausschluss einer\nReinfektion bei einer gastroduodenoskopisch gesicherten Ulcus-\nduodeni-Erkrankung oder bei Kindern mit begründetem Verdacht auf\neine Ulkus-Erkrankung.\nDie Gebührenordnungsposition 32706 ist nicht neben den\nGebührenordnungspositionen 02400 und 32315 berechnungsfähig.\nDie Gebührenordnungsposition 32704 ist am Behandlungstag nicht\nneben der Gebührenordnungsposition 32851 berechnungsfähig.\nKulturelle Untersuchung auf ätiologisch relevante Bakterien, gilt für\ndie Gebührenordnungspositionen 32720 bis 32727\nObligater Leistungsinhalt\n- Kulturelle Untersuchung auf ätiologisch relevante Bakterien\nFakultativer Leistungsinhalt\n- Keimzahlbestimmung\n- Nachweis antimikrobieller Wirkstoffe mittels Hemmstofftest\n- Nachfolgende mikroskopische Prüfung(en) und Kultur(en)\nje Untersuchung\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32720",
+      "title": "Urinuntersuchung mit mindestens zwei Nährböden (ausgenommen Eintauchnährböden) und/oder mit apparativer Wachstumsmessung",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 5.06,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32720 Urinuntersuchung mit mindestens zwei Nährböden (ausgenommen\nEintauchnährböden) und/oder mit apparativer Wachstumsmessung\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32721",
+      "title": "Untersuchung von Sekreten des Respirationstrakts, z. B. Sputum Bronchialsekret, mit mindestens drei Nährböden",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 6.62,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32721 Untersuchung von Sekreten des Respirationstrakts, z. B. Sputum\nBronchialsekret, mit mindestens drei Nährböden\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32722",
+      "title": "Stuhluntersuchung mit mindestens fünf Nährböden, ggf. einschl. anaerober Untersuchung, z. B. auf Clostridien",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 7.36,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32722 Stuhluntersuchung mit mindestens fünf Nährböden, ggf. einschl.\nanaerober Untersuchung, z. B. auf Clostridien\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32723",
+      "title": "Stuhluntersuchung mit mindestens fünf Nährböden, einschl. Untersuchung auf Yersinien, Campylobacter und ggf. weitere darmpathogene Bakterien, ggf. einschl. anaerober Untersuchung, z. B. auf Clostridien",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 9.84,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32723 Stuhluntersuchung mit mindestens fünf Nährböden, einschl.\nUntersuchung auf Yersinien, Campylobacter und ggf. weitere\ndarmpathogene Bakterien, ggf. einschl. anaerober Untersuchung, z. B.\nauf Clostridien\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32724",
+      "title": "Aerobe oder anaerobe Untersuchung von Blut",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 10.76,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32724 Aerobe oder anaerobe Untersuchung von Blut\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32725",
+      "title": "Untersuchung von Liquor, Punktat, Biopsie-, Bronchiallavage- oder Operationsmaterial, ggf. einschl. anaerober Untersuchung, unter Angabe der Materialart",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 8.65,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32725 Untersuchung von Liquor, Punktat, Biopsie-, Bronchiallavage-\noder Operationsmaterial, ggf. einschl. anaerober Untersuchung, unter\nAngabe der Materialart\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32726",
+      "title": "Untersuchung eines Abstrichs, Exsudats, Sekrets oder anderen Körpermaterials mit mindestens drei Nährböden unter Angabe der Materialart",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 5.89,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32726 Untersuchung eines Abstrichs, Exsudats, Sekrets oder anderen\nKörpermaterials mit mindestens drei Nährböden unter Angabe der\nMaterialart\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32727",
+      "title": "Untersuchung eines Abstrichs, Exsudats, Sekrets oder anderen Körpermaterials mit mindestens fünf Nährböden, ggf. einschl. anaerober Untersuchung unter Angabe der Materialart Anstelle der Gebührenordnungspositionen 32720 bis 32724 sind die Gebührenordnungspositionen 32725 bis 32727 bei demselben Körpermaterial nicht berechnungsfähig.",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 7.82,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32727 Untersuchung eines Abstrichs, Exsudats, Sekrets oder anderen\nKörpermaterials mit mindestens fünf Nährböden, ggf. einschl. anaerober\nUntersuchung unter Angabe der Materialart\nAnstelle der Gebührenordnungspositionen 32720 bis 32724 sind\ndie Gebührenordnungspositionen 32725 bis 32727 bei demselben\nKörpermaterial nicht berechnungsfähig.\nDie Gebührenordnungspositionen 32720, 32722 und 32723 sind bei\ndemselben Material nicht neben den Gebührenordnungspositionen\n32725 bis 32727 berechnungsfähig.\nDie Gebührenordnungsposition 32721 ist bei demselben Material nicht\nneben den Gebührenordnungspositionen 32725 bis 32727 und 32740\nberechnungsfähig.\nDie Gebührenordnungsposition 32724 ist bei demselben Material nicht\nneben den Gebührenordnungspositionen 32725 bis 32727 und 32741\nbis 32746 berechnungsfähig.\nDie Gebührenordnungsposition 32725 ist bei demselben Material nicht\nneben den Gebührenordnungspositionen 32720 bis 32724, 32726 und\n32741 bis 32746 berechnungsfähig.\nDie Gebührenordnungsposition 32726 ist bei demselben Material nicht\nneben den Gebührenordnungspositionen 32720 bis 32725 und 32740\nberechnungsfähig.\nDie Gebührenordnungsposition 32727 ist bei demselben Material nicht\nneben den Gebührenordnungspositionen 32720 bis 32724 und 32740\nbis 32746 berechnungsfähig.\nDie Gebührenordnungsposition 32720 ist am Behandlungstag nicht\nneben der Gebührenordnungsposition 32151 berechnungsfähig.\nGezielte kulturelle Untersuchung auf bestimmte Krankheitserreger\ngilt für die Gebührenordnungspositionen 32740 bis 32747\nObligater Leistungsinhalt\n- Gezielte kulturelle Untersuchung auf bestimmte Krankheitserreger\nunter Verwendung spezieller Nährböden und/oder Kulturverfahren\nFakultativer Leistungsinhalt\n- Keimzahlbestimmung\n- Nachweis antimikrobieller Wirkstoffe mittels Hemmstofftest\n- Nachfolgende mikroskopische Prüfung(en) und Kultur(en)\nje Untersuchung\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32740",
+      "title": "Untersuchung auf betahämolysierende Streptokokken, z. B. aus dem Rachen, mit mindestens zwei Nährböden",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 4.97,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32740 Untersuchung auf betahämolysierende Streptokokken, z. B. aus\ndem Rachen, mit mindestens zwei Nährböden\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32741",
+      "title": "Untersuchung auf Neisseria gonorrhoeae unter vermehrter CO2- Spannung, ggf. einschl. Oxidase- und/oder ß-Lactamaseprüfung",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 4.78,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32741 Untersuchung auf Neisseria gonorrhoeae unter vermehrter CO2-\nSpannung, ggf. einschl. Oxidase- und/oder ß-Lactamaseprüfung\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32742",
+      "title": "Untersuchung auf Aktinomyzeten",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 5.7,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32742 Untersuchung auf Aktinomyzeten\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32743",
+      "title": "Untersuchung auf Borrelien",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 6.07,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32743 Untersuchung auf Borrelien\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32744",
+      "title": "Untersuchung auf Mykoplasmen, ggf. auch mehrere Gattungen (z. B. Mycoplasma, Ureaplasma)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 8.74,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32744 Untersuchung auf Mykoplasmen, ggf. auch mehrere Gattungen (z. B.\nMycoplasma, Ureaplasma)\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32745",
+      "title": "Untersuchung auf Legionellen",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 6.07,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32745 Untersuchung auf Legionellen\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32746",
+      "title": "Untersuchung auf Leptospiren",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 6.07,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32746 Untersuchung auf Leptospiren\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32747",
+      "title": "Untersuchung auf Mykobakterien mit mindestens einem flüssigen und zwei festen Kulturmedien",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 32.11,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32747 Untersuchung auf Mykobakterien mit mindestens einem flüssigen und\nzwei festen Kulturmedien\nDie Gebührenordnungsposition 32740 ist bei demselben Material nicht\nneben den Gebührenordnungspositionen 32721, 32726 und 32727\nberechnungsfähig.\nDie Gebührenordnungspositionen 32741 bis 32746 sind bei demselben\nMaterial nicht neben den Gebührenordnungspositionen 32724, 32725\nund 32727 berechnungsfähig.\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32748",
+      "title": "Bakteriologische Untersuchung in vivo",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 12.7,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32748 Bakteriologische Untersuchung in vivo\nObligater Leistungsinhalt\n- Bakteriologische Untersuchung in vivo, z. B. Toxinnachweis\nFakultativer Leistungsinhalt\n- Nachfolgende kulturelle und mikroskopische Untersuchungen\nje Untersuchungsmaterial unter Angabe des\nKrankheitserregers\nDie Gebührenordnungsposition 32748 ist nicht für die Untersuchung auf\nMykobakterien berechnungsfähig.\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32749",
+      "title": "Nachweis bakterieller Toxine, z. B. Verotoxine, mittels Zellkultur(en)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 11.78,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32749 Nachweis bakterieller Toxine, z. B. Verotoxine, mittels Zellkultur(en)\nje Untersuchungsmaterial unter Angabe des Toxins\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32750",
+      "title": "Differenzierung gezüchteter Bakterien mittels mono- oder polyvalenter Seren",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 3.59,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32750 Differenzierung gezüchteter Bakterien mittels mono- oder\npolyvalenter Seren\nje Antiserum\nDer Höchstwert für die Untersuchung nach der Nr. 32750 beträgt 39,00\nEURO.\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32759",
+      "title": "Differenzierung von in Reinkultur gezüchteten Bakterien mittels MALDI-TOF-Massenspektrometrie (Matrix-unterstützte Laser-Desorptions-Ionisations-Flugzeit)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 6.06,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32759 Differenzierung von in Reinkultur gezüchteten Bakterien\nmittels MALDI-TOF-Massenspektrometrie (Matrix-unterstützte\nLaser-Desorptions-Ionisations-Flugzeit)\nje Bakterienart\nDie Gebührenordnungsposition 32759 ist bei derselben Bakterienart\nnicht neben den Gebührenordnungspositionen 32760 bis 32765\nberechnungsfähig.\nDifferenzierung von in Reinkultur gezüchteten Bakterien, gilt für die\nGebührenordnungspositionen 32760 bis 32765\nObligater Leistungsinhalt\n- Differenzierung von in Reinkultur gezüchteten Bakterien mittels\n- biochemischer und/oder kultureller Verfahren\noder\n- Nukleinsäuresonden\nFakultativer Leistungsinhalt\n- Subkultur(en)\nje Bakterienart und/oder -typ\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32760",
+      "title": "Verfahren mit bis zu drei Reaktionen",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 3.31,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32760 Verfahren mit bis zu drei Reaktionen\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32761",
+      "title": "Verfahren mit mindestens vier Reaktionen",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 4.88,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32761 Verfahren mit mindestens vier Reaktionen\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32762",
+      "title": "Verfahren mit mindestens zehn Reaktionen",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 8.1,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32762 Verfahren mit mindestens zehn Reaktionen\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32763",
+      "title": "Differenzierung von strikten Anaerobiern",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 12.24,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32763 Differenzierung von strikten Anaerobiern\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32764",
+      "title": "Differenzierung von Tuberkulosebakterien (M. tuberculosis, M. bovis M. africanum, BCG-Stamm)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 26.13,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32764 Differenzierung von Tuberkulosebakterien (M. tuberculosis, M. bovis\nM. africanum, BCG-Stamm)\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32765",
+      "title": "Differenzierung von Mykobakterien, die nicht Tuberkulosebakterien sind (sog. ubiquitäre Mykobakterien), mit Verfahren mit mindestens zehn Reaktionen oder mittels Nukleinsäuresonden",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 31.74,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32765 Differenzierung von Mykobakterien, die nicht Tuberkulosebakterien\nsind (sog. ubiquitäre Mykobakterien), mit Verfahren mit mindestens\nzehn Reaktionen oder mittels Nukleinsäuresonden\nDie Gebührenordnungsposition 32760 ist bei derselben Bakterienart\nnicht neben den Gebührenordnungspositionen 32759 und 32761 bis\n32765 berechnungsfähig.\nDie Gebührenordnungsposition 32761 ist bei derselben Bakterienart\nnicht neben den Gebührenordnungspositionen 32759, 32760 und 32762\nbis 32765 berechnungsfähig.\nDie Gebührenordnungsposition 32762 ist bei derselben Bakterienart\nnicht neben den Gebührenordnungspositionen 32759 bis 32761 und\n32763 bis 32765 berechnungsfähig.\nDie Gebührenordnungsposition 32763 ist bei derselben Bakterienart\nnicht neben den Gebührenordnungspositionen 32759 bis 32762, 32764\nund 32765 berechnungsfähig.\nDie Gebührenordnungsposition 32764 ist bei derselben Bakterienart\nnicht neben den Gebührenordnungspositionen 32759 bis 32763 und\n32765 berechnungsfähig.\nDie Gebührenordnungsposition 32765 ist bei derselben Bakterienart\nnicht neben den Gebührenordnungspositionen 32759 bis 32764\nberechnungsfähig.\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32768",
+      "title": "Bestimmung der minimalen Hemmkonzentration (MHK) von in Reinkultur gezüchteten, ätiologisch relevanten Bakterien, außer aus Sputum, Urin, Stuhl und von Oberflächenabstrichen von Haut und Schleimhäuten, in mindestens acht Verdünnungsstufen",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 17.2,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32768 Bestimmung der minimalen Hemmkonzentration (MHK) von in\nReinkultur gezüchteten, ätiologisch relevanten Bakterien, außer aus\nSputum, Urin, Stuhl und von Oberflächenabstrichen von Haut und\nSchleimhäuten, in mindestens acht Verdünnungsstufen\nje Untersuchungsprobe, insgesamt\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32769",
+      "title": "Zuschlag zur Gebührenordnungsposition 32768 bei Bestimmung der minimalen bakteriziden Konzentration (MBK) durch Subkulturen",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 8.46,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32769 Zuschlag zur Gebührenordnungsposition 32768 bei Bestimmung der\nminimalen bakteriziden Konzentration (MBK) durch Subkulturen\nje Untersuchungsprobe\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32770",
+      "title": "Empfindlichkeitsprüfungen von Mykobakterien in Reinkultur",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 7.27,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32770 Empfindlichkeitsprüfungen von Mykobakterien in Reinkultur\nje Bakterienstamm und je Chemotherapeutikum in\nmindestens jeweils zwei Abstufungen\nDer Höchstwert für Untersuchungen nach der Nr. 32770 beträgt 39,50\nEURO je Mykobakterienart.\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32772",
+      "title": "Semiquantitative nach EUCAST oder CLSI ausgewählte Empfindlichkeitsprüfungen von in Reinkultur gezüchteten klinisch relevanten gramnegativen Bakterien aus einem Material gegen mindestens fünf Standardtherapeutika sowie mindestens drei für den Nachweis von Resistenzmechanismen relevanten Leitsubstanzgruppen",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 6.38,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32772 Semiquantitative nach EUCAST oder CLSI ausgewählte\nEmpfindlichkeitsprüfungen von in Reinkultur gezüchteten klinisch\nrelevanten gramnegativen Bakterien aus einem Material gegen\nmindestens fünf Standardtherapeutika sowie mindestens drei\nfür den Nachweis von Resistenzmechanismen relevanten\nLeitsubstanzgruppen\nFakultativer Leistungsinhalt\n- Bestimmung der minimalen Hemmkonzentration (MHK) mittels\nGradienten-Diffusionstest\nje Bakterienart, höchstens zwei Bakterienarten je\nUntersuchungsprobe\nDer Höchstwert für die Untersuchungen der\nGebührenordnungspositionen 32772, 32773 und 32777 beträgt je\nUntersuchungsprobe 20,79 Euro.\nDer Befundbericht soll die Ergebnisse zu den Leitsubstanzen\nder Multiresistenz nur aufführen, sofern der Keim auf mehrere\nStandardtherapeutika nicht oder nur intermediär sensibel ist.\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32773",
+      "title": "Semiquantitative nach EUCAST oder CLSI ausgewählte Empfindlichkeitsprüfungen von in Reinkultur gezüchteten klinisch relevanten grampositiven Bakterien aus einem Material gegen mindestens fünf Standardtherapeutika sowie der für den Nachweis von Resistenzmechanismen relevanten Leitsubstanzgruppen",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 6.38,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32773 Semiquantitative nach EUCAST oder CLSI ausgewählte\nEmpfindlichkeitsprüfungen von in Reinkultur gezüchteten klinisch\nrelevanten grampositiven Bakterien aus einem Material gegen\nmindestens fünf Standardtherapeutika sowie der für den Nachweis\nvon Resistenzmechanismen relevanten Leitsubstanzgruppen\nFakultativer Leistungsinhalt\n- Bestimmung der minimalen Hemmkonzentration (MHK) mittels\nGradienten-Diffusionstest\nje Bakterienart, höchstens zwei Bakterienarten je\nUntersuchungsprobe\nDer Höchstwert für die Untersuchungen der\nGebührenordnungspositionen 32772, 32773 und 32777 beträgt je\nUntersuchungsprobe 20,79 Euro.\nDer Befundbericht soll die Ergebnisse zu den Leitsubstanzen\nder Multiresistenz nur aufführen, sofern der Keim auf mehrere\nStandardtherapeutika nicht oder nur intermediär sensibel ist.\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32774",
+      "title": "Zuschlag zu der Gebührenordnungsposition 32772 bei gramnegativen Bakterien für die Durchführung von phänotypischen Bestätigungstesten bei Multiresistenz gegen die für die Bakterienart relevante(n) Leitsubstanz(en)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 7.82,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32774 Zuschlag zu der Gebührenordnungsposition 32772 bei\ngramnegativen Bakterien für die Durchführung von phänotypischen\nBestätigungstesten bei Multiresistenz gegen die für die Bakterienart\nrelevante(n) Leitsubstanz(en)\nje Bakterienart und Resistenzmechanismus\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32775",
+      "title": "Zuschlag zu der Gebührenordnungsposition 32773 bei grampositiven Bakterien für die Durchführung von phänotypischen Bestätigungstesten bei Multiresistenz gegen die für die Bakterienart relevante(n) Leitsubstanz(en)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 7.82,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32775 Zuschlag zu der Gebührenordnungsposition 32773 bei\ngrampositiven Bakterien für die Durchführung von phänotypischen\nBestätigungstesten bei Multiresistenz gegen die für die Bakterienart\nrelevante(n) Leitsubstanz(en)\nje Bakterienart und Resistenzmechanismus\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32777",
+      "title": "Semiquantitative nach EUCAST oder CLSI ausgewählte Empfindlichkeitsprüfungen von in Reinkultur gezüchteten klinisch relevanten Bakterien aus einem Material",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 6.93,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32777 Semiquantitative nach EUCAST oder CLSI ausgewählte\nEmpfindlichkeitsprüfungen von in Reinkultur gezüchteten klinisch\nrelevanten Bakterien aus einem Material\n- mit atypischem Färbeverhalten nach Gram\noder\n- für die gemäß EUCAST oder CLSI ein von den\nGebührenordnungspositionen 32772 oder 32773 abweichender\nLeistungsinhalt definiert ist\nje Bakterienart, höchstens zwei Bakterienarten je\nUntersuchungsprobe\nDer Höchstwert für die Untersuchungen der\nGebührenordnungspositionen 32772, 32773 und 32777 beträgt je\nUntersuchungsprobe 20,79 Euro.\n32.3.11 Virologische Untersuchungen\nNachweis von Virus-Antigenen aus einem Körpermaterial\n(Direktnachweis) mittels Immunfluoreszenz und/oder\nmittels Immunoassay mit photometrischer oder gleichwertiger Messung\ngilt für die Gebührenordnungspositionen 32779 bis 32782 und 32784 bis\n32791\nje Untersuchung\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32779",
+      "title": "SARS-CoV-2",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 10.8,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32779 SARS-CoV-2\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32780",
+      "title": "Hepatitis A-Virus (HAV)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 7.08,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32780 Hepatitis A-Virus (HAV)\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32781",
+      "title": "Hepatitis B-Oberflächenantigen (HBsAg)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 5.06,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32781 Hepatitis B-Oberflächenantigen (HBsAg)\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32782",
+      "title": "Hepatitis B-e-Antigen (HBeAg)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 10.03,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32782 Hepatitis B-e-Antigen (HBeAg)\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32784",
+      "title": "Cytomegalievirus (CMV)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 17.02,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32784 Cytomegalievirus (CMV)\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32785",
+      "title": "Herpes simplex-Viren",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 15.92,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32785 Herpes simplex-Viren\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32786",
+      "title": "Influenzaviren",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 8.46,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32786 Influenzaviren\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32787",
+      "title": "Parainfluenzaviren",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 5.61,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32787 Parainfluenzaviren\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32788",
+      "title": "Respiratory-Syncytial-Virus (RSV)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 17.02,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32788 Respiratory-Syncytial-Virus (RSV)\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32789",
+      "title": "Adenoviren",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 8.0,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32789 Adenoviren\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32790",
+      "title": "Rotaviren",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 6.81,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32790 Rotaviren\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32791",
+      "title": "Ähnliche Untersuchungen unter Angabe des Antigens Untersuchungen mittels vorgefertigter Reagenzträger (z. B. immunchromatographische Schnellteste) oder Schnellteste mit vorgefertigten Reagenzzubereitungen (z. B. Latexteste) sind nicht nach der Gebührenordnungsposition 32779 berechnungsfähig.",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 12.14,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32791 Ähnliche Untersuchungen unter Angabe des Antigens\nUntersuchungen mittels vorgefertigter Reagenzträger (z. B.\nimmunchromatographische Schnellteste) oder Schnellteste mit\nvorgefertigten Reagenzzubereitungen (z. B. Latexteste) sind nicht nach\nder Gebührenordnungsposition 32779 berechnungsfähig.\nDie Berechnung der Gebührenordnungsposition 32779 setzt\ndie Teilnahme an Maßnahmen der externen Qualitätssicherung voraus.\nDie Gebührenordnungsposition 32779 ist nur von Fachärzten\nfür Laboratoriumsmedizin oder für Mikrobiologie, Virologie\nund Infektionsepidemiologie berechnungsfähig.\nDie Berechnung der Gebührenordnungsposition 32791 setzt die\nBegründung der medizinischen Notwendigkeit der jeweiligen\nUntersuchung im Einzelfall voraus.\nDie Gebührenordnungsposition 32781 ist nicht neben den\nGebührenordnungspositionen 01810 und 01932 berechnungsfähig.\nDie Gebührenordnungsposition 32785 ist nicht neben der\nGebührenordnungsposition 32800 berechnungsfähig.\nDie Gebührenordnungsposition 32781 ist am Behandlungstag nicht\nneben der Gebührenordnungsposition 01865 berechnungsfähig.\nDie Gebührenordnungsposition 32785 ist am Behandlungstag nicht\nneben der Gebührenordnungsposition 32852 berechnungsfähig.\nDie Gebührenordnungspositionen 32786 bis 32788 sind am\nBehandlungstag nicht neben der Gebührenordnungsposition 32851\nberechnungsfähig.\nDie Gebührenordnungsposition 32789 ist am Behandlungstag\nnicht neben den Gebührenordnungspositionen 32851 und 32853\nberechnungsfähig.\nDie Gebührenordnungsposition 32790 ist am Behandlungstag nicht\nneben der Gebührenordnungsposition 32853 berechnungsfähig.\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32792",
+      "title": "Elektronenmikroskopischer Nachweis von Viren",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 42.32,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32792 Elektronenmikroskopischer Nachweis von Viren\nObligater Leistungsinhalt\n- Elektronenmikroskopischer Nachweis von Viren\nFakultativer Leistungsinhalt\n- Verwendung spezifischer Antiseren (Immunelektronenmikroskopie)\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32793",
+      "title": "Anzüchtung von Viren, Rickettsien in Zellkulturen oder in vivo",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 9.48,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32793 Anzüchtung von Viren, Rickettsien in Zellkulturen oder in vivo\nObligater Leistungsinhalt\n- Anzüchtung von Viren, Rickettsien in Zellkulturen oder in vivo\nFakultativer Leistungsinhalt\n- Folgekulturen (Passagen)\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32794",
+      "title": "Anzüchtung von Viren oder Rickettsien in einem Brutei Der Höchstwert für die Untersuchungen nach den Nrn. 32792 bis 32794 beträgt 46,00 EURO je Körpermaterial.",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 9.38,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32794 Anzüchtung von Viren oder Rickettsien in einem Brutei\nDer Höchstwert für die Untersuchungen nach den Nrn. 32792 bis 32794\nbeträgt 46,00 EURO je Körpermaterial.\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32795",
+      "title": "Typisierung von Viren in Zellkulturen, in vivo oder im Brutei",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 8.46,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32795 Typisierung von Viren in Zellkulturen, in vivo oder im Brutei\nje Antiserum\n32.3.12 Molekularbiologische Untersuchungen\n1. Immundefizient sind Patienten, bei denen mindestens ein Teil des\nImmunsystems aufgrund exogener oder endogener Ursachen soweit\neingeschränkt ist, dass eine regelgerechte Immunreaktion nicht erfolgt\nund ein Auftreten opportunistischer Infektionen zu erwarten ist.\n2. Der Nachweis mikrobieller/viraler Nukleinsäure aus\neinem Körpermaterial (Direktnachweis) erfolgt mittels\nNukleinsäureamplifikationstechniken und beinhaltet für die Leistungen\nnach den Gebührenordnungspositionen 32815, 32817 sowie\n32823 bis 32827 die Aufbereitung (z. B. Zellisolierung\nNukleinsäureisolierung, -denaturierung) und Spezifitätskontrolle des\nAmplifikats (z. B. mittels Elektrophorese und markierter Sonden), ggf.\neinschl. reverser Transkription und mehreren aufeinanderfolgenden\nAmplifikationen.\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32800",
+      "title": "Nukleinsäurenachweis von Herpes-simplex-Virus Typ 1 und Typ 2 bei immundefizienten Patienten Der Höchstwert für die Untersuchungen nach den Gebührenordnungspositionen 32800 und 32852 beträgt 38,26 Euro.",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 18.31,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32800 Nukleinsäurenachweis von Herpes-simplex-Virus Typ 1 und Typ 2\nbei immundefizienten Patienten\nDer Höchstwert für die Untersuchungen nach den\nGebührenordnungspositionen 32800 und 32852 beträgt 38,26 Euro.\nDie Gebührenordnungsposition 32800 ist nicht neben der\nGebührenordnungsposition 32785 berechnungsfähig.\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32801",
+      "title": "Nukleinsäurenachweis von Varicella-Zoster-Virus bei immundefizienten Patienten",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 18.31,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32801 Nukleinsäurenachweis von Varicella-Zoster-Virus bei\nimmundefizienten Patienten\nDie Gebührenordnungsposition 32801 ist nicht neben der\nGebührenordnungsposition 32630 berechnungsfähig.\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32802",
+      "title": "Nukleinsäurenachweis von Pneumocystis jirovecii bei immundefizienten Patienten",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 18.31,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32802 Nukleinsäurenachweis von Pneumocystis jirovecii bei\nimmundefizienten Patienten\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32803",
+      "title": "Nukleinsäurenachweis von Listeria spp. bei immundefizienten Patienten",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 18.31,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32803 Nukleinsäurenachweis von Listeria spp. bei immundefizienten\nPatienten\nDie Gebührenordnungsposition 32803 ist nicht neben der\nGebührenordnungsposition 32594 berechnungsfähig.\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32804",
+      "title": "Nukleinsäurenachweis von Zika-Virus-RNA",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 18.31,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32804 Nukleinsäurenachweis von Zika-Virus-RNA\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32805",
+      "title": "Nukleinsäurenachweis von sonstigen Arboviren",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 18.31,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32805 Nukleinsäurenachweis von sonstigen Arboviren\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32806",
+      "title": "Nukleinsäurenachweis von Masernvirus",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 18.31,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32806 Nukleinsäurenachweis von Masernvirus\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32807",
+      "title": "Nukleinsäurenachweis von Mumpsvirus",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 18.31,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32807 Nukleinsäurenachweis von Mumpsvirus\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32808",
+      "title": "Nukleinsäurenachweis von Rötelnvirus",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 18.31,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32808 Nukleinsäurenachweis von Rötelnvirus\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32809",
+      "title": "Nukleinsäurenachweis von Adenoviren aus Konjunktivalabstrich",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 18.31,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32809 Nukleinsäurenachweis von Adenoviren aus Konjunktivalabstrich\nDie Gebührenordnungsposition 32809 ist nicht neben der\nGebührenordnungsposition 32601 berechnungsfähig.\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32810",
+      "title": "Nukleinsäurenachweis von Orthopoxvirus spp. aus makulo-/vesiculopapulösen Haut- oder Schleimhautläsionen (Befundmitteilung innerhalb von 24 Stunden nach Materialeingang im Labor)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 18.31,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32810 Nukleinsäurenachweis von Orthopoxvirus spp. aus\nmakulo-/vesiculopapulösen Haut- oder Schleimhautläsionen\n(Befundmitteilung innerhalb von 24 Stunden nach Materialeingang\nim Labor)\nhöchstens dreimal im Behandlungsfall\nDie Gebührenordnungsposition 32810 ist nur von Fachärzten\nfür Laboratoriumsmedizin oder für Mikrobiologie, Virologie und\nInfektionsepidemiologie berechnungsfähig.\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32815",
+      "title": "Quantitative Bestimmung der Hepatitis D-Virus-RNA vor, während zum Abschluss oder nach Abbruch einer spezifischen antiviralen Therapie",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 82.34,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32815 Quantitative Bestimmung der Hepatitis D-Virus-RNA vor, während\nzum Abschluss oder nach Abbruch einer spezifischen antiviralen\nTherapie\nhöchstens dreimal im Behandlungsfall\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32816",
+      "title": "Nukleinsäurenachweis des beta-Coronavirus SARS-CoV-2",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 18.31,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32816 Nukleinsäurenachweis des beta-Coronavirus SARS-CoV-2\nObligater Leistungsinhalt\n- Untersuchung von Material der oberen Atemwege (Oropharynx-\nAbstrich und/oder Nasopharynx-Abstrich)\nFakultativer Leistungsinhalt\n- Untersuchung von Material der tiefen Atemwege (Bronchoalveoläre\nLavage, Sputum (nach Anweisung produziert bzw. induziert) und/\noder Trachealsekret)\neinmal am Behandlungstag\nDie Gebührenordnungsposition 32816 ist im Behandlungsfall höchstens\nfünfmal berechnungsfähig.\nDie Gebührenordnungsposition 32816 ist nur von Fachärzten\nfür Laboratoriumsmedizin oder für Mikrobiologie, Virologie und\nInfektionsepidemiologie berechnungsfähig.\nDie Berechnung der Gebührenordnungsposition 32816 setzt die\nTeilnahme an Maßnahmen der externen Qualitätssicherung voraus.\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32817",
+      "title": "Quantitative Bestimmung der Hepatitis B-Virus-DNA zur Diagnostik einer HBV-Reaktivierung oder vor, während, zum Abschluss oder nach Abbruch einer spezifischen antiviralen Therapie",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 82.34,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32817 Quantitative Bestimmung der Hepatitis B-Virus-DNA zur Diagnostik\neiner HBV-Reaktivierung oder vor, während, zum Abschluss oder\nnach Abbruch einer spezifischen antiviralen Therapie\nhöchstens dreimal im Behandlungsfall\nDie Gebührenordnungsposition 32817 ist am Behandlungstag nicht\nneben der Gebührenordnungsposition 01866 berechnungsfähig.\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32818",
+      "title": "Quantitative Bestimmung der CMV-DNA",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 40.94,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32818 Quantitative Bestimmung der CMV-DNA\n- zur Diagnostik einer CMV-Reaktivierung bei organtransplantierten\nPatienten oder immundefizienten Patienten\noder\n- vor, während, zum Abschluss oder nach Abbruch einer spezifischen\nantiviralen Therapie\nDie Gebührenordnungsposition 32818 ist nur in begründeten Einzelfällen\nneben kulturellen Untersuchungen und/oder Antigennachweisen zum\nNachweis von CMV berechnungsfähig.\nDie Gebührenordnungsposition 32818 ist nicht neben den\nGebührenordnungspositionen 32602 und 32603 berechnungsfähig.\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32820",
+      "title": "Genotypische CMV-Resistenztestung bei Verdacht auf ein Therapieversagen unter einer spezifischen antiviralen Therapie",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 260.0,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32820 Genotypische CMV-Resistenztestung bei Verdacht auf ein\nTherapieversagen unter einer spezifischen antiviralen Therapie\nObligater Leistungsinhalt\n- Untersuchung auf resistenzvermittelnde Mutationen in den Genen\nUL97 und UL54\nFakultativer Leistungsinhalt\n- Untersuchung auf resistenzvermittelnde Mutationen in weiteren\nGenen\neinmal im Behandlungsfall\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32821",
+      "title": "Genotypische HIV-Resistenztestung bei HIV-Infizierten vor spezifischer antiretroviraler Therapie oder bei Verdacht auf Therapieversagen mit folgenden Substanzklassen gemäß Zusammenfassung der Merkmale eines Arzneimittels (Fachinformation)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 260.0,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32821 Genotypische HIV-Resistenztestung bei HIV-Infizierten vor\nspezifischer antiretroviraler Therapie oder bei Verdacht\nauf Therapieversagen mit folgenden Substanzklassen\ngemäß Zusammenfassung der Merkmale eines Arzneimittels\n(Fachinformation)\n- Integrase-Inhibitoren\noder\n- Corezeptor-Antagonisten\noder\n- Fusionsinhibitoren\nje Substanzklasse\nDie Gebührenordnungsposition 32821 setzt die Angabe der\nSubstanzklasse als Art der Untersuchung voraus.\nFür die Beurteilung eines Therapieversagens sind die aktuellen Leitlinien\ndes AWMF-Registers zugrunde zu legen.\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32823",
+      "title": "Quantitative Bestimmung der Hepatitis C-Virus-RNA vor, während zum Abschluss oder nach Abbruch einer spezifischen antiviralen Therapie",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 82.34,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32823 Quantitative Bestimmung der Hepatitis C-Virus-RNA vor, während\nzum Abschluss oder nach Abbruch einer spezifischen antiviralen\nTherapie\nhöchstens dreimal im Behandlungsfall\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32824",
+      "title": "Quantitative Bestimmung der HIV-RNA vor, während, zum Abschluss oder nach Abbruch einer spezifischen antiviralen Therapie",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 82.34,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32824 Quantitative Bestimmung der HIV-RNA vor, während, zum\nAbschluss oder nach Abbruch einer spezifischen antiviralen\nTherapie\nhöchstens dreimal im Behandlungsfall\nDie Gebührenordnungsposition 32824 ist nicht neben der\nGebührenordnungsposition 32850 berechnungsfähig.\nDie Gebührenordnungsposition 32824 ist im Behandlungsfall nicht neben\nden Gebührenordnungspositionen 32376 und 32378 berechnungsfähig.\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32825",
+      "title": "Nachweis von DNA und/oder RNA des Mycobacterium tuberculosis- Complex (MTC) bei begründetem Verdacht auf eine Tuberkulose",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 56.49,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32825 Nachweis von DNA und/oder RNA des Mycobacterium tuberculosis-\nComplex (MTC) bei begründetem Verdacht auf eine Tuberkulose\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    }
+  ]
+}

@@ -1,0 +1,1204 @@
+{
+  "gops": [
+    {
+      "code": "32827",
+      "title": "Bestimmung des Hepatitis C-Virus-Genotyps vor oder während spezifischer antiviraler Therapie",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 82.34,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32827 Bestimmung des Hepatitis C-Virus-Genotyps vor oder während\nspezifischer antiviraler Therapie\neinmal im Behandlungsfall\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32828",
+      "title": "Genotypische HIV-Resistenztestung bei HIV-Infizierten vor spezifischer antiretroviraler Therapie oder bei Verdacht auf Therapieversagen mit folgenden Substanzklassen",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 239.2,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32828 Genotypische HIV-Resistenztestung bei HIV-Infizierten vor\nspezifischer antiretroviraler Therapie oder bei Verdacht auf\nTherapieversagen mit folgenden Substanzklassen\n- Protease-Inhibitoren\nund/oder\n- Reverse Transkriptase-Inhibitoren\nFür die Beurteilung eines Therapieversagens sind die aktuellen Leitlinien\ndes AWMF-Registers zugrunde zu legen.\nDie Gebührenordnungsposition 32828 umfasst auch die gemäß\nAnlage I der Richtlinie des Gemeinsamen Bundesausschusses zu\nUntersuchungen und Behandlungsmethoden der vertragsärztlichen\nVersorgung festgelegten Indikationen.\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32830",
+      "title": "Nukleinsäurenachweis von Mycobacterium tuberculosis",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 18.31,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32830 Nukleinsäurenachweis von Mycobacterium tuberculosis\neinmal im Behandlungsfall\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32831",
+      "title": "Nukleinsäurenachweis von Zytomegalie-Virus bei",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 18.31,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32831 Nukleinsäurenachweis von Zytomegalie-Virus bei\n- organtransplantierten Patienten\noder\n- bei Verdacht auf eine kongenitale CMV-Infektion\noder\n- bei konkreter therapeutischer Konsequenz in begründeten\nEinzelfällen bei immundefizienten Patienten\nDie Gebührenordnungsposition 32831 ist nur in begründeten Einzelfällen\nneben kulturellen Untersuchungen und/oder Antigennachweisen zum\nNachweis von CMV berechnungsfähig.\nDie Gebührenordnungsposition 32831 ist nicht neben den\nGebührenordnungspositionen 32602 und 32603 berechnungsfähig.\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32832",
+      "title": "Nukleinsäurenachweis von Parvovirus in besonders zu begründenden Einzelfällen oder aus Fruchtwasser und/oder Fetalblut zum Nachweis einer vorgeburtlichen fetalen Infektion",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 18.31,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32832 Nukleinsäurenachweis von Parvovirus in besonders zu\nbegründenden Einzelfällen oder aus Fruchtwasser und/oder\nFetalblut zum Nachweis einer vorgeburtlichen fetalen Infektion\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32833",
+      "title": "Nukleinsäurenachweis von Toxoplasma aus",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 18.31,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32833 Nukleinsäurenachweis von Toxoplasma aus\n- Fruchtwasser und/oder Fetalblut\noder\n- bei immundefizienten Patienten\nDie Gebührenordnungsposition 32833 ist nicht neben der\nGebührenordnungsposition 32683 berechnungsfähig.\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32834",
+      "title": "Nukleinsäurenachweis von Erreger im Liquor",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 18.31,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32834 Nukleinsäurenachweis von Erreger im Liquor\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32835",
+      "title": "Nukleinsäurenachweis von HCV",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 39.93,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32835 Nukleinsäurenachweis von HCV\neinmal im Behandlungsfall\nDie Gebührenordnungsposition 32835 ist am Behandlungstag nicht\nneben der Gebührenordnungsposition 01867 berechnungsfähig.\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32837",
+      "title": "Nukleinsäurenachweis von MRSA (nicht für das Sanierungsmonitoring)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 18.31,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32837 Nukleinsäurenachweis von MRSA (nicht für das\nSanierungsmonitoring)\nDie Gebührenordnungsposition 32837 ist nicht neben den\nGebührenordnungspositionen 30954 und 30956 berechnungsfähig.\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32839",
+      "title": "Nukleinsäurenachweis von Chlamydien",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 18.31,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32839 Nukleinsäurenachweis von Chlamydien\nDie Gebührenordnungsposition 32839 ist nicht neben den\nGebührenordnungspositionen 01816, 01840, 01915 und 01936\nberechnungsfähig.\nDie Gebührenordnungsposition 32839 ist am Behandlungstag\nnicht neben den Gebührenordnungspositionen 32851 und 32852\nberechnungsfähig.\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32842",
+      "title": "Nukleinsäurenachweis von Mykoplasmen",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 18.31,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32842 Nukleinsäurenachweis von Mykoplasmen\nNeben der Gebührenordnungsposition 32842 sind kulturelle\nUntersuchungen und/oder Antigennachweise zum Nachweis von\nMykoplasmen nicht berechnungsfähig.\nDie Gebührenordnungsposition 32842 ist am Behandlungstag\nnicht neben den Gebührenordnungspositionen 32851 und 32852\nberechnungsfähig.\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32843",
+      "title": "Nukleinsäurenachweis von Polyomavirus bei immundefizienten Patienten",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 18.31,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32843 Nukleinsäurenachweis von Polyomavirus bei immundefizienten\nPatienten\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32844",
+      "title": "Nukleinsäurenachweis von Epstein-Barr-Virus bei immundefizienten Patienten",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 18.31,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32844 Nukleinsäurenachweis von Epstein-Barr-Virus bei\nimmundefizienten Patienten\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32845",
+      "title": "Nukleinsäurenachweis von HAV",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 18.31,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32845 Nukleinsäurenachweis von HAV\neinmal im Behandlungsfall\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32846",
+      "title": "Nukleinsäurenachweis von HEV",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 18.31,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32846 Nukleinsäurenachweis von HEV\neinmal im Behandlungsfall\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32847",
+      "title": "Nukleinsäurenachweis von HDV",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 18.31,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32847 Nukleinsäurenachweis von HDV\neinmal im Behandlungsfall\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32850",
+      "title": "Nukleinsäurenachweis von HIV-RNA",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 39.93,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32850 Nukleinsäurenachweis von HIV-RNA\neinmal im Behandlungsfall\nDie Gebührenordnungsposition 32850 ist nicht neben den\nGebührenordnungspositionen 32660 und 32824 berechnungsfähig.\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32851",
+      "title": "Nukleinsäurenachweis von einem oder mehreren der nachfolgend aufgeführten Erreger akuter respiratorischer Infektionen (Befundmitteilung innerhalb von 24 Stunden nach Materialeingang im Labor)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 18.31,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32851 Nukleinsäurenachweis von einem oder mehreren der nachfolgend\naufgeführten Erreger akuter respiratorischer Infektionen\n(Befundmitteilung innerhalb von 24 Stunden nach Materialeingang\nim Labor)\n- virale Erreger: Influenza A und B, Parainfluenzaviren\nBocavirus, Respiratory-Syncytial-Virus, Adenoviren, humanes\nMetapneumovirus, Rhinoviren, Enteroviren, Coronaviren (außer\nbeta-Coronavirus SARS-CoV-2)\n- bakterielle Erreger: Bordetella pertussis und B. parapertussis\nMycoplasma pneumoniae, Chlamydia pneumoniae, Legionella\npneumophilia, Streptococcus pneumoniae, Haemophilus influenzae\nje Erreger\nAb der 2. Leistung am Behandlungstag wird die\nGebührenordnungsposition 32851 mit 6,65 Euro je Erreger bewertet.\nDer Höchstwert für die Untersuchungen nach der\nGebührenordnungsposition 32851 beträgt 58,30 Euro.\nNeben der Gebührenordnungsposition 32851 sind kulturelle\nUntersuchungen und/oder Antigennachweise zum Nachweis von\nMykoplasmen nicht berechnungsfähig.\nDie Gebührenordnungsposition 32851 ist am Behandlungstag nicht\nneben den Gebührenordnungspositionen 32589, 32592, 32595, 32600\n32601, 32604, 32609, 32610, 32622, 32625, 32628, 32704, 32786 bis\n32789, 32839 und 32842 berechnungsfähig.\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32852",
+      "title": "Nukleinsäurenachweis von einem oder mehreren der nachfolgend aufgeführten Erreger sexuell übertragbarer Infektionen (Befundmitteilung innerhalb von 24 Stunden nach Materialeingang im Labor)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 18.31,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32852 Nukleinsäurenachweis von einem oder mehreren der nachfolgend\naufgeführten Erreger sexuell übertragbarer Infektionen\n(Befundmitteilung innerhalb von 24 Stunden nach Materialeingang\nim Labor)\n- Chlamydia trachomatis, Neisseria gonorrhoeae, Mycoplasma\ngenitalium, Trichomonas vaginalis, Herpes-simplex-Virus Typ 1 und\n2\nje Erreger\nAb der 2. Leistung am Behandlungstag wird die\nGebührenordnungsposition 32852 mit 6,65 Euro je Erreger bewertet.\nDer Höchstwert für die Untersuchungen nach den\nGebührenordnungspositionen 32800 und 32852 beträgt 38,26 Euro.\nNeben der Gebührenordnungsposition 32852 sind kulturelle\nUntersuchungen und/oder Antigennachweise zum Nachweis von\nMykoplasmen und/oder C. trachomatis nicht berechnungsfähig.\nDie Gebührenordnungsposition 32852 ist nur in begründeten Einzelfällen\nneben kulturellen Untersuchungen zum Nachweis von Neisseria\ngonorrhoeae berechnungsfähig.\nDie Gebührenordnungsposition 32852 ist am Behandlungstag nicht\nneben den Gebührenordnungspositionen 01816, 01840, 01915, 01936\n32785, 32839 und 32842 berechnungsfähig.\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32853",
+      "title": "Nukleinsäurenachweis von einem oder mehreren der nachfolgend aufgeführten Erreger akuter gastrointestinaler Infektionen (Befundmitteilung innerhalb von 24 Stunden nach Materialeingang im Labor)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 18.31,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32853 Nukleinsäurenachweis von einem oder mehreren der nachfolgend\naufgeführten Erreger akuter gastrointestinaler Infektionen\n(Befundmitteilung innerhalb von 24 Stunden nach Materialeingang\nim Labor)\n- virale Erreger: Noroviren, Enteroviren, Rotaviren, Adenoviren\nAstroviren, Sapoviren\n- bakterielle Erreger: Campylobacter, Salmonellen, Shigellen, Yersinia\nenterocolitica, Yersinia pseudotuberculosis, EHEC/EPEC\n- Cryptosporidium spp., Entamoeba histolytica, Giardia duodenalis\nStrongyloides spp.\nje Erreger\nAb der 2. Leistung am Behandlungstag wird die\nGebührenordnungsposition 32853 mit 6,65 Euro je Erreger bewertet.\nDer Höchstwert für die Untersuchungen der Gebührenordnungsposition\n32853 beträgt 45 Euro.\nDie Gebührenordnungsposition 32853 ist am Behandlungstag nicht\nneben den Gebührenordnungspositionen 32601, 32604, 32609, 32610\n32789 und 32790 berechnungsfähig.\n32.3.14 Molekulargenetische Untersuchungen\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32860",
+      "title": "Faktor-V-Leiden-Mutation insgesamt",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 27.6,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32860 Faktor-V-Leiden-Mutation\ninsgesamt\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32861",
+      "title": "Prothrombin G20210A-Mutation insgesamt",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 27.6,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32861 Prothrombin G20210A-Mutation\ninsgesamt\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32863",
+      "title": "Nachweis einer MTHFR-Mutation (Homocystein Konzentration im Plasma > 50 µmol pro Liter)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 27.6,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32863 Nachweis einer MTHFR-Mutation (Homocystein Konzentration im\nPlasma > 50 µmol pro Liter)\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32864",
+      "title": "Hämochromatose",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 46.0,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32864 Hämochromatose\nObligater Leistungsinhalt\n- Untersuchung auf die C282Y- und die H63D-Mutation des HFE\n(Hämochromatose)-Gens\neinmal im Krankheitsfall\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32865",
+      "title": "Genotypisierung zur Bestimmung des CYP2D6- Metabolisierungsstatus vor Gabe von Inhibitoren der Glukozerebrosid-Synthase bei Morbus Gaucher Typ 1 gemäß der Zusammenfassung der Merkmale eines Arzneimittels (Fachinformation)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 308.5,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32865 Genotypisierung zur Bestimmung des CYP2D6-\nMetabolisierungsstatus vor Gabe von Inhibitoren der\nGlukozerebrosid-Synthase bei Morbus Gaucher Typ 1 gemäß\nder Zusammenfassung der Merkmale eines Arzneimittels\n(Fachinformation)\nObligater Leistungsinhalt\n- Untersuchung des CYP2D6-Gens mittels Sequenzanalyse\nFakultativer Leistungsinhalt\n- Untersuchung auf eine Deletion und/oder Duplikation\neinmal im Krankheitsfall\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32866",
+      "title": "Genotypisierung zur Bestimmung des CYP2C9- Metabolisierungsstatus vor der Gabe von Siponimod bei sekundär progredienter Multipler Sklerose gemäß der Zusammenfassung der Merkmale des Arzneimittels (Fachinformation)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 75.44,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32866 Genotypisierung zur Bestimmung des CYP2C9-\nMetabolisierungsstatus vor der Gabe von Siponimod bei sekundär\nprogredienter Multipler Sklerose gemäß der Zusammenfassung der\nMerkmale des Arzneimittels (Fachinformation)\nObligater Leistungsinhalt\n- Untersuchung auf das Vorliegen der Allele CYP2C9*1, CYP2C9*2\nund CYP2C9*3\neinmal im Krankheitsfall\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32867",
+      "title": "Genotypisierung zur Bestimmung des Dihydropyrimidin- Dehydrogenase (DPD)-Metabolisierungsstatus vor systemischer Therapie mit 5-Fluorouracil oder dessen Vorstufen gemäß der Zusammenfassung der Merkmale des Arzneimittels (Fachinformation)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 110.4,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32867 Genotypisierung zur Bestimmung des Dihydropyrimidin-\nDehydrogenase (DPD)-Metabolisierungsstatus vor systemischer\nTherapie mit 5-Fluorouracil oder dessen Vorstufen gemäß\nder Zusammenfassung der Merkmale des Arzneimittels\n(Fachinformation)\nObligater Leistungsinhalt\n- Untersuchung des DPYD Gens auf die Varianten c.1905+1G>A\nc.1679T>G, c.2846A>T und c.1236G>A/HapB3\neinmal im Krankheitsfall\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32868",
+      "title": "Genotypisierung zur Bestimmung des UDP- Glucuronosyltransferase 1A1 (UGT1A1) Metabolisierungsstatus vor systemischer Therapie mit einem irinotecanhaltigen Arzneimittel",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 50.0,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32868 Genotypisierung zur Bestimmung des UDP-\nGlucuronosyltransferase 1A1 (UGT1A1) Metabolisierungsstatus\nvor systemischer Therapie mit einem irinotecanhaltigen\nArzneimittel\nObligater Leistungsinhalt\n- Untersuchung auf das Vorliegen der Allele UGT1A1*6 und\nUGT1A1*28\neinmal im Krankheitsfall\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32869",
+      "title": "Genotypisierung zur Bestimmung des CYP2C19- Metabolisierungsstatus vor der Gabe von Mavacamten bei symptomatischer hypertropher obstruktiver Kardiomyopathie (NYHA-Klasse II-III) gemäß der Zusammenfassung der Merkmale des Arzneimittels (Fachinformation)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 82.0,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32869 Genotypisierung zur Bestimmung des CYP2C19-\nMetabolisierungsstatus vor der Gabe von Mavacamten bei\nsymptomatischer hypertropher obstruktiver Kardiomyopathie\n(NYHA-Klasse II-III) gemäß der Zusammenfassung der Merkmale\ndes Arzneimittels (Fachinformation)\nObligater Leistungsinhalt\n- Untersuchung auf das Vorliegen der Allele CYP2C19*2 und\nCYP2C19*3\neinmal im Krankheitsfall\n32.3.15 Immungenetische Untersuchungen\n32.3.15.1 Transplantationsvorbereitende immungenetische Untersuchungen\n1. Die Gebührenordnungspositionen des Abschnitts 32.3.15.1 sind\nnur vor einer Organ-, Gewebe- oder hämatopoetischen\nStammzelltransplantation berechnungsfähig.\n2. Die Einhaltung der Richtlinie der Bundesärztekammer zu\nAnforderungen an die Histokompatibilitätsdiagnostik gemäß § 16 Abs.\n1 S. 1 Nr. 4a) und 4b) Transplantationsgesetz ist gegenüber der\nzuständigen Kassenärztlichen Vereinigung nachzuweisen.\n3. Die Berechnung der Gebührenordnungspositionen des Abschnitts\n32.3.15.1 setzt die endständige Angabe eines der folgenden\nKodes gemäß ICD-10-GM voraus, der die Indikation dokumentiert:\nU55.-, Z00.5, Z52.-, Z75.6- oder Z75.7-. Für Empfänger einer\nKnochenmarkspende ist der entsprechende Kode aus C00 - D90\nICD-10-GM endständig anzugeben.\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32880",
+      "title": "Harnstreifentest gemäß Anlage 1 der Gesundheitsuntersuchungs- Richtlinie auf Eiweiß, Glukose, Erythrozyten, Leukozyten und Nitrit Erfolgt die Untersuchung nicht unmittelbar nach Gewinnung des Urins ist durch geeignete Lagerungs- und ggf. Transportbedingungen sicherzustellen, dass keine Verfälschungen des Analyseergebnisses auftreten können.",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 0.5,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Richtlinie auf Eiweiß, Glukose, Erythrozyten, Leukozyten und Nitrit Erfolgt die Untersuchung nicht unmittelbar nach Gewinnung des Urins ist durch geeignete Lagerungs- und ggf. Transportbedingungen sicherzustellen, dass keine Verfälschungen des Analyseergebnisses auftreten können. Die Gebührenordnungsposition 32880 ist nicht neben den Gebührenordnungspositionen 32025, 32033, 32057 und 32060 bis 32063 berechnungsfähig. Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32881",
+      "title": "Bestimmung der Nüchternplasmaglukose gemäß Anlage 1 der Gesundheitsuntersuchungs-Richtlinie",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 0.25,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Gesundheitsuntersuchungs-Richtlinie Die Gebührenordnungsposition 32881 ist nicht neben den Gebührenordnungspositionen 32025, 32033, 32057 und 32060 bis 32063 berechnungsfähig. Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32882",
+      "title": "Bestimmung des Lipidprofils (Gesamtcholesterin, LDL-Cholesterin, HDL-Cholesterin und Triglyceride) gemäß Anlage 1 der Gesundheitsuntersuchungs-Richtlinie",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 1.0,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "HDL-Cholesterin und Triglyceride) gemäß Anlage 1 der Gesundheitsuntersuchungs-Richtlinie Die Gebührenordnungsposition 32882 ist nicht neben den Gebührenordnungspositionen 32025, 32033, 32057 und 32060 bis 32063 berechnungsfähig. Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32901",
+      "title": "Ausschluss einer Expressionsvariante",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 19.41,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32901 Ausschluss einer Expressionsvariante\nje Genort\nDie Gebührenordnungsposition 32901 ist im Krankheitsfall je untersuchte\nPerson höchstens zweimal berechnungsfähig.\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32902",
+      "title": "Typisierung eines HLA Klasse I Genortes HLA-A, -B oder -C in Einfeldauflösung mit Split-äquivalenter Zweifeldauflösung",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 105.8,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32902 Typisierung eines HLA Klasse I Genortes HLA-A, -B oder -C in\nEinfeldauflösung mit Split-äquivalenter Zweifeldauflösung\nFakultativer Leistungsinhalt\n- DNA-Präparation\nje Genort\nDie Gebührenordnungsposition 32902 ist im Krankheitsfall je Genort und\nje untersuchte Person höchstens zweimal berechnungsfähig.\nDie Gebührenordnungsposition 32902 ist im Krankheitsfall nicht neben\nden Gebührenordnungspositionen 32935 und 32937 berechnungsfähig.\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32904",
+      "title": "Typisierung eines HLA Klasse I Genortes HLA-A, -B oder -C in Zweifeldauflösung bei bekannter Einfeldauflösung",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 138.0,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32904 Typisierung eines HLA Klasse I Genortes HLA-A, -B oder -C in\nZweifeldauflösung bei bekannter Einfeldauflösung\nFakultativer Leistungsinhalt\n- DNA-Präparation\nje Genort\nDie Gebührenordnungsposition 32904 ist im Krankheitsfall je Genort und\nje untersuchte Person höchstens zweimal berechnungsfähig.\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32906",
+      "title": "Typisierung eines HLA Klasse II Genortes HLA-DR, -DQ oder -DP in Einfeldauflösung mit Split-äquivalenter Zweifeldauflösung",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 66.24,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32906 Typisierung eines HLA Klasse II Genortes HLA-DR, -DQ oder -DP in\nEinfeldauflösung mit Split-äquivalenter Zweifeldauflösung\nFakultativer Leistungsinhalt\n- DNA-Präparation\nje Genort\nDie Gebührenordnungsposition 32906 ist im Krankheitsfall je Genort und\nje untersuchte Person höchstens zweimal berechnungsfähig.\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32908",
+      "title": "Typisierung eines HLA Klasse II Genortes HLA-DR, -DQ oder -DP in Zweifeldauflösung bei bekannter Einfeldauflösung",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 105.8,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32908 Typisierung eines HLA Klasse II Genortes HLA-DR, -DQ oder -DP in\nZweifeldauflösung bei bekannter Einfeldauflösung\nFakultativer Leistungsinhalt\n- DNA-Präparation\nje Genort\nDie Gebührenordnungsposition 32908 ist im Krankheitsfall je Genort und\nje untersuchte Person höchstens zweimal berechnungsfähig.\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32910",
+      "title": "Transplantations-Cross-Match mittels Lymphozytotoxizitäts-Test (LCT)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 39.47,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32910 Transplantations-Cross-Match mittels Lymphozytotoxizitäts-Test\n(LCT)\nje Spender\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32911",
+      "title": "Erweitertes Transplantations-Cross-Match",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 78.3,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32911 Erweitertes Transplantations-Cross-Match\nObligater Leistungsinhalt\n- Isolierung von B- und/oder T-Zellen als vorbereitende Untersuchung\n- B-Zell- und/oder T-Zell-Cross-Match ggf. einschließlich DTT-Cross-\nMatch\nje Spender\nDie Gebührenordnungsposition 32911 ist nur berechnungsfähig, wenn\ndie diagnostische Fragestellung aufgrund der Analyse-Ergebnisse\nentsprechend der Gebührenordnungsposition 32910 nicht vollständig\nbeantwortet werden konnte.\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32915",
+      "title": "Nachweis von Antikörpern gegen HLA-Klasse I oder II Antigene mittels Lymphozytotoxizitäts-Test (LCT), ggf. einschließlich Vorbehandlung mit Dithiothreitol (DTT)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 29.5,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32915 Nachweis von Antikörpern gegen HLA-Klasse I oder II Antigene\nmittels Lymphozytotoxizitäts-Test (LCT), ggf. einschließlich\nVorbehandlung mit Dithiothreitol (DTT)\nje HLA-Klasse\nDie Gebührenordnungsposition 32915 ist im Behandlungsfall höchstens\nzweimal berechnungsfähig.\nDie Gebührenordnungsposition 32915 ist im Behandlungsfall nicht neben\nder Gebührenordnungsposition 32939 berechnungsfähig.\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32916",
+      "title": "Nachweis von Antikörpern gegen HLA-Klasse I oder II Antigene mittels Festphasenmethoden",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 47.3,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32916 Nachweis von Antikörpern gegen HLA-Klasse I oder II Antigene\nmittels Festphasenmethoden\nje HLA-Klasse und je Immunglobulinklasse\nDie Gebührenordnungsposition 32916 ist im Behandlungsfall höchstens\nviermal berechnungsfähig.\nDie Gebührenordnungsposition 32916 ist bei vorbekanntem\nAntikörpernachweis für die entsprechende HLA- und\nImmunglobulinklasse nicht berechnungsfähig.\nDie Gebührenordnungsposition 32916 ist im Behandlungsfall nicht neben\nder Gebührenordnungsposition 32940 berechnungsfähig.\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32917",
+      "title": "Spezifizierung der Antikörper gegen HLA-Klasse I oder II Antigene unter Anwendung spezifisch charakterisierter HLA-Antigenpanel auf unterscheidbaren Festphasen und Berechnung des virtuellen Panelreaktivitätswertes",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 79.0,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32917 Spezifizierung der Antikörper gegen HLA-Klasse I oder II Antigene\nunter Anwendung spezifisch charakterisierter HLA-Antigenpanel\nauf unterscheidbaren Festphasen und Berechnung des virtuellen\nPanelreaktivitätswertes\nje HLA-Klasse\nDie Gebührenordnungsposition 32917 ist nur bei bekannter Reaktivität\ngegen HLA-Klasse I oder II Antigene berechnungsfähig.\nDie Gebührenordnungsposition 32917 ist im Behandlungsfall nicht\nneben den Gebührenordnungspositionen 32918, 32941 und 32942\nberechnungsfähig.\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32918",
+      "title": "Spezifizierung der Antikörper gegen HLA-Klasse I oder II Antigene mittels Single-Antigen-Festphasentest",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 150.0,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32918 Spezifizierung der Antikörper gegen HLA-Klasse I oder II Antigene\nmittels Single-Antigen-Festphasentest\nje HLA-Klasse\nDie Gebührenordnungsposition 32918 ist im Behandlungsfall nicht\nneben den Gebührenordnungspositionen 32917, 32941 und 32942\nberechnungsfähig.\n32.3.15.2 Allgemeine immungenetische Untersuchungen\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32931",
+      "title": "Molekulargenetischer Nachweis HLA-B27",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 27.6,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32931 Molekulargenetischer Nachweis HLA-B27\nFakultativer Leistungsinhalt\n- DNA-Präparation\neinmal im Krankheitsfall\nDie Gebührenordnungsposition 32931 ist bis 30. Juni 2017 auch\nfür den immunologischen Nachweis von HLA-B 27 und unabhängig\nvon der Erfüllung der Qualifikationsanforderungen für den fakultativen\nLeistungsinhalt berechnungsfähig.\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32932",
+      "title": "Molekulargenetischer Nachweis eines krankheitsrelevanten HLA- Merkmals in Einfeldauflösung",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 30.36,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32932 Molekulargenetischer Nachweis eines krankheitsrelevanten HLA-\nMerkmals in Einfeldauflösung\nFakultativer Leistungsinhalt\n- DNA-Präparation\n- Nachweis in Zweifeldauflösung, sofern die Relevanz oder Assoziation\nauf Zweifeldniveau definiert ist\nje Merkmal\nDie Gebührenordnungsposition 32932 ist nicht für den Nachweis des\nHLA-B27 berechnungsfähig.\nDer Höchstwert im Krankheitsfall für die Untersuchungen nach den\nGebührenordnungspositionen 32931 und 32932 beträgt 80,00 Euro.\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32935",
+      "title": "Serologische HLA-Typisierung der Klasse I Antigene HLA-A, -B und -C",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 70.56,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32935 Serologische HLA-Typisierung der Klasse I Antigene HLA-A, -B und\n-C\nje Krankheitsfall\nDie Gebührenordnungsposition 32935 ist im Krankheitsfall nicht neben\nden Gebührenordnungspositionen 32902 und 32937 berechnungsfähig.\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32937",
+      "title": "Typisierung eines HLA Klasse I Genortes HLA-A, -B oder -C in Einfeldauflösung mit Split-äquivalenter Zweifeldauflösung",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 105.8,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32937 Typisierung eines HLA Klasse I Genortes HLA-A, -B oder -C in\nEinfeldauflösung mit Split-äquivalenter Zweifeldauflösung\nFakultativer Leistungsinhalt\n- DNA-Präparation\nje Genort\nDie Gebührenordnungsposition 32937 ist nur im Zusammenhang\nmit der Verordnung eines HLA-kompatiblen Thrombozytenpräparates\nberechnungsfähig.\nDie Gebührenordnungsposition 32937 ist im Krankheitsfall nicht neben\nden Gebührenordnungspositionen 32902 und 32935 berechnungsfähig.\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32939",
+      "title": "Nachweis von Antikörpern gegen HLA-Klasse I oder II Antigene mittels Lymphozytotoxizitäts-Test (LCT), ggf. einschließlich Vorbehandlung mit Dithiothreitol (DTT)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 29.5,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32939 Nachweis von Antikörpern gegen HLA-Klasse I oder II Antigene\nmittels Lymphozytotoxizitäts-Test (LCT), ggf. einschließlich\nVorbehandlung mit Dithiothreitol (DTT)\nje HLA-Klasse\nDie Gebührenordnungsposition 32939 ist im Behandlungsfall höchstens\nzweimal berechnungsfähig.\nDie Gebührenordnungsposition 32939 ist im Behandlungsfall nicht neben\nder Gebührenordnungsposition 32915 berechnungsfähig.\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32940",
+      "title": "Nachweis von Antikörpern gegen HLA-Klasse I oder II Antigene mittels Festphasenmethoden",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 47.3,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32940 Nachweis von Antikörpern gegen HLA-Klasse I oder II Antigene\nmittels Festphasenmethoden\nje HLA-Klasse und je Immunglobulinklasse\nDie Gebührenordnungsposition 32940 ist im Behandlungsfall höchstens\nviermal berechnungsfähig.\nDie Gebührenordnungsposition 32940 ist bei vorbekanntem\nAntikörpernachweis für die entsprechende HLA- und\nImmunglobulinklasse nicht berechnungsfähig.\nDie Gebührenordnungsposition 32940 ist im Behandlungsfall nicht neben\nder Gebührenordnungsposition 32916 berechnungsfähig.\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32941",
+      "title": "Spezifizierung der Antikörper gegen HLA-Klasse I oder II Antigene unter Anwendung spezifisch charakterisierter HLA-Antigenpanel auf unterscheidbaren Festphasen",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 79.0,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32941 Spezifizierung der Antikörper gegen HLA-Klasse I oder II Antigene\nunter Anwendung spezifisch charakterisierter HLA-Antigenpanel\nauf unterscheidbaren Festphasen\nje HLA-Klasse\nDie Gebührenordnungsposition 32941 ist nur bei bekannter Reaktivität\ngegen HLA-Klasse I oder II Antigene berechnungsfähig.\nDie Gebührenordnungsposition 32941 ist im Behandlungsfall nicht\nneben den Gebührenordnungspositionen 32917, 32918 und 32942\nberechnungsfähig.\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32942",
+      "title": "Spezifizierung der Antikörper gegen HLA-Klasse I oder II Antigene mittels Single-Antigen-Festphasentest",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 150.0,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32942 Spezifizierung der Antikörper gegen HLA-Klasse I oder II Antigene\nmittels Single-Antigen-Festphasentest\nje HLA-Klasse\nDie Gebührenordnungsposition 32942 ist im Behandlungsfall nicht\nneben den Gebührenordnungspositionen 32917, 32918 und 32941\nberechnungsfähig.\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32943",
+      "title": "Zuschlag für die Spezifizierung der Antikörper gegen HLA-Klasse I oder II Antigene mittels Komplement-abhängigem und/oder IgG- Subklassen-spezifischem Single-Antigen-Festphasentest zu den Gebührenordnungspositionen 32917, 32918, 32941 oder 32942",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 150.0,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32943 Zuschlag für die Spezifizierung der Antikörper gegen HLA-Klasse\nI oder II Antigene mittels Komplement-abhängigem und/oder IgG-\nSubklassen-spezifischem Single-Antigen-Festphasentest zu den\nGebührenordnungspositionen 32917, 32918, 32941 oder 32942\nje HLA-Klasse\nDie Gebührenordnungsposition 32943 ist nur bei bekannter Reaktivität\ngemäß den Gebührenordnungspositionen 32917, 32918, 32941 oder\n32942 berechnungsfähig.\nDie Gebührenordnungsposition 32943 ist nur im Zusammenhang\nmit einer Organ-, Gewebe- oder hämatopoetischen\nStammzelltransplantation berechnungsfähig.\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32945",
+      "title": "Typisierung des HPA-1- und HPA-5-Merkmals auf die Allele a und b",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 55.2,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32945 Typisierung des HPA-1- und HPA-5-Merkmals auf die Allele a und b\nFakultativer Leistungsinhalt\n- DNA-Präparation\neinmal im Krankheitsfall\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32946",
+      "title": "Typisierung weiterer HPA-Merkmale auf die Allele a und b",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 82.8,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32946 Typisierung weiterer HPA-Merkmale auf die Allele a und b\nObligater Leistungsinhalt\n- Typisierung HPA-2, 3, 4, 6 und 15\nFakultativer Leistungsinhalt\n- DNA-Präparation\neinmal im Krankheitsfall\nDie Gebührenordnungsposition 32946 ist nur im Zusammenhang\nmit der Verordnung eines HPA-kompatiblen Thrombozytenpräparates\nzur Abklärung eines Transfusionszwischenfalls oder eines\nRefraktärzustandes nach einer Thrombozytentransfusion\nberechnungsfähig.\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32947",
+      "title": "Serologische Verträglichkeitsprobe (Kreuzprobe) von Thrombozyten in einem komplementunabhängigen Testsystem unter Verwendung von immobilisierten HLA-Antigenen und Thrombozytenantigenen",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 39.47,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32947 Serologische Verträglichkeitsprobe (Kreuzprobe) von\nThrombozyten in einem komplementunabhängigen Testsystem\nunter Verwendung von immobilisierten HLA-Antigenen und\nThrombozytenantigenen\nObligater Leistungsinhalt\n- Thrombozytenkreuzprobe vor Transfusion eines HLA- und/oder HPA-\nausgewählten Thrombozytenpräparates\nje Spender\nDie Gebührenordnungsposition 32947 ist nur im Zusammenhang\nmit der Verordnung eines HLA- und/oder HPA-\nkompatiblen Thrombozytenpräparates oder zur Abklärung eines\nTransfusionszwischenfalls berechnungsfähig.\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32948",
+      "title": "Nachweis von Allo-Antikörpern gegen Antigene des HPA-Systems",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 28.7,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32948 Nachweis von Allo-Antikörpern gegen Antigene des HPA-Systems\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32949",
+      "title": "Spezifizierung von HPA-Antikörpern gegen Thrombozyten mittels Glykoprotein-spezifischer Festphasenmethoden",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 28.7,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32949 Spezifizierung von HPA-Antikörpern gegen Thrombozyten mittels\nGlykoprotein-spezifischer Festphasenmethoden\nje Glykoproteinkomplex\nDer Höchstwert für die Untersuchungen nach der\nGebührenordnungsposition 32949 beträgt 114,80 Euro im\nBehandlungsfall.\nDie Gebührenordnungsposition 32949 ist nur bei bekannter Reaktivität\ngemäß der Gebührenordnungsposition 32948 berechnungsfähig.\n33 Ultraschalldiagnostik\n1. Die Berechnung der Gebührenordnungspositionen dieses Kapitels\nsetzt eine Genehmigung der Kassenärztlichen Vereinigung nach der\nUltraschall-Vereinbarung gemäß § 135 Abs. 2 SGB V voraus.\n2. Die Dokumentation der untersuchten Organe mittels bildgebenden\nVerfahrens, ggf. als Darstellung mehrerer Organe oder Organregionen\nin einem Bild, ist - mit Ausnahme nicht gestauter Gallenwege und der\nleeren Harnblase bei Restharnbestimmung - obligater Bestandteil der\nLeistungen.\n3. Die Aufnahme und/oder der Eindruck einer eindeutigen\nPatientenidentifikation in die Bilddokumentation ist obligater\nBestandteil der Leistungen.\n4. Optische Führungshilfen mittels Ultraschall sind ausschließlich nach\nden Gebührenordnungspositionen 33091 und 33092 zu berechnen.\n5. Kontrastmitteleinbringungen sind Bestandteil der\nGebührenordnungspositionen, sofern in den Präambeln und\nGebührenordnungspositionen des EBM nichts anderes bestimmt ist.\n6. Die Gebührenordnungsposition 33100 kann ausschließlich von:\n- Fachärzten für Neurologie\n- Fachärzten für Nervenheilkunde\n- Fachärzten für Neurologie und Psychiatrie\n- Fachärzten für Neurochirurgie\n- Fachärzten für Kinder- und Jugendmedizin mit Schwerpunkt\nNeuropädiatrie\nberechnet werden.\n7. Die Gebührenordnungsposition 33053 kann nur berechnet werden\nvon:\n- Fachärzten für Allgemeinmedizin\n- Fachärzten für Innere und Allgemeinmedizin\n- Fachärzten im Gebiet Chirurgie\n- Fachärzten für Radiologie\n- Fachärzten für Kinder- und Jugendmedizin\n- Fachärzten für Orthopädie.\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "33000",
+      "title": "Ultraschalluntersuchung des Auges",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 12.1,
+        "valuation_in_points": 95
+      },
+      "mandatory_services": "- Ultraschalluntersuchung des Auges,\n- Ultraschalluntersuchung der Augenhöhle,",
+      "facultative_services": "- Ultraschalluntersuchung der umgebenden Strukturen,\n- Ultraschalluntersuchung des zweiten Auges,\n- Ultraschalluntersuchung der Augenhöhle des zweiten Auges,",
+      "billing_info": "je Sitzung Die Gebührenordnungsposition 33000 ist nicht neben den Gebührenordnungspositionen 01205 und 01207 berechnungsfähig. Die Gebührenordnungsposition 33000 ist am Behandlungstag nicht neben den Gebührenordnungspositionen 31630 bis 31637, 31682 bis 31689 und 31695 bis 31702 berechnungsfähig. Die Gebührenordnungsposition 33000 ist im Behandlungsfall nicht neben der Gebührenordnungsposition 26330 berechnungsfähig."
+    },
+    {
+      "code": "33001",
+      "title": "Ultraschall-Biometrie des Auges",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 6.24,
+        "valuation_in_points": 49
+      },
+      "mandatory_services": "- Ultraschall-Biometrie der Achsenlänge eines Auges,\n- Berechnung einer intraokularen Linse eines Auges,\n- Graphische Dokumentation,",
+      "facultative_services": "- Ultraschalluntersuchung des zweiten Auges,\n- Messung von Teilabschnitten der Achsenlänge,",
+      "billing_info": "je Sitzung Die Gebührenordnungsposition 33001 ist nicht neben den Gebührenordnungspositionen 01205 und 01207 berechnungsfähig. Die Gebührenordnungsposition 33001 ist am Behandlungstag nicht neben den Gebührenordnungspositionen 31630 bis 31637, 31682 bis 31689 und 31695 bis 31702 berechnungsfähig. Die Gebührenordnungsposition 33001 ist im Behandlungsfall nicht neben der Gebührenordnungsposition 26330 berechnungsfähig."
+    },
+    {
+      "code": "33002",
+      "title": "Messung der Hornhautdicke des Auges mittels Ultraschall- Pachymetrie",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 6.75,
+        "valuation_in_points": 53
+      },
+      "mandatory_services": "- Messung der Hornhautdicke des Auges mittels Ultraschall- Pachymetrie,",
+      "facultative_services": "- Messung der Hornhautdicke des zweiten Auges mittels Ultraschall- Pachymetrie,",
+      "billing_info": "Pachymetrie je Sitzung Die Gebührenordnungsposition 33002 ist nicht neben den Gebührenordnungspositionen 01205 und 01207 berechnungsfähig. Die Gebührenordnungsposition 33002 ist am Behandlungstag nicht neben den Gebührenordnungspositionen 31630 bis 31637, 31682 bis 31689 und 31695 bis 31702 berechnungsfähig. Die Gebührenordnungsposition 33002 ist im Behandlungsfall nicht neben der Gebührenordnungsposition 26330 berechnungsfähig."
+    },
+    {
+      "code": "33010",
+      "title": "Sonographische Untersuchung der Nasennebenhöhlen mittels A- Mode- und/oder B-Mode-Verfahren",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 6.75,
+        "valuation_in_points": 53
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Mode- und/oder B-Mode-Verfahren, je Sitzung Die Gebührenordnungsposition 33010 ist nicht neben den Gebührenordnungspositionen 01205 und 01207 berechnungsfähig. Die Gebührenordnungsposition 33010 ist am Behandlungstag nicht neben den Gebührenordnungspositionen 31630 bis 31637, 31682 bis 31689 und 31695 bis 31702 berechnungsfähig. Die Gebührenordnungsposition 33010 ist im Behandlungsfall nicht neben der Gebührenordnungsposition 26330 berechnungsfähig."
+    },
+    {
+      "code": "33011",
+      "title": "Sonographie der Gesichtsweichteile und/oder Halsweichteile und/ oder Speicheldrüsen (mit Ausnahme der Schilddrüse)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 10.06,
+        "valuation_in_points": 79
+      },
+      "mandatory_services": "- Sonographische Untersuchung der Gesichtsweichteile und/oder Weichteile des Halses und/oder der Speicheldrüse(n) (mit Ausnahme der Schilddrüse) mittels B-Mode-Verfahren,",
+      "facultative_services": null,
+      "billing_info": "oder Speicheldrüsen (mit Ausnahme der Schilddrüse) je Sitzung Die Gebührenordnungsposition 33011 ist neben der Gebührenordnungsposition 33081 ausschließlich zur onkologischen Kontrolle von weiteren Lymphknotenregionen bei Patienten mit mindestens einer der Diagnosen C81.- bis C96.- einmal berechnungsfähig. Die Nebeneinanderberechnung setzt die Kodierung nach ICD-10-GM voraus. Die Gebührenordnungsposition 33011 ist nicht neben den Gebührenordnungspositionen 01205 und 01207 berechnungsfähig. Die Gebührenordnungsposition 33011 ist am Behandlungstag nicht neben den Gebührenordnungspositionen 31630 bis 31637, 31682 bis 31689 und 31695 bis 31702 berechnungsfähig. Die Gebührenordnungsposition 33011 ist im Behandlungsfall nicht neben der Gebührenordnungsposition 26330 berechnungsfähig."
+    },
+    {
+      "code": "33012",
+      "title": "Sonographische Untersuchung der Schilddrüse mittels B-Mode- Verfahren",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 9.81,
+        "valuation_in_points": 77
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Verfahren, je Sitzung Die Gebührenordnungsposition 33012 ist nicht neben den Gebührenordnungspositionen 01205 und 01207 berechnungsfähig. Die Gebührenordnungsposition 33012 ist am Behandlungstag nicht neben den Gebührenordnungspositionen 31630 bis 31637, 31682 bis 31689 und 31695 bis 31702 berechnungsfähig. Die Gebührenordnungsposition 33012 ist im Behandlungsfall nicht neben der Gebührenordnungsposition 26330 berechnungsfähig."
+    },
+    {
+      "code": "33020",
+      "title": "Echokardiographische Untersuchung mittels M-Mode- und B- Mode-Verfahren",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 31.21,
+        "valuation_in_points": 245
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "33020 Echokardiographische Untersuchung mittels M-Mode- und B-\nMode-Verfahren\nje Sitzung\nDie Gebührenordnungsposition 33020 ist nicht neben den\nGebührenordnungspositionen 01205, 01207, 33021, 33022, 33030 und\n33031 berechnungsfähig.\nDie Gebührenordnungsposition 33020 ist am Behandlungstag nicht\nneben den Gebührenordnungspositionen 31630 bis 31637, 31682 bis\n31689 und 31695 bis 31702 berechnungsfähig.\nDie Gebührenordnungsposition 33020 ist im Behandlungsfall nicht\nneben den Gebührenordnungspositionen 04410, 13545 und 26330\nberechnungsfähig."
+    },
+    {
+      "code": "33021",
+      "title": "Doppler-Echokardiographie mittels PW- und/oder CW-Doppler",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 34.4,
+        "valuation_in_points": 270
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "33021 Doppler-Echokardiographie mittels PW- und/oder CW-Doppler\nje Sitzung\nDie Gebührenordnungsposition 33021 ist im Behandlungsfall nur\ndann neben den Gebührenordnungspositionen 01774 und 01775\nberechnungsfähig, sofern die Leistung nicht am Fötus durchgeführt\nwurde.\nDie Gebührenordnungsposition 33021 ist nicht neben den\nGebührenordnungspositionen 01205, 01207, 33020, 33022, 33030 und\n33031 berechnungsfähig.\nDie Gebührenordnungsposition 33021 ist am Behandlungstag nicht\nneben den Gebührenordnungspositionen 31630 bis 31637, 31682 bis\n31689 und 31695 bis 31702 berechnungsfähig.\nDie Gebührenordnungsposition 33021 ist im Behandlungsfall nicht\nneben den Gebührenordnungspositionen 04410, 13545 und 26330\nberechnungsfähig."
+    },
+    {
+      "code": "33022",
+      "title": "Doppler-Echokardiographie mittels Duplex-Verfahren mit Farbkodierung",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 39.11,
+        "valuation_in_points": 307
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "33022 Doppler-Echokardiographie mittels Duplex-Verfahren mit\nFarbkodierung\nje Sitzung\nDie Berechnung der Gebührenordnungsposition 33022 im\nZusammenhang mit der Durchführung der Kardioversion entsprechend\nden Gebührenordnungspositionen 04421 und 13552 ist durch\nAngabe einer bundeseinheitlich kodierten Zusatzkennzeichnung zu\ndokumentieren.\nDie Gebührenordnungsposition 33022 ist im Behandlungsfall nur\ndann neben den Gebührenordnungspositionen 01774 und 01775\nberechnungsfähig, sofern die Leistung nicht am Fötus durchgeführt\nwurde.\nDie Gebührenordnungsposition 33022 ist nicht neben den\nGebührenordnungspositionen 01205, 01207, 33020, 33021, 33030 und\n33031 berechnungsfähig.\nDie Gebührenordnungsposition 33022 ist am Behandlungstag nicht\nneben den Gebührenordnungspositionen 31630 bis 31637, 31682 bis\n31689 und 31695 bis 31702 berechnungsfähig.\nDie Gebührenordnungsposition 33022 ist im Behandlungsfall nicht\nneben den Gebührenordnungspositionen 04410, 13545 und 26330\nberechnungsfähig."
+    },
+    {
+      "code": "33023",
+      "title": "Zuschlag zu den Gebührenordnungspositionen 04410, 13545 sowie",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 48.16,
+        "valuation_in_points": 378
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "33023 Zuschlag zu den Gebührenordnungspositionen 04410, 13545 sowie\n33020 bis 33022 bei transösophagealer Durchführung\nDie Berechnung der Gebührenordnungsposition 33023 im\nZusammenhang mit der Durchführung der Kardioversion entsprechend\nden Gebührenordnungspositionen 04421 und 13552 ist durch\nAngabe einer bundeseinheitlich kodierten Zusatzkennzeichnung zu\ndokumentieren.\nDie Gebührenordnungsposition 33023 ist nicht neben den\nGebührenordnungspositionen 01205 und 01207 berechnungsfähig.\nDie Gebührenordnungsposition 33023 ist am Behandlungstag nicht\nneben den Gebührenordnungspositionen 31630 bis 31637, 31682 bis\n31689 und 31695 bis 31702 berechnungsfähig.\nDie Gebührenordnungsposition 33023 ist im Behandlungsfall nicht neben\nder Gebührenordnungsposition 26330 berechnungsfähig."
+    },
+    {
+      "code": "33030",
+      "title": "Zweidimensionale echokardiographische Untersuchung in Ruhe und unter physikalisch definierter und reproduzierbarer Stufenbelastung",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 91.86,
+        "valuation_in_points": 721
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "33030 Zweidimensionale echokardiographische Untersuchung in Ruhe\nund unter physikalisch definierter und reproduzierbarer Stufenbelastung\nje Sitzung\nDie Gebührenordnungsposition 33030 kann nur berechnet werden\nwenn die Arztpraxis über die Möglichkeit zur Erbringung der\nStressechokardiographie bei physikalischer Stufenbelastung (Vorhalten\neines Kippliege-Ergometers) verfügt.\nDie Gebührenordnungsposition 33030 ist nicht neben den\nGebührenordnungspositionen 01205, 01207, 33020 bis 33022 und\n33031 berechnungsfähig.\nDie Gebührenordnungsposition 33030 ist am Behandlungstag nicht\nneben den Gebührenordnungspositionen 31630 bis 31637, 31682 bis\n31689 und 31695 bis 31702 berechnungsfähig.\nDie Gebührenordnungsposition 33030 ist im Behandlungsfall nicht neben\nder Gebührenordnungsposition 26330 berechnungsfähig."
+    },
+    {
+      "code": "33031",
+      "title": "Zweidimensionale echokardiographische Untersuchung in Ruhe und unter standardisierter pharmakodynamischer Stufenbelastung",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 102.82,
+        "valuation_in_points": 807
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "33031 Zweidimensionale echokardiographische Untersuchung in Ruhe\nund unter standardisierter pharmakodynamischer Stufenbelastung\nje Sitzung\nDie Gebührenordnungsposition 33031 ist nicht neben den\nGebührenordnungspositionen 01205, 01207, 33020 bis 33022 und\n33030 berechnungsfähig.\nDie Gebührenordnungsposition 33031 ist am Behandlungstag nicht\nneben den Gebührenordnungspositionen 31630 bis 31637, 31682 bis\n31689 und 31695 bis 31702 berechnungsfähig.\nDie Gebührenordnungsposition 33031 ist im Behandlungsfall nicht neben\nder Gebührenordnungsposition 26330 berechnungsfähig."
+    },
+    {
+      "code": "33040",
+      "title": "Sonographische Untersuchung der Thoraxorgane mittels B-Mode- Verfahren",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 14.01,
+        "valuation_in_points": 110
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Verfahren, je Sitzung Die Gebührenordnungsposition 33040 ist neben der Gebührenordnungsposition 33081 ausschließlich zur onkologischen Kontrolle von weiteren Lymphknotenregionen bei Patienten mit mindestens einer der Diagnosen C81.- bis C96.- einmal berechnungsfähig. Die Nebeneinanderberechnung setzt die Kodierung nach ICD-10-GM voraus. Die Berechnung der Gebührenordnungsposition 33040 im Zusammenhang mit der Durchführung der perkutanen Biopsie entsprechend der Gebührenordnungsposition 02344 ist durch Angabe einer bundeseinheitlich kodierten Zusatzkennzeichnung zu dokumentieren. Die Gebührenordnungsposition 33040 ist nicht neben den Gebührenordnungspositionen 01205 und 01207 berechnungsfähig. Die Gebührenordnungsposition 33040 ist am Behandlungstag nicht neben den Gebührenordnungspositionen 01748, 31630 bis 31637, 31682 bis 31689 und 31695 bis 31702 berechnungsfähig. Die Gebührenordnungsposition 33040 ist im Behandlungsfall nicht neben der Gebührenordnungsposition 26330 berechnungsfähig."
+    },
+    {
+      "code": "33041",
+      "title": "Sonographische Untersuchung einer oder beider Brustdrüsen mittels B- Mode-Verfahren, ggf. einschl. der regionalen Lymphknoten",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 19.11,
+        "valuation_in_points": 150
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Mode-Verfahren, ggf. einschl. der regionalen Lymphknoten, je Sitzung Die Gebührenordnungsposition 33041 ist nicht neben den Gebührenordnungspositionen 01205, 01207 und 08320 berechnungsfähig. Die Gebührenordnungsposition 33041 ist am Behandlungstag nicht neben den Gebührenordnungspositionen 31630 bis 31637, 31682 bis 31689 und 31695 bis 31702 berechnungsfähig. Die Gebührenordnungsposition 33041 ist im Behandlungsfall nicht neben der Gebührenordnungsposition 26330 berechnungsfähig."
+    },
+    {
+      "code": "33042",
+      "title": "Sonographische Untersuchung des Abdomens oder dessen Organe und/oder des Retroperitoneums oder dessen Organe einschl. der Nieren mittels B-Mode-Verfahren",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 18.22,
+        "valuation_in_points": 143
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "und/oder des Retroperitoneums oder dessen Organe einschl. der Nieren mittels B-Mode-Verfahren, je Sitzung Die Gebührenordnungsposition 33042 ist im Behandlungsfall höchstens zweimal berechnungsfähig. Sofern die Gebührenordnungsposition 01748 oder 33105 neben der Gebührenordnungsposition 33042 berechnet wird, ist ein Abschlag von 70 Punkten auf die Gebührenordnungsposition 33042 vorzunehmen. Die Gebührenordnungsposition 33042 ist neben der Gebührenordnungsposition 33081 ausschließlich zur onkologischen Kontrolle von weiteren Lymphknotenregionen bei Patienten mit mindestens einer der Diagnosen C81.- bis C96.- einmal berechnungsfähig. Die Nebeneinanderberechnung setzt die Kodierung nach ICD-10-GM voraus. Die Berechnung der Gebührenordnungsposition 33042 im Zusammenhang mit der Durchführung der perkutanen Biopsie entsprechend der Gebührenordnungsposition 02344 ist durch Angabe einer bundeseinheitlich kodierten Zusatzkennzeichnung zu dokumentieren. Die Gebührenordnungsposition 33042 ist im Behandlungsfall neben der Gebührenordnungsposition 01772 nur einmal und mit Begründung berechnungsfähig. Als Begründung für die Nebeneinanderberechnung ist der ICD-10-Kode mit Angabe des Zusatzkennzeichens für die Diagnosensicherheit anzugeben. Die Gebührenordnungsposition 33042 ist im Behandlungsfall neben der Gebührenordnungsposition 01773 nur mit Begründung berechnungsfähig. Als Begründung für die Nebeneinanderberechnung ist der ICD-10-Kode mit Angabe des Zusatzkennzeichens für die Diagnosensicherheit anzugeben. Die Gebührenordnungsposition 33042 ist nicht neben den Gebührenordnungspositionen 01205, 01207, 01781, 01782, 01787, 01831, 01902, 01904, 01906, 08341 und 33043 berechnungsfähig. Die Gebührenordnungsposition 33042 ist am Behandlungstag nicht neben den Gebührenordnungspositionen 01772, 01773, 31630 bis 31637, 31682 bis 31689 und 31695 bis 31702 berechnungsfähig. Die Gebührenordnungsposition 33042 ist im Behandlungsfall nicht neben den Gebührenordnungspositionen 01780 und 26330 berechnungsfähig. Die Gebührenordnungsposition 33042 ist im Zyklusfall nicht neben den Gebührenordnungspositionen 08535 bis 08537, 08550, 08555, 08558, 08635 und 08637 berechnungsfähig."
+    },
+    {
+      "code": "33043",
+      "title": "Sonographische Untersuchung eines oder mehrerer Uro-Genital- Organe mittels B-Mode-Verfahren",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 10.45,
+        "valuation_in_points": 82
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Organe mittels B-Mode-Verfahren, je Sitzung Sofern die Gebührenordnungsposition 01748 neben der Gebührenordnungsposition 33043 berechnet wird, ist ein Abschlag von 7 Punkten auf die Gebührenordnungsposition 33043 vorzunehmen. Die Berechnung der Gebührenordnungsposition 33043 im Zusammenhang mit der Durchführung der perkutanen Biopsie entsprechend der Gebührenordnungsposition 02344 ist durch Angabe einer bundeseinheitlich kodierten Zusatzkennzeichnung zu dokumentieren. Die Gebührenordnungsposition 33043 ist im Behandlungsfall neben den Gebührenordnungspositionen 01770 und 01771 nur einmal und mit Begründung berechnungsfähig und nur, sofern die Leistung nicht am Embryo oder Fötus durchgeführt wurde. Als Begründung für die Nebeneinanderberechnung ist der ICD-10-Kode mit Angabe des Zusatzkennzeichens für die Diagnosensicherheit anzugeben. Die Gebührenordnungsposition 33043 ist im Behandlungsfall neben den Gebührenordnungspositionen 01772 und 01773 nur einmal und mit Begründung berechnungsfähig. Als Begründung für die Nebeneinanderberechnung ist der ICD-10-Kode mit Angabe des Zusatzkennzeichens für die Diagnosensicherheit anzugeben. Die Gebührenordnungsposition 33043 ist im Behandlungsfall nur dann neben den Gebührenordnungspositionen 01774 und 01775 berechnungsfähig, sofern die Leistung nicht am Fötus durchgeführt wurde. Die Gebührenordnungsposition 33043 ist nicht neben den Gebührenordnungspositionen 01205, 01207, 01781, 01782, 01787, 01902, 01904, 01906, 08341, 33042, 33044 und 33081 berechnungsfähig. Die Gebührenordnungsposition 33043 ist am Behandlungstag nicht neben den Gebührenordnungspositionen 01770 bis 01773, 31630 bis 31637, 31682 bis 31689 und 31695 bis 31702 berechnungsfähig. Die Gebührenordnungsposition 33043 ist im Behandlungsfall nicht neben den Gebührenordnungspositionen 01780 und 26330 berechnungsfähig. Die Gebührenordnungsposition 33043 ist im Zyklusfall nicht neben den Gebührenordnungspositionen 08535 bis 08537, 08550, 08555, 08558, 08635 und 08637 berechnungsfähig. Die Gebührenordnungsposition 33043 ist im Zeitraum von 21 Tagen nach Erbringung einer Leistung des Abschnitts 31.2 nicht neben den Gebührenordnungspositionen 31695 bis 31702 berechnungsfähig."
+    },
+    {
+      "code": "33044",
+      "title": "Sonographische Untersuchung eines oder mehrerer weiblicher Genitalorgane, ggf. einschließlich Harnblase, mittels B-Mode- Verfahren",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 16.56,
+        "valuation_in_points": 130
+      },
+      "mandatory_services": "- Sonographische Untersuchung eines oder mehrerer weiblicher Genitalorgane, ggf. einschließlich Harnblase, mittels B-Mode- Verfahren,",
+      "facultative_services": "- Transkavitäre Untersuchung",
+      "billing_info": "Genitalorgane, ggf. einschließlich Harnblase, mittels B-Mode- Verfahren Die Gebührenordnungsposition 33044 ist im Behandlungsfall neben den Gebührenordnungspositionen 01770 und 01771 nur einmal und mit Begründung berechnungsfähig und nur, sofern die Leistung nicht am Embryo oder Fötus durchgeführt wurde. Als Begründung für die Nebeneinanderberechnung ist der ICD-10-Kode mit Angabe des Zusatzkennzeichens für die Diagnosensicherheit anzugeben. Die Gebührenordnungsposition 33044 ist im Behandlungsfall neben den Gebührenordnungspositionen 01772 und 01773 nur einmal und mit Begründung berechnungsfähig. Als Begründung für die Nebeneinanderberechnung ist der ICD-10-Kode mit Angabe des Zusatzkennzeichens für die Diagnosensicherheit anzugeben. Die Gebührenordnungsposition 33044 ist nicht neben den Gebührenordnungspositionen 01205, 01207, 01781, 01782, 01787, 01830, 01831, 01902, 01904 bis 01906, 01912, 08341, 33043, 33081 und 33090 berechnungsfähig. Die Gebührenordnungsposition 33044 ist am Behandlungstag nicht neben den Gebührenordnungspositionen 01770 bis 01773, 31630 bis 31637, 31682 bis 31689 und 31695 bis 31702 berechnungsfähig. Die Gebührenordnungsposition 33044 ist im Behandlungsfall nicht neben den Gebührenordnungspositionen 01780 und 26330 berechnungsfähig. Die Gebührenordnungsposition 33044 ist im Zyklusfall nicht neben den Gebührenordnungspositionen 08535 bis 08537, 08550, 08555, 08558, 08635 und 08637 berechnungsfähig. Die Gebührenordnungsposition 33044 ist im Zeitraum von 21 Tagen nach Erbringung einer Leistung des Abschnitts 31.2 nicht neben den Gebührenordnungspositionen 31695 bis 31702 berechnungsfähig."
+    },
+    {
+      "code": "33046",
+      "title": "Zuschlag zu den Gebührenordnungspositionen 33020 bis 33022, 33030, 33031 und 33042 bei Durchführung der Echokardiographie/ Sonographie des Abdomens mit Kontrastmitteleinbringung",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 9.68,
+        "valuation_in_points": 76
+      },
+      "mandatory_services": "- Kontrasmitteleinbringung(-en)",
+      "facultative_services": null,
+      "billing_info": "33030, 33031 und 33042 bei Durchführung der Echokardiographie/ Sonographie des Abdomens mit Kontrastmitteleinbringung Die Gebührenordnungsposition 33046 ist entgegen der Leistungslegende auch dann als Zuschlag zu anderen Gebührenordnungspositionen berechnungsfähig, sofern mindestens eine der in der Leistungslegende der Gebührenordnungsposition 33046 genannten Leistungen nach den Gebührenordnungspositionen 33020 bis 33022, 33030, 33031 und 33042 obligater oder fakultativer Leistungsinhalt dieser Gebührenordnungspositionen ist und deren Durchführung mit Kontrastmitteleinbringung(en) erfolgt."
+    },
+    {
+      "code": "33050",
+      "title": "Sonographische Untersuchung von Gelenken und/oder umschriebenen Strukturen des Bewegungsapparates (Sehne, Muskel, Bursa) mittels B-Mode-Verfahren",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 8.66,
+        "valuation_in_points": 68
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "umschriebenen Strukturen des Bewegungsapparates (Sehne, Muskel, Bursa) mittels B-Mode-Verfahren, je Sitzung Sonographische Untersuchungen der Säuglingshüften können nicht mit der Gebührenordnungsposition 33050 abgerechnet werden. Die Berechnung der Gebührenordnungsposition 33050 im Zusammenhang mit der Durchführung der perkutanen Biopsie entsprechend der Gebührenordnungsposition 02344 ist durch Angabe einer bundeseinheitlich kodierten Zusatzkennzeichnung zu dokumentieren. Die Gebührenordnungsposition 33050 ist nicht neben den Gebührenordnungspositionen 01205, 01207, 01722, 33051, 33053, 33081 und 33100 berechnungsfähig. Die Gebührenordnungsposition 33050 ist am Behandlungstag nicht neben den Gebührenordnungspositionen 31630 bis 31637, 31682 bis 31689 und 31695 bis 31702 berechnungsfähig. Die Gebührenordnungsposition 33050 ist im Behandlungsfall nicht neben der Gebührenordnungsposition 26330 berechnungsfähig."
+    },
+    {
+      "code": "33051",
+      "title": "Sonographische Untersuchung der Säuglingshüften mittels B-Mode- Verfahren",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 13.12,
+        "valuation_in_points": 103
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Verfahren, je Sitzung Die Gebührenordnungsposition 33051 ist nicht neben den Gebührenordnungspositionen 01205, 01207, 01722 und 33050 berechnungsfähig. Die Gebührenordnungsposition 33051 ist am Behandlungstag nicht neben den Gebührenordnungspositionen 31630 bis 31637, 31682 bis 31689 und 31695 bis 31702 berechnungsfähig. Die Gebührenordnungsposition 33051 ist im Behandlungsfall nicht neben der Gebührenordnungsposition 26330 berechnungsfähig."
+    },
+    {
+      "code": "33052",
+      "title": "Sonographische Untersuchung des Schädels durch die offene Fontanelle beim Neugeborenen, Säugling oder Kleinkind",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 14.01,
+        "valuation_in_points": 110
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Fontanelle beim Neugeborenen, Säugling oder Kleinkind, je Sitzung Die Gebührenordnungsposition 33052 ist nicht neben den Gebührenordnungspositionen 01205 und 01207 berechnungsfähig. Die Gebührenordnungsposition 33052 ist am Behandlungstag nicht neben den Gebührenordnungspositionen 31630 bis 31637, 31682 bis 31689 und 31695 bis 31702 berechnungsfähig. Die Gebührenordnungsposition 33052 ist im Behandlungsfall nicht neben der Gebührenordnungsposition 26330 berechnungsfähig."
+    },
+    {
+      "code": "33053",
+      "title": "Fraktursonographie bei Neugeborenen, Säuglingen, Kleinkindern und Kindern bis zum vollendeten 12. Lebensjahr mit Verdacht auf Fraktur eines langen Röhrenknochens der oberen Extremitäten gemäß Nr. 43 der Anlage I \"Anerkannte Untersuchungs- oder Behandlungsmethoden\" der Richtlinie Methoden vertragsärztliche Versorgung des Gemeinsamen Bundesausschusses",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 13.12,
+        "valuation_in_points": 103
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "und Kindern bis zum vollendeten 12. Lebensjahr mit Verdacht auf Fraktur eines langen Röhrenknochens der oberen Extremitäten gemäß Nr. 43 der Anlage I \"Anerkannte Untersuchungs- oder Behandlungsmethoden\" der Richtlinie Methoden vertragsärztliche Versorgung des Gemeinsamen Bundesausschusses, einmal im Behandlungsfall Die Gebührenordnungsposition 33053 ist für eine sonographische Stellungskontrolle nach einer konservativ behandelten Fraktur nicht berechnungsfähig. Die Gebührenordnungsposition 33053 ist am selben Behandlungstag nicht nach der Durchführung der Leistung nach der Gebührenordnungsposition 34233 berechnungsfähig. Sofern die Leistungen nach den Gebührenordnungspositionen 33053 und 34233 am selben Behandlungstag durchgeführt werden, sind die jeweiligen Uhrzeiten anzugeben. Die Gebührenordnungsposition 33053 ist nicht neben den Gebührenordnungspositionen 01205, 01207, 33050 und 33081 berechnungsfähig. Die Gebührenordnungsposition 33053 ist am Behandlungstag nicht neben den Gebührenordnungspositionen 31630 bis 31637, 31682 bis 31689 und 31695 bis 31702 berechnungsfähig. Die Gebührenordnungsposition 33053 ist im Behandlungsfall nicht neben der Gebührenordnungsposition 26330 berechnungsfähig."
+    },
+    {
+      "code": "33060",
+      "title": "Sonographische Untersuchung extrakranieller hirnversorgender Gefäße, der Periorbitalarterien, Aa. subclaviae und Aa. vertebrales mittels CW-Doppler-Verfahren an mindestens 14 Ableitungsstellen",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 34.02,
+        "valuation_in_points": 267
+      },
+      "mandatory_services": "- Sonographische Untersuchung extrakranieller hirnversorgender Gefäße, der Periorbitalarterien, Aa. subclaviae und Aa. vertebrales,\n- Mittels CW-Doppler-Verfahren,\n- An mindestens 14 Ableitungsstellen,",
+      "facultative_services": "- Frequenzspektrumanalyse,",
+      "billing_info": "Gefäße, der Periorbitalarterien, Aa. subclaviae und Aa. vertebrales mittels CW-Doppler-Verfahren an mindestens 14 Ableitungsstellen je Sitzung Die Gebührenordnungsposition 33060 ist im Behandlungsfall höchstens zweimal berechnungsfähig. Entgegen Nr. 4.3.2 der Allgemeinen Bestimmungen kann die Gebührenordnungsposition 33060 auch dann berechnet werden, wenn die Arztpraxis nicht über die Möglichkeit zur Durchführung einer Frequenzspektrumanalyse verfügt. Die Gebührenordnungsposition 33060 ist im Behandlungsfall nur dann neben den Gebührenordnungspositionen 01774 und 01775 berechnungsfähig, sofern die Leistung nicht am Fötus durchgeführt wurde. Die Gebührenordnungsposition 33060 ist nicht neben den Gebührenordnungspositionen 01205 und 01207 berechnungsfähig. Die Gebührenordnungsposition 33060 ist am Behandlungstag nicht neben den Gebührenordnungspositionen 31630 bis 31637, 31682 bis 31689 und 31695 bis 31702 berechnungsfähig. Die Gebührenordnungsposition 33060 ist im Behandlungsfall nicht neben den Gebührenordnungspositionen 13300, 26330 und 33070 berechnungsfähig."
+    },
+    {
+      "code": "33061",
+      "title": "Sonographische Untersuchung der extremitätenver- und/oder entsorgenden Gefäße mittels CW-Doppler-Verfahren an mindestens 3 Ableitungsstellen je Extremität",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 11.47,
+        "valuation_in_points": 90
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "entsorgenden Gefäße mittels CW-Doppler-Verfahren an mindestens 3 Ableitungsstellen je Extremität, je Sitzung Die Gebührenordnungsposition 33061 ist im Behandlungsfall nur dann neben den Gebührenordnungspositionen 01774 und 01775 berechnungsfähig, sofern die Leistung nicht am Fötus durchgeführt wurde. Die Gebührenordnungsposition 33061 ist nicht neben den Gebührenordnungspositionen 01205 und 01207 berechnungsfähig. Die Gebührenordnungsposition 33061 ist am Behandlungstag nicht neben den Gebührenordnungspositionen 31630 bis 31637, 31682 bis 31689 und 31695 bis 31702 berechnungsfähig. Die Gebührenordnungsposition 33061 ist im Behandlungsfall nicht neben den Gebührenordnungspositionen 13300, 26330 und 30500 berechnungsfähig. Die Gebührenordnungsposition 33061 ist im Zeitraum von 21 Tagen nach Erbringung einer Leistung des Abschnitts 31.2 nicht neben den Gebührenordnungspositionen 31630 bis 31637 berechnungsfähig."
+    },
+    {
+      "code": "33062",
+      "title": "Sonographische Untersuchung der Gefäße des männlichen Genitalsystems mittels CW-Doppler-Verfahren, einschließlich Tumeszenzmessung",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 9.05,
+        "valuation_in_points": 71
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Genitalsystems mittels CW-Doppler-Verfahren, einschließlich Tumeszenzmessung, je Sitzung Die Gebührenordnungsposition 33062 ist nicht neben den Gebührenordnungspositionen 01205, 01207 und 33064 berechnungsfähig. Die Gebührenordnungsposition 33062 ist am Behandlungstag nicht neben den Gebührenordnungspositionen 31630 bis 31637, 31682 bis 31689 und 31695 bis 31702 berechnungsfähig. Die Gebührenordnungsposition 33062 ist im Behandlungsfall nicht neben der Gebührenordnungsposition 26330 berechnungsfähig."
+    },
+    {
+      "code": "33063",
+      "title": "Sonographische Untersuchung der intrakraniellen Gefäße mittels PW- Doppler-Verfahren an mindestens 7 Ableitungsstellen",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 29.43,
+        "valuation_in_points": 231
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "33063 Sonographische Untersuchung der intrakraniellen Gefäße mittels PW-\nDoppler-Verfahren an mindestens 7 Ableitungsstellen\nObligater Leistungsinhalt\n- Sonographische Untersuchung der intrakraniellen Gefäße mittels\nPW-Doppler-Verfahren an mindestens 7 Ableitungsstellen\nFakultativer Leistungsinhalt\n- Frequenzspektrumanalyse\nje Sitzung\nEntgegen Nr. 4.3.2 der Allgemeinen Bestimmungen kann die\nGebührenordnungsposition 33063 auch dann berechnet werden, wenn\ndie Arztpraxis nicht über die Möglichkeit zur Durchführung einer\nFrequenzspektrumanalyse verfügt.\nDie Gebührenordnungsposition 33063 ist im Behandlungsfall nur\ndann neben den Gebührenordnungspositionen 01774 und 01775\nberechnungsfähig, sofern die Leistung nicht am Fötus durchgeführt\nwurde.\nDie Gebührenordnungsposition 33063 ist nicht neben den\nGebührenordnungspositionen 01205 und 01207 berechnungsfähig.\nDie Gebührenordnungsposition 33063 ist am Behandlungstag nicht\nneben den Gebührenordnungspositionen 31630 bis 31637, 31682 bis\n31689 und 31695 bis 31702 berechnungsfähig.\nDie Gebührenordnungsposition 33063 ist im Behandlungsfall nicht neben\nden Gebührenordnungspositionen 13300 und 26330 berechnungsfähig."
+    },
+    {
+      "code": "33064",
+      "title": "Sonographische Untersuchung der Gefäße des männlichen Genitalsystems mittels PW-Doppler-Verfahren, einschließlich Tumeszenzmessung",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 11.59,
+        "valuation_in_points": 91
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "33064 Sonographische Untersuchung der Gefäße des männlichen\nGenitalsystems mittels PW-Doppler-Verfahren, einschließlich\nTumeszenzmessung\nje Sitzung\nDie Gebührenordnungsposition 33064 ist nicht neben\nden Gebührenordnungspositionen 01205, 01207 und 33062\nberechnungsfähig.\nDie Gebührenordnungsposition 33064 ist am Behandlungstag nicht\nneben den Gebührenordnungspositionen 31630 bis 31637, 31682 bis\n31689 und 31695 bis 31702 berechnungsfähig.\nDie Gebührenordnungsposition 33064 ist im Behandlungsfall nicht neben\nder Gebührenordnungsposition 26330 berechnungsfähig."
+    },
+    {
+      "code": "33070",
+      "title": "Sonographische Untersuchung der extrakraniellen hirnversorgenden Gefäße mittels Duplex-Verfahren von mindestens 6 Gefäßabschnitten",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 48.54,
+        "valuation_in_points": 381
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "33070 Sonographische Untersuchung der extrakraniellen hirnversorgenden\nGefäße mittels Duplex-Verfahren von mindestens 6 Gefäßabschnitten\nObligater Leistungsinhalt\n- Sonographische Untersuchung der extrakraniellen hirnversorgenden\nGefäße mittels Duplex-Verfahren von mindestens 6\nGefäßabschnitten\nFakultativer Leistungsinhalt\n- CW-Doppler-Sonographie (Nr. 33060)\nje Sitzung\nDie Gebührenordnungsposition 33070 ist im Behandlungsfall nur\ndann neben den Gebührenordnungspositionen 01774 und 01775\nberechnungsfähig, sofern die Leistung nicht am Fötus durchgeführt\nwurde.\nDie Gebührenordnungsposition 33070 ist nicht neben den\nGebührenordnungspositionen 01205 und 01207 berechnungsfähig.\nDie Gebührenordnungsposition 33070 ist am Behandlungstag nicht\nneben den Gebührenordnungspositionen 31630 bis 31637, 31682 bis\n31689 und 31695 bis 31702 berechnungsfähig.\nDie Gebührenordnungsposition 33070 ist im Behandlungsfall nicht\nneben den Gebührenordnungspositionen 13300, 26330 und 33060\nberechnungsfähig."
+    },
+    {
+      "code": "33071",
+      "title": "Sonographische Untersuchung der intrakraniellen hirnversorgenden Gefäße mittels Duplex-Verfahren",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 27.26,
+        "valuation_in_points": 214
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "33071 Sonographische Untersuchung der intrakraniellen hirnversorgenden\nGefäße mittels Duplex-Verfahren\nje Sitzung\nDie Gebührenordnungsposition 33071 ist im Behandlungsfall nur\ndann neben den Gebührenordnungspositionen 01774 und 01775\nberechnungsfähig, sofern die Leistung nicht am Fötus durchgeführt\nwurde.\nDie Gebührenordnungsposition 33071 ist nicht neben den\nGebührenordnungspositionen 01205 und 01207 berechnungsfähig.\nDie Gebührenordnungsposition 33071 ist am Behandlungstag nicht\nneben den Gebührenordnungspositionen 31630 bis 31637, 31682 bis\n31689 und 31695 bis 31702 berechnungsfähig.\nDie Gebührenordnungsposition 33071 ist im Behandlungsfall nicht neben\nden Gebührenordnungspositionen 13300 und 26330 berechnungsfähig."
+    },
+    {
+      "code": "33072",
+      "title": "Sonographische Untersuchung der extremitätenver- und/oder entsorgenden Gefäße mittels Duplex-Verfahren",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 28.54,
+        "valuation_in_points": 224
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "33072 Sonographische Untersuchung der extremitätenver- und/oder\nentsorgenden Gefäße mittels Duplex-Verfahren\nje Sitzung\nDie Gebührenordnungsposition 33072 ist im Behandlungsfall höchstens\nzweimal berechnungsfähig.\nDie Gebührenordnungsposition 33072 ist im Behandlungsfall nur\ndann neben den Gebührenordnungspositionen 01774 und 01775\nberechnungsfähig, sofern die Leistung nicht am Fötus durchgeführt\nwurde.\nDie Gebührenordnungsposition 33072 ist nicht neben den\nGebührenordnungspositionen 01205 und 01207 berechnungsfähig.\nDie Gebührenordnungsposition 33072 ist am Behandlungstag nicht\nneben den Gebührenordnungspositionen 31630 bis 31637, 31682 bis\n31689 und 31695 bis 31702 berechnungsfähig.\nDie Gebührenordnungsposition 33072 ist im Behandlungsfall nicht neben\nden Gebührenordnungspositionen 13300 und 26330 berechnungsfähig.\nDie Gebührenordnungsposition 33072 ist im Zeitraum von 21 Tagen\nnach Erbringung einer Leistung des Abschnitts 31.2 nicht neben den\nGebührenordnungspositionen 31630 bis 31637 berechnungsfähig."
+    },
+    {
+      "code": "33073",
+      "title": "Sonographische Untersuchung der abdominellen und/oder retroperitonealen Gefäße oder des Mediastinums mittels Duplex- Verfahren",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 28.54,
+        "valuation_in_points": 224
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "33073 Sonographische Untersuchung der abdominellen und/oder\nretroperitonealen Gefäße oder des Mediastinums mittels Duplex-\nVerfahren\nje Sitzung\nDie Gebührenordnungsposition 33073 ist im Behandlungsfall höchstens\nzweimal berechnungsfähig.\nDie Gebührenordnungsposition 33073 ist im Behandlungsfall nur\ndann neben den Gebührenordnungspositionen 01774 und 01775\nberechnungsfähig, sofern die Leistung nicht am Fötus durchgeführt\nwurde.\nDie Gebührenordnungsposition 33073 ist nicht neben den\nGebührenordnungspositionen 01205 und 01207 berechnungsfähig.\nDie Gebührenordnungsposition 33073 ist am Behandlungstag nicht\nneben den Gebührenordnungspositionen 31630 bis 31637, 31682 bis\n31689 und 31695 bis 31702 berechnungsfähig.\nDie Gebührenordnungsposition 33073 ist im Behandlungsfall nicht neben\nden Gebührenordnungspositionen 13300 und 26330 berechnungsfähig."
+    },
+    {
+      "code": "33074",
+      "title": "Sonographische Untersuchung der Gefäße des weiblichen Genitalsystems mittels Duplex-Verfahren",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 23.95,
+        "valuation_in_points": 188
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "33074 Sonographische Untersuchung der Gefäße des weiblichen\nGenitalsystems mittels Duplex-Verfahren\nje Sitzung\nDie Gebührenordnungsposition 33074 ist im Behandlungsfall nur\ndann neben den Gebührenordnungspositionen 01774 und 01775\nberechnungsfähig, sofern die Leistung nicht am Fötus durchgeführt\nwurde.\nDie Gebührenordnungsposition 33074 ist nicht neben den\nGebührenordnungspositionen 01205 und 01207 berechnungsfähig.\nDie Gebührenordnungsposition 33074 ist am Behandlungstag nicht\nneben den Gebührenordnungspositionen 31630 bis 31637, 31682 bis\n31689 und 31695 bis 31702 berechnungsfähig.\nDie Gebührenordnungsposition 33074 ist im Behandlungsfall nicht neben\nder Gebührenordnungsposition 26330 berechnungsfähig."
+    },
+    {
+      "code": "33075",
+      "title": "Zuschlag zu den Gebührenordnungspositionen 33070 bis 33074 für die Durchführung der Untersuchung als farbkodierte Untersuchung",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 4.71,
+        "valuation_in_points": 37
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "33075 Zuschlag zu den Gebührenordnungspositionen 33070 bis 33074 für die\nDurchführung der Untersuchung als farbkodierte Untersuchung\nDie Gebührenordnungsposition 33075 ist im Behandlungsfall nur\ndann neben den Gebührenordnungspositionen 01774 und 01775\nberechnungsfähig, sofern die Leistung nicht am Fötus durchgeführt\nwurde.\nDie Gebührenordnungsposition 33075 ist nicht neben den\nGebührenordnungspositionen 01205 und 01207 berechnungsfähig.\nDie Gebührenordnungsposition 33075 ist am Behandlungstag nicht\nneben den Gebührenordnungspositionen 31630 bis 31637, 31682 bis\n31689 und 31695 bis 31702 berechnungsfähig.\nDie Gebührenordnungsposition 33075 ist im Behandlungsfall nicht neben\nden Gebührenordnungspositionen 13300 und 26330 berechnungsfähig."
+    },
+    {
+      "code": "33076",
+      "title": "Sonographische Untersuchung der Venen einer Extremität mittels B- Mode-Verfahren von mindestens 8 Beschallungsstellen",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 9.3,
+        "valuation_in_points": 73
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Mode-Verfahren von mindestens 8 Beschallungsstellen, je Sitzung Die Gebührenordnungsposition 33076 ist nicht neben den Gebührenordnungspositionen 01205 und 01207 berechnungsfähig. Die Gebührenordnungsposition 33076 ist am Behandlungstag nicht neben den Gebührenordnungspositionen 31630 bis 31637, 31682 bis 31689 und 31695 bis 31702 berechnungsfähig. Die Gebührenordnungsposition 33076 ist im Behandlungsfall nicht neben den Gebührenordnungspositionen 13300 und 26330 berechnungsfähig. Die Gebührenordnungsposition 33076 ist im Zeitraum von 21 Tagen nach Erbringung einer Leistung des Abschnitts 31.2 nicht neben den Gebührenordnungspositionen 31630 bis 31637 berechnungsfähig."
+    },
+    {
+      "code": "33080",
+      "title": "Sonographische Untersuchung von Teilen der Haut und/oder Subkutis und/oder der subkutanen Lymphknoten mittels B-Mode- Verfahren",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 8.03,
+        "valuation_in_points": 63
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Subkutis und/oder der subkutanen Lymphknoten mittels B-Mode- Verfahren, je Sitzung Alleinige Messungen der Hautdicke mittels Ultraschall, z. B. zur Osteoporose-Diagnostik, sind nicht Gegenstand der vertragsärztlichen Versorgung und daher nicht berechnungsfähig. Bei Nichtvorhalten des Schallkopfes für die Haut ist entgegen Nr. 4.3.2 der Allgemeinen Bestimmungen ein Abschlag in Höhe von 12 Punkten auf die Gebührenordnungsposition 33080 vorzunehmen und die Prüfzeit um 1 Minute zu reduzieren. Die Gebührenordnungsposition 33080 ist nicht neben den Gebührenordnungspositionen 01205 und 01207 berechnungsfähig. Die Gebührenordnungsposition 33080 ist am Behandlungstag nicht neben den Gebührenordnungspositionen 31630 bis 31637, 31682 bis 31689 und 31695 bis 31702 berechnungsfähig. Die Gebührenordnungsposition 33080 ist im Behandlungsfall nicht neben der Gebührenordnungsposition 26330 berechnungsfähig."
+    },
+    {
+      "code": "33081",
+      "title": "Sonographische Untersuchung von Organen oder Organteilen bzw. Organstrukturen, die nicht Bestandteil der Gebührenordnungspositionen 33000 bis 33002, 33010 bis 33012, 33020 bis 33023, 33030, 33031, 33040 bis 33044, 33050 bis 33053, 33060 bis 33064, 33070 bis 33076, 33080 und 33100 sind, mittels B- Mode-Verfahren",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 7.13,
+        "valuation_in_points": 56
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "bzw. Organstrukturen, die nicht Bestandteil der Gebührenordnungspositionen 33000 bis 33002, 33010 bis 33012, 33020 bis 33023, 33030, 33031, 33040 bis 33044, 33050 bis 33053, 33060 bis 33064, 33070 bis 33076, 33080 und 33100 sind, mittels B- Mode-Verfahren, je Sitzung Die Gebührenordnungsposition 33081 ist neben den Gebührenordnungspositionen 33011, 33040 und 33042 ausschließlich zur onkologischen Kontrolle von weiteren Lymphknotenregionen bei Patienten mit mindestens einer der Diagnosen C81.- bis C96.- einmal berechnungsfähig. Die Nebeneinanderberechnung setzt die Kodierung nach ICD-10-GM voraus. Die Gebührenordnungsposition 33081 ist im Behandlungsfall neben den Gebührenordnungspositionen 01772 und 01773 nur einmal und mit Begründung berechnungsfähig. Als Begründung für die Nebeneinanderberechnung ist der ICD-10-Kode mit Angabe des Zusatzkennzeichens für die Diagnosensicherheit anzugeben. Die Gebührenordnungsposition 33081 ist nicht neben den Gebührenordnungspositionen 01205, 01207, 01902, 01904, 01906, 33043, 33044, 33050 und 33053 berechnungsfähig. Die Gebührenordnungsposition 33081 ist am Behandlungstag nicht neben den Gebührenordnungspositionen 01748, 01772, 01773, 31630 bis 31637, 31682 bis 31689 und 31695 bis 31702 berechnungsfähig. Die Gebührenordnungsposition 33081 ist im Behandlungsfall nicht neben der Gebührenordnungsposition 26330 berechnungsfähig. Die Gebührenordnungsposition 33081 ist im Zyklusfall nicht neben den Gebührenordnungspositionen 08535 bis 08537, 08550, 08555, 08558, 08635 und 08637 berechnungsfähig."
+    },
+    {
+      "code": "33090",
+      "title": "Zuschlag zu den Gebührenordnungspositionen 33040, 33042, 33043 und 33081 bei transkavitärer Untersuchung",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 7.26,
+        "valuation_in_points": 57
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "und 33081 bei transkavitärer Untersuchung Die Gebührenordnungsposition 33090 ist bei transoesophagealer Durchführung zweimal je Sitzung berechnungsfähig, sofern mindestens eine der folgenden Diagnosen (C15.- Bösartige Neubildung des Ösophagus, C16.- Bösartige Neubildung des Magens, C17.0 Bösartige Neubildung des Duodenums, C17.1 Bösartige Neubildung des Jejunums, C22.- Bösartige Neubildung der Leber und der intrahepatischen Gallengänge, C23 Bösartige Neubildung der Gallenblase, C24.- Bösartige Neubildung sonstiger und nicht näher bezeichneter Teile der Gallenwege, C25.- Bösartige Neubildung des Pankreas) oder eine der folgenden gesicherten Diagnosen (K80.- Cholelithiasis, K83.- sonstige Krankheiten der Gallenwege, K85.- Akute Pankreatitis, K86.- Sonstige Krankheiten des Pankreas) vorliegt. Die zweimalige Berechnung setzt die Kodierung nach ICD-10-GM unter Angabe des Zusatzkennzeichens für die Diagnosensicherheit voraus. Die Gebührenordnungsposition 33090 ist nicht neben den Gebührenordnungspositionen 01205, 01207, 01781, 01782, 01787, 01830, 01831, 08341 und 33044 berechnungsfähig. Die Gebührenordnungsposition 33090 ist am Behandlungstag nicht neben den Gebührenordnungspositionen 31630 bis 31637, 31682 bis 31689 und 31695 bis 31702 berechnungsfähig. Die Gebührenordnungsposition 33090 ist im Behandlungsfall nicht neben der Gebührenordnungsposition 26330 berechnungsfähig. Die Gebührenordnungsposition 33090 ist im Zyklusfall nicht neben den Gebührenordnungspositionen 08535 bis 08537, 08550, 08555, 08558, 08635 und 08637 berechnungsfähig. Die Gebührenordnungsposition 33090 ist im Zeitraum von 21 Tagen nach Erbringung einer Leistung des Abschnitts 31.2 nicht neben den Gebührenordnungspositionen 31695 bis 31702 berechnungsfähig."
+    },
+    {
+      "code": "33091",
+      "title": "Zuschlag zu den Gebührenordnungspositionen 33012, 33040, 33041 und 33081 für optische Führungshilfe",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 11.08,
+        "valuation_in_points": 87
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "und 33081 für optische Führungshilfe Die Berechnung der Gebührenordnungsposition 33091 im Zusammenhang mit der Durchführung der perkutanen Biopsie entsprechend der Gebührenordnungsposition 02344 ist durch Angabe einer bundeseinheitlich kodierten Zusatzkennzeichnung zu dokumentieren. Die Gebührenordnungsposition 33091 ist nicht neben den Gebührenordnungspositionen 01205, 01207, 01781, 01782, 01787, 01831 und 08320 berechnungsfähig. Die Gebührenordnungsposition 33091 ist am Behandlungstag nicht neben den Gebührenordnungspositionen 31630 bis 31637, 31682 bis 31689 und 31695 bis 31702 berechnungsfähig. Die Gebührenordnungsposition 33091 ist im Behandlungsfall nicht neben der Gebührenordnungsposition 26330 berechnungsfähig. Die Gebührenordnungsposition 33091 ist im Zyklusfall nicht neben den Gebührenordnungspositionen 08341, 08535 bis 08537, 08550, 08555, 08635 und 08637 berechnungsfähig."
+    },
+    {
+      "code": "33092",
+      "title": "Zuschlag zu den Gebührenordnungspositionen 33042, 33043 und 33044 für optische Führungshilfe",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 15.03,
+        "valuation_in_points": 118
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "33044 für optische Führungshilfe Die Berechnung der Gebührenordnungsposition 33092 im Zusammenhang mit der Durchführung der perkutanen Biopsie entsprechend der Gebührenordnungsposition 02344 ist durch Angabe einer bundeseinheitlich kodierten Zusatzkennzeichnung zu dokumentieren. Die Gebührenordnungsposition 33092 ist nicht neben den Gebührenordnungspositionen 01205, 01207, 01781, 01782, 01787, 01831 und 08320 berechnungsfähig. Die Gebührenordnungsposition 33092 ist am Behandlungstag nicht neben den Gebührenordnungspositionen 31630 bis 31637, 31682 bis 31689 und 31695 bis 31702 berechnungsfähig. Die Gebührenordnungsposition 33092 ist im Behandlungsfall nicht neben der Gebührenordnungsposition 26330 berechnungsfähig. Die Gebührenordnungsposition 33092 ist im Zyklusfall nicht neben den Gebührenordnungspositionen 08341, 08535 bis 08537, 08550, 08555, 08558, 08635 und 08637 berechnungsfähig."
+    },
+    {
+      "code": "33100",
+      "title": "Muskel- und/oder Nervensonographie zur weiteren Klärung einer peripheren neuromuskulären Erkrankung, inkl. Nervenkompressionssyndrom mittels B-Mode-Verfahren",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 9.17,
+        "valuation_in_points": 72
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "33100 Muskel- und/oder Nervensonographie zur weiteren Klärung\neiner peripheren neuromuskulären Erkrankung, inkl.\nNervenkompressionssyndrom mittels B-Mode-Verfahren\nFakultativer Leistungsinhalt\n- Duplex-Verfahren\nje Sitzung\nDie Gebührenordnungsposition 33100 ist im Behandlungsfall höchstens\nviermal berechnungsfähig.\nDie Gebührenordnungsposition 33100 ist ausschließlich als\nZusatzdiagnostik nach erfolgter elektroneurographischer und/oder\nelektromyographischer Untersuchung berechnungsfähig und setzt\ndas Vorliegen der Ergebnisse einer Untersuchung nach der\nGebührenordnungsposition 04437 oder 16322 in dem laufenden oder im\nvorausgegangenen Quartal voraus.\nDie Gebührenordnungsposition 33100 ist nicht neben\nden Gebührenordnungspositionen 01205, 01207 und 33050\nberechnungsfähig.\nDie Gebührenordnungsposition 33100 ist am Behandlungstag nicht\nneben den Gebührenordnungspositionen 31630 bis 31637, 31682 bis\n31689 und 31695 bis 31702 berechnungsfähig.\nDie Gebührenordnungsposition 33100 ist im Behandlungsfall nicht neben\nder Gebührenordnungsposition 26330 berechnungsfähig."
+    },
+    {
+      "code": "33105",
+      "title": "Beurteilung der Leber zur Indikationsstellung einer Therapie mit Etranacogen dezaparvovec",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 56.06,
+        "valuation_in_points": 440
+      },
+      "mandatory_services": "- Sonographische Untersuchung der Leber,\n- Elastographische Bewertung der Leber",
+      "facultative_services": null,
+      "billing_info": "Etranacogen dezaparvovec Die Gebührenordnungsposition 33105 ist nur einmalig berechnungsfähig. Die Gebührenordnungsposition 33105 ist ausschließlich für zwingend erforderliche Untersuchungen zur Indikationsstellung einer gemäß jeweils gültiger Fachinformation für diese Indikation zugelassene Therapie mit Etranacogen dezaparvovec berechnungsfähig. Bis zum 30. September 2024 setzt die Berechnung der Gebührenordnungsposition 33105 eine bestehende Genehmigung der Kassenärztlichen Vereinigung nach der Ultraschall-Vereinbarung gemäß § 135 Abs. 2 SGB V, die zur Abrechnung der Gebührenordnungsposition 33042 berechtigt, voraus. Ab dem 1. Oktober 2024 ist für die Berechnungsfähigkeit der Gebührenordnungsposition 33105 eine aktualisierte Genehmigung auf Basis einer angepassten Ultraschall- Vereinbarung erforderlich, die die Gebührenordnungsposition 33105 umfasst. Sofern die Gebührenordnungsposition 33105 neben der Gebührenordnungsposition 33042 berechnet wird, ist ein Abschlag von 70 Punkten auf die Gebührenordnungsposition 33042 vorzunehmen. Die Gebührenordnungsposition 33105 ist nicht neben den Gebührenordnungspositionen 01205 und 01207 berechnungsfähig. Die Gebührenordnungsposition 33105 ist am Behandlungstag nicht neben den Gebührenordnungspositionen 31630 bis 31637, 31682 bis 31689 und 31695 bis 31702 berechnungsfähig. Die Gebührenordnungsposition 33105 ist im Behandlungsfall nicht neben der Gebührenordnungsposition 26330 berechnungsfähig. 34 Diagnostische und interventionelle Radiologie, Computertomographie, Magnetfeld-Resonanz- Tomographie und Positronenemissionstomographie bzw. Positronenemissionstomographie mit Computertomographie 34.1 Präambel 1. Die Gebührenordnungspositionen dieses Kapitels sind nur dann berechnungsfähig, wenn ihre Durchführung nach Maßgabe der Strahlenschutzverordnung, des Strahlenschutzgesetzes und des Medizinprodukterecht-Durchführungsgesetzes i. V. m. der europäischen Medizinprodukteverordnung sowie der jeweiligen Qualitätsbeurteilungsrichtlinien für die Kernspintomographie bzw. für die radiologische Diagnostik gemäß § 135b Abs. 2 SGB V i. V. m. § 92 Abs. 1 SGB V erfolgt. 2. Die Berechnung der Gebührenordnungspositionen dieses Kapitels setzt jeweils eine Genehmigung der Kassenärztlichen Vereinigung entweder nach der Vereinbarung zur Strahlendiagnostik und - therapie oder nach der Kernspintomographie-Vereinbarung oder nach der Vereinbarung zur invasiven Kardiologie oder nach der Qualitätssicherungsvereinbarung zur interventionellen Radiologie oder nach der Mammographie-Vereinbarung gemäß § 135 Abs. 2 SGB V voraus. Die Berechnung der Gebührenordnungsposition 34274 setzt eine Genehmigung der Kassenärztlichen Vereinigung nach der Qualitätssicherungsvereinbarung zur Vakuumbiopsie der Brust gemäß § 135 Abs. 2 SGB V voraus. 3. Bei Aufträgen zur Durchführung von radiologischen, kernspintomographischen und nuklearmedizinischen Leistungen hat der überweisende Vertragsarzt Diagnose, Verdachtsdiagnose oder Befunde mitzuteilen und Art und Umfang der Leistungen durch Angabe der Gebührenordnungsposition(en) bzw. der Legende der Gebührenordnungsposition(en) zu definieren (Definitionsauftrag) oder durch Angabe des konkreten Untersuchungsziels einzugrenzen. Der ausführende Arzt darf nur diese Gebührenordnungspositionen unter Berücksichtigung der rechtfertigenden Indikation berechnen. Eine Erweiterung des Auftrages - auch im Sinne einer Beratung des Patienten, die eine Auftragserweiterung zur Folge haben könnte - bedarf der Zustimmung des Vertragsarztes, der den Auftrag erteilt hat. 4. In den Gebührenordnungspositionen dieses Kapitels sind die Beurteilung, obligatorische schriftliche Befunddokumentation, Befunde nach der Gebührenordnungsposition 01600 sowie Briefe nach der Gebührenordnungsposition 01601 an den auftraggebenden Arzt sowie ggf. Eintragung in ein Röntgennachweisheft enthalten. 5. Einstellungsdurchleuchtungen und ggf. notwendige Durchleuchtungen zur Kontrolle, z. B. der Lage eines Katheters oder einer Punktionsnadel, sind Bestandteil der entsprechenden Gebührenordnungspositionen dieses Kapitels. 6. In den Gebührenordnungspositionen dieses Kapitels sind, soweit erforderlich, die Kosten für Zusatzmittel für die Doppelkontrastuntersuchungen enthalten. 34.2 Diagnostische Radiologie 34.2.1 Schädel, Halsweichteile"
+    },
+    {
+      "code": "34210",
+      "title": "Röntgenübersichtsaufnahmen des Schädels",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 13.12,
+        "valuation_in_points": 103
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "34210 Röntgenübersichtsaufnahmen des Schädels\nObligater Leistungsinhalt\n- Aufnahmen in mindestens 2 Ebenen\nDie Gebührenordnungsposition 34210 ist nicht neben den\nGebührenordnungspositionen 01205, 01207, 02100 bis 02102 und\n34503 berechnungsfähig."
+    },
+    {
+      "code": "34211",
+      "title": "Panoramaschichtaufnahme(n) des Ober- und/oder Unterkiefers",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 9.05,
+        "valuation_in_points": 71
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "34211 Panoramaschichtaufnahme(n) des Ober- und/oder Unterkiefers\nObligater Leistungsinhalt\n- Panoramaschichtaufnahme(n) des Ober- und/oder Unterkiefers\nDie Gebührenordnungsposition 34211 ist nicht neben den\nGebührenordnungspositionen 01205, 01207, 02100 bis 02102, 34282\nund 34503 berechnungsfähig."
+    }
+  ]
+}

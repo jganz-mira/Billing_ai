@@ -1,0 +1,117 @@
+{
+    "name": "radiologie",
+    "steps": [
+        {
+            "expert_role": "Experte fuer radiologische Gebuehrenordnungspositionen",
+            "model_type": "gpt-5-mini",
+            "prompt_template": "experte_basispauschalen",
+            "task_focus": "Dieser Experte konzentriert sich SOWOHL auf die Abrechnung von BASISPAUSCHALEN, als auch auf die abrechnung von Ziffern die sich aus dem Behandlungskontext ergeben.",
+            "knowledge_paths": [
+                "src/ontology/gops/radiologie/radiologische_ziffern.json"
+            ]
+        },
+        {
+            "expert_role": "Experte fuer radiologische Zusatzziffern",
+            "model_type": "gpt-5-mini",
+            "prompt_template": "experte_basispauschalen",
+            "task_focus": "Dieser Experte konzentriert sich SOWOHL auf die Abrechnung von BASISPAUSCHALEN, als auch auf die abrechnung von Ziffern die sich aus dem Behandlungskontext ergeben.",
+            "knowledge_paths": [
+                "src/ontology/gops/radiologie/radiologische_zusatzziffern.json"
+            ]
+        },
+        {
+            "expert_role": "Experte fuer radiologische Spezialziffern Teil 1",
+            "model_type": "gpt-5-mini",
+            "prompt_template": "experte_basispauschalen",
+            "task_focus": "Dieser Experte konzentriert sich SOWOHL auf die Abrechnung von BASISPAUSCHALEN, als auch auf die abrechnung von Ziffern die sich aus dem Behandlungskontext ergeben.",
+            "knowledge_paths": [
+                "src/ontology/gops/radiologie/radiologische_spezialziffern_01.json",
+                "src/ontology/gops/radiologie/radiologische_spezialziffern_02.json",
+                "src/ontology/gops/radiologie/radiologische_spezialziffern_03.json"
+            ]
+        },
+        {
+            "expert_role": "Experte fuer radiologische Spezialziffern Teil 2",
+            "model_type": "gpt-5-mini",
+            "prompt_template": "experte_basispauschalen",
+            "task_focus": "Dieser Experte konzentriert sich SOWOHL auf die Abrechnung von BASISPAUSCHALEN, als auch auf die abrechnung von Ziffern die sich aus dem Behandlungskontext ergeben.",
+            "knowledge_paths": [
+                "src/ontology/gops/radiologie/radiologische_spezialziffern_04.json",
+                "src/ontology/gops/radiologie/radiologische_spezialziffern_05.json",
+                "src/ontology/gops/radiologie/radiologische_spezialziffern_06.json"
+            ]
+        },
+        {
+            "expert_role": "Experte fuer radiologische Spezialziffern Teil 3",
+            "model_type": "gpt-5-mini",
+            "prompt_template": "experte_basispauschalen",
+            "task_focus": "Dieser Experte konzentriert sich SOWOHL auf die Abrechnung von BASISPAUSCHALEN, als auch auf die abrechnung von Ziffern die sich aus dem Behandlungskontext ergeben.",
+            "knowledge_paths": [
+                "src/ontology/gops/radiologie/radiologische_spezialziffern_07.json",
+                "src/ontology/gops/radiologie/radiologische_spezialziffern_08.json",
+                "src/ontology/gops/radiologie/radiologische_spezialziffern_09.json"
+            ]
+        },
+        {
+            "expert_role": "Experte fuer radiologische Spezialziffern Teil 4",
+            "model_type": "gpt-5-mini",
+            "prompt_template": "experte_basispauschalen",
+            "task_focus": "Dieser Experte konzentriert sich SOWOHL auf die Abrechnung von BASISPAUSCHALEN, als auch auf die abrechnung von Ziffern die sich aus dem Behandlungskontext ergeben.",
+            "knowledge_paths": [
+                "src/ontology/gops/radiologie/radiologische_spezialziffern_10.json",
+                "src/ontology/gops/radiologie/radiologische_spezialziffern_11.json",
+                "src/ontology/gops/radiologie/radiologische_spezialziffern_12.json"
+            ]
+        },
+        {
+            "expert_role": "Experte fuer radiologische Spezialziffern Teil 5",
+            "model_type": "gpt-5-mini",
+            "prompt_template": "experte_basispauschalen",
+            "task_focus": "Dieser Experte konzentriert sich SOWOHL auf die Abrechnung von BASISPAUSCHALEN, als auch auf die abrechnung von Ziffern die sich aus dem Behandlungskontext ergeben.",
+            "knowledge_paths": [
+                "src/ontology/gops/radiologie/radiologische_spezialziffern_13.json",
+                "src/ontology/gops/radiologie/radiologische_spezialziffern_14.json",
+                "src/ontology/gops/radiologie/radiologische_spezialziffern_15.json"
+            ]
+        },
+        {
+            "expert_role": "Experte fuer radiologische Spezialziffern Teil 6",
+            "model_type": "gpt-5-mini",
+            "prompt_template": "experte_basispauschalen",
+            "task_focus": "Dieser Experte konzentriert sich SOWOHL auf die Abrechnung von BASISPAUSCHALEN, als auch auf die abrechnung von Ziffern die sich aus dem Behandlungskontext ergeben.",
+            "knowledge_paths": [
+                "src/ontology/gops/radiologie/radiologische_spezialziffern_16.json",
+                "src/ontology/gops/radiologie/radiologische_spezialziffern_17.json"
+            ]
+        }
+    ],
+    "final_step": {
+        "expert_role": "Konsolidierer fuer GOP-Abrechnungsvorschlaege",
+        "model_type": "gpt-5-mini",
+        "prompt_template": "gop_consolidation",
+        "task_focus": "Dedupliziere die GOP-Vorschlaege der Experten, pruefe Konflikte und erstelle eine finale GOP-Liste.",
+        "tools": [],
+        "knowledge_paths": [
+            "src/ontology/gops/radiologie/radiologische_ziffern.json",
+            "src/ontology/gops/radiologie/radiologische_zusatzziffern.json",
+            "src/ontology/gops/radiologie/radiologische_spezialziffern_01.json",
+            "src/ontology/gops/radiologie/radiologische_spezialziffern_02.json",
+            "src/ontology/gops/radiologie/radiologische_spezialziffern_03.json",
+            "src/ontology/gops/radiologie/radiologische_spezialziffern_04.json",
+            "src/ontology/gops/radiologie/radiologische_spezialziffern_05.json",
+            "src/ontology/gops/radiologie/radiologische_spezialziffern_06.json",
+            "src/ontology/gops/radiologie/radiologische_spezialziffern_07.json",
+            "src/ontology/gops/radiologie/radiologische_spezialziffern_08.json",
+            "src/ontology/gops/radiologie/radiologische_spezialziffern_09.json",
+            "src/ontology/gops/radiologie/radiologische_spezialziffern_10.json",
+            "src/ontology/gops/radiologie/radiologische_spezialziffern_11.json",
+            "src/ontology/gops/radiologie/radiologische_spezialziffern_12.json",
+            "src/ontology/gops/radiologie/radiologische_spezialziffern_13.json",
+            "src/ontology/gops/radiologie/radiologische_spezialziffern_14.json",
+            "src/ontology/gops/radiologie/radiologische_spezialziffern_15.json",
+            "src/ontology/gops/radiologie/radiologische_spezialziffern_16.json",
+            "src/ontology/gops/radiologie/radiologische_spezialziffern_17.json"
+        ],
+        "reasoning_effort": "medium"
+    }
+}

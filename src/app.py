@@ -36,6 +36,9 @@ DEBUG_MODE: bool = any(argument in {"--debug", "debug"} for argument in sys.argv
 MEDICAL_DISCIPLINE_LABELS: dict[str, str] = {
     "general_care": "Hausärztliche Versorgung",
     "chirurgie": "Chirurgie",
+    "dermatologie": "Dermatologie",
+    "gynaekologie": "Gynäkologie",
+    "radiologie": "Radiologie",
 }
 CONTACT_TYPE_LABELS: dict[str, str] = {
     "personal_contact": "Persönlicher Kontakt",

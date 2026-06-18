@@ -1,0 +1,1204 @@
+{
+  "gops": [
+    {
+      "code": "32413",
+      "title": "25-Hydroxy-Cholecalciferol (Vitamin D)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 14.0,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32413 25-Hydroxy-Cholecalciferol (Vitamin D)\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32414",
+      "title": "Osteocalcin",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 23.9,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32414 Osteocalcin\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32415",
+      "title": "Antidiuretisches Hormon (ADH, Vasopressin)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 22.08,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32415 Antidiuretisches Hormon (ADH, Vasopressin)\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32416",
+      "title": "Ähnliche Untersuchungen unter Angabe der Art der Untersuchung",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 21.5,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32416 Ähnliche Untersuchungen unter Angabe der Art der Untersuchung\nDie Berechnung der Gebührenordnungsposition 32416 setzt die\nBegründung der medizinischen Notwendigkeit der jeweiligen\nUntersuchung im Einzelfall voraus. Abweichend davon kann\ndie Begründung der medizinischen Notwendigkeit der jeweiligen\nUntersuchung im Einzelfall entfallen bei: Androstandiol-Glucuronid.\nDie Gebührenordnungspositionen 32365 bis 32380, 32385 bis 32398\n32400 bis 32404 und 32410 bis 32416 sind im Rahmen eines\nStimulations- oder Suppressionstestes bis zu fünfmal, im Rahmen eines\nTagesprofils bis zu dreimal berechnungsfähig.\nQuantitative Bestimmung mittels Immunoassay, gilt für die\nGebührenordnungspositionen 32420 bis 32421\nje Untersuchung\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32420",
+      "title": "Thyreoglobulin, einschl. Bestätigungstest",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 16.01,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32420 Thyreoglobulin, einschl. Bestätigungstest\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32421",
+      "title": "1,25 Dihydroxy-Cholecalciferol (Vitamin D3) 32.3.5 Immunologische Untersuchungen",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 14.0,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32421 1,25 Dihydroxy-Cholecalciferol (Vitamin D3)\n32.3.5 Immunologische Untersuchungen\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32426",
+      "title": "Quantitative Bestimmung von Gesamt-IgE",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 4.23,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32426 Quantitative Bestimmung von Gesamt-IgE\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32427",
+      "title": "Untersuchung auf allergenspezifische Immunglobuline in Einzelansätzen (Allergene oder Allergengemische)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 7.1,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32427 Untersuchung auf allergenspezifische Immunglobuline in\nEinzelansätzen (Allergene oder Allergengemische)\nje Ansatz\nDer Höchstwert für die Untersuchungen der\nGebührenordnungspositionen 32426 und 32427 beträgt im\nBehandlungsfall 65,00 Euro.\nDer Höchstwert für die Untersuchungen der\nGebührenordnungspositionen 32426 und 32427 beträgt in begründeten\nEinzelfällen bei Säuglingen, Kleinkindern und Kindern bis zum\nvollendeten 6. Lebensjahr im Behandlungsfall 111,00 Euro.\nDie Erbringung und/oder Auftragserteilung zur Durchführung von\nLaborleistungen nach der Gebührenordnungsposition 32427 setzt\ngrundsätzlich das Vorliegen der Ergebnisse vorangegangener Haut-\nund/oder Provokationstests voraus, ausgenommen bei Kindern bis zum\nvollendeten 6. Lebensjahr.\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32430",
+      "title": "Qualitativer Nachweis von humanen Proteinen mittels Immunpräzipitation",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 5.89,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32430 Qualitativer Nachweis von humanen Proteinen mittels\nImmunpräzipitation\nje Nachweis unter Angabe der Art des Proteins\nDer Höchstwert für Untersuchungen nach der Nr. 32430 beträgt 16,80\nEURO.\nQuantitative Bestimmung von humanen Proteinen oder\nanderen Substanzen mittels Immunnephelometrie, Immunturbidimetrie\nImmunpräzipitation, Fluorometrie, Immunoassay oder anderer\ngleichwertiger Verfahren, gilt für die Gebührenordnungspositionen 32435\nund 32437 bis 32455\nje Untersuchung\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32435",
+      "title": "Albumin",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 3.13,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32435 Albumin\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32437",
+      "title": "Alpha-1-Mikroglobulin",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 7.73,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32437 Alpha-1-Mikroglobulin\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32438",
+      "title": "Alpha-1-Antitrypsin (Alpha-1-Proteinase-Inhibitor, Alpha-1-Pi)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 9.84,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32438 Alpha-1-Antitrypsin (Alpha-1-Proteinase-Inhibitor, Alpha-1-Pi)\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32439",
+      "title": "Alpha-2-Makroglobulin",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 9.38,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32439 Alpha-2-Makroglobulin\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32440",
+      "title": "Coeruloplasmin",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 10.3,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32440 Coeruloplasmin\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32441",
+      "title": "Haptoglobin",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 6.72,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32441 Haptoglobin\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32442",
+      "title": "Hämopexin",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 10.58,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32442 Hämopexin\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32443",
+      "title": "Komplementfaktor C 3",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 7.8,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32443 Komplementfaktor C 3\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32444",
+      "title": "Komplementfaktor C 4",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 7.5,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32444 Komplementfaktor C 4\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32445",
+      "title": "Immunglobulin D (IgD)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 10.67,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32445 Immunglobulin D (IgD)\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32446",
+      "title": "Freie Kappa-Ketten",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 11.59,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32446 Freie Kappa-Ketten\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32447",
+      "title": "Freie Lambda-Ketten",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 11.5,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32447 Freie Lambda-Ketten\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32448",
+      "title": "Immunglobulin A, G oder M im Liquor",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 7.82,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32448 Immunglobulin A, G oder M im Liquor\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32449",
+      "title": "Immunglobulin G im Harn",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 5.06,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32449 Immunglobulin G im Harn\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32450",
+      "title": "Myoglobin",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 9.94,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32450 Myoglobin\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32451",
+      "title": "Apolipoprotein A-I",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 8.74,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32451 Apolipoprotein A-I\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32452",
+      "title": "Apolipoprotein B",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 8.83,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32452 Apolipoprotein B\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32453",
+      "title": "Granulozyten-(PMN-)Elastase",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 13.25,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32453 Granulozyten-(PMN-)Elastase\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32454",
+      "title": "Lysozym",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 9.75,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32454 Lysozym\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32455",
+      "title": "Ähnliche Untersuchungen unter Angabe der Art der Untersuchung",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 8.19,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32455 Ähnliche Untersuchungen unter Angabe der Art der Untersuchung\nDie Berechnung der Gebührenordnungsposition 32455 setzt die\nBegründung der medizinischen Notwendigkeit der jeweiligen\nUntersuchung im Einzelfall voraus. Abweichend davon\nkann die Begründung der medizinischen Notwendigkeit der\njeweiligen Untersuchung im Einzelfall entfallen bei: Zirkulierende\nImmunkomplexe, Fibronectin im Punktat, Lösl. Transferrin-Rezeptor und\nGesamthämolytische Aktivität.\nDie Gebührenordnungsposition 32450 ist nicht neben der\nGebührenordnungsposition 32150 berechnungsfähig.\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32456",
+      "title": "Quantitative Bestimmung des Lipoproteins(a) Der Höchstwert für die Untersuchungen der Gebührenordnungspositionen 32435 und 32437 bis 32456 beträgt 33,40 EURO.",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 10.95,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32456 Quantitative Bestimmung des Lipoproteins(a)\nDer Höchstwert für die Untersuchungen der\nGebührenordnungspositionen 32435 und 32437 bis 32456 beträgt 33,40\nEURO.\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32457",
+      "title": "Quantitative immunologische Bestimmung von occultem Blut im Stuhl (iFOBT)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 7.21,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32457 Quantitative immunologische Bestimmung von occultem Blut im\nStuhl (iFOBT)\neinmal im Behandlungsfall\nDie Gebührenordnungsposition 32457 ist im Behandlungsfall nicht neben\nden Gebührenordnungspositionen 01737 und 01738 berechnungsfähig.\nQuantitative Bestimmung mittels Immunnephelometrie\nImmunturbidimetrie, Immunpräzipitation, Immunoassay oder\nanderer gleichwertiger Verfahren, gilt für die\nGebührenordnungspositionen 32459 bis 32461\nje Untersuchung\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32459",
+      "title": "Procalcitonin (PCT)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 8.83,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32459 Procalcitonin (PCT)\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32460",
+      "title": "C-reaktives Protein (CRP)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 3.36,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32460 C-reaktives Protein (CRP)\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32461",
+      "title": "Rheumafaktor (RF)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 4.2,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32461 Rheumafaktor (RF)\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32462",
+      "title": "Quantitative Bestimmung einer Immunglobulinsubklasse",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 21.53,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32462 Quantitative Bestimmung einer Immunglobulinsubklasse\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32463",
+      "title": "Quantitative Bestimmung von Cystatin C bei einer GFR von 40 bis 80 ml/(Minute/1,73 m²) (berechnet nach der MDRD- oder CKD-EPI-Formel) sowie in begründeten Einzelfällen bei Sammelschwierigkeiten Elektrophoretische Trennung von humanen Proteinen, gilt für die Gebührenordnungspositionen 32465 bis 32475",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 8.92,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32463 Quantitative Bestimmung von Cystatin C bei einer GFR von 40 bis 80\nml/(Minute/1,73 m²) (berechnet nach der MDRD- oder CKD-EPI-Formel)\nsowie in begründeten Einzelfällen bei Sammelschwierigkeiten\nElektrophoretische Trennung von humanen Proteinen, gilt für die\nGebührenordnungspositionen 32465 bis 32475\nObligater Leistungsinhalt\n- Elektrophoretische Trennung von humanen Proteinen, z. B.\nAgarosegel-, Polyacrylamidgel-, Disk-Elektrophorese, isoelektrische\nFokussierung\nFakultativer Leistungsinhalt\n- Färbereaktion\n- Quantitative Auswertung\nje Untersuchungsgang\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32465",
+      "title": "Oligoklonale Banden im Liquor und im Serum",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 22.91,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32465 Oligoklonale Banden im Liquor und im Serum\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32466",
+      "title": "Harnproteine",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 16.56,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32466 Harnproteine\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32467",
+      "title": "Lipoproteine, einschl. Polyanionenpräzipitation",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 19.5,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32467 Lipoproteine, einschl. Polyanionenpräzipitation\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32468",
+      "title": "Hämoglobine (außer glykierte Hämoglobine nach der Nr. 32094)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 20.15,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32468 Hämoglobine (außer glykierte Hämoglobine nach der Nr. 32094)\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32469",
+      "title": "Isoenzyme der Alkalischen Phosphatase (AP)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 19.69,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32469 Isoenzyme der Alkalischen Phosphatase (AP)\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32470",
+      "title": "Isoenzyme der Creatinkinase (CK)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 19.87,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32470 Isoenzyme der Creatinkinase (CK)\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32471",
+      "title": "Isoenzyme der Lactatdehydrogenase (LDH)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 19.23,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32471 Isoenzyme der Lactatdehydrogenase (LDH)\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32472",
+      "title": "Alpha-1-Antitrypsin, Phänotypisierung",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 30.36,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32472 Alpha-1-Antitrypsin, Phänotypisierung\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32473",
+      "title": "Acetylcholinesterase (AChE) im Fruchtwasser",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 12.88,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32473 Acetylcholinesterase (AChE) im Fruchtwasser\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32474",
+      "title": "Proteine in Punktaten",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 7.45,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32474 Proteine in Punktaten\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32475",
+      "title": "Ähnliche Untersuchungen (mit Ausnahme der Gebührenordnungsposition 32107) unter Angabe der Art der Untersuchung",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 6.62,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32475 Ähnliche Untersuchungen (mit Ausnahme der\nGebührenordnungsposition 32107) unter Angabe der Art der\nUntersuchung\nDie Berechnung der Gebührenordnungsposition 32475 setzt die\nBegründung der medizinischen Notwendigkeit der jeweiligen\nUntersuchung im Einzelfall voraus.\nDie Gebührenordnungsposition 32468 ist nicht neben der\nGebührenordnungsposition 32312 berechnungsfähig.\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32476",
+      "title": "Elektrophoretische Trennung von humanen Proteinen durch Polyacrylamidgel-Elektrophorese oder ähnliche Verfahren mit Antigentransfer und anschließender Immunreaktion (Immunoblot)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 20.3,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32476 Elektrophoretische Trennung von humanen Proteinen durch\nPolyacrylamidgel-Elektrophorese oder ähnliche Verfahren mit\nAntigentransfer und anschließender Immunreaktion (Immunoblot)\nje Untersuchungsgang unter Angabe der Art der\nUntersuchung\nUntersuchungen zum Nachweis von Antikörpern gegen\nkörpereigene Antigene (Autoantikörper) sind nicht nach der\nGebührenordnungsposition 32476 berechnungsfähig.\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32478",
+      "title": "Immunfixationselektrophorese",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 18.4,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32478 Immunfixationselektrophorese\nObligater Leistungsinhalt\n- Immunfixationselektrophorese mit mindestens vier Antiseren\nund/oder\n- Immunelektrophorese mit mindestens vier Antiseren\n- Bei Dys- und Paraproteinämie\nFakultativer Leistungsinhalt\n- Isoelektrische Fokussierung oder ähnliche Verfahren\n- Serumeiweiß-Elektrophorese nach der Gebührenordnungsposition\n32107\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32479",
+      "title": "Qualitativer Nachweis und/oder quantitative Bestimmung von Gliadin- Antikörpern mittels indirekter Immunfluoreszenz oder Immunoassay",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 13.52,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32479 Qualitativer Nachweis und/oder quantitative Bestimmung von Gliadin-\nAntikörpern mittels indirekter Immunfluoreszenz oder Immunoassay\nje IgG und IgA\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32480",
+      "title": "Nachweis von Anti-Drug-Antikörpern",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 18.65,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32480 Nachweis von Anti-Drug-Antikörpern\nje Untersuchung\nQualitativer Nachweis und/oder quantitative Bestimmung von\nAntikörpern gegen körpereigene Antigene (Autoantikörper) mittels\nindirekter Immunfluoreszenz, Immunoassay oder Immunoblot, gilt für die\nGebührenordnungspositionen 32489 bis 32505\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32489",
+      "title": "Antikörper gegen zyklisch citrulliniertes Peptid (Anti-CCP-AK)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 11.2,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32489 Antikörper gegen zyklisch citrulliniertes Peptid (Anti-CCP-AK)\neinmal im Krankheitsfall\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32490",
+      "title": "Antinukleäre Antikörper (ANA) als Suchtest",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 7.3,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32490 Antinukleäre Antikörper (ANA) als Suchtest\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32491",
+      "title": "Antikörper gegen native Doppelstrang-DNS (anti-ds-DNS)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 10.4,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32491 Antikörper gegen native Doppelstrang-DNS (anti-ds-DNS)\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32492",
+      "title": "Antikörper gegen Zellkern- oder zytoplasmatische Antigene, z. B. Sm-, U1-RNP-, SS-A-, SS-B-, Scl-70-, Jo-1-, Histon-Antikörper",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 9.5,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32492 Antikörper gegen Zellkern- oder zytoplasmatische Antigene, z. B.\nSm-, U1-RNP-, SS-A-, SS-B-, Scl-70-, Jo-1-, Histon-Antikörper\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32493",
+      "title": "Antikörper gegen Zentromerantigene, z. B. CENP-B-Antikörper",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 9.0,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32493 Antikörper gegen Zentromerantigene, z. B. CENP-B-Antikörper\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32494",
+      "title": "Antimitochondriale Antikörper (AMA), auch Subtypen, z. B. AMA-M2",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 5.52,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32494 Antimitochondriale Antikörper (AMA), auch Subtypen, z. B. AMA-M2\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32495",
+      "title": "Leberspezifische Antikörper, z. B. gegen Leber-/Nieren-Mikrosomen (LKM-Antikörper), lösliches Leberantigen (SLA-Antikörper) Asialoglykoprotein Rezeptor (ASGPR-Antikörper)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 11.32,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32495 Leberspezifische Antikörper, z. B. gegen Leber-/Nieren-Mikrosomen\n(LKM-Antikörper), lösliches Leberantigen (SLA-Antikörper)\nAsialoglykoprotein Rezeptor (ASGPR-Antikörper)\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32496",
+      "title": "Antikörper gegen zytoplasmatische Antigene neutrophiler Granulozyten (ANCA), z. B. c-ANCA (Proteinase 3-Antikörper), p-ANCA (Myeloperoxidase-Antikörper)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 9.29,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32496 Antikörper gegen zytoplasmatische Antigene neutrophiler Granulozyten\n(ANCA), z. B. c-ANCA (Proteinase 3-Antikörper), p-ANCA\n(Myeloperoxidase-Antikörper)\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32497",
+      "title": "Antikörper gegen glatte Muskulatur",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 13.71,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32497 Antikörper gegen glatte Muskulatur\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32498",
+      "title": "Herzmuskel-Antikörper",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 13.62,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32498 Herzmuskel-Antikörper\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32499",
+      "title": "Antikörper gegen Skelettmuskulatur",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 8.37,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32499 Antikörper gegen Skelettmuskulatur\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32500",
+      "title": "Antikörper gegen Inselzellen, z. B. ICA, Glutaminsäuredecarboxylase- Antikörper (GADA)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 11.5,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32500 Antikörper gegen Inselzellen, z. B. ICA, Glutaminsäuredecarboxylase-\nAntikörper (GADA)\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32501",
+      "title": "Insulin-Antikörper",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 11.41,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32501 Insulin-Antikörper\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32502",
+      "title": "Antikörper gegen Schilddrüsenperoxidase (-mikrosomen) und/oder Thyreoglobulin",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 7.5,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32502 Antikörper gegen Schilddrüsenperoxidase (-mikrosomen) und/oder\nThyreoglobulin\neinmal im Behandlungsfall\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32503",
+      "title": "Phospholipid-Antikörper, z. B. Cardiolipin-Antikörper",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 7.3,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32503 Phospholipid-Antikörper, z. B. Cardiolipin-Antikörper\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32504",
+      "title": "Thrombozyten-Antikörper",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 26.4,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32504 Thrombozyten-Antikörper\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32505",
+      "title": "Ähnliche Untersuchungen unter Angabe des Antikörpers",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 8.74,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32505 Ähnliche Untersuchungen unter Angabe des Antikörpers\nDie Berechnung der Gebührenordnungsposition 32505 setzt die\nBegründung der medizinischen Notwendigkeit der jeweiligen\nUntersuchung im Einzelfall voraus. Abweichend davon kann\ndie Begründung der medizinischen Notwendigkeit der jeweiligen\nUntersuchung im Einzelfall entfallen bei: Anti-Heparin/PF4\nAutoantikörper.\nDer Höchstwert für die Untersuchungen der\nGebührenordnungspositionen 32489 bis 32505 beträgt 42,60 EURO.\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32506",
+      "title": "Mixed antiglobulin reaction (MAR-Test) zum Nachweis von spermien- gebundenen Antikörpern",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 6.81,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32506 Mixed antiglobulin reaction (MAR-Test) zum Nachweis von spermien-\ngebundenen Antikörpern\nDie Gebührenordnungsposition 32506 ist nicht neben der\nGebührenordnungsposition 32507 berechnungsfähig.\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32507",
+      "title": "Nachweis von Antikörpern gegen Spermien, ggf. mit mehreren Methoden, insgesamt",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 15.73,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32507 Nachweis von Antikörpern gegen Spermien, ggf. mit mehreren\nMethoden, insgesamt\nDie Gebührenordnungsposition 32507 ist nicht neben der\nGebührenordnungsposition 32506 berechnungsfähig.\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32508",
+      "title": "Quantitative Bestimmung von TSH-Rezeptor-Antikörpern",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 10.3,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32508 Quantitative Bestimmung von TSH-Rezeptor-Antikörpern\neinmal im Behandlungsfall\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32509",
+      "title": "Quantitative Bestimmung von Acetylcholin-Rezeptor-Antikörpern",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 38.46,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32509 Quantitative Bestimmung von Acetylcholin-Rezeptor-Antikörpern\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32510",
+      "title": "Dichtegradienten- oder immunomagnetische Isolierung von Zellen als vorbereitende Untersuchung",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 9.57,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32510 Dichtegradienten- oder immunomagnetische Isolierung von Zellen\nals vorbereitende Untersuchung\nDie Gebührenordnungsposition 32510 ist im Behandlungsfall nicht neben\nder Gebührenordnungsposition 19430 berechnungsfähig.\nDifferenzierung und Quantifizierung von Zellen\n(Immunphänotypisierung) mittels Durchflußzytometrie und/oder\nmikroskopisch und mittels markierter monoklonaler Antikörper, gilt für die\nGebührenordnungspositionen 32520 bis 32527\nje Untersuchung\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32520",
+      "title": "B-Lymphozyten",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 8.19,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32520 B-Lymphozyten\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32521",
+      "title": "T-Lymphozyten",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 6.81,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32521 T-Lymphozyten\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32522",
+      "title": "CD4-T-Zellen",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 8.19,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32522 CD4-T-Zellen\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32523",
+      "title": "CD8-T-Zellen",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 8.19,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32523 CD8-T-Zellen\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32524",
+      "title": "Natürliche Killerzellen",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 8.19,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32524 Natürliche Killerzellen\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32525",
+      "title": "Aktivierte T-Zellen",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 8.19,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32525 Aktivierte T-Zellen\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32526",
+      "title": "Zytotoxische T-Zellen",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 8.19,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32526 Zytotoxische T-Zellen\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32527",
+      "title": "Ähnliche Untersuchungen unter Angabe der Art der Untersuchung",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 10.58,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32527 Ähnliche Untersuchungen unter Angabe der Art der Untersuchung\nDie Berechnung der Gebührenordnungsposition 32527 setzt die\nBegründung der medizinischen Notwendigkeit der jeweiligen\nUntersuchung im Einzelfall voraus.\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32532",
+      "title": "Lymphozyten-Transformations-Test(s), einschl. Kontrollkultur(en) ggf. mit mehreren Mitogenen und/oder Antigenen (nicht zur Erregerdiagnostik) insgesamt",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 48.21,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32532 Lymphozyten-Transformations-Test(s), einschl. Kontrollkultur(en)\nggf. mit mehreren Mitogenen und/oder Antigenen (nicht zur\nErregerdiagnostik)\ninsgesamt\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32533",
+      "title": "Untersuchung der Leukozytenfunktion, auch unter Anwendung mehrerer Methoden, z. B. Chemotaxis, Phagozytose, insgesamt 32.3.6 Blutgruppenserologische Untersuchungen",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 23.55,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32533 Untersuchung der Leukozytenfunktion, auch unter Anwendung\nmehrerer Methoden, z. B. Chemotaxis, Phagozytose, insgesamt\n32.3.6 Blutgruppenserologische Untersuchungen\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32540",
+      "title": "Nachweis der Blutgruppenmerkmale A, B, 0 und Rh-Faktor D",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 8.83,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32540 Nachweis der Blutgruppenmerkmale A, B, 0 und Rh-Faktor D\nObligater Leistungsinhalt\n- Nachweis der Blutgruppenmerkmale A, B, 0 und Rh-Faktor D\nFakultativer Leistungsinhalt\n- A-Untergruppe\n- Serumeigenschaften\nDie Gebührenordnungsposition 32540 ist nicht neben der\nGebührenordnungsposition 01804 berechnungsfähig.\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32541",
+      "title": "Nachweis eines Blutgruppenmerkmals (Antigens) mit agglutinierenden oder konglutinierenden Testseren, z. B. Rh- Merkmale, Lewis, M, N, P1",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 6.35,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32541 Nachweis eines Blutgruppenmerkmals (Antigens) mit\nagglutinierenden oder konglutinierenden Testseren, z. B. Rh-\nMerkmale, Lewis, M, N, P1\nje Untersuchung unter Angabe der Art des Antigens\nDie Gebührenordnungsposition 32541 ist nicht neben der\nGebührenordnungsposition 01806 berechnungsfähig.\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32542",
+      "title": "Nachweis eines Blutgruppenmerkmals (Antigens) mittels Antiglobulintest (Coombs-Test), z. B. Dweak, Duffy, Kell, Kidd",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 8.0,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32542 Nachweis eines Blutgruppenmerkmals (Antigens) mittels\nAntiglobulintest (Coombs-Test), z. B. Dweak, Duffy, Kell, Kidd\nje Untersuchung unter Angabe der Art des Antigens\nDie Gebührenordnungsposition 32542 ist nicht neben der\nGebührenordnungsposition 01805 berechnungsfähig.\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32543",
+      "title": "Nachweis von Erythrozytenantikörpern im direkten Antiglobulintest mit zwei verschiedenen polyspezifischen Antiglobulinseren",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 8.0,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32543 Nachweis von Erythrozytenantikörpern im direkten Antiglobulintest\nmit zwei verschiedenen polyspezifischen Antiglobulinseren\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32544",
+      "title": "Nachweis von Erythrozytenantikörpern ohne Antiglobulinphase, z. B. Kälteagglutinine",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 5.89,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32544 Nachweis von Erythrozytenantikörpern ohne Antiglobulinphase, z.\nB. Kälteagglutinine\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32545",
+      "title": "Antikörpersuchtest in mehreren Techniken einschl. indirekter Antiglobulintests mit mindestens zwei Testerythrozyten-Präparationen",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 7.3,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32545 Antikörpersuchtest in mehreren Techniken einschl. indirekter\nAntiglobulintests mit mindestens zwei Testerythrozyten-Präparationen\nDie Gebührenordnungsposition 32545 ist nicht neben der\nGebührenordnungsposition 01807 berechnungsfähig.\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32546",
+      "title": "Antikörperdifferenzierung in mehreren Techniken einschl. indirekter Antiglobulintests gegen mindestens acht Testerythrozyten- Präparationen",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 18.95,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32546 Antikörperdifferenzierung in mehreren Techniken einschl.\nindirekter Antiglobulintests gegen mindestens acht Testerythrozyten-\nPräparationen\nDie Gebührenordnungsposition 32546 ist nicht neben der\nGebührenordnungsposition 01808 berechnungsfähig.\nNachweis oder quantitative Bestimmung von Blutgruppenantigenen\noder -antikörpern mit aufwendigen Verfahren, gilt für die\nGebührenordnungspositionen 32550 bis 32555\nje Antigen oder Antikörper\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32550",
+      "title": "Antiglobulintest mit monospezifischem Antihumanglobulin",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 13.25,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32550 Antiglobulintest mit monospezifischem Antihumanglobulin\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32551",
+      "title": "Chemische oder thermische Elution von Erythrozytenantikörpern",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 17.66,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32551 Chemische oder thermische Elution von Erythrozytenantikörpern\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32552",
+      "title": "Absorption von Erythrozytenantikörpern an vorbehandelte Zellen",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 9.84,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32552 Absorption von Erythrozytenantikörpern an vorbehandelte Zellen\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32553",
+      "title": "Nachweis von Hämolysin(en) mit Komplementzusatz",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 12.7,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32553 Nachweis von Hämolysin(en) mit Komplementzusatz\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32554",
+      "title": "Quantitative Bestimmung eines Erythrozytenantikörpers",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 7.36,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32554 Quantitative Bestimmung eines Erythrozytenantikörpers\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32555",
+      "title": "Ähnliche Untersuchungen unter Angabe der Art der Untersuchung",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 8.0,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32555 Ähnliche Untersuchungen unter Angabe der Art der Untersuchung\nDie Berechnung der Gebührenordnungsposition 32555 setzt die\nBegründung der medizinischen Notwendigkeit der jeweiligen\nUntersuchung im Einzelfall voraus.\nDie Gebührenordnungsposition 32554 ist nicht neben der\nGebührenordnungsposition 01809 berechnungsfähig.\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32556",
+      "title": "Serologische Verträglichkeitsprobe (Kreuzprobe) mit indirektem Antiglobulintest",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 11.68,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32556 Serologische Verträglichkeitsprobe (Kreuzprobe) mit indirektem\nAntiglobulintest\nje Konserve\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32557",
+      "title": "Zuschlag zu der Gebührenordnungsposition 32545 oder 32556 für eine Vorbehandlung mit Dithiothreitol (DTT) zur Vermeidung von Interferenzen durch Daratumumab oder Isatuximab",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 19.2,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32557 Zuschlag zu der Gebührenordnungsposition 32545 oder 32556 für\neine Vorbehandlung mit Dithiothreitol (DTT) zur Vermeidung von\nInterferenzen durch Daratumumab oder Isatuximab\nje Untersuchung\nDie Gebührenordnungsposition 32557 ist am Behandlungstag höchstens\nviermal berechnungsfähig.\n32.3.7 Infektionsimmunologische Untersuchungen\nQuantitative Bestimmung von Streptokokken-Antikörpern, gilt für die\nGebührenordnungspositionen 32560 bis 32563\nje Untersuchung\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32560",
+      "title": "Antistreptolysin O-Reaktion",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 4.6,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32560 Antistreptolysin O-Reaktion\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32561",
+      "title": "Anti-DNase-B-Reaktion (Antistreptodornase)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 10.76,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32561 Anti-DNase-B-Reaktion (Antistreptodornase)\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    }
+  ]
+}

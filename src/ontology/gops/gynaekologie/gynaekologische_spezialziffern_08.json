@@ -1,0 +1,1204 @@
+{
+  "gops": [
+    {
+      "code": "32294",
+      "title": "Ähnliche Untersuchungen unter Angabe der Substanz(en) oder Substanzgruppe",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 18.12,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32294 Ähnliche Untersuchungen unter Angabe der Substanz(en) oder\nSubstanzgruppe\nDie Berechnung der Gebührenordnungsposition 32294 setzt die\nBegründung der medizinischen Notwendigkeit der jeweiligen\nUntersuchung im Einzelfall voraus.\nDie Gebührenordnungsposition 32292 ist nicht neben den\nGebührenordnungspositionen 32137 und 32140 bis 32147\nberechnungsfähig.\nQuantitative chromatographische Bestimmung(en) einer oder\nmehrerer Substanz(en), ggf. einschl. qualitativem chromatographischem\nNachweis, gilt für die Gebührenordnungspositionen 32300 bis 32313\nje Untersuchungsgang\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32300",
+      "title": "Katecholamine und/oder Metabolite",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 24.84,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32300 Katecholamine und/oder Metabolite\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32301",
+      "title": "Serotonin und/oder Metabolite",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 13.3,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32301 Serotonin und/oder Metabolite\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32302",
+      "title": "Porphyrine",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 14.17,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32302 Porphyrine\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32303",
+      "title": "Porphobilinogen",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 21.53,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32303 Porphobilinogen\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32304",
+      "title": "Delta-Amino-Lävulinsäure",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 22.54,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32304 Delta-Amino-Lävulinsäure\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32305",
+      "title": "Arzneimittel (chromatographisch oder mit sonstigen Verfahren) Unter Angabe der Substanz(en) oder Substanzgruppe(n)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 15.92,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32305 Arzneimittel (chromatographisch oder mit sonstigen Verfahren)\nUnter Angabe der Substanz(en) oder Substanzgruppe(n)\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32306",
+      "title": "Vitamine Unter Angabe der Substanz(en) oder Substanzgruppe(n)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 20.52,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32306 Vitamine\nUnter Angabe der Substanz(en) oder Substanzgruppe(n)\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32307",
+      "title": "Drogen Unter Angabe der Substanz(en) oder Substanzgruppe(n)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 16.28,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32307 Drogen\nUnter Angabe der Substanz(en) oder Substanzgruppe(n)\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32308",
+      "title": "Pyridinolin und/oder Desoxypyridinolin",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 26.13,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32308 Pyridinolin und/oder Desoxypyridinolin\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32309",
+      "title": "Phenylalanin",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 17.2,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32309 Phenylalanin\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32310",
+      "title": "Aminosäuren",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 20.24,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32310 Aminosäuren\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32311",
+      "title": "Exogene Gifte Unter Angabe der Substanz(en) oder Substanzgruppe(n)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 26.4,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32311 Exogene Gifte\nUnter Angabe der Substanz(en) oder Substanzgruppe(n)\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32312",
+      "title": "Hämoglobine (außer glykierte Hämoglobine nach Nr. 32094)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 10.86,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32312 Hämoglobine (außer glykierte Hämoglobine nach Nr. 32094)\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32313",
+      "title": "Ähnliche Untersuchungen unter Angabe der Substanz(en) oder Substanzgruppe",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 19.23,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32313 Ähnliche Untersuchungen unter Angabe der Substanz(en) oder\nSubstanzgruppe\nDie Berechnung der Gebührenordnungsposition 32313 setzt die\nBegründung der medizinischen Notwendigkeit der jeweiligen\nUntersuchung im Einzelfall voraus. Abweichend davon kann\ndie Begründung der medizinischen Notwendigkeit der jeweiligen\nUntersuchung im Einzelfall entfallen bei: organische Säuren, Methanol.\nDie Gebührenordnungsposition 32312 ist nicht neben der\nGebührenordnungsposition 32468 berechnungsfähig.\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32314",
+      "title": "Bestimmung von Substanzen mittels DC, GC und/oder HPLC und anschließender Massenspektrometrie und EDV-Auswertung",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 43.0,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32314 Bestimmung von Substanzen mittels DC, GC und/oder HPLC und\nanschließender Massenspektrometrie und EDV-Auswertung\nje Körpermaterial unter Angabe der Art der\nUntersuchung\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32315",
+      "title": "Analytische Auswertung einer oder mehrerer Atemproben eines ¹³C-Harnstoff-Atemtests nach der Nr. 02400, ggf. einschl. Probenvorbereitung (z. B. chromatographisch), insgesamt",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 11.04,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32315 Analytische Auswertung einer oder mehrerer Atemproben eines\n¹³C-Harnstoff-Atemtests nach der Nr. 02400, ggf. einschl.\nProbenvorbereitung (z. B. chromatographisch), insgesamt\nDie Gebührenordnungsposition 32315 ist nicht neben der\nGebührenordnungsposition 32706 berechnungsfähig.\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32316",
+      "title": "Vollständige chemische Analyse zur Differenzierung eines Steins",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 9.48,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32316 Vollständige chemische Analyse zur Differenzierung eines Steins\nDie Gebührenordnungsposition 32316 ist nicht neben der\nGebührenordnungsposition 32317 berechnungsfähig.\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32317",
+      "title": "Analyse zur Differenzierung eines Steins in seinen verschiedenen Schichtungen mittels Infrarot-Spektrographie",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 18.68,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32317 Analyse zur Differenzierung eines Steins in seinen verschiedenen\nSchichtungen mittels Infrarot-Spektrographie\nDie Gebührenordnungsposition 32317 ist nicht neben der\nGebührenordnungsposition 32316 berechnungsfähig.\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32318",
+      "title": "Quantitative Bestimmung von Homocystein Quantitative Bestimmung der freien Schilddrüsenhormone, gilt für die Gebührenordnungspositionen 32320 und 32321",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 13.8,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32318 Quantitative Bestimmung von Homocystein\nQuantitative Bestimmung der freien Schilddrüsenhormone, gilt für die\nGebührenordnungspositionen 32320 und 32321\nje Untersuchung\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32320",
+      "title": "Freies Thyroxin (fT4)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 3.7,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32320 Freies Thyroxin (fT4)\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32321",
+      "title": "Freies Trijodthyronin (fT3) Quantitative Bestimmung, gilt für die Gebührenordnungspositionen",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 3.7,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32321 Freies Trijodthyronin (fT3)\nQuantitative Bestimmung, gilt für die Gebührenordnungspositionen\n32323 bis 32325\nje Untersuchung\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32323",
+      "title": "Digoxin",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 6.3,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32323 Digoxin\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32324",
+      "title": "Carcinoembryonales Antigen (CEA)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 3.8,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32324 Carcinoembryonales Antigen (CEA)\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32325",
+      "title": "Ferritin",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 3.5,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32325 Ferritin\nDie Gebührenordnungspositionen 32324, 32350, 32351, 32352, 32390\nbis 32398, 32400, 32405 und 32420 sind nebeneinander insgesamt bis\nzu zweimal berechnungsfähig.\nQuantitative Bestimmung von Drogen mittels Immunoassay, gilt für\ndie Gebührenordnungspositionen 32330 bis 32337\nje Untersuchung\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32330",
+      "title": "Amphetamine",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 7.08,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32330 Amphetamine\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32331",
+      "title": "Barbiturate",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 8.1,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32331 Barbiturate\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32332",
+      "title": "Benzodiazepine",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 7.1,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32332 Benzodiazepine\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32333",
+      "title": "Cannabinoide",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 7.5,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32333 Cannabinoide\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32334",
+      "title": "Kokain",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 7.08,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32334 Kokain\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32335",
+      "title": "Methadon",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 8.19,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32335 Methadon\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32336",
+      "title": "Opiate",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 7.5,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32336 Opiate\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32337",
+      "title": "Ähnliche Untersuchungen unter Angabe der Art der Untersuchung",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 8.74,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32337 Ähnliche Untersuchungen unter Angabe der Art der Untersuchung\nDie Berechnung der Gebührenordnungsposition 32337 setzt die\nBegründung der medizinischen Notwendigkeit der jeweiligen\nUntersuchung im Einzelfall voraus.\nDer Höchstwert für die Untersuchungen der\nGebührenordnungspositionen 32330 bis 32337 beträgt 24,10 EURO.\nQuantitative Bestimmung von Arzneimitteln mittels Immunoassay\ngilt für die Gebührenordnungspositionen 32340 bis 32346\nje Untersuchung\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32340",
+      "title": "Antiarrhythmika",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 13.71,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32340 Antiarrhythmika\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32341",
+      "title": "Antibiotika",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 16.28,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32341 Antibiotika\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32342",
+      "title": "Antiepileptika",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 7.91,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32342 Antiepileptika\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32343",
+      "title": "Digitoxin",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 7.2,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32343 Digitoxin\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32344",
+      "title": "Zytostatika, z. B. Methotrexat",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 21.99,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32344 Zytostatika, z. B. Methotrexat\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32345",
+      "title": "Theophyllin",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 9.84,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32345 Theophyllin\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32346",
+      "title": "Ähnliche Untersuchungen unter Angabe der Art der Untersuchung",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 13.43,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32346 Ähnliche Untersuchungen unter Angabe der Art der Untersuchung\nDie Berechnung der Gebührenordnungsposition 32346 setzt die\nBegründung der medizinischen Notwendigkeit der jeweiligen\nUntersuchung im Einzelfall voraus.\nQuantitative Bestimmung mittels Immunoassay, gilt für die\nGebührenordnungspositionen 32350 bis 32361\nje Untersuchung\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32350",
+      "title": "Alpha-Fetoprotein (AFP)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 6.4,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32350 Alpha-Fetoprotein (AFP)\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32351",
+      "title": "Prostataspezifisches Antigen (PSA) oder freies PSA",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 4.42,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32351 Prostataspezifisches Antigen (PSA) oder freies PSA\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32352",
+      "title": "Choriongonadotropin (HCG und/oder ß-HCG)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 5.61,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32352 Choriongonadotropin (HCG und/oder ß-HCG)\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32353",
+      "title": "Follitropin (FSH)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 4.5,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32353 Follitropin (FSH)\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32354",
+      "title": "Lutropin (LH)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 4.9,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32354 Lutropin (LH)\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32355",
+      "title": "Prolaktin",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 4.6,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32355 Prolaktin\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32356",
+      "title": "Östradiol",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 4.6,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32356 Östradiol\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32357",
+      "title": "Progesteron",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 3.8,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32357 Progesteron\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32358",
+      "title": "Testosteron und/oder freies Testosteron",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 5.0,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32358 Testosteron und/oder freies Testosteron\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32359",
+      "title": "Insulin",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 6.4,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32359 Insulin\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32360",
+      "title": "Sexualhormonbindendes Globulin (SHBG)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 10.95,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32360 Sexualhormonbindendes Globulin (SHBG)\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32361",
+      "title": "Ähnliche Untersuchungen unter Angabe der Art der Untersuchung",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 8.1,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32361 Ähnliche Untersuchungen unter Angabe der Art der Untersuchung\nDie Berechnung der Gebührenordnungsposition 32361 setzt die\nBegründung der medizinischen Notwendigkeit der jeweiligen\nUntersuchung im Einzelfall voraus. Abweichend davon kann\ndie Begründung der medizinischen Notwendigkeit der jeweiligen\nUntersuchung im Einzelfall entfallen bei: Anti-Müller-Hormon.\nDie Gebührenordnungspositionen 32324, 32350, 32351, 32352, 32390\nbis 32398, 32400, 32405 und 32420 sind nebeneinander insgesamt bis\nzu zweimal berechnungsfähig.\nDie Gebührenordnungspositionen 32350 bis 32361 sind im Rahmen\neines Stimulations- oder Suppressionstestes bis zu zweimal, im Rahmen\neines Tagesprofils bis zu dreimal berechnungsfähig.\nDie Gebührenordnungsposition 32350 ist nicht neben der\nGebührenordnungsposition 01783 berechnungsfähig.\nQuantitative Bestimmung frühestens ab der 24. SSW + 0 Tage, gilt\nfür die Gebührenordnungspositionen 32362 und 32363\nje Untersuchung\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32362",
+      "title": "PIGF",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 17.85,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32362 PIGF\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32363",
+      "title": "sFlt-1/PIGF-Quotienten Der Befundbericht muss innerhalb von 24 Stunden nach Materialeingang übermittelt sein. Voraussetzung für die Berechnungsfähigkeit der Gebührenordnungspositionen 32362 und 32363 ist die Erfüllung eines der folgenden Kriterien der Präeklampsie:",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 57.27,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32363 sFlt-1/PIGF-Quotienten\nDer Befundbericht muss innerhalb von 24 Stunden nach Materialeingang\nübermittelt sein.\nVoraussetzung für die Berechnungsfähigkeit\nder Gebührenordnungspositionen 32362 und 32363 ist die Erfüllung\neines der folgenden Kriterien der Präeklampsie:\n- Neu auftretender oder bestehender Hypertonus\n- Präeklampsie-assoziierter organischer oder\nlabordiagnostischer Untersuchungsbefund, welcher keiner anderen\nUrsache zugeordnet werden kann\n- Fetale Wachstumsstörung\n- auffälliger dopplersonographischer Befund der Aa. uterinae in einer\nUntersuchung nach der Gebührenordnungsposition 01775\nDie Gebührenordnungspositionen 32362 und 32363 sind jeweils\nhöchstens dreimal im Behandlungsfall berechnungsfähig.\nDie Gebührenordnungspositionen 32362 und 32363 sind am\nBehandlungstag nicht nebeneinander berechnungsfähig.\nQuantitative Bestimmung mittels Immunoassay, gilt für die\nGebührenordnungspositionen 32365 bis 32381\nje Untersuchung\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32365",
+      "title": "C-Peptid",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 13.52,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32365 C-Peptid\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32366",
+      "title": "Gastrin",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 11.7,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32366 Gastrin\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32367",
+      "title": "Cortisol",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 5.7,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32367 Cortisol\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32368",
+      "title": "17-Hydroxy-Progesteron",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 9.4,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32368 17-Hydroxy-Progesteron\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32369",
+      "title": "Dehydroepiandrosteron (DHEA) und/oder -sulfat (DHEA-S)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 6.35,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32369 Dehydroepiandrosteron (DHEA) und/oder -sulfat (DHEA-S)\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32370",
+      "title": "Wachstumshormon (HGH), Somatotropin (STH)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 10.2,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32370 Wachstumshormon (HGH), Somatotropin (STH)\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32371",
+      "title": "Insulin-like growth factor I (IGF-I) bzw. Somatomedin C (SM-C) und/oder IGF-I bindendes Protein 3 (IGFBP-3)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 31.0,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32371 Insulin-like growth factor I (IGF-I) bzw. Somatomedin C (SM-C) und/oder\nIGF-I bindendes Protein 3 (IGFBP-3)\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32372",
+      "title": "Folsäure",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 5.4,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32372 Folsäure\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32373",
+      "title": "Vitamin B 12",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 4.2,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32373 Vitamin B 12\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32374",
+      "title": "Cyclosporin",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 14.0,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32374 Cyclosporin\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32375",
+      "title": "Trypsin",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 22.63,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32375 Trypsin\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32376",
+      "title": "ß2-Mikroglobulin",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 10.03,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32376 ß2-Mikroglobulin\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32377",
+      "title": "Pankreas-Elastase",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 20.7,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32377 Pankreas-Elastase\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32378",
+      "title": "Neopterin",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 17.02,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32378 Neopterin\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32379",
+      "title": "Tacrolimus (FK 506)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 14.0,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32379 Tacrolimus (FK 506)\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32380",
+      "title": "Eosinophiles kationisches Protein (ECP)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 19.87,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32380 Eosinophiles kationisches Protein (ECP)\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32381",
+      "title": "Ähnliche Untersuchungen unter Angabe der Art der Untersuchung",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 14.63,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32381 Ähnliche Untersuchungen unter Angabe der Art der Untersuchung\nDie Berechnung der Gebührenordnungsposition 32381 setzt die\nBegründung der medizinischen Notwendigkeit der jeweiligen\nUntersuchung im Einzelfall voraus. Abweichend davon kann\ndie Begründung der medizinischen Notwendigkeit der jeweiligen\nUntersuchung im Einzelfall entfallen bei: Interleukin 2 Rezeptor\nCalprotectin und/oder Lactoferrin im Stuhl, Everolimus, Sirolimus und\nMycophenolat.\nDie Gebührenordnungspositionen 32365 bis 32380, 32385 bis 32398\n32400 bis 32404 und 32410 bis 32415 sind im Rahmen eines\nStimulations- oder Suppressionstestes bis zu fünfmal, im Rahmen eines\nTagesprofils bis zu dreimal berechnungsfähig.\nDie Gebührenordnungspositionen 32376 und 32378 sind im\nBehandlungsfall nicht neben der Gebührenordnungsposition 32824\nberechnungsfähig.\nQuantitative Bestimmung mittels Immunoassay, gilt für die\nGebührenordnungspositionen 32385 bis 32398 und 32400 bis 32409\nje Untersuchung\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32385",
+      "title": "Aldosteron",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 11.7,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32385 Aldosteron\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32386",
+      "title": "Renin",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 28.8,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32386 Renin\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32387",
+      "title": "Androstendion",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 11.78,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32387 Androstendion\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32388",
+      "title": "Corticosteron",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 49.4,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32388 Corticosteron\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32389",
+      "title": "11-Desoxycortisol",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 20.33,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32389 11-Desoxycortisol\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32390",
+      "title": "CA 125 und/oder HE 4",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 9.75,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32390 CA 125 und/oder HE 4\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32391",
+      "title": "CA 15-3",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 8.7,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32391 CA 15-3\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32392",
+      "title": "CA 19-9",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 9.2,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32392 CA 19-9\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32393",
+      "title": "CA 50",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 26.86,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32393 CA 50\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32394",
+      "title": "CA 72-4 (TAG 72)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 20.88,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32394 CA 72-4 (TAG 72)\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32395",
+      "title": "Neuronenspezifische Enolase (NSE)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 14.26,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32395 Neuronenspezifische Enolase (NSE)\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32396",
+      "title": "Squamous cell carcinoma Antigen (SCC)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 14.63,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32396 Squamous cell carcinoma Antigen (SCC)\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32397",
+      "title": "Tissue Polypeptide Antigen (TPA, TPS)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 22.45,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32397 Tissue Polypeptide Antigen (TPA, TPS)\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32398",
+      "title": "Mucin-like cancer associated antigen (MCA)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 33.2,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32398 Mucin-like cancer associated antigen (MCA)\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32400",
+      "title": "Cytokeratin-19-Fragmente (CYFRA 21-1)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 22.26,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32400 Cytokeratin-19-Fragmente (CYFRA 21-1)\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32401",
+      "title": "Dihydrotestosteron",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 14.81,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32401 Dihydrotestosteron\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32402",
+      "title": "Erythropoetin",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 23.09,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32402 Erythropoetin\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32403",
+      "title": "Pyridinolin, Desoxypyridinolin und/oder Typ I-Kollagen-Telopeptide",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 17.39,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32403 Pyridinolin, Desoxypyridinolin und/oder Typ I-Kollagen-Telopeptide\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32404",
+      "title": "Knochen-AP (Isoenzym der Alkalischen Phosphatase) und/oder Typ I- Prokollagen-Propeptide",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 18.86,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32404 Knochen-AP (Isoenzym der Alkalischen Phosphatase) und/oder Typ I-\nProkollagen-Propeptide\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32405",
+      "title": "Ähnliche Untersuchungen unter Angabe der Art der Untersuchung",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 20.98,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32405 Ähnliche Untersuchungen unter Angabe der Art der Untersuchung\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32406",
+      "title": "ß-Amyloid 1-40 im Liquor",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 18.86,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32406 ß-Amyloid 1-40 im Liquor\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32407",
+      "title": "ß-Amyloid 1-42 im Liquor",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 18.86,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32407 ß-Amyloid 1-42 im Liquor\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32408",
+      "title": "Gesamt-Tau im Liquor",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 18.86,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32408 Gesamt-Tau im Liquor\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32409",
+      "title": "Phospho-Tau im Liquor",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 18.86,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32409 Phospho-Tau im Liquor\nDie Berechnung der Gebührenordnungsposition 32405 setzt die\nBegründung der medizinischen Notwendigkeit der jeweiligen\nUntersuchung im Einzelfall voraus. Abweichend davon kann\ndie Begründung der medizinischen Notwendigkeit der jeweiligen\nUntersuchung im Einzelfall entfallen bei: Chromogranin A, Tryptase\nThymidinkinase, S-100, 11-Desoxycorticosteron und Parathormon-\nrelated Peptide.\nDie Gebührenordnungspositionen 32324, 32350, 32351, 32352\n32390 bis 32398, 32400 und 32420 sind nebeneinander insgesamt\nbis zu zweimal berechnungsfähig. Davon abweichend sind die\nGebührenordnungspositionen 32391 und 32398 nicht nebeneinander\nberechnungsfähig.\nDie Gebührenordnungspositionen 32365 bis 32380, 32385 bis 32398\n32400 bis 32405 und 32410 bis 32415 sind im Rahmen eines\nStimulations- oder Suppressionstestes bis zu fünfmal, im Rahmen eines\nTagesprofils bis zu dreimal berechnungsfähig.\nFür die Diagnostik der Amyloid-Pathologie zur Indikationsstellung\neiner Therapie mit Lecanemab gemäß der jeweils aktuell\ngültigen Fachinformation sind im Krankheitsfall nur die\nGebührenordnungspositionen 32407 bis 32409 berechnungsfähig.\nDie Berechnung der Gebührenordnungspositionen 32407 bis 32409\nim Zusammenhang mit der Diagnostik einer Amyloid-Beta-Pathologie\nzur Indikationsstellung einer Therapie mit Lecanemab gemäß der\njeweils aktuell gültigen Fachinformation ist durch die Angabe einer\nbundeseinheitlich kodierten Zusatzkennzeichnung zu dokumentieren.\nQuantitative Bestimmung mittels Immunoassay, gilt für die\nGebührenordnungspositionen 32410 bis 32416\nje Untersuchung\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32410",
+      "title": "Calcitonin",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 13.71,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32410 Calcitonin\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32411",
+      "title": "Intaktes Parathormon",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 13.62,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32411 Intaktes Parathormon\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32412",
+      "title": "Corticotropin (ACTH)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 13.34,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32412 Corticotropin (ACTH)\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32413",
+      "title": "25-Hydroxy-Cholecalciferol (Vitamin D)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 14.0,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32413 25-Hydroxy-Cholecalciferol (Vitamin D)\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "32414",
+      "title": "Osteocalcin",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 23.9,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "32414 Osteocalcin\nKeine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    }
+  ]
+}

@@ -1,0 +1,1204 @@
+{
+  "gops": [
+    {
+      "code": "36801",
+      "title": "Retrobulbäre und/oder parabulbäre und/oder peribulbäre Anästhesie durch den Operateur, der einen belegärztlichen Eingriff der Kategorie U, V, W oder X entsprechend Anhang 2 erbringt",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 13.38,
+        "valuation_in_points": 105
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "36801 Retrobulbäre und/oder parabulbäre und/oder peribulbäre\nAnästhesie durch den Operateur, der einen belegärztlichen Eingriff der\nKategorie U, V, W oder X entsprechend Anhang 2 erbringt\nObligater Leistungsinhalt\n- Retrobulbäre und/oder parabulbäre und/oder peribulbäre\nAnästhesie\n- Pulsoxymetrie\n- Überwachung und Dokumentation der Vitalparameter\nFakultativer Leistungsinhalt\n- Infusion(en)\n- Verabreichung von Analgetika/Sedativa\nDie Gebührenordnungsposition 36801 ist nicht neben den\nGebührenordnungspositionen 01220 bis 01222, 01500, 01501, 05350\n05360 und 36821 bis 36827 berechnungsfähig.\nDie Gebührenordnungsposition 36801 ist am Behandlungstag\nnicht neben den Gebührenordnungspositionen 02100 bis 02102\nberechnungsfähig."
+    },
+    {
+      "code": "36802",
+      "title": "Tumeszenzlokalanästhesie durch den Operateur, der einen belegärztlichen Eingriff nach den Gebührenordnungspositionen",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 206.27,
+        "valuation_in_points": 1619
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "36802 Tumeszenzlokalanästhesie durch den Operateur, der einen\nbelegärztlichen Eingriff nach den Gebührenordnungspositionen\n36096 und 36097 entsprechend Anhang 2 durchführt\nObligater Leistungsinhalt\n- Tumeszenzlokalanästhesie der Haut und des subkutanen\nFettgewebes\n- Überwachung und Dokumentation der Vitalparameter\n- Pulsoxymetrie\n- EKG-Monitoring\n- I.v.-Zugang\nFakultativer Leistungsinhalt\n- Infusion(en)\n- Verabreichung von Analgetika/Sedativa\nSofern die Gebührenordnungsposition 36802 neben den\nGebührenordnungspositionen 36826 oder 36827 berechnet wird, ist ein\nAbschlag von 955 Punkten auf die Gebührenordnungsposition 36802\nvorzunehmen. Die Prüfzeit wird entgegen der Nr. 1.7 der Allgemeinen\nBestimmungen nicht angepasst.\nDie Gebührenordnungsposition 36802 ist nicht neben den\nGebührenordnungspositionen 01220 bis 01222, 01500, 01501, 05350\n05360 und 30710 berechnungsfähig.\nDie Gebührenordnungsposition 36802 ist am Behandlungstag\nnicht neben den Gebührenordnungspositionen 02100 bis 02102\nberechnungsfähig.\n36.5.3 Anästhesien im Zusammenhang mit der Erbringung von Leistungen\ndes Abschnitts 36.2\n1. Die Berechnung von Anästhesien des Abschnitts 36.5.3 setzt voraus\ndass ein anderer Vertragsarzt in diesem Zusammenhang eine Leistung\ndes Abschnitts 36.2 erbringt und berechnet. Im Zusammenhang mit\nder Erbringung von Leistungen des Abschnitts 36.2 durch einen\nanderen Vertragsarzt können nur Anästhesien des Abschnitts 36.5.3\nkeine Anästhesien aus dem Kapitel 5 oder dem Abschnitt 31.5\nberechnet werden."
+    },
+    {
+      "code": "36820",
+      "title": "Leitungsanästhesie eines Nerven oder Ganglions an der Schädelbasis",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 18.47,
+        "valuation_in_points": 145
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "36820 Leitungsanästhesie eines Nerven oder Ganglions an der\nSchädelbasis\nObligater Leistungsinhalt\n- Leitungsanästhesie eines Nerven oder Ganglions an der\nSchädelbasis\n- Erfolgsnachweis durch fehlende Reaktion des Nervs oder Ganglions\n- Dokumentation mit Angabe des Nervs oder Ganglions\nFakultativer Leistungsinhalt\n- Retrobulbäre und/oder parabulbäre und/oder peribulbäre Anästhesie\nDie Gebührenordnungsposition 36820 ist bei der Leitungsanästhesie der\nnervi occipitales oder auriculares nicht berechnungsfähig.\nDie Gebührenordnungsposition 36820 ist nicht neben den\nGebührenordnungspositionen 01220 bis 01222, 01440, 01500, 01501\n01856, 01913, 02100 bis 02102, 02300 bis 02302, 02342, 05320, 05330\n05331, 05340, 05341, 05350, 05360, 30708 und 36821 bis 36829\nberechnungsfähig."
+    },
+    {
+      "code": "36821",
+      "title": "Anästhesie und/oder Narkose, im Rahmen der Durchführung von Leistungen entsprechend einer der Gebührenordnungspositionen",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 73.26,
+        "valuation_in_points": 575
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "36821 Anästhesie und/oder Narkose, im Rahmen der Durchführung\nvon Leistungen entsprechend einer der Gebührenordnungspositionen\n36101, 36111, 36121, 36131, 36141, 36151, 36161, 36171, 36191\n36201, 36211, 36221, 36231, 36241, 36251, 36261, 36271, 36281\n36291, 36301, 36311, 36321, 36331, 36341, 36371 bis 36373\neinschließlich der prä- und postanästhesiologischen Rüstzeiten, mittels\neines oder mehrerer der nachfolgend genannten Verfahren:\n- Plexusanästhesie\nund/oder\n- Spinal- und/oder Periduralanästhesie\nund/oder\n- Intravenöse regionale Anästhesie einer Extremität\nund/oder\n- Narkose mit Maske, Larynxmaske und/oder endotracheale Intubation\neinschließlich Kapnometrie\nObligater Leistungsinhalt\n- Anästhesien oder Narkose\nFakultativer Leistungsinhalt\n- Anästhesien nach der Nr. 05320\n- Kontrolle der Katheterlage durch Injektion eines Lokalanästhetikums\n- Legen einer Blutleere\n- Infusion(en) (Nr. 02100)\n- Magenverweilsondeneinführung (Nr. 02320)\n- Anlage suprapubischer Harnblasenkatheter (Nr. 02321)\n- Wechsel/Entfernung suprapubischer Harnblasenkatheter (Nr.\n02322)\n- Wechsel/Legen transurethraler Dauerkatheter (Nr. 02323)\n- arterielle Blutentnahme (Nr. 02330)\n- Multigasmessung\n- Gesteuerte Blutdrucksenkung\n- Dokumentierte Überwachung bis zur Stabilisierung der\nVitalfunktionen\nDie Berechnung der Gebührenordnungsposition 36821 für\ndie Anästhesie und/oder Narkose im Rahmen der\nDurchführung einer intravitrealen Medikamenteneingabe gemäß den\nGebührenordnungspositionen 36371 bis 36373 setzt eine ausführliche\nBegründung der medizinischen Notwendigkeit im Einzelfall voraus.\nDie Gebührenordnungsposition 36821 ist nicht neben den\nGebührenordnungspositionen 01220 bis 01222, 01440, 01500, 01501\n01856, 01913, 02100 bis 02102, 02300 bis 02302, 02320 bis 02323\n02330, 02331, 02340 bis 02344, 05320, 05330, 05331, 05340, 05341\n05350, 05360, 30708, 36801, 36820, 36822 bis 36827, 36840 und 36841\nberechnungsfähig."
+    },
+    {
+      "code": "36822",
+      "title": "Anästhesie und/oder Narkose, im Rahmen der Durchführung von Leistungen entsprechend den Gebührenordnungspositionen 36102",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 102.82,
+        "valuation_in_points": 807
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "36822 Anästhesie und/oder Narkose, im Rahmen der Durchführung von\nLeistungen entsprechend den Gebührenordnungspositionen 36102\n36112, 36122, 36132, 36142, 36152, 36162, 36172, 36192, 36202\n36212, 36222, 36232, 36242, 36252, 36262, 36272, 36282, 36292\n36302, 36312, 36319, 36322, 36332 oder 36342 einschließlich der prä-\nund postanästhesiologischen Rüstzeiten, mittels eines oder mehrerer der\nnachfolgend genannten Verfahren:\n- Plexusanästhesie\nund/oder\n- Spinal- und/oder Periduralanästhesie\nund/oder\n- Intravenöse regionale Anästhesie einer Extremität\nund/oder\n- Narkose mit Maske, Larynxmaske und/oder endotracheale Intubation\neinschließlich Kapnometrie\nObligater Leistungsinhalt\n- Anästhesien oder Narkose\nFakultativer Leistungsinhalt\n- Anästhesien nach der Nr. 05320\n- Kontrolle der Katheterlage durch Injektion eines Lokalanästhetikums\n- Legen einer Blutleere\n- Infusion(en) (Nr. 02100)\n- Magenverweilsondeneinführung (Nr. 02320)\n- Anlage suprapubischer Harnblasenkatheter (Nr. 02321)\n- Wechsel/Entfernung suprapubischer Harnblasenkatheter (Nr.\n02322)\n- Wechsel/Legen transurethraler Dauerkatheter (Nr. 02323)\n- arterielle Blutentnahme (Nr. 02330)\n- Multigasmessung\n- Gesteuerte Blutdrucksenkung\n- Dokumentierte Überwachung bis zur Stabilisierung der\nVitalfunktionen\nDie Gebührenordnungsposition 36822 ist nicht neben den\nGebührenordnungspositionen 01220 bis 01222, 01440, 01500, 01501\n01856, 01913, 02100 bis 02102, 02300 bis 02302, 02320 bis 02323\n02330, 02331, 02340 bis 02344, 05320, 05330, 05331, 05340, 05341\n05350, 05360, 30708, 36801, 36820, 36821, 36823 bis 36827, 36840\nund 36841 berechnungsfähig."
+    },
+    {
+      "code": "36823",
+      "title": "Anästhesie und/oder Narkose, im Rahmen der Durchführung von Leistungen entsprechend den Gebührenordnungspositionen 36103",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 133.14,
+        "valuation_in_points": 1045
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "36823 Anästhesie und/oder Narkose, im Rahmen der Durchführung von\nLeistungen entsprechend den Gebührenordnungspositionen 36103\n36113, 36123, 36133, 36143, 36153, 36163, 36173, 36193, 36203\n36213, 36223, 36233, 36243, 36253, 36263, 36273, 36283, 36289\n36293, 36303, 36313, 36323, 36333 oder 36343, einschließlich der prä-\nund postanästhesiologischen Rüstzeiten, mittels eines oder mehrerer der\nnachfolgend genannten Verfahren:\n- Plexusanästhesie\nund/oder\n- Spinal- und/oder Periduralanästhesie\nund/oder\n- Intravenöse regionale Anästhesie einer Extremität\nund/oder\n- Narkose mit Maske, Larynxmaske und/oder endotracheale Intubation\neinschließlich Kapnometrie\nObligater Leistungsinhalt\n- Anästhesien oder Narkose\nFakultativer Leistungsinhalt\n- Anästhesien nach der Nr. 05320\n- Kontrolle der Katheterlage durch Injektion eines Lokalanästhetikums\n- Legen einer Blutleere\n- Infusion(en) (Nr. 02100)\n- Magenverweilsondeneinführung (Nr. 02320)\n- Anlage suprapubischer Harnblasenkatheter (Nr. 02321)\n- Wechsel/Entfernung suprapubischer Harnblasenkatheter (Nr.\n02322)\n- Wechsel/Legen transurethraler Dauerkatheter (Nr. 02323)\n- arterielle Blutentnahme (Nr. 02330)\n- Multigasmessung\n- Gesteuerte Blutdrucksenkung\n- Dokumentierte Überwachung bis zur Stabilisierung der\nVitalfunktionen\nDie Gebührenordnungsposition 36823 ist nicht neben den\nGebührenordnungspositionen 01220 bis 01222, 01440, 01500, 01501\n01856, 01913, 02100 bis 02102, 02300 bis 02302, 02320 bis 02323\n02330, 02331, 02340 bis 02344, 05320, 05330, 05331, 05340, 05341\n05350, 05360, 30708, 36801, 36820 bis 36822, 36824 bis 36827, 36840\nund 36841 berechnungsfähig."
+    },
+    {
+      "code": "36824",
+      "title": "Anästhesie und/oder Narkose, im Rahmen der Durchführung von Leistungen entsprechend den Gebührenordnungspositionen 36104",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 163.08,
+        "valuation_in_points": 1280
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "36824 Anästhesie und/oder Narkose, im Rahmen der Durchführung von\nLeistungen entsprechend den Gebührenordnungspositionen 36104\n36114, 36124, 36134, 36144, 36154, 36164, 36174, 36194, 36204\n36214, 36224, 36234, 36244, 36254, 36264, 36274, 36284, 36294\n36304, 36314, 36324, 36334 oder 36344, einschließlich der prä- und\npostanästhesiologischen Rüstzeiten, mittels eines oder mehrerer der\nnachfolgend genannten Verfahren:\n- Plexusanästhesie\nund/oder\n- Spinal- und/oder Periduralanästhesie\nund/oder\n- Intravenöse regionale Anästhesie einer Extremität\nund/oder\n- Narkose mit Maske, Larynxmaske und/oder endotracheale Intubation\neinschließlich Kapnometrie\nObligater Leistungsinhalt\n- Anästhesien oder Narkose\nFakultativer Leistungsinhalt\n- Anästhesien nach der Nr. 05320\n- Kontrolle der Katheterlage durch Injektion eines Lokalanästhetikums\n- Legen einer Blutleere\n- Infusion(en) (Nr. 02100)\n- Magenverweilsondeneinführung (Nr. 02320)\n- Anlage suprapubischer Harnblasenkatheter (Nr. 02321)\n- Wechsel/Entfernung suprapubischer Harnblasenkatheter (Nr.\n02322)\n- Wechsel/Legen transurethraler Dauerkatheter (Nr. 02323)\n- arterielle Blutentnahme (Nr. 02330)\n- Multigasmessung\n- Gesteuerte Blutdrucksenkung\n- Dokumentierte Überwachung bis zur Stabilisierung der\nVitalfunktionen\nDie Gebührenordnungsposition 36824 ist nicht neben den\nGebührenordnungspositionen 01220 bis 01222, 01440, 01500, 01501\n01856, 01913, 02100 bis 02102, 02300 bis 02302, 02320 bis 02323\n02330, 02331, 02340 bis 02344, 05320, 05330, 05331, 05340, 05341\n05350, 05360, 30708, 36801, 36820 bis 36823, 36825 bis 36827, 36840\nund 36841 berechnungsfähig."
+    },
+    {
+      "code": "36825",
+      "title": "Anästhesie und/oder Narkose, im Rahmen der Durchführung von Leistungen entsprechend den Gebührenordnungspositionen 36105",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 223.08,
+        "valuation_in_points": 1751
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "36825 Anästhesie und/oder Narkose, im Rahmen der Durchführung von\nLeistungen entsprechend den Gebührenordnungspositionen 36105\n36115, 36125, 36135, 36145, 36155, 36165, 36175, 36195, 36205\n36215, 36225, 36235, 36245, 36255, 36265, 36275, 36285, 36295\n36305, 36315, 36325, 36335 oder 36345, einschließlich der prä- und\npostanästhesiologischen Rüstzeiten, mittels eines oder mehrerer der\nnachfolgend genannten Verfahren:\n- Plexusanästhesie\nund/oder\n- Spinal- und/oder Periduralanästhesie\nund/oder\n- Intravenöse regionale Anästhesie einer Extremität\nund/oder\n- Narkose mit Maske, Larynxmaske und/oder endotracheale Intubation\neinschließlich Kapnometrie\nObligater Leistungsinhalt\n- Anästhesien oder Narkose\nFakultativer Leistungsinhalt\n- Anästhesien nach der Nr. 05320\n- Kontrolle der Katheterlage durch Injektion eines Lokalanästhetikums\n- Legen einer Blutleere\n- Infusion(en) (Nr. 02100)\n- Magenverweilsondeneinführung (Nr. 02320)\n- Anlage suprapubischer Harnblasenkatheter (Nr. 02321)\n- Wechsel/Entfernung suprapubischer Harnblasenkatheter (Nr.\n02322)\n- Wechsel/Legen transurethraler Dauerkatheter (Nr. 02323)\n- arterielle Blutentnahme (Nr. 02330)\n- Multigasmessung\n- Gesteuerte Blutdrucksenkung\n- Dokumentierte Überwachung bis zur Stabilisierung der\nVitalfunktionen\nDie Gebührenordnungsposition 36825 ist nicht neben den\nGebührenordnungspositionen 01220 bis 01222, 01440, 01500, 01501\n01856, 01913, 02100 bis 02102, 02300 bis 02302, 02320 bis 02323\n02330, 02331, 02340 bis 02344, 05320, 05330, 05331, 05340, 05341\n05350, 05360, 30708, 36801, 36820 bis 36824, 36826, 36827, 36840\nund 36841 berechnungsfähig."
+    },
+    {
+      "code": "36826",
+      "title": "Anästhesie und/oder Narkose, im Rahmen der Durchführung von Leistungen entsprechend den Gebührenordnungspositionen 36096",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 270.86,
+        "valuation_in_points": 2126
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "36826 Anästhesie und/oder Narkose, im Rahmen der Durchführung von\nLeistungen entsprechend den Gebührenordnungspositionen 36096\n36106, 36116, 36126, 36136, 36146, 36156, 36166, 36176, 36196\n36206, 36216, 36226, 36236, 36246, 36256, 36266, 36276, 36286\n36296, 36306, 36316, 36326, 36336 oder 36346 einschließlich der prä-\nund postanästhesiologischen Rüstzeiten, mittels eines oder mehrerer der\nnachfolgend genannten Verfahren:\n- Plexusanästhesie\nund/oder\n- Spinal- und/oder Periduralanästhesie\nund/oder\n- Intravenöse regionale Anästhesie einer Extremität\nund/oder\n- Narkose mit Maske, Larynxmaske und/oder endotracheale Intubation\neinschließlich Kapnometrie\nObligater Leistungsinhalt\n- Anästhesien oder Narkose\nFakultativer Leistungsinhalt\n- Anästhesien nach der Nr. 05320\n- Kontrolle der Katheterlage durch Injektion eines Lokalanästhetikums\n- Legen einer Blutleere\n- Infusion(en) (Nr. 02100)\n- Magenverweilsondeneinführung (Nr. 02320)\n- Anlage suprapubischer Harnblasenkatheter (Nr. 02321)\n- Wechsel/Entfernung suprapubischer Harnblasenkatheter (Nr.\n02322)\n- Wechsel/Legen transurethraler Dauerkatheter (Nr. 02323)\n- arterielle Blutentnahme (Nr. 02330)\n- Multigasmessung\n- Gesteuerte Blutdrucksenkung\n- Dokumentierte Überwachung bis zur Stabilisierung der\nVitalfunktionen\nDie Gebührenordnungsposition 36826 ist nicht neben den\nGebührenordnungspositionen 01220 bis 01222, 01440, 01500, 01501\n01856, 01913, 02100 bis 02102, 02300 bis 02302, 02320 bis 02323\n02330, 02331, 02340 bis 02344, 05320, 05330, 05331, 05340, 05341\n05350, 05360, 30708, 36801, 36820 bis 36825, 36827, 36840 und 36841\nberechnungsfähig."
+    },
+    {
+      "code": "36827",
+      "title": "Anästhesie und/oder Narkose, im Rahmen der Durchführung von Leistungen entsprechend den Gebührenordnungspositionen 36097",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 283.09,
+        "valuation_in_points": 2222
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "36827 Anästhesie und/oder Narkose, im Rahmen der Durchführung von\nLeistungen entsprechend den Gebührenordnungspositionen 36097\n36107, 36117, 36127, 36137, 36147, 36157, 36167, 36177, 36197\n36207, 36217, 36227, 36237, 36247, 36257, 36267, 36277, 36287\n36297, 36307, 36317, 36327, 36337 oder 36347, einschließlich der prä-\nund postanästhesiologischen Rüstzeiten, mittels eines oder mehrerer der\nnachfolgend genannten Verfahren:\n- Plexusanästhesie\nund/oder\n- Spinal- und/oder Periduralanästhesie\nund/oder\n- Intravenöse regionale Anästhesie einer Extremität\nund/oder\n- Narkose mit Maske, Larynxmaske und/oder endotracheale Intubation\neinschließlich Kapnometrie\nObligater Leistungsinhalt\n- Anästhesien oder Narkose\nFakultativer Leistungsinhalt\n- Anästhesien nach der Nr. 05320\n- Kontrolle der Katheterlage durch Injektion eines Lokalanästhetikums\n- Legen einer Blutleere\n- Infusion(en) (Nr. 02100)\n- Magenverweilsondeneinführung (Nr. 02320)\n- Anlage suprapubischer Harnblasenkatheter (Nr. 02321)\n- Wechsel/Entfernung suprapubischer Harnblasenkatheter (Nr.\n02322)\n- Wechsel/Legen transurethraler Dauerkatheter (Nr. 02323)\n- arterielle Blutentnahme (Nr. 02330)\n- Multigasmessung\n- Gesteuerte Blutdrucksenkung\n- Dokumentierte Überwachung bis zur Stabilisierung der\nVitalfunktionen\nDie Gebührenordnungsposition 36827 ist nicht neben den\nGebührenordnungspositionen 01220 bis 01222, 01440, 01500, 01501\n01856, 01913, 02100 bis 02102, 02300 bis 02302, 02320 bis 02323\n02330, 02331, 02340 bis 02344, 05320, 05330, 05331, 05340, 05341\n05350, 05360, 30708, 36801, 36820 bis 36826, 36840 und 36841\nberechnungsfähig."
+    },
+    {
+      "code": "36828",
+      "title": "Zuschlag zu den Gebührenordnungspositionen 36821 bis 36826 bei Simultaneingriffen sowie zu der Gebührenordnungsposition 36827 bei Fortsetzung einer Anästhesie und/oder Narkose für jeweils vollendete 15 Minuten Schnitt-Naht-Zeit",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 29.94,
+        "valuation_in_points": 235
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "36828 Zuschlag zu den Gebührenordnungspositionen 36821 bis 36826 bei\nSimultaneingriffen sowie zu der Gebührenordnungsposition 36827 bei\nFortsetzung einer Anästhesie und/oder Narkose für jeweils vollendete\n15 Minuten Schnitt-Naht-Zeit\nObligater Leistungsinhalt\n- Fortsetzung der Narkose für jeweils vollendete 15 Minuten Schnitt-\nNaht-Zeit\n- Nachweis der Schnitt-Naht-Zeit durch das OP- und/oder\nNarkoseprotokoll\nje weitere vollendete 15 Minuten Schnitt-Naht-Zeit\nDie Gebührenordnungsposition 36828 ist nicht neben den\nGebührenordnungspositionen 01220 bis 01222, 01440, 01500, 01501\n01856, 01913, 02100 bis 02102, 02300 bis 02302, 02320 bis 02323\n02330, 02331, 02340 bis 02344, 05320, 05330, 05331, 05340, 05341\n05350, 05360, 30708, 36820, 36840 und 36841 berechnungsfähig."
+    },
+    {
+      "code": "36829",
+      "title": "Zuschlag zur Gebührenordnungsposition 36823 bei Fortsetzung einer Anästhesie und/oder Narkose für jeweils vollendete 15 Minuten Schnitt-Naht-Zeit bei Verlängerung eines Eingriffs nach der Gebührenordnungsposition 36289 entsprechend dem Zuschlag nach der Gebührenordnungsposition 36290",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 29.94,
+        "valuation_in_points": 235
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "36829 Zuschlag zur Gebührenordnungsposition 36823 bei Fortsetzung\neiner Anästhesie und/oder Narkose für jeweils vollendete 15\nMinuten Schnitt-Naht-Zeit bei Verlängerung eines Eingriffs nach der\nGebührenordnungsposition 36289 entsprechend dem Zuschlag nach der\nGebührenordnungsposition 36290\nObligater Leistungsinhalt\n- Fortsetzung der Narkose für jeweils 15 Minuten Schnitt-Naht-Zeit\n- Nachweis der Schnitt-Naht-Zeit durch das OP- und/oder\nNarkoseprotokoll\nje weitere vollendete 15 Minuten Schnitt-Naht-Zeit\nDie Gebührenordnungsposition 36829 ist nicht neben den\nGebührenordnungspositionen 01220 bis 01222, 01440, 01500, 01501\n01856, 01913, 02100 bis 02102, 02300 bis 02302, 02320 bis 02323\n02330, 02331, 02340 bis 02344, 05320, 05330, 05331, 05340, 05341\n05350, 05360, 30708 und 36820 berechnungsfähig."
+    },
+    {
+      "code": "36840",
+      "title": "Patientenadaptiertes Narkosemanagement im Zusammenhang mit einem operativen Eingriff nach der Gebührenordnungsposition 36350",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 36.95,
+        "valuation_in_points": 290
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "36840 Patientenadaptiertes Narkosemanagement im Zusammenhang mit\neinem operativen Eingriff nach der Gebührenordnungsposition 36350\nObligater Leistungsinhalt\n- Präanäasthesiologische Untersuchung (Nr. 05310)\n- Einleitung und Unterhaltung einer Analgesie und/oder Sedierung\neinschließlich der Verabreichung von Analgetika und/oder Sedativa\nund/oder\n- Narkose als Kombination Analgetikum/Sedativum mit\nAtemwegsmanagement (z. B. mit Maske und/oder endotrachealer\nIntubation) einschließlich prä- und postanästhesiologischer\nRüstzeiten\nund/oder\n- Überwachung der Vitalfunktionen (Stand-By) unter ständiger\npersönlicher Anwesenheit des Arztes\n- Pulsoxymetrie\n- Kontinuierliches EKG-Monitoring\n- Intravenöser Zugang\nFakultativer Leistungsinhalt\n- Infusion(en) (Nr. 02100)\n- Legen einer Magenverweilsonde (Nr. 02320)\n- Anlage eines suprapubischen Harnblasenkatheters (Nr. 02321)\n- Wechsel/Entfernung eines suprapubischen Harnblasenkatheters (Nr.\n02322)\n- Wechsel/Legen eines transurethralen Dauerkatheters (Nr. 02323)\n- Arterielle Blutentnahme(n) (Nr. 02330)\n- Multigasmessung(en)\n- Blutdrucksteuerung\n- Dokumentierte Überwachung bis zur Stabilisierung der\nVitalfunktionen\nAbweichend von Nr. 5 der Präambel 36.5.1\nkann die Gebührenordnungsposition 36840 neben der\nGebührenordnungsposition 36801 oder 36820 berechnet werden.\nDie Gebührenordnungsposition 36840 ist nicht neben den\nGebührenordnungspositionen 01220 bis 01222, 01440, 01500, 01501\n01856, 01857, 01913, 02100 bis 02102, 02300 bis 02302, 02320 bis\n02323, 02330, 02331, 02340 bis 02344, 05320, 05330, 05331, 05340\n05341, 05350, 05360, 05361, 05370, 05371, 30708, 30710, 30712\n30720 bis 30724, 30730, 30731, 30740, 30751, 30760, 31540, 36800\n36821 bis 36828 und 36841 berechnungsfähig.\nDie Gebührenordnungsposition 36840 ist im Behandlungsfall nicht neben\nder Gebührenordnungsposition 05310 berechnungsfähig."
+    },
+    {
+      "code": "36841",
+      "title": "Patientenadaptiertes Narkosemanagement im Zusammenhang mit einem operativen Eingriff nach der Gebührenordnungsposition 36351",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 60.9,
+        "valuation_in_points": 478
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "36841 Patientenadaptiertes Narkosemanagement im Zusammenhang mit\neinem operativen Eingriff nach der Gebührenordnungsposition 36351\nObligater Leistungsinhalt\n- Präanästhesiologische Untersuchung (Nr. 05310)\n- Einleitung und Unterhaltung einer Analgesie und/oder Sedierung\neinschließlich der Verabreichung von Analgetika und/oder Sedativa\nund/oder\n- Narkose als Kombination Analgetikum/Sedativum mit\nAtemwegsmanagement (z. B. mit Maske und/oder endotrachealer\nIntubation) einschließlich prä- und postanästhesiologischer\nRüstzeiten\nund/oder\n- Überwachung der Vitalfunktionen (Stand-By) unter ständiger\npersönlicher Anwesenheit des Arztes\n- Pulsoxymetrie\n- Kontinuierliches EKG-Monitoring\n- Intravenöser Zugang\nFakultativer Leistungsinhalt\n- Infusion(en) (Nr. 02100)\n- Legen einer Magenverweilsonde (Nr. 02320)\n- Anlage eines suprapubischen Harnblasenkatheters (Nr. 02321)\n- Wechsel/Entfernung eines suprapubischen Harnblasenkatheters (Nr.\n02322)\n- Wechsel/Legen eines transurethralen Dauerkatheters (Nr.02323)\n- Arterielle Blutentnahme(n) (Nr.02330)\n- Multigasmessung(en)\n- Blutdrucksteuerung\n- Dokumentierte Überwachung bis zur Stabilisierung der\nVitalfunktionen\nAbweichend von Nr. 5 der Präambel 36.5.1\nkann die Gebührenordnungsposition 36841 neben der\nGebührenordnungsposition 36801 oder 36820 berechnet werden.\nDie Gebührenordnungsposition 36841 ist nicht neben den\nGebührenordnungspositionen 01220 bis 01222, 01440, 01500, 01501\n01856, 01857, 01913, 02100 bis 02102, 02300 bis 02302, 02320 bis\n02323, 02330, 02331, 02340 bis 02344, 05320, 05330, 05331, 05340\n05341, 05350, 05360, 05361, 05370, 05371, 30708, 30710, 30712\n30720 bis 30724, 30730, 30731, 30740, 30751, 30760, 31540, 36800\n36821 bis 36828 und 36840 berechnungsfähig.\nDie Gebührenordnungsposition 36841 ist im Behandlungsfall nicht neben\nder Gebührenordnungsposition 05310 berechnungsfähig.\n36.6 Belegärztlich konservativer Bereich\n36.6.1 Präambel\n1. Voraussetzung für die Berechnung der Gebührenordnungspositionen\ndes Abschnitts 36.6 ist, dass die notwendigen sachlichen und\npersonellen Bedingungen erfüllt sind und der Vertragsarzt von der\nzuständigen Kassenärztlichen Vereinigung im Einvernehmen mit\nden Landesverbänden der Regionalkassen und den Verbänden der\nErsatzkassen eine Anerkennung als Belegarzt erhalten hat.\n2. Sind mehrere Ärzte an der Erbringung einer Leistung des Abschnitts\n36.6 beteiligt, hat der die Gebührenordnungspositionen dieses\nAbschnittes abrechnende Arzt in einer der Quartalsabrechnung\nbeizufügenden und von ihm unterzeichneten Erklärung zu bestätigen\ndass er mit den anderen Ärzten eine Vereinbarung darüber\ngetroffen hat, wonach nur er allein in den jeweiligen Fällen diese\nGebührenordnungspositionen berechnet.\n3. Die Gebührenordnungspositionen 13300, 13545, 13650\n13652 und 13678 sind im belegärztlichen Behandlungsfall\nnicht berechnungsfähig. Entgegen 2.1.3 der Allgemeinen\nBestimmungen sind stattdessen die in den obligaten bzw.\nfakultativen Leistungsinhalten genannten Teilleistungen jeweils\ngesondert, ggf. mehrfach berechnungsfähig. Entgegen der\nBeschränkung der Erbringung von Leistungen entsprechend\nden Gebührenordnungspositionen des Abschnitts 13.2.2.3 auf\nDefinitionsaufträge sind die Gebührenordnungspositionen 13251\nbis 13255 und 13257 im kurativ-stationären (belegärztlichen)\nBehandlungsfall für die unter 36.6.3 Nr. 1 und 2 genannten\nVertragsärzte auch ohne Definitionsauftrag bis zu zweimal im\nBehandlungsfall berechnungsfähig. Regionale Regelungen bleiben\nhiervon unberührt.\n4. Während eines stationären Aufenthaltes kann bei\nVorliegen der entsprechenden Voraussetzungen entweder die\nGebührenordnungsposition 36861 je Behandlungstag (max. 10 mal)\noder die Gebührenordnungsposition 36867 berechnet werden. Die\nBerechnung beider Gebührenordnungspositionen während eines\nstationären Aufenthaltes ist nicht möglich.\n36.6.2 Konservativ-belegärztliche Strukturpauschalen"
+    },
+    {
+      "code": "36861",
+      "title": "Strukturpauschale bei der Behandlung eines Patienten entsprechend der Bestimmungen der Präambel 36.1 Nr. 2 bei einer Verweildauer von",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 10.57,
+        "valuation_in_points": 83
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "der Bestimmungen der Präambel 36.1 Nr. 2 bei einer Verweildauer von bis zu 13 Tagen, je Behandlungstag, höchstens 10 mal während eines stationären Aufenthaltes"
+    },
+    {
+      "code": "36867",
+      "title": "Strukturpauschale bei der Behandlung eines Patienten entsprechend der Bestimmungen der Präambel 36.1 Nr. 2 bei einer Verweildauer von mehr als 13 Tagen",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 138.36,
+        "valuation_in_points": 1086
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "der Bestimmungen der Präambel 36.1 Nr. 2 bei einer Verweildauer von mehr als 13 Tagen, einmal je stationärem Aufenthalt"
+    },
+    {
+      "code": "36884",
+      "title": "Bestimmung des Säurebasenhaushalts und Blutgasanalyse",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 7.64,
+        "valuation_in_points": 60
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "36884 Bestimmung des Säurebasenhaushalts und Blutgasanalyse\nObligater Leistungsinhalt\n- Bestimmung des Säurebasenhaushalts und des Gasdrucks im Blut\n(Blutgasanalyse)\n- in Ruhe\nund/oder\n- unter definierter und reproduzierbarer Belastung\nund/oder\n- unter Sauerstoffinsufflation\nDie Gebührenordnungsposition 36884 ist nicht neben den\nGebührenordnungspositionen 01500, 01501, 01857, 04536, 05350\n05372, 13256, 32247, 36881 und 37705 berechnungsfähig.\nDie Gebührenordnungsposition 36884 ist im Behandlungsfall nicht neben\nden Gebührenordnungspositionen 04536, 04560 bis 04562, 04564 bis\n04566, 04572, 04573, 04580, 13210 bis 13212, 13350, 13600 bis 13602\n13610 bis 13612, 13620 bis 13622, 13652, 13661 und 13678 und\nnicht neben den Gebührenordnungspositionen des Abschnitts 13.2.2\nberechnungsfähig.\n37 Versorgung gemäß Anlage 27 und 30 zum\nBMV-Ä, der Vereinbarung nach § 132g Abs. 3\nSGB V, der KSVPsych-RL, der KJ-KSVPsych-\nRL, der AKI-RL und der LongCOV-RL\n37.2 Kooperations- und Koordinationsleistungen gemäß Anlage 27 zum\nBMV-Ä\n1. Die Gebührenordnungspositionen 37100, 37102, 37113 und 37120\nkönnen nur von\n- Fachärzten für Allgemeinmedizin\n- Fachärzten für Innere und Allgemeinmedizin\n- Praktischen Ärzten\n- Ärzten ohne Gebietsbezeichnung\n- Fachärzten für Innere Medizin ohne Schwerpunktbezeichnung\ndie gegenüber dem Zulassungsausschuss ihre Teilnahme an der\nhausärztlichen Versorgung gemäß § 73 Abs. 1a SGB V erklärt\nhaben\n- Fachärzten für Kinder- und Jugendmedizin\n- Fachärzten für Augenheilkunde\n- Fachärzten für Chirurgie\n- Fachärzten für Frauenheilkunde und Geburtshilfe\n- Fachärzten für Hals-Nasen-Ohrenheilkunde\n- Fachärzten für Haut- und Geschlechtskrankheiten\n- Fachärzten für Innere Medizin mit und ohne Schwerpunkt, die\ngegenüber dem Zulassungsausschuss ihre Teilnahme an der\nfachärztlichen Versorgung erklärt haben\n- Fachärzten für Kinder- und Jugendpsychiatrie\n- Fachärzten für Kinder- und Jugendpsychiatrie und -\npsychotherapie\n- Fachärzten für Mund-, Kiefer- und Gesichtschirurgie\n- Fachärzten für Neurologie\n- Fachärzten für Nervenheilkunde\n- Fachärzten für Neurologie und Psychiatrie\n- Fachärzten für Neurochirurgie\n- Fachärzten für Orthopädie\n- Fachärzten für Orthopädie und Unfallchirurgie\n- Fachärzten für Psychiatrie und Psychotherapie\n- Fachärzten für Urologie\n- Fachärzten für Physikalische und Rehabilitative Medizin\n- Vertragsärzten mit Genehmigung der Kassenärztlichen\nVereinigung gemäß der Qualitätssicherungsvereinbarung\nSchmerztherapie\nberechnet werden, die im Zusammenhang mit der Betreuung\nvon Patienten in stationären Pflegeeinrichtungen eine Kooperation\ngemäß einem Kooperationsvertrag nach § 119b SGB V, der\ndie Anforderungen der Anlage 27 zum Bundesmantelvertrag-\nÄrzte (BMV-Ä) erfüllt, gegenüber der Kassenärztlichen Vereinigung\nnachweisen.\n2. Die Gebührenordnungsposition 37105 kann nur von\n- Fachärzten für Allgemeinmedizin\n- Fachärzten für Innere und Allgemeinmedizin\n- Praktischen Ärzten\n- Ärzten ohne Gebietsbezeichnung\n- Fachärzten für Innere Medizin ohne Schwerpunktbezeichnung\ndie gegenüber dem Zulassungsausschuss ihre Teilnahme an der\nhausärztlichen Versorgung gemäß § 73 Abs. 1a SGB V erklärt\nhaben\n- Fachärzten für Kinder- und Jugendmedizin\n- Fachärzten für Neurologie\n- Fachärzten für Nervenheilkunde\n- Fachärzten für Neurologie und Psychiatrie\n- Fachärzten für Psychiatrie und Psychotherapie\nberechnet werden, die im Zusammenhang mit der Betreuung\nvon Patienten in stationären Pflegeeinrichtungen eine Kooperation\ngemäß einem Kooperationsvertrag nach § 119b SGB V, der\ndie Anforderungen der Anlage 27 zum Bundesmantelvertrag-\nÄrzte (BMV-Ä) erfüllt, gegenüber der Kassenärztlichen Vereinigung\nnachweisen.\n3. Die Gebührenordnungspositionen dieses Abschnittes können von\nÄrzten gemäß Bestimmung Nr. 1 und Nr. 2 nur bei Patienten\nberechnet werden, die in einem Pflegeheim betreut werden, mit\ndem ein Kooperationsvertrag nach § 119b SGB V besteht, der die\nAnforderungen der Anlage 27 zum BMV-Ä erfüllt."
+    },
+    {
+      "code": "37100",
+      "title": "Zuschlag zur Versichertenpauschale oder Grundpauschale für die Betreuung von Patienten gemäß Bestimmung Nr. 3 zum Abschnitt 37.2 und gemäß Anlage 27 zum BMV-Ä",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 15.93,
+        "valuation_in_points": 125
+      },
+      "mandatory_services": "- Persönlicher-Arzt-Patienten-Kontakt,\n- Betreuung eines Patienten einer stationären Pflegeeinrichtung,\n- Kooperation mit weiteren Ärzten, die an der Versorgung gemäß einem Kooperationsvertrag nach § 119b SGB V teilnehmen sowie einbezogenen Pflegefachkräften,",
+      "facultative_services": null,
+      "billing_info": "Betreuung von Patienten gemäß Bestimmung Nr. 3 zum Abschnitt 37.2 und gemäß Anlage 27 zum BMV-Ä einmal im Behandlungsfall Die Gebührenordnungsposition 37100 ist höchstens zweimal im Krankheitsfall berechnungsfähig. Die Gebührenordnungsposition 37100 ist nicht neben der Gebührenordnungsposition 37802 berechnungsfähig. Die Gebührenordnungsposition 37100 ist im Behandlungsfall nicht neben den Gebührenordnungspositionen 37102, 37105, 37302, 37305, 37306, 37320 und 37711 berechnungsfähig."
+    },
+    {
+      "code": "37102",
+      "title": "Zuschlag zu den Gebührenordnungspositionen 01410 oder 01413 für die Betreuung von Patienten gemäß Bestimmung Nr. 3 zum Abschnitt 37.2 und gemäß Anlage 27 zum BMV-Ä",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 15.93,
+        "valuation_in_points": 125
+      },
+      "mandatory_services": "- Persönlicher-Arzt-Patienten-Kontakt,\n- Betreuung eines Patienten einer stationären Pflegeeinrichtung,\n- Kooperation mit weiteren Ärzten, die an der Versorgung gemäß einem Kooperationsvertrag nach § 119b SGB V teilnehmen sowie einbezogenen Pflegefachkräften,",
+      "facultative_services": null,
+      "billing_info": "für die Betreuung von Patienten gemäß Bestimmung Nr. 3 zum Abschnitt 37.2 und gemäß Anlage 27 zum BMV-Ä einmal im Behandlungsfall Die Gebührenordnungsposition 37102 ist nicht neben der Gebührenordnungsposition 37802 berechnungsfähig. Die Gebührenordnungsposition 37102 ist im Behandlungsfall nicht neben den Gebührenordnungspositionen 37100, 37105, 37302, 37305, 37306, 37320 und 37711 berechnungsfähig."
+    },
+    {
+      "code": "37113",
+      "title": "Zuschlag zur Gebührenordnungsposition 01413 für den Besuch eines Patienten in einem Pflegeheim, mit dem ein Kooperationsvertrag nach § 119b SGB V besteht, der die Anforderungen der Anlage 27 zum BMV-Ä erfüllt",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 13.5,
+        "valuation_in_points": 106
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Besuch eines Patienten in einem Pflegeheim, mit dem ein Kooperationsvertrag nach § 119b SGB V besteht, der die Anforderungen der Anlage 27 zum BMV-Ä erfüllt Die Gebührenordnungsposition 37113 ist nicht neben der Gebührenordnungsposition 37802 berechnungsfähig. Die Gebührenordnungsposition 37113 ist im Behandlungsfall nicht neben den Gebührenordnungspositionen 37302, 37305, 37306, 37320 und 37711 berechnungsfähig."
+    },
+    {
+      "code": "37120",
+      "title": "Fallkonferenz gemäß Anlage 27 zum BMV-Ä",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 10.96,
+        "valuation_in_points": 86
+      },
+      "mandatory_services": "- Patientenorientierte Fallbesprechung mit der Pflegeeinrichtung unter Beteiligung der notwendigen ärztlichen Fachdisziplinen und/oder weiterer komplementärer Berufe sowie mit Pflegekräften des Pflegeheimes, mit dem ein Kooperationsvertrag für den Versicherten besteht",
+      "facultative_services": null,
+      "billing_info": "Die Gebührenordnungsposition 37120 ist höchstens dreimal im Krankheitsfall berechnungsfähig. Die Gebührenordnungsposition 37120 ist auch bei einer telefonischen Fallkonferenz berechnungsfähig. Die Gebührenordnungsposition 37120 ist auch bei Durchführung der Fallkonferenz als Videofallkonferenz berechnungsfähig. Für die Abrechnung gelten die Anforderungen gemäß Anlage 31b zum BMV-Ä entsprechend. Die Gebührenordnungsposition 37120 ist nicht neben den Gebührenordnungspositionen 01442, 01443, 37400, 37720, 37802 und 37804 berechnungsfähig. Die Gebührenordnungsposition 37120 ist im Behandlungsfall nicht neben den Gebührenordnungspositionen 37302, 37305, 37306, 37320 und 37711 berechnungsfähig."
+    },
+    {
+      "code": "37300",
+      "title": "Palliativmedizinische Ersterhebung des Patientenstatus inkl. Behandlungspläne gemäß § 5 Abs. 1 der Anlage 30 zum BMV-Ä",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 49.94,
+        "valuation_in_points": 392
+      },
+      "mandatory_services": "- Persönlicher-Arzt-Patienten-Kontakt,\n- Untersuchung des körperlichen und psychischen Zustandes des Patienten,\n- Ersterhebung der individuellen palliativen Bedarfe des Patienten im Rahmen eines standardisierten palliativmedizinischen Assessments in mindestens 5 Bereichen,\n- Erstellung und/oder Aktualisierung eines schriftlichen und allen Beteiligten zugänglichen\n- Therapieplanes und/oder\n- qualifizierten Schmerztherapieplanes und\n- Notfallplanes (z. B. nach „P A L M A“) in Zusammenarbeit mit beteiligten Ärzten,",
+      "facultative_services": "- Beratung und Aufklärung über die Möglichkeiten der Patientenverfügung, Vorsorgevollmacht und Betreuungsverfügung,\n- Beratung und Aufklärung des Patienten und/oder der betreuenden Person zur Ermittlung des Patientenwillens und ggf. Erfassung des Patientenwillens,\n- ggf. weitere, notwendige Verlaufserhebungen,",
+      "billing_info": "Behandlungspläne gemäß § 5 Abs. 1 der Anlage 30 zum BMV-Ä einmal im Krankheitsfall Die Gebührenordnungsposition 37300 kann nur von einem an der Behandlung beteiligten Vertragsarzt berechnet werden. Die Gebührenordnungsposition 37300 ist nicht neben den Gebührenordnungspositionen 03220, 03230, 03360, 03362, 04220, 04230, 04231, 16220, 16230, 16231, 16233, 21220, 21230, 21231 und 21233 berechnungsfähig. Die Gebührenordnungsposition 37300 ist im Krankheitsfall nicht neben den Gebührenordnungspositionen 03370 und 04370 berechnungsfähig."
+    },
+    {
+      "code": "37302",
+      "title": "Zuschlag zur Versicherten- oder Grundpauschale oder zu der Gebührenordnungsposition 25210, 25211 oder 25214 für den koordinierenden Vertragsarzt gemäß § 4 Abs. 1 Satz 1 der Anlage 30 zum BMV-Ä",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 35.04,
+        "valuation_in_points": 275
+      },
+      "mandatory_services": "- Persönlicher Arzt-Patienten-Kontakt,\n- Koordination diagnostischer, therapeutischer und pflegerischer Maßnahmen,\n- Koordination der palliativmedizinischen und -pflegerischen Versorgung durch Einbezug von und Zusammenarbeit mit anderen an der Versorgung des Patienten Beteiligten,",
+      "facultative_services": "- Palliativmedizinische Betreuung des Patienten in der Arztpraxis (z. B. Schmerztherapie, Symptomkontrolle),\n- Beratung und Aufklärung über die Möglichkeiten der Patientenverfügung, Vorsorgevollmacht und/oder Betreuungsverfügung,\n- Konsiliarische Erörterung mit einem mitbehandelnden Vertragsarzt und/oder einem Vertragsarzt mit der Zusatzbezeichnung Palliativmedizin,\n- Anleitung und Beratung der Betreuungs- und Bezugspersonen,",
+      "billing_info": "Gebührenordnungsposition 25210, 25211 oder 25214 für den koordinierenden Vertragsarzt gemäß § 4 Abs. 1 Satz 1 der Anlage 30 zum BMV-Ä einmal im Behandlungsfall Die Gebührenordnungsposition 37302 kann nur von einem an der Behandlung beteiligten Vertragsarzt berechnet werden. Die Gebührenordnungsposition 37302 ist nicht neben den Gebührenordnungspositionen 03220, 03230, 03360, 03362, 04220, 04230, 04231, 16220, 16230, 16231, 16233, 21220, 21230, 21231 und 21233 berechnungsfähig. Die Gebührenordnungsposition 37302 ist im Behandlungsfall nicht neben den Gebührenordnungspositionen 03371, 04371, 37711 und 37802 und nicht neben den Gebührenordnungspositionen des Abschnitts 37.2 berechnungsfähig."
+    },
+    {
+      "code": "37305",
+      "title": "Zuschlag zu den Gebührenordnungspositionen 01410 und 01413 für die besonders qualifizierte und koordinierte palliativmedizinische Versorgung eines Patienten gemäß Anlage 30 zum BMV-Ä in der Häuslichkeit",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 15.8,
+        "valuation_in_points": 124
+      },
+      "mandatory_services": "- Persönlicher Arzt-Patienten-Kontakt,\n- Dauer mindestens 15 Minuten,\n- Palliativmedizinische Betreuung des Patienten (z. B. Schmerztherapie, Symptomkontrolle),",
+      "facultative_services": "- Anleitung und Beratung der Betreuungs- und Bezugspersonen,",
+      "billing_info": "die besonders qualifizierte und koordinierte palliativmedizinische Versorgung eines Patienten gemäß Anlage 30 zum BMV-Ä in der Häuslichkeit je vollendete 15 Minuten Der Höchstwert für die Gebührenordnungsposition 37305 beträgt am Behandlungstag 744 Punkte. Die Gebührenordnungsposition 37305 ist nicht neben den Gebührenordnungspositionen 03220, 03230, 03360, 03362, 03371 bis 03373, 04220, 04230, 04231, 04371 bis 04373, 37306, 37314 und 37400 berechnungsfähig. Die Gebührenordnungsposition 37305 ist im Behandlungsfall nicht neben den Gebührenordnungspositionen des Abschnitts 37.2 berechnungsfähig."
+    },
+    {
+      "code": "37306",
+      "title": "Zuschlag zu den Gebührenordnungspositionen 01411, 01412 und 01415 für die besonders qualifizierte und koordinierte palliativmedizinische Versorgung eines Patienten gemäß Anlage 30 zum BMV-Ä in der Häuslichkeit",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 15.8,
+        "valuation_in_points": 124
+      },
+      "mandatory_services": "- Persönlicher Arzt-Patienten-Kontakt,\n- Palliativmedizinische Betreuung des Patienten (z. B. Schmerztherapie, Symptomkontrolle),",
+      "facultative_services": null,
+      "billing_info": "und 01415 für die besonders qualifizierte und koordinierte palliativmedizinische Versorgung eines Patienten gemäß Anlage 30 zum BMV-Ä in der Häuslichkeit je Besuch Die Gebührenordnungsposition 37306 ist für Besuche im Rahmen des organisierten Not(-fall)dienstes, für Besuche im Rahmen der Notfallversorgung durch nicht an der vertragsärztlichen Versorgung teilnehmende Ärzte, Institute und Krankenhäuser sowie für dringende Visiten auf der Belegstation nicht berechnungsfähig. Die Gebührenordnungsposition 37306 ist nicht neben den Gebührenordnungspositionen 01100 bis 01102, 01205, 01207, 01210, 01212, 01214, 01216, 01218, 03220, 03230, 03360, 03362, 03371 bis 03373, 04220, 04230, 04231, 04371 bis 04373, 37305, 37314 und 37400 berechnungsfähig. Die Gebührenordnungsposition 37306 ist im Behandlungsfall nicht neben den Gebührenordnungspositionen des Abschnitts 37.2 berechnungsfähig."
+    },
+    {
+      "code": "37314",
+      "title": "Pauschale für die konsiliarische Erörterung und Beurteilung komplexer medizinischer Fragestellungen durch einen konsiliarisch tätigen Arzt mit der Zusatzweiterbildung Palliativmedizin im Rahmen der besonders qualifizierten und koordinierten palliativmedizinischen Versorgung eines Patienten gemäß Anlage 30 zum BMV-Ä",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 13.5,
+        "valuation_in_points": 106
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "komplexer medizinischer Fragestellungen durch einen konsiliarisch tätigen Arzt mit der Zusatzweiterbildung Palliativmedizin im Rahmen der besonders qualifizierten und koordinierten palliativmedizinischen Versorgung eines Patienten gemäß Anlage 30 zum BMV-Ä, einmal im Behandlungsfall Kommt in demselben Arztfall eine Versicherten-, Grund- und/oder Konsiliarpauschale zur Abrechnung, ist die Gebührenordnungsposition 37314 nicht berechnungsfähig. Die Gebührenordnungsposition 37314 ist nicht neben den Gebührenordnungspositionen 37305 und 37306 berechnungsfähig. Die Gebührenordnungsposition 37314 ist am Behandlungstag nicht neben der Gebührenordnungsposition 37714 berechnungsfähig."
+    },
+    {
+      "code": "37317",
+      "title": "Zuschlag zur Gebührenordnungsposition 37302 für die Erreichbarkeit und Besuchsbereitschaft in kritischen Phasen",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 181.55,
+        "valuation_in_points": 1425
+      },
+      "mandatory_services": "- Vorhaltung einer telefonischen Erreichbarkeit des koordinierenden Arztes für den Patienten und/oder die Angehörigen und/oder die Pflegekräfte und/oder den ärztlichen Bereitschaftsdienst und einer Besuchsbereitschaft außerhalb der Sprechstundenzeiten, an Samstagen, Sonntagen, gesetzlichen Feiertagen und am 24.12. und 31.12. in Abstimmung zwischen dem Arzt und dem Patienten und/oder den Angehörigen und ggf. weiterer Beteiligter in kritischen Phasen, die nicht über die Maßnahmen des qualifizierten Schmerztherapie-, Therapie- und/oder Notfallplans zu beheben sind,",
+      "facultative_services": "- Koordination der palliativmedizinischen und -pflegerischen Versorgung durch Einbezug von und Zusammenarbeit mit anderen an der Versorgung des Patienten Beteiligten in kritischen Phasen,",
+      "billing_info": "Erreichbarkeit und Besuchsbereitschaft in kritischen Phasen einmal im Krankheitsfall"
+    },
+    {
+      "code": "37318",
+      "title": "Telefonische Beratung von mindestens 5 Minuten Dauer im Rahmen der besonders qualifizierten und koordinierten palliativmedizinischen Versorgung gemäß Anlage 30 zum BMV-Ä bei Inanspruchnahme zwischen 19:00 und 7:00 Uhr und ganztägig an Samstagen, Sonntagen, gesetzlichen Feiertagen und am 24.12. und 31.12.",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 27.14,
+        "valuation_in_points": 213
+      },
+      "mandatory_services": "- Telefonischer Kontakt des Arztes mit\n- dem Pflegepersonal oder\n- dem ärztlichen Bereitschaftsdienst oder\n- den Angehörigen des Patienten oder\n- dem Krankenhaus,",
+      "facultative_services": null,
+      "billing_info": "im Rahmen der besonders qualifizierten und koordinierten palliativmedizinischen Versorgung gemäß Anlage 30 zum BMV-Ä bei Inanspruchnahme zwischen 19:00 und 7:00 Uhr und ganztägig an Samstagen, Sonntagen, gesetzlichen Feiertagen und am 24.12. und 31.12. je Telefonat Die Gebührenordnungsposition 37318 ist höchstens siebenmal im Behandlungsfall berechnungsfähig. Die Gebührenordnungsposition 37318 ist entgegen der Allgemeinen Bestimmung 4.3.1 im Behandlungsfall auch neben Versicherten- und/ oder Grundpauschalen berechnungsfähig. Die Gebührenordnungsposition 37318 ist nicht neben der Gebührenordnungsposition 37400 berechnungsfähig."
+    },
+    {
+      "code": "37320",
+      "title": "Fallkonferenz gemäß Anlage 30 zum BMV-Ä",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 10.96,
+        "valuation_in_points": 86
+      },
+      "mandatory_services": "- Patientenorientierte Fallbesprechung unter Beteiligung der notwendigen ärztlichen Fachdisziplinen und/oder weiterer komplementärer Berufe sowie mit Pflegekräften bzw. Angehörigen, die an der Versorgung des Patienten beteiligt sind",
+      "facultative_services": null,
+      "billing_info": "Die Gebührenordnungsposition 37320 ist höchstens fünfmal im Krankheitsfall berechnungsfähig. Die Gebührenordnungsposition 37320 ist auch bei einer telefonischen Fallkonferenz berechnungsfähig. Die Gebührenordnungsposition 37320 ist auch bei Durchführung der Fallkonferenz als Videofallkonferenz, berechnungsfähig. Für die Abrechnung gelten die Anforderungen gemäß Anlage 31b zum BMV-Ä entsprechend. Die Gebührenordnungsposition 37320 ist nicht neben den Gebührenordnungspositionen 01442, 01443, 37400, 37720 und 37804 berechnungsfähig. Die Gebührenordnungsposition 37320 ist im Behandlungsfall nicht neben der Gebührenordnungsposition 30706 und nicht neben den Gebührenordnungspositionen des Abschnitts 37.2 berechnungsfähig."
+    },
+    {
+      "code": "37400",
+      "title": "Zusatzpauschale für die Beteiligung an der Beratung eines Patienten in Zusammenarbeit mit dem Berater gemäß der Vereinbarung nach § 132g Abs. 3 SGB V",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 12.74,
+        "valuation_in_points": 100
+      },
+      "mandatory_services": "- Teilnahme an einem vom verantwortlichen Berater durchgeführten patientenorientierten Beratungsgespräch gemäß der Vereinbarung nach § 132g Abs. 3 SGB V und/oder\n- Teilnahme an einer vom verantwortlichen Berater durchgeführten patientenorientierten Fallbesprechung gemäß der Vereinbarung nach § 132g Abs. 3 SGB V und/oder\n- Abstimmung der schriftlichen Patientenverfügung für Notfallsituationen gemäß § 9 Abs. 3 der Vereinbarung nach § 132g Abs. 3 SGB V in Zusammenarbeit mit dem verantwortlichen Berater",
+      "facultative_services": "- In mehreren Sitzungen,\n- Zusammenarbeit und Informationsaustausch gemäß § 11 Abs. 1 der Vereinbarung nach § 132g Abs. 3 SGB V mit dem verantwortlichen Berater,",
+      "billing_info": "Patienten in Zusammenarbeit mit dem Berater gemäß der Vereinbarung nach § 132g Abs. 3 SGB V einmal im Behandlungsfall Die Gebührenordnungsposition 37400 ist auch berechnungsfähig, wenn die Teilnahme am patientenorientierten Beratungsgespräch gemäß der Vereinbarung nach § 132g Abs. 3 SGB V telefonisch erfolgt. Die Gebührenordnungsposition 37400 ist auch bei Durchführung der Fallbesprechung als Videofallkonferenz berechnungsfähig. Für die Abrechnung gelten die Anforderungen gemäß Anlage 31b zum BMV-Ä entsprechend. Die Gebührenordnungsposition 37400 kann nur von einem an der Beratung beteiligten Vertragsarzt berechnet werden. Die Gebührenordnungsposition 37400 ist nicht neben den Gebührenordnungspositionen 01442, 01443, 03371 bis 03373, 04371 bis 04373, 37120, 37305, 37306, 37318, 37320, 37720 und 37804 berechnungsfähig."
+    },
+    {
+      "code": "37800",
+      "title": "Basis-Assessment gemäß § 5 Abs. 1 Nr. 1 LongCOV-RL durch den koordinierenden Vertragsarzt gemäß erster Bestimmung zum Abschnitt 37.8 EBM bei Patienten mit einer Indikation gemäß § 2 LongCOV-RL",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 20.89,
+        "valuation_in_points": 164
+      },
+      "mandatory_services": "- Persönlicher Arzt-Patienten-Kontakt,\n- Basis-Assessment mit ausführlicher, strukturierter Anamnese und ausführlicher körperlicher Untersuchung mit Erfassung des neurologischen, des funktionellen und des Ernährungsstatus,",
+      "facultative_services": null,
+      "billing_info": "den koordinierenden Vertragsarzt gemäß erster Bestimmung zum Abschnitt 37.8 EBM bei Patienten mit einer Indikation gemäß § 2 LongCOV-RL einmal im Krankheitsfall Bei Patienten mit einer Indikation gemäß § 2 Abs. 2 Nr. 1 LongCOV-RL ist die Gebührenordnungsposition 37800 nur mit Angabe der Indikation berechnungsfähig. Die Gebührenordnungsposition 37800 ist nicht neben den Gebührenordnungspositionen 01732, 03220, 03360, 03370, 04220, 04370 und 37801 berechnungsfähig."
+    },
+    {
+      "code": "37801",
+      "title": "Zuschlag zur Gebührenordnungsposition 37800",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 16.31,
+        "valuation_in_points": 128
+      },
+      "mandatory_services": "- Persönlicher Arzt-Patienten-Kontakt,",
+      "facultative_services": "- strukturierte Ersterfassung einer möglichen orthostatischen Intoleranz (OI) und/oder einer post-exertionellen Malaise (PEM) und/ oder eines posturalen orthostatischen Tachykardiesyndroms (POTS),\n- Durchführung weiterer Differentialdiagnostik,\n- Beratung zu Selbst- und Leistungsmanagement (ggf. auch in Gruppen), z. B. bei Vorliegen von PEM die Beratung zum Pacing, die Beratung zu Methoden der Krankheitsbewältigung und Stressreduktion und/oder die Beratung und Anleitung zu Methoden der therapeutisch begleiteten körperlichen Aktivierung,",
+      "billing_info": "je Sitzung Die Gebührenordnungsposition 37801 ist höchstens zweimal im Krankheitsfall berechnungsfähig. Die Gebührenordnungsposition 37801 ist nur bei Patienten berechnungsfähig, bei denen die Kriterien gemäß dritter Bestimmung zum Abschnitt 37.8 erfüllt werden. Die Gebührenordnungsposition 37801 ist nicht neben der Gebührenordnungsposition 37800 berechnungsfähig."
+    },
+    {
+      "code": "37802",
+      "title": "Zuschlag zur Versichertenpauschale oder Grundpauschale für den koordinierenden Vertragsarzt gemäß § 4 und § 5 LongCOV-RL",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 17.96,
+        "valuation_in_points": 141
+      },
+      "mandatory_services": "- Koordination der medizinischen Versorgung unter Beteiligung der notwendigen ärztlichen Fachdisziplinen und/oder weiterer komplementärer Berufe sowie mit Pflegekräften bzw. Angehörigen gemäß § 4 Abs. 2 LongCOV-RL,\n- Übernahme der Rolle der zentralen Ansprechperson im Versorgungsprozess für den Patienten,\n- Erstellung und/oder Aktualisierung und Bereitstellung eines Behandlungsplans gemäß § 4 Abs. 3 i. V. m. § 4 Abs. 2 Nr. 3 LongCOV-RL,\n- Überweisung an mindestens einen weiteren Vertragsarzt der fachärztlichen oder spezialisierten ambulanten Versorgung,",
+      "facultative_services": "- Verordnung von Heilmitteln im Zusammenhang mit einer Indikation gemäß § 2 LongCOV-RL,",
+      "billing_info": "koordinierenden Vertragsarzt gemäß § 4 und § 5 LongCOV-RL einmal im Behandlungsfall Die Berechnung der Gebührenordnungsposition 37802 setzt das Vorliegen der Ergebnisse eines Basis-Assessments entsprechend den Inhalten der Gebührenordnungsposition 37800 und das fortdauernde Vorliegen der Symptomatik gemäß § 2 Abs. 1 und 2 LongCOV-RL voraus. Die Gebührenordnungsposition 37802 ist nicht neben den Gebührenordnungspositionen 03220, 04220, 14240, 14313, 14314, 16230, 16231, 16233 und 21230 bis 21233 und nicht neben den Gebührenordnungspositionen des Abschnitts 37.2 berechnungsfähig. Die Gebührenordnungsposition 37802 ist im Behandlungsfall nicht neben den Gebührenordnungspositionen 03362, 03371, 04371 und 37302 berechnungsfähig."
+    },
+    {
+      "code": "37804",
+      "title": "Fallbesprechung im Zusammenhang mit der Versorgung von Patienten gemäß § 2 LongCOV-RL",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 10.96,
+        "valuation_in_points": 86
+      },
+      "mandatory_services": "- Patientenorientierte Fallbesprechung unter Beteiligung der notwendigen ärztlichen Fachdisziplinen und/oder weiterer komplementärer Berufe sowie mit Pflegekräften bzw. Angehörigen, die an der medizinischen Behandlungspflege des Patienten beteiligt sind",
+      "facultative_services": null,
+      "billing_info": "Patienten gemäß § 2 LongCOV-RL Die Gebührenordnungsposition 37804 ist höchstens fünfmal im Krankheitsfall berechnungsfähig. Die Gebührenordnungsposition 37804 ist auch bei einer telefonischen Fallbesprechung berechnungsfähig. Die Gebührenordnungsposition 37804 ist auch bei Durchführung der Fallbesprechung als Videofallbesprechung berechnungsfähig. Für die Abrechnung gelten die Anforderungen gemäß Anlage 31b zum BMV- Ä entsprechend. Bei Durchführung der Leistung im Rahmen einer Videosprechstunde ist dies durch Angabe einer bundeseinheitlich kodierten Zusatzkennzeichnung zu dokumentieren. Die Gebührenordnungsposition 37804 ist nicht neben den Gebührenordnungspositionen 01442, 01443, 01758, 30210, 30706, 30948, 37120, 37320, 37400 und 37720 berechnungsfähig."
+    },
+    {
+      "code": "38100",
+      "title": "Gebührenordnungsposition einschl. Wegekosten - entfernungsunabhängig - für das Aufsuchen eines Patienten durch einen vom behandelnden Arzt beauftragten angestellten Mitarbeiter der Arztpraxis zur Verrichtung medizinisch notwendiger delegierbarer Leistungen",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 9.68,
+        "valuation_in_points": 76
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "entfernungsunabhängig - für das Aufsuchen eines Patienten durch einen vom behandelnden Arzt beauftragten angestellten Mitarbeiter der Arztpraxis zur Verrichtung medizinisch notwendiger delegierbarer Leistungen, je Sitzung Die Gebührenordnungsposition 38100 kann nur berechnet werden, wenn der Patient aus medizinischen Gründen die Arztpraxis nicht aufsuchen kann. Der mit dem gesonderten Aufsuchen beauftragte Mitarbeiter darf nur Leistungen erbringen, die vom Arzt im Einzelfall angeordnet worden sind. Die Gebührenordnungspositionen dieser Leistungen sind neben der Gebührenordnungsposition 38100 berechnungsfähig. Die Gebührenordnungsposition 38100 ist im begründeten Einzelfall neben Besuchen nach den Gebührenordnungspositionen 01410 bis 01413, 01415 und 01418 berechnungsfähig. Die Gebührenordnungsposition 38100 ist nicht neben den Gebührenordnungspositionen 37535 und 37635 berechnungsfähig. Die Gebührenordnungsposition 38100 ist am Behandlungstag nicht neben den Gebührenordnungspositionen 03062, 03063 und 38105 berechnungsfähig."
+    },
+    {
+      "code": "38105",
+      "title": "Gebührenordnungsposition einschl. Wegekosten - entfernungsunabhängig - für das Aufsuchen eines weiteren Patienten derselben sozialen Gemeinschaft (auch z. B. Alten- oder Pflegeheim) in unmittelbarem zeitlichen Zusammenhang mit dem Aufsuchen eines Patienten nach der Gebührenordnungsposition 38100",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 4.97,
+        "valuation_in_points": 39
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "entfernungsunabhängig - für das Aufsuchen eines weiteren Patienten derselben sozialen Gemeinschaft (auch z. B. Alten- oder Pflegeheim) in unmittelbarem zeitlichen Zusammenhang mit dem Aufsuchen eines Patienten nach der Gebührenordnungsposition 38100, je Sitzung Die Gebührenordnungsposition 38105 kann nur berechnet werden, wenn der Patient aus medizinischen Gründen die Arztpraxis nicht aufsuchen kann. Der mit dem gesonderten Aufsuchen beauftragte Mitarbeiter darf nur Leistungen erbringen, die vom Arzt im Einzelfall angeordnet worden sind. Die Gebührenordnungspositionen dieser Leistungen sind neben der Gebührenordnungsposition 38105 berechnungsfähig. Die Gebührenordnungsposition 38105 ist im begründeten Einzelfall neben Besuchen nach den Gebührenordnungspositionen 01410 bis 01413, 01415 und 01418 berechnungsfähig. Die Gebührenordnungsposition 38105 ist nicht neben den Gebührenordnungspositionen 37535 und 37635 berechnungsfähig. Die Gebührenordnungsposition 38105 ist am Behandlungstag nicht neben den Gebührenordnungspositionen 03062, 03063 und 38100 berechnungsfähig."
+    },
+    {
+      "code": "38200",
+      "title": "Zuschlag zu der Gebührenordnungsposition 38100 für den Besuch und die Betreuung durch einen qualifizierten nichtärztlichen Praxisassistenten in Alten- oder Pflegeheimen oder anderen beschützenden Einrichtungen",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 11.47,
+        "valuation_in_points": 90
+      },
+      "mandatory_services": "- Persönlicher nichtärztlicher Praxisassistent-Patienten-Kontakt,\n- Aufsuchen eines Patienten zum Zweck der Versorgung in\n- Alten- oder Pflegeheimen und/oder\n- anderen beschützenden Einrichtungen,\n- Dokumentation gemäß Nr. 3 der Präambel 38.1,",
+      "facultative_services": "- Leistungen gemäß § 5 Abs. 1 der Anlage 8 zum BMV-Ä,\n- In Anhang 1 Spalte VP/GP aufgeführte Leistungen,",
+      "billing_info": "und die Betreuung durch einen qualifizierten nichtärztlichen Praxisassistenten in Alten- oder Pflegeheimen oder anderen beschützenden Einrichtungen je Sitzung Die Gebührenordnungsposition 38200 ist nicht neben den Gebührenordnungspositionen 38202 und 38207 berechnungsfähig."
+    },
+    {
+      "code": "38202",
+      "title": "Zuschlag zu der Gebührenordnungsposition 38100 für den Besuch und die Betreuung durch einen qualifizierten nichtärztlichen Praxisassistenten in der Häuslichkeit des Patienten",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 11.47,
+        "valuation_in_points": 90
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "38202 Zuschlag zu der Gebührenordnungsposition 38100 für den Besuch\nund die Betreuung durch einen qualifizierten nichtärztlichen\nPraxisassistenten in der Häuslichkeit des Patienten\nObligater Leistungsinhalt\n- Persönlicher nichtärztlicher Praxisassistent-Patienten-Kontakt\n- Aufsuchen eines Patienten gemäß § 3 Abs. 2 der Anlage 8 zum BMV-\nÄ zum Zweck der Versorgung in der Häuslichkeit\n- Dokumentation gemäß Nr. 3 der Präambel 38.1\nFakultativer Leistungsinhalt\n- Leistungen gemäß § 5 Abs. 1 der Anlage 8 zum BMV-Ä\n- In Anhang 1 Spalte VP/GP aufgeführte Leistungen\nje Sitzung\nDie Gebührenordnungsposition 38202 ist nicht neben den\nGebührenordnungspositionen 38200 und 38205 berechnungsfähig."
+    },
+    {
+      "code": "38205",
+      "title": "Zuschlag zu der Gebührenordnungsposition 38105 für den Besuch und die Betreuung eines weiteren Patienten durch einen qualifizierten nichtärztlichen Praxisassistenten in Alten- oder Pflegeheimen oder anderen beschützenden Einrichtungen",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 10.57,
+        "valuation_in_points": 83
+      },
+      "mandatory_services": "- Persönlicher nichtärztlicher Praxisassistent-Patienten-Kontakt,\n- Aufsuchen eines Patienten zum Zweck der Versorgung in\n- Alten- oder Pflegeheimen und/oder\n- anderen beschützenden Einrichtungen,\n- Dokumentation gemäß Nr. 3 der Präambel 38.1,",
+      "facultative_services": "- Leistungen gemäß § 5 Abs. 1 der Anlage 8 zum BMV-Ä,\n- In Anhang 1 Spalte VP/GP aufgeführte Leistungen,",
+      "billing_info": "Besuch und die Betreuung eines weiteren Patienten durch einen qualifizierten nichtärztlichen Praxisassistenten in Alten- oder Pflegeheimen oder anderen beschützenden Einrichtungen je Sitzung Die Gebührenordnungsposition 38205 ist nicht neben den Gebührenordnungspositionen 38202 und 38207 berechnungsfähig."
+    },
+    {
+      "code": "38207",
+      "title": "Zuschlag zu der Gebührenordnungsposition 38105 für den Besuch und die Betreuung eines weiteren Patienten durch einen qualifizierten nichtärztlichen Praxisassistenten in der Häuslichkeit",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 10.57,
+        "valuation_in_points": 83
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "38207 Zuschlag zu der Gebührenordnungsposition 38105 für den\nBesuch und die Betreuung eines weiteren Patienten durch einen\nqualifizierten nichtärztlichen Praxisassistenten in der Häuslichkeit\nObligater Leistungsinhalt\n- Persönlicher nichtärztlicher Praxisassistent-Patienten-Kontakt\n- Aufsuchen eines weiteren Patienten gemäß § 3 Abs. 2 der Anlage\n8 zum BMV-Ä zum Zweck der Versorgung in der Häuslichkeit / in\nderselben sozialen Gemeinschaft\n- Dokumentation gemäß Nr. 3 der Präambel 38.1\nFakultativer Leistungsinhalt\n- Leistungen gemäß § 5 Abs. 1 der Anlage 8 zum BMV-Ä\n- In Anhang 1 Spalte VP/GP aufgeführte Leistungen\nje Sitzung\nDie Gebührenordnungsposition 38207 ist nicht neben den\nGebührenordnungspositionen 38200 und 38205 berechnungsfähig.\nV Kostenpauschalen\n40 Kostenpauschalen\n40.1 Präambel\n1. Psychologische Psychotherapeuten, Fachpsychotherapeuten für\nErwachsene, Kinder- und Jugendlichenpsychotherapeuten\nFachpsychotherapeuten für Kinder und Jugendliche sowie\nFachpsychotherapeuten für Neuropsychologische Psychotherapie\nkönnen im Zusammenhang mit ihren Leistungen die\nKostenpauschalen 40110, 40111, 40128 und 40142 dieses Kapitels\nabrechnen.\n2. Neben den Gebührenordnungspositionen des Abschnitts 1.7.3.1 zur\nFrüherkennung von Brustkrebs durch Mammographie-Screening sind\nnur die Kostenpauschalen nach den Nrn. 40090, 40092, 40094, 40850\n40852, 40854 und 40855 berechnungsfähig.\n3. Im kurativ-stationären (belegärztlichen) Behandlungsfall können die\nvom Krankenhaus zu tragenden Kostenpauschalen 40165, 40300 bis\n40302 und 40304 und die Kostenpauschalen der Abschnitte 40.8\n40.10, 40.11, 40.13 bis 40.17 von Belegärzten nicht berechnet werden.\nSatz 1 gilt für die Kosten nach Nr. 7 der Allgemeinen Bestimmungen\nentsprechend.\n40.3 Kostenpauschalen der In-vitro-Diagnostik\n1. Bei überwiesenen Auftragsleistungen der In-vitro-Diagnostik\nsind die Kostenpauschalen 40089 bis 40095 nur in der\nArztpraxis berechnungsfähig, die den Untersuchungsauftrag mit\nAuftragsleistungen der In-vitro-Diagnostik erstmals erhalten hat.\nWerden einzelne oder alle Auftragsleistungen zur Durchführung\nan eine andere Arztpraxis weiterüberwiesen, sind auf dem\nÜberweisungsauftrag die Auftragsleistungen als weiterüberwiesene\nAuftragsleistungen zu kennzeichnen und die Kostenpauschalen 40089\nbis 40095 sind nicht erneut berechnungsfähig.\n2. Die Kostenpauschalen 40092 bis 40095 sind\ninnerhalb des Medizinischen Versorgungszentrums, einer\n(Teil-)Berufsausübungsgemeinschaft, zwischen Betriebsstätten\nderselben Arztpraxis, innerhalb einer Apparate- bzw.\nLaborgemeinschaft oder innerhalb eines Krankenhausgeländes nicht\nberechnungsfähig.\n3. Die Kostenpauschalen 40090, 40092 und 40094 können\nnur von Ärzten abgerechnet werden, die berechtigt sind\nGebührenordnungspositionen der Kapitel 11, 12 oder 19\nabzurechnen oder die über eine Genehmigung zur Abrechnung\nvon Gebührenordnungspositionen des Speziallabors nach der\nQualitätssicherungsvereinbarung Spezial-Labor gemäß § 135 Abs. 2\nSGB V verfügen.\n4. Die Kostenpauschale 40091 kann nur von Ärzten abgerechnet werden\ndie berechtigt sind, Gebührenordnungspositionen des Kapitels 12\nabzurechnen.\n5. Die Kostenpauschalen 40093 und 40095 können nur\nvon Ärzten abgerechnet werden, die berechtigt sind\nGebührenordnungspositionen der Kapitel 8, 12 oder 19 abzurechnen."
+    },
+    {
+      "code": "40089",
+      "title": "Zuschlag zu den Gebührenordnungspositionen 01812 und 01930 und zu den Gebührenordnungspositionen des Abschnitts 32.2 für die Kosten der Beschaffung und Bereitstellung von Entnahmematerial (Probenentnahmegefäße und/oder -systeme einschließlich Systemkanülen, Sammelgefäße, Objektträger)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 0.95,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "01930 und zu den Gebührenordnungspositionen des Abschnitts 32.2 für die Kosten der Beschaffung und Bereitstellung von Entnahmematerial (Probenentnahmegefäße und/oder -systeme einschließlich Systemkanülen, Sammelgefäße, Objektträger), einmal im Behandlungsfall Die Kostenpauschale 40089 ist nur bei Erbringung in Laborgemeinschaften oder von Fachärzten, die zur Versorgung gemäß Kapitel 12 zugelassen sind, berechnungsfähig. Die Gebührenordnungsposition 40089 ist im Behandlungsfall nicht neben der Gebührenordnungsposition 40090 berechnungsfähig. Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "40090",
+      "title": "Zuschlag zu den Gebührenordnungspositionen 01724, 01738, 01743, 01756, 01762, 01763, 01766 bis 01768, 01783, 01793, 01800, 01802 bis 01811, 01816, 01826, 01833, 01840, 01865, 01869, 01870, 01915, 01931 bis 01936, 12224 und zu den Gebührenordnungspositionen der Abschnitte 11.4, 19.3, 19.4, 30.12.2 und 32.3 für die Kosten der Beschaffung und ggf. Bereitstellung von Entnahmematerial (Probenentnahmegefäße und/ oder -systeme einschließlich Systemkanülen, Sammelgefäße, Objektträger)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 0.95,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "01743, 01756, 01762, 01763, 01766 bis 01768, 01783, 01793, 01800, 01802 bis 01811, 01816, 01826, 01833, 01840, 01865, 01869, 01870, 01915, 01931 bis 01936, 12224 und zu den Gebührenordnungspositionen der Abschnitte 11.4, 19.3, 19.4, 30.12.2 und 32.3 für die Kosten der Beschaffung und ggf. Bereitstellung von Entnahmematerial (Probenentnahmegefäße und/ oder -systeme einschließlich Systemkanülen, Sammelgefäße, Objektträger), einmal im Behandlungsfall Bei eigenerbrachten Leistungen der In-vitro-Diagnostik kann die Kostenpauschale 40090 von dem eigenerbringenden Arzt berechnet werden, sofern er die Entnahmematerialien selber beschafft. Die Gebührenordnungsposition 40090 ist im Behandlungsfall nicht neben der Gebührenordnungsposition 40089 berechnungsfähig. Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "40091",
+      "title": "Zuschlag zur Kostenpauschale 40090 für die Kosten der Beschaffung und ggf. Bereitstellung von Transportmedien für den direkten Erregernachweis überwiesener Leistungen für Gebührenordnungspositionen nach den Abschnitten 30.12.2, 32.3.8, 32.3.9 und 32.3.10",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 1.98,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Beschaffung und ggf. Bereitstellung von Transportmedien für den direkten Erregernachweis überwiesener Leistungen für Gebührenordnungspositionen nach den Abschnitten 30.12.2, 32.3.8, 32.3.9 und 32.3.10, einmal im Behandlungsfall Die Gebührenordnungsposition 40091 ist im Behandlungsfall nicht neben den Versichertenpauschalen der Kapitel 3 und 4, den Grundpauschalen der Kapitel 5 bis 10, 13 bis 16, 18, 20 bis 23, 26, 27, 30 und 37, der Abschnitte 1.3 und 11.2 sowie den Konsiliarpauschalen 12210, 17210, 19210, 24210, 24211, 24212, 25210, 25211 und 25214 berechnungsfähig. Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "40092",
+      "title": "Zuschlag zu den Gebührenordnungspositionen 01738, 01743, 01756, 01768, 01783, 01793, 01800, 01802 bis 01812, 01816, 01833, 01840, 01865, 01869, 01870, 01915, 01930 bis 01936, 12224 und zu den Gebührenordnungspositionen der Abschnitte 11.4, 19.3 - ausgenommen der Gebührenordnungspositionen 19327 und 19328 -, 19.4, 30.12.2, 32.2 und 32.3 für die Bereitstellung eines Systems oder eines Moduls zur digitalen Auftragserteilung und - nachverfolgung",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 0.6,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "01756, 01768, 01783, 01793, 01800, 01802 bis 01812, 01816, 01833, 01840, 01865, 01869, 01870, 01915, 01930 bis 01936, 12224 und zu den Gebührenordnungspositionen der Abschnitte 11.4, 19.3 - ausgenommen der Gebührenordnungspositionen 19327 und 19328 -, 19.4, 30.12.2, 32.2 und 32.3 für die Bereitstellung eines Systems oder eines Moduls zur digitalen Auftragserteilung und - nachverfolgung, einmal im Behandlungsfall Das System muss mindestens über die folgenden Merkmale verfügen: - Übernahme von Patientenstammdaten, - digitale Auftragserfassung, - leistungsspezifische Erfassung abrechnungsbegründender Hinweise gemäß EBM, insbesondere medizinischer Begründung im Einzelfall, Arzneimittelinformation oder ICD-Kodes, - Ausgabe von Hinweisen zur Präanalytik, - Erzeugung von Etiketten zur eindeutigen Identifikation, - Angabe der voraussichtlichen Gebührenordnungspositionen und der voraussichtlichen Kosten getrennt nach Abschnitten 11.4, 32.2 und 32.3 EBM, - Übermittlung von Statusinformationen zum Auftrag, - Abruf des Befundergebnisses, - Konsultationsanforderung. Die Gebührenordnungsposition 40092 ist im Behandlungsfall nicht neben den Versichertenpauschalen der Kapitel 3 und 4, den Grundpauschalen der Kapitel 5 bis 10, 13 bis 16, 18, 20 bis 23, 26, 27, 30 und 37, der Abschnitte 1.3 und 11.2 sowie den Konsiliarpauschalen 12210, 17210, 19210, 24210, 24211, 24212, 25210, 25211 und 25214 berechnungsfähig. Die Gebührenordnungsposition 40092 ist im Behandlungsfall nicht neben den Gebührenordnungspositionen 40093, 40110 und 40111 berechnungsfähig. Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "40093",
+      "title": "Zuschlag zu den Gebührenordnungspositionen 01762, 01763, 01766, 01767, 01826, 19327 und 19328 für die Bereitstellung eines Systems oder eines Moduls zur digitalen Auftragserteilung und - nachverfolgung",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 0.3,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "01766, 01767, 01826, 19327 und 19328 für die Bereitstellung eines Systems oder eines Moduls zur digitalen Auftragserteilung und - nachverfolgung, einmal im Behandlungsfall Das System muss mindestens über die folgenden Merkmale verfügen: - Übernahme von Patientenstammdaten, - digitale Auftragserfassung, - leistungsspezifische Erfassung abrechnungsbegründender Hinweise gemäß EBM, insbesondere medizinischer Begründung im Einzelfall, Arzneimittelinformation oder ICD-Kodes, - Ausgabe von Hinweisen zur Präanalytik, - Erzeugung von Etiketten zur eindeutigen Identifikation, - Übermittlung von Statusinformationen zum Auftrag, - Abruf des Befundergebnisses, - Konsultationsanforderung. Die Gebührenordnungsposition 40093 ist im Behandlungsfall nicht neben den Versichertenpauschalen der Kapitel 3 und 4, den Grundpauschalen der Kapitel 5 bis 10, 13 bis 16, 18, 20 bis 23, 26, 27, 30 und 37, der Abschnitte 1.3 und 11.2 sowie den Konsiliarpauschalen 12210, 17210, 19210, 24210, 24211, 24212, 25210, 25211 und 25214 berechnungsfähig. Die Gebührenordnungsposition 40093 ist im Behandlungsfall nicht neben den Gebührenordnungspositionen 40092, 40110 und 40111 berechnungsfähig. Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "40094",
+      "title": "Zuschlag für Auftragsleistungen nach den Gebührenordnungspositionen 01724, 01738, 01743, 01756, 01768, 01783, 01793, 01800, 01802 bis 01812, 01816, 01833, 01840, 01865, 01869, 01870, 01915, 01930 bis 01936, 12224, Gebührenordnungspositionen der Abschnitte 11.4, 19.3 - ausgenommen der Gebührenordnungspositionen 19327 und 19328 -, 19.4, 30.12.2, 32.2 und 32.3 für die Bereitstellung von Versandmaterial, den Transport von ggf. auch infektiösem Untersuchungsmaterial, Übermittlung der Ergebnisse ggf. einschl. Übermittlung der Kosten der Leistungen der Abschnitte 11.4.1 bis 11.4.4 gemäß Präambel 11.1 Nr. 12 sowie ggf. einschl. Übermittlung der Kosten der Leistungen der Abschnitte 32.2 und 32.3 gemäß Bestimmung Nr. 15 zum Kapitel 32",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 2.8,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Gebührenordnungspositionen 01724, 01738, 01743, 01756, 01768, 01783, 01793, 01800, 01802 bis 01812, 01816, 01833, 01840, 01865, 01869, 01870, 01915, 01930 bis 01936, 12224, Gebührenordnungspositionen der Abschnitte 11.4, 19.3 - ausgenommen der Gebührenordnungspositionen 19327 und 19328 -, 19.4, 30.12.2, 32.2 und 32.3 für die Bereitstellung von Versandmaterial, den Transport von ggf. auch infektiösem Untersuchungsmaterial, Übermittlung der Ergebnisse ggf. einschl. Übermittlung der Kosten der Leistungen der Abschnitte 11.4.1 bis 11.4.4 gemäß Präambel 11.1 Nr. 12 sowie ggf. einschl. Übermittlung der Kosten der Leistungen der Abschnitte 32.2 und 32.3 gemäß Bestimmung Nr. 15 zum Kapitel 32, einmal im Behandlungsfall Die Gebührenordnungsposition 40094 ist im Behandlungsfall nicht neben den Versichertenpauschalen der Kapitel 3 und 4, den Grundpauschalen der Kapitel 5 bis 10, 13 bis 16, 18, 20 bis 23, 26, 27, 30 und 37, der Abschnitte 1.3 und 11.2 sowie den Konsiliarpauschalen 12210, 17210, 19210, 24210, 24211, 24212, 25210, 25211 und 25214 berechnungsfähig. Die Gebührenordnungsposition 40094 ist im Behandlungsfall nicht neben den Gebührenordnungspositionen 40095, 40110 und 40111 berechnungsfähig. Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "40095",
+      "title": "Zuschlag für Auftragsleistungen nach den Gebührenordnungspositionen 01762, 01763, 01766, 01767, 01826, 19327 und 19328 für die Bereitstellung von Versandmaterial, den Transport von ggf. auch infektiösem Untersuchungsmaterial sowie Übermittlung der Ergebnisse",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 1.05,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Gebührenordnungspositionen 01762, 01763, 01766, 01767, 01826, 19327 und 19328 für die Bereitstellung von Versandmaterial, den Transport von ggf. auch infektiösem Untersuchungsmaterial sowie Übermittlung der Ergebnisse, einmal im Behandlungsfall Die Gebührenordnungsposition 40095 ist im Behandlungsfall nicht neben den Versichertenpauschalen der Kapitel 3 und 4, den Grundpauschalen der Kapitel 5 bis 10, 13 bis 16, 18, 20 bis 23, 26, 27, 30 und 37, der Abschnitte 1.3 und 11.2 sowie den Konsiliarpauschalen 12210, 17210, 19210, 24210, 24211, 24212, 25210, 25211 und 25214 berechnungsfähig. Die Gebührenordnungsposition 40095 ist im Behandlungsfall nicht neben den Gebührenordnungspositionen 40094, 40110 und 40111 berechnungsfähig. 40.4 Kostenpauschale für die Versendung bzw. den Transport von Briefen, Röntgenaufnahmen, Filmfolien und/oder schriftlichen Unterlagen, Kostenpauschale für Telefax 1. Die Kostenpauschalen des Abschnitts 40.4 sind für den elektronischen Versand von Briefen und/oder schriftlichen Unterlagen nicht berechnungsfähig. Der Versand von Telefaxen ist hiervon ausgenommen. 2. Die Kostenpauschalen nach den Gebührenordnungspositionen 40110 und 40111 sind für Arztgruppen gemäß Präambel 12.1 Nr. 1 nicht berechnungsfähig. 3. Die Kostenpauschalen nach den Gebührenordnungspositionen 40110 und 40111 unterliegen einem gemeinsamen Höchstwert je Arzt. Für die Gebührenordnungspositionen 40110 und 40111 wird hierzu ein Volumen je Arzt gebildet, aus dem alle gemäß der Gebührenordnungspositionen 40110 und 40111 abgerechneten Kostenpauschalen im Quartal zu vergüten sind. Der Höchstwert für die Gebührenordnungspositionen 40110 und 40111 wird arztgruppenspezifisch festgelegt: EBM-Kapitel Arztgruppe Höchstwert bzw. Abschnitt in Euro 1.3 Ärzte, Institute und Krankenhäuser, 6,72 die zur Erbringung von Leistungen ermächtigt sind 3 Allgemeinmedizin, hausärztliche 7,68 Internisten und praktische Ärzte 4 Kinder- und Jugendmedizin 7,68 5 Anästhesiologie 5,76 5 und 30.7 Anästhesiologie mit Schmerztherapie 16,32 6 Augenheilkunde 8,64 7 Chirurgie 23,04 8 Gynäkologie 8,64 9 Hals-Nasen-Ohrenheilkunde 13,44 10 Dermatologie 10,56 11 Humangenetik 19,20 13.2 Innere Medizin, fachärztliche 40,32 Internisten ohne SP 13.3.1 Innere Medizin, SP Angiologie 48,96 13.3.2 Innere Medizin, SP Endokrinologie 60,48 13.3.3 Innere Medizin, SP Gastroenterologie 53,76 13.3.4 Innere Medizin, SP Hämatologie/ 56,64 Onkologie 13.3.5 Innere Medizin, SP Kardiologie 63,36 13.3.6 Innere Medizin, SP Nephrologie 25,92 EBM-Kapitel Arztgruppe Höchstwert bzw. Abschnitt in Euro 13.3.7 Innere Medizin, SP Pneumologie 74,88 13.3.8 Innere Medizin, SP Rheumatologie 65,28 14 Kinder- und Jugendpsychiatrie und - 3,84 psychotherapie 15 Mund-, Kiefer- und Gesichtschirurgie 4,80 16 Neurologie, Neurochirurgie 30,72 17 Nuklearmedizin 82,56 18 Orthopädie 30,72 19 Pathologie 7,68 20 Sprach-, Stimm- und kindliche 22,08 Hörstörungen 21 Psychiatrie 10,56 21 Nervenheilkunde, Neurologie und 28,80 Psychiatrie 22 Psychosomatische Medizin und 0,96 Psychotherapie 23 Psychotherapie 0,96 24 Radiologie 91,02 25 Strahlentherapie 26,88 26 Urologie 28,80 27 Physikalische und Rehabilitative 14,40 Medizin 37.7 Ärzte und Krankenhäuser gemäß § 5 6,72 Absatz 2 Satz 2 der AKI-RL Wird ein Facharzt für Kinder- und Jugendmedizin mit Schwerpunkt oder Zusatzweiterbildung in mindestens 50 Prozent seiner Arztfälle im Quartal im fachärztlichen Versorgungsbereich tätig, so bestimmt sich der arztgruppenspezifische Höchstwert für die Gebührenordnungspositionen 40110 und 40111 gemäß dem entsprechenden Schwerpunkt der Inneren Medizin. Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "40102",
+      "title": "Zuschlag zur Kostenpauschale 40110 für die Versendung von Untersuchungsmaterial im Zusammenhang mit den Leistungen nach den Gebührenordnungspositionen 01707 oder 01709 an das Screening-Labor",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 2.65,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Untersuchungsmaterial im Zusammenhang mit den Leistungen nach den Gebührenordnungspositionen 01707 oder 01709 an das Screening-Labor, je Versand Die Kostenpauschale 40102 ist nur dann berechnungsfähig, wenn dem Einsender entsprechende Kosten für die Versendung des Untersuchungsmaterials entstanden sind. Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "40104",
+      "title": "Kostenpauschale für Versandmaterial sowie für die Versendung bzw. den Transport von Röntgenaufnahmen und/oder Filmfolien mit dokumentierten Untersuchungsergebnissen bildgebender Verfahren",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 5.1,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "bzw. den Transport von Röntgenaufnahmen und/oder Filmfolien mit dokumentierten Untersuchungsergebnissen bildgebender Verfahren, je Versand Bei Mitgabe von Röntgenaufnahmen, Filmfolien und Szintigrammen ist die Kostenpauschale nach der Nr. 40104 nicht berechnungsfähig. Für die elektronische Übermittlung von Röntgenaufnahme(n) oder Computertomografieaufnahme(n) im Zusammenhang mit der Leistung entsprechend der Gebührenordnungsposition 34800 ist die Gebührenordnungsposition 40104 nicht berechnungsfähig. Die Gebührenordnungsposition 40104 ist nicht neben der Gebührenordnungsposition 34800 berechnungsfähig. Die Gebührenordnungsposition 40104 ist im Behandlungsfall nicht neben den Gebührenordnungspositionen 34810, 34820 und 34821 berechnungsfähig. Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "40106",
+      "title": "Kostenpauschale für Versandmaterial sowie für die Versendung bzw. den Transport von Langzeit-EKG-Datenträgern",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 1.5,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "den Transport von Langzeit-EKG-Datenträgern, je Versand Bei Mitgabe von Langzeit-EKG-Datenträgern ist die Kostenpauschale nach der Nr. 40106 nicht berechnungsfähig. Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "40110",
+      "title": "Kostenpauschale für die Versendung bzw. den Transport eines Briefes und/oder von schriftlichen Unterlagen Der Höchstwert für die Gebührenordnungspositionen 40110 und 40111 wird gemäß Abschnitt 40.4 Nr. 3 arztgruppenspezifisch festgelegt.",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 0.96,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Briefes und/oder von schriftlichen Unterlagen Der Höchstwert für die Gebührenordnungspositionen 40110 und 40111 wird gemäß Abschnitt 40.4 Nr. 3 arztgruppenspezifisch festgelegt. Die Gebührenordnungsposition 40110 ist im Behandlungsfall nicht neben den Gebührenordnungspositionen 40092 bis 40095 berechnungsfähig. Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "40111",
+      "title": "Kostenpauschale für die Übermittlung eines Telefaxes Der Höchstwert für die Gebührenordnungspositionen 40110 und 40111 wird gemäß Abschnitt 40.4 Nr. 3 arztgruppenspezifisch festgelegt.",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 0.05,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Der Höchstwert für die Gebührenordnungspositionen 40110 und 40111 wird gemäß Abschnitt 40.4 Nr. 3 arztgruppenspezifisch festgelegt. Die Gebührenordnungsposition 40111 ist im Behandlungsfall nicht neben den Gebührenordnungspositionen 40092 bis 40095 berechnungsfähig. Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "40128",
+      "title": "Kostenpauschale für die postalische Versendung - einer mittels Stylesheet erzeugten papiergebundenen Arbeitsunfähigkeitsbescheinigung gemäß § 4 Absatz 4.1.2 Anlage 2b BMV-Ä an den Patienten - bei Patientenkontakt im Rahmen einer Videosprechstunde gemäß § 4 Absatz 5 der Arbeitsunfähigkeits-Richtlinie des Gemeinsamen Bundesausschusses und/oder - bei telefonischem Patientenkontakt gemäß § 4 Absatz 5a der Arbeitsunfähigkeits-Richtlinie des Gemeinsamen Bundesausschusses und/oder - bei telefonischem Patientenkontakt im Falle einer öffentlich- rechtlichen Pflicht oder bei Bestehen einer öffentlich- rechtlichen Empfehlung zur Absonderung gemäß § 4 Absatz 6 der Arbeitsunfähigkeits-Richtlinie des Gemeinsamen Bundesausschusses und/oder - im Zusammenhang mit der Durchführung einer Besuchsleistung entsprechend den Gebührenordnungspositionen 01410, 01411, 01412, 01413, 01415 und 01418 und/oder - einer Verordnung von Leistungen der medizinischen Rehabilitation (Muster 61) im Rahmen einer Videosprechstunde gemäß § 1b der Rehabilitations-Richtlinie des Gemeinsamen Bundesausschusses und/oder - einer Verordnung von Krankenbeförderungsleistungen (Muster 4) im Rahmen einer Videosprechstunde oder nach telefonischem Kontakt gemäß § 2 der Krankentransport-Richtlinie des Gemeinsamen Bundesausschusses und/oder - einer Verordnung von Hilfsmitteln (Muster 16) im Rahmen einer Videosprechstunde oder nach telefonischem Kontakt gemäß § 6 der Hilfsmittel-Richtlinie des Gemeinsamen Bundesausschusses und/oder - einer Folgeverordnung der häuslichen Krankenpflege (Muster 12) im Rahmen einer Videosprechstunde oder nach telefonischem Kontakt gemäß § 3 Absatz 1a der Häusliche Krankenpflege-Richtlinie des Gemeinsamen Bundesausschusses und/oder - einer Folgeverordnung von Heilmitteln (Muster 13) im Rahmen einer Videosprechstunde oder nach telefonischem Kontakt gemäß § 3 Absatz 3a der Heilmittel-Richtlinie des Gemeinsamen Bundesausschusses und/oder - einer Überweisung (Muster 6) zur Mit- und/oder Weiterbehandlung durch eine andere Fachgruppe im Rahmen einer Videosprechstunde gemäß § 10 Absatz 1 und 2 der Anlage 31c zum BMV-Ä und/oder - einer Verordnung (Muster 2) von Krankenhausbehandlung im Rahmen einer Videosprechstunde gemäß § 10 Absatz 1 und 2 der Anlage 31c zum BMV-Ä",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 0.96,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "- einer mittels Stylesheet erzeugten papiergebundenen Arbeitsunfähigkeitsbescheinigung gemäß § 4 Absatz 4.1.2 Anlage 2b BMV-Ä an den Patienten - bei Patientenkontakt im Rahmen einer Videosprechstunde gemäß § 4 Absatz 5 der Arbeitsunfähigkeits-Richtlinie des Gemeinsamen Bundesausschusses und/oder - bei telefonischem Patientenkontakt gemäß § 4 Absatz 5a der Arbeitsunfähigkeits-Richtlinie des Gemeinsamen Bundesausschusses und/oder - bei telefonischem Patientenkontakt im Falle einer öffentlich- rechtlichen Pflicht oder bei Bestehen einer öffentlich- rechtlichen Empfehlung zur Absonderung gemäß § 4 Absatz 6 der Arbeitsunfähigkeits-Richtlinie des Gemeinsamen Bundesausschusses und/oder - im Zusammenhang mit der Durchführung einer Besuchsleistung entsprechend den Gebührenordnungspositionen 01410, 01411, 01412, 01413, 01415 und 01418 und/oder - einer Verordnung von Leistungen der medizinischen Rehabilitation (Muster 61) im Rahmen einer Videosprechstunde gemäß § 1b der Rehabilitations-Richtlinie des Gemeinsamen Bundesausschusses und/oder - einer Verordnung von Krankenbeförderungsleistungen (Muster 4) im Rahmen einer Videosprechstunde oder nach telefonischem Kontakt gemäß § 2 der Krankentransport-Richtlinie des Gemeinsamen Bundesausschusses und/oder - einer Verordnung von Hilfsmitteln (Muster 16) im Rahmen einer Videosprechstunde oder nach telefonischem Kontakt gemäß § 6 der Hilfsmittel-Richtlinie des Gemeinsamen Bundesausschusses und/oder - einer Folgeverordnung der häuslichen Krankenpflege (Muster 12) im Rahmen einer Videosprechstunde oder nach telefonischem Kontakt gemäß § 3 Absatz 1a der Häusliche Krankenpflege-Richtlinie des Gemeinsamen Bundesausschusses und/oder - einer Folgeverordnung von Heilmitteln (Muster 13) im Rahmen einer Videosprechstunde oder nach telefonischem Kontakt gemäß § 3 Absatz 3a der Heilmittel-Richtlinie des Gemeinsamen Bundesausschusses und/oder - einer Überweisung (Muster 6) zur Mit- und/oder Weiterbehandlung durch eine andere Fachgruppe im Rahmen einer Videosprechstunde gemäß § 10 Absatz 1 und 2 der Anlage 31c zum BMV-Ä und/oder - einer Verordnung (Muster 2) von Krankenhausbehandlung im Rahmen einer Videosprechstunde gemäß § 10 Absatz 1 und 2 der Anlage 31c zum BMV-Ä Die Kostenpauschale 40128 ist nur berechnungsfähig bis ein verbindliches elektronisches Muster für die jeweilige Verordnung, Überweisung oder Bescheinigung zur Verfügung steht und diese auf elektronischem Weg an den Patienten versendet werden darf. Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "40129",
+      "title": "Kostenpauschale für die postalische Versendung einer Bescheinigung gemäß Muster 21 an den Patienten bzw. die Bezugsperson bei telefonischem Patientenkontakt oder Patientenkontakt im Rahmen einer Videosprechstunde",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 0.96,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Bescheinigung gemäß Muster 21 an den Patienten bzw. die Bezugsperson bei telefonischem Patientenkontakt oder Patientenkontakt im Rahmen einer Videosprechstunde Die Kostenpauschale 40129 ist nur berechnungsfähig bis ein verbindliches elektronisches Muster für das Muster 21 zur Verfügung steht und die Bescheinigung auf elektronischem Weg an den Patienten versendet werden darf. Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "40130",
+      "title": "Kostenpauschale für die postalische Versendung einer mittels Stylesheet erzeugten papiergebundenen Arbeitsunfähigkeitsbescheinigung an die Krankenkasse des Patienten gemäß § 4 Absatz 4.1.4 Anlage 2b BMV-Ä",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 0.96,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "einer mittels Stylesheet erzeugten papiergebundenen Arbeitsunfähigkeitsbescheinigung an die Krankenkasse des Patienten gemäß § 4 Absatz 4.1.4 Anlage 2b BMV-Ä Die Kostenpauschale 40130 ist nur berechnungsfähig, wenn nach Ausstellung festgestellt wird, dass die Datenübermittlung an die Krankenkasse nicht möglich ist und diese nicht bis zum Ende des nachfolgenden Werktages nachgeholt werden kann. 40.5 Übergreifende Kostenpauschalen Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "40142",
+      "title": "Kostenpauschale für Leistungen entsprechend der Gebührenordnungspositionen 01615, 01620, 01621 oder 01622, bei Abfassung in freier Form, wenn vereinbarte Vordrucke nicht verwendet werden können",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 1.5,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "der Gebührenordnungspositionen 01615, 01620, 01621 oder 01622, bei Abfassung in freier Form, wenn vereinbarte Vordrucke nicht verwendet werden können, je Seite Die Kostenpauschale 40142 ist im Zusammenhang mit der Gebührenordnungsposition 01615 insgesamt nur für eine Seite berechnungsfähig. Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "40152",
+      "title": "Kostenpauschale für ein ausgegebenes Testbriefchen für den Nachweis von Albumin im Stuhl, wenn die Leistung entsprechend der Gebührenordnungsposition 32041 nicht erbracht werden konnte",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 1.5,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Nachweis von Albumin im Stuhl, wenn die Leistung entsprechend der Gebührenordnungsposition 32041 nicht erbracht werden konnte Die Gebührenordnungsposition 40152 ist im Behandlungsfall nicht neben der Gebührenordnungsposition 32041 berechnungsfähig. Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "40154",
+      "title": "Kostenpauschale bei Durchführung der Leistung entsprechend der Gebührenordnungsposition 02400 für den Bezug des ¹³C-Harnstoffs gemäß Nr. 7 der Allgemeinen Bestimmungen",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 25.6,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Gebührenordnungsposition 02400 für den Bezug des ¹³C-Harnstoffs gemäß Nr. 7 der Allgemeinen Bestimmungen Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "40156",
+      "title": "Kostenpauschale bei Durchführung eines medikamentös ausgelösten Schwangerschaftsabbruchs entsprechend der Leistung nach der Gebührenordnungsposition 01906 für den Bezug von Mifepriston Der Bezug von Mifepriston ist nur auf dem gesetzlich zulässigen Weg möglich.",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 89.25,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "ausgelösten Schwangerschaftsabbruchs entsprechend der Leistung nach der Gebührenordnungsposition 01906 für den Bezug von Mifepriston Der Bezug von Mifepriston ist nur auf dem gesetzlich zulässigen Weg möglich. Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "40157",
+      "title": "Kostenpauschale bei Durchführung eines Schweißtests entsprechend der Gebührenordnungsposition 04535 unter Nutzung eines Iontophorese- und Schweißsammelsystems",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 33.0,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "entsprechend der Gebührenordnungsposition 04535 unter Nutzung eines Iontophorese- und Schweißsammelsystems Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "40160",
+      "title": "Kostenpauschale bei Durchführung einer interventionellen endoskopischen Untersuchung des Gastrointestinaltraktes entsprechend der Gebührenordnungspositionen 01741, 13401, 13421 oder 13422 für die beim Eingriff eingesetzte(n)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 15.0,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "endoskopischen Untersuchung des Gastrointestinaltraktes entsprechend der Gebührenordnungspositionen 01741, 13401, 13421 oder 13422 für die beim Eingriff eingesetzte(n) Einmalsklerosierungsnadel(n) Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "40161",
+      "title": "Kostenpauschale bei Durchführung einer transurethralen Therapie mit Botulinumtoxin entsprechend den Gebührenordnungspositionen 08312 und 26316 für den/die beim Eingriff eingesetzte(n) zystoskopische Injektionsnadel(n), - kanüle(n) oder -katheter",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 45.0,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Therapie mit Botulinumtoxin entsprechend den Gebührenordnungspositionen 08312 und 26316 für den/die beim Eingriff eingesetzte(n) zystoskopische Injektionsnadel(n), - kanüle(n) oder -katheter Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "40162",
+      "title": "Kostenpauschale für die Meldegebühr im Zusammenhang mit der Meldung einer implantatbezogenen Maßnahme entsprechend der Gebührenordnungspositionen 01965 und 01966 gemäß § 2 Absatz 1 Implantateregister-Gebührenverordnung (IRegGebV)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 6.24,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Meldung einer implantatbezogenen Maßnahme entsprechend der Gebührenordnungspositionen 01965 und 01966 gemäß § 2 Absatz 1 Implantateregister-Gebührenverordnung (IRegGebV), je Meldung Die Gebührenordnungsposition 40162 ist im Falle einer Vervollständigung oder Korrektur gemäß § 17 IRegBV einer bereits erfolgten Meldung nicht erneut berechnungsfähig. Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "40165",
+      "title": "Kostenpauschale bei Durchführung der Liposuktion beim Lipödem Stadium III entsprechend den Gebührenordnungspositionen 31096 und 31097 für die beim Eingriff eingesetzte(n) Absaugkanüle(n)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 72.0,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Stadium III entsprechend den Gebührenordnungspositionen 31096 und 31097 für die beim Eingriff eingesetzte(n) Absaugkanüle(n) Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "40167",
+      "title": "Kostenpauschale bei Durchführung einer FeNO-Messung zur Indikationsstellung einer Therapie mit Dupilumab entsprechend den Gebührenordnungspositionen 04538 oder 13678 für das Mundstück (und ggf. Sensor) 40.6 Leistungsbezogene Kostenpauschalen bei Herzkatheteruntersuchungen und koronaren Rekanalisationsbehandlungen 1. Die einzeitige Mehrgefäßdilatation am Herzen beinhaltet die Dilatation mehrerer verschiedener Gefäße (A. coronaria dextra, A. coronaria sinistra, Ramus interventricularis anterior und/oder Bypass) in einer Sitzung. 2. Die im Zusammenhang mit interventionellen kardiologischen Maßnahmen, wie z. B. der Rotablation oder der Atherektomie entstehenden Sachkosten, sind nicht Bestandteil der Kostenpauschalen nach den Nrn. 40300, 40302 und 40304. Die entstehenden Kosten sind entsprechend 7.3 der Allgemeinen Bestimmungen gesondert berechnungsfähig. In diesem Fall sind die Nrn. 40300, 40302 und 40304 nicht berechnungsfähig.",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 7.84,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Indikationsstellung einer Therapie mit Dupilumab entsprechend den Gebührenordnungspositionen 04538 oder 13678 für das Mundstück (und ggf. Sensor) 40.6 Leistungsbezogene Kostenpauschalen bei Herzkatheteruntersuchungen und koronaren Rekanalisationsbehandlungen 1. Die einzeitige Mehrgefäßdilatation am Herzen beinhaltet die Dilatation mehrerer verschiedener Gefäße (A. coronaria dextra, A. coronaria sinistra, Ramus interventricularis anterior und/oder Bypass) in einer Sitzung. 2. Die im Zusammenhang mit interventionellen kardiologischen Maßnahmen, wie z. B. der Rotablation oder der Atherektomie entstehenden Sachkosten, sind nicht Bestandteil der Kostenpauschalen nach den Nrn. 40300, 40302 und 40304. Die entstehenden Kosten sind entsprechend 7.3 der Allgemeinen Bestimmungen gesondert berechnungsfähig. In diesem Fall sind die Nrn. 40300, 40302 und 40304 nicht berechnungsfähig. Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "40300",
+      "title": "Kostenpauschale für die Durchführung der Leistung entsprechend der Gebührenordnungsposition 34291",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 181.5,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "der Gebührenordnungsposition 34291 Die Kostenpauschale nach der Nr. 40300 enthält alle Sachkosten, einschl. der Kosten für Kontrastmittel und Sprechstundenbedarf. Die Allgemeinen Bestimmungen nach Nr. 7 finden keine Anwendung. Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "40301",
+      "title": "Kostenpauschale für die Durchführung der Leistung entsprechend der Gebührenordnungsposition 34298",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 660.0,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "der Gebührenordnungsposition 34298 Die Kostenpauschale nach der Nr. 40301 enthält alle Sachkosten, einschl. der Kosten für Kontrastmittel und Sprechstundenbedarf. Die Allgemeinen Bestimmungen nach Nr. 7 finden keine Anwendung. Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "40302",
+      "title": "Kostenpauschale für die Durchführung einer PTCA an einem Gefäß, ggf. einschl. Stent entsprechend der Gebührenordnungsposition 34292",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 1058.4,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "ggf. einschl. Stent entsprechend der Gebührenordnungsposition 34292 Die Kostenpauschale nach der Nr. 40302 enthält alle Sachkosten, einschl. der Kosten für Kontrastmittel und Sprechstundenbedarf. Die Allgemeinen Bestimmungen nach Nr. 7 finden keine Anwendung. Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "40304",
+      "title": "Kostenpauschale für die Durchführung einer PTCA an mehreren Gefäßen, ggf. einschl. Stents entsprechend der Gebührenordnungsposition 34292, zusätzlich zur Sachkostenpauschale Nr. 40302",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 690.2,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "mehreren Gefäßen, ggf. einschl. Stents entsprechend der Gebührenordnungsposition 34292, zusätzlich zur Sachkostenpauschale Nr. 40302 Die Kostenpauschale nach der Nr. 40304 enthält alle Sachkosten, einschl. der Kosten für Kontrastmittel und Sprechstundenbedarf. Die Allgemeinen Bestimmungen nach Nr. 7 finden keine Anwendung. Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "40306",
+      "title": "Kostenpauschale im Zusammenhang mit der Durchführung der Leistung entsprechend der Gebührenordnungsposition 34291 für die Qualitätssicherung gem. der Richtlinie des Gemeinsamen Bundesausschusses nach § 136 Abs. 1 Satz 1 Nr. 1 SGB V zur datengestützten einrichtungsübergreifenden Qualitätssicherung (DeQS-RL) für das Verfahren 1: Perkutane Koronarintervention (PCI) und Koronarangiographie",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 2.5,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Leistung entsprechend der Gebührenordnungsposition 34291 für die Qualitätssicherung gem. der Richtlinie des Gemeinsamen Bundesausschusses nach § 136 Abs. 1 Satz 1 Nr. 1 SGB V zur datengestützten einrichtungsübergreifenden Qualitätssicherung (DeQS-RL) für das Verfahren 1: Perkutane Koronarintervention (PCI) und Koronarangiographie Die Kostenpauschale nach der Nr. 40306 beinhaltet alle Kosten zur Erfüllung der Maßnahmen der DeQS-RL. Hierzu gehören sämtliche Kosten für die EDV-technische Ausstattung und Verarbeitung. 40.7 Leistungsbezogene Kostenpauschalen bei Allergie-Testungen Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "40350",
+      "title": "Kostenpauschale für die Sachkosten im Zusammenhang mit der Durchführung der Leistung entsprechend der Gebührenordnungsposition 30110",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 21.58,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "mit der Durchführung der Leistung entsprechend der Gebührenordnungsposition 30110 Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "40351",
+      "title": "Kostenpauschale für die Sachkosten im Zusammenhang mit der Durchführung von Leistungen entsprechend den Gebührenordnungspositionen 13250, 13258 und 30111 oder sofern im Rahmen der Versichertenpauschale 03000 oder 04000 eine allergologische Basisdiagnostik mittels Pricktest erfolgt 40.8 Leistungsbezogene Kostenpauschalen für interventionelle Eingriffe",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 5.5,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "mit der Durchführung von Leistungen entsprechend den Gebührenordnungspositionen 13250, 13258 und 30111 oder sofern im Rahmen der Versichertenpauschale 03000 oder 04000 eine allergologische Basisdiagnostik mittels Pricktest erfolgt 40.8 Leistungsbezogene Kostenpauschalen für interventionelle Eingriffe Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "40454",
+      "title": "Kostenpauschale für sämtliche Sachkosten im Zusammenhang mit der Erbringung der Gebührenordnungsposition 34274 mit Ausnahme der im Zuschlag nach der Nr. 40455 enthaltenen Markierungsclips",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 320.0,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "mit der Erbringung der Gebührenordnungsposition 34274 mit Ausnahme der im Zuschlag nach der Nr. 40455 enthaltenen Markierungsclips, je Seite Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "40455",
+      "title": "Zuschlag zu der Kostenpauschale nach der Nr. 40454 für die Verwendung von Markierungsclips",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 100.0,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Verwendung von Markierungsclips, je Seite 40.9 Leistungsbezogene Kostenpauschalen für Hochfrequenzdiathermieschlingen, Probenentnahmezangen, Endo-/ Hämoclips inkl. Endo-/Hämo-Clipapplikatoren Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "40460",
+      "title": "Kostenpauschale im Zusammenhang mit der Durchführung der Leistung entsprechend der Gebührenordnungspositionen 01742, 04515, 04520, 08334, 13260, 13401, 13402, 13423 und 30601 bei Verwendung einer Einmal-Hochfrequenzdiathermieschlinge für eine Polypektomie oder eine Mukosektomie",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 12.0,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Leistung entsprechend der Gebührenordnungspositionen 01742, 04515, 04520, 08334, 13260, 13401, 13402, 13423 und 30601 bei Verwendung einer Einmal-Hochfrequenzdiathermieschlinge für eine Polypektomie oder eine Mukosektomie Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "40461",
+      "title": "Kostenpauschale im Zusammenhang mit der Durchführung der Leistung entsprechend der Gebührenordnungspositionen 01741, 04511, 04514, 08311, 09315, 09317, 13400, 13421, 13422, 13430, 13431, 13662, 26310 und 26311 bei Verwendung einer Einmal- Probenentnahmezange",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 8.0,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Leistung entsprechend der Gebührenordnungspositionen 01741, 04511, 04514, 08311, 09315, 09317, 13400, 13421, 13422, 13430, 13431, 13662, 26310 und 26311 bei Verwendung einer Einmal- Probenentnahmezange Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "40462",
+      "title": "Kostenpauschale im Zusammenhang mit der Durchführung der Leistung entsprechend der Gebührenordnungspositionen 01742, 04511, 13400 und 13423 bei Verwendung eines Clips inkl. Einmal- Endo-/Hämo-Clipapplikator",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 20.8,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Leistung entsprechend der Gebührenordnungspositionen 01742, 04511, 13400 und 13423 bei Verwendung eines Clips inkl. Einmal- Endo-/Hämo-Clipapplikator, je Clip 40.10 Leistungsbezogene Kostenpauschalen für Radionuklide 1. Die in diesem Abschnitt aufgeführten Kostenpauschalen können ausschließlich von - Fachärzten für Nuklearmedizin, - Fachärzten für Strahlentherapie (ausschließlich die Kostenpauschalen nach den Nrn. 40546, 40562, 40580 und 40582) und - Vertragsärzten, die über eine Genehmigung zur Ausführung und Abrechnung nuklearmedizinischer Leistungen gemäß der Vereinbarungen zur Strahlendiagnostik und -therapie gemäß § 135 Abs. 2 SGB V verfügen, berechnet werden. 2. Zu jeder Grundleistung im Abschnitt 17.3 ist nur ein Radiopharmakon dieses Abschnitts berechnungsfähig. 3. In den Kostenpauschalen - mit Ausnahme der Kostenpauschale 40582 - sind nicht nur die Kosten der jeweiligen Produkte sondern auch die Kosten, die im Rahmen des Umgangs, der Beschaffung und Lagerung der Produkte sowie der Materialverwaltung, der Abfallbeseitigung und Entsorgung gemäß Strahlenschutzverordnung (StrlSchV) sowie dem Gesetz über den Verkehr mit Arzneimitteln (AMG) entstehen, berücksichtigt. Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "40500",
+      "title": "Kostenpauschale für die Sachkosten im Zusammenhang mit der Durchführung von Leistungen entsprechend der Gebührenordnungspositionen 17310 oder 17320 bei Verwendung von Tc-99m-Pertechnetat (Schilddrüse)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 3.2,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "mit der Durchführung von Leistungen entsprechend der Gebührenordnungspositionen 17310 oder 17320 bei Verwendung von Tc-99m-Pertechnetat (Schilddrüse) Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "40502",
+      "title": "Kostenpauschale für die Sachkosten im Zusammenhang mit der Durchführung der Leistungen entsprechend der Gebührenordnungspositionen 17310 oder 17311 bei Verwendung von Tc-99m-Phosphonaten (Knochen/Skelett)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 33.69,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "mit der Durchführung der Leistungen entsprechend der Gebührenordnungspositionen 17310 oder 17311 bei Verwendung von Tc-99m-Phosphonaten (Knochen/Skelett) Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "40504",
+      "title": "Kostenpauschale für die Sachkosten im Zusammenhang mit der Durchführung der Leistung entsprechend der Gebührenordnungsposition 17310 bei Verwendung von Tc-99m- Makroaggregaten (Lunge)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 22.31,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "mit der Durchführung der Leistung entsprechend der Gebührenordnungsposition 17310 bei Verwendung von Tc-99m- Makroaggregaten (Lunge) Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "40506",
+      "title": "Kostenpauschale für die Sachkosten im Zusammenhang mit der Durchführung der Leistung entsprechend der Gebührenordnungsposition 17310 bei Verwendung von Tc-99m- Aerosol (Lunge)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 123.12,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "mit der Durchführung der Leistung entsprechend der Gebührenordnungsposition 17310 bei Verwendung von Tc-99m- Aerosol (Lunge) Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "40508",
+      "title": "Kostenpauschale für die Sachkosten im Zusammenhang mit der Durchführung der Leistung entsprechend der Gebührenordnungsposition 17310 bei Verwendung von Tc-99m- HMPAO, Tc-99m-ECD (Hirn)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 208.81,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "mit der Durchführung der Leistung entsprechend der Gebührenordnungsposition 17310 bei Verwendung von Tc-99m- HMPAO, Tc-99m-ECD (Hirn) Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "40510",
+      "title": "Kostenpauschale für die Sachkosten im Zusammenhang mit der Durchführung der Leistungen entsprechend der Gebührenordnungspositionen 17310 oder 17340 bei Verwendung von Tc-99m-DMSA, Tc-99m-DTPA (Niere)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 33.85,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "mit der Durchführung der Leistungen entsprechend der Gebührenordnungspositionen 17310 oder 17340 bei Verwendung von Tc-99m-DMSA, Tc-99m-DTPA (Niere) Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "40512",
+      "title": "Kostenpauschale für die Sachkosten im Zusammenhang mit der Durchführung der Leistung entsprechend der Gebührenordnungsposition 17310 bei Verwendung von Tc-99m-DTPA (Hirn)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 78.53,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "mit der Durchführung der Leistung entsprechend der Gebührenordnungsposition 17310 bei Verwendung von Tc-99m-DTPA (Hirn) Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "40514",
+      "title": "Kostenpauschale für die Sachkosten im Zusammenhang mit der Durchführung der Leistung entsprechend der Gebührenordnungsposition 17340 bei Verwendung von Tc-99m-MAG3 (Niere)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 83.57,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "mit der Durchführung der Leistung entsprechend der Gebührenordnungsposition 17340 bei Verwendung von Tc-99m-MAG3 (Niere) Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "40516",
+      "title": "Kostenpauschale für die Sachkosten im Zusammenhang mit der Durchführung der Leistungen nach den Gebührenordnungspositionen 17310 oder 17351 bei Verwendung von Tc-99m-Kolloid (Leber)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 57.41,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "Durchführung der Leistungen nach den Gebührenordnungspositionen 17310 oder 17351 bei Verwendung von Tc-99m-Kolloid (Leber) Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "40518",
+      "title": "Kostenpauschale für die Sachkosten im Zusammenhang mit der Durchführung der Leistung entsprechend der Gebührenordnungsposition 17351 bei Verwendung von Tc-99m-IDA- Verbindungen (Galle)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 34.94,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "mit der Durchführung der Leistung entsprechend der Gebührenordnungsposition 17351 bei Verwendung von Tc-99m-IDA- Verbindungen (Galle) Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "40520",
+      "title": "Kostenpauschale für die Sachkosten im Zusammenhang mit der Durchführung der Leistungen entsprechend der Gebührenordnungspositionen 17330, 17331 und 17310 bei Verwendung von Tc-99m-markierten Perfusionsmarkern (Herz, Schilddrüse)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 77.84,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "mit der Durchführung der Leistungen entsprechend der Gebührenordnungspositionen 17330, 17331 und 17310 bei Verwendung von Tc-99m-markierten Perfusionsmarkern (Herz, Schilddrüse) Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "40522",
+      "title": "Kostenpauschale für die Sachkosten im Zusammenhang mit der Durchführung der Leistungen entsprechend der Gebührenordnungspositionen 17332, 17333 und 17350 bei Verwendung von Tc-99m-markierten Eigenerythrozyten (Herz, Leber, abdominale Blutungssuche)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 56.98,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "mit der Durchführung der Leistungen entsprechend der Gebührenordnungspositionen 17332, 17333 und 17350 bei Verwendung von Tc-99m-markierten Eigenerythrozyten (Herz, Leber, abdominale Blutungssuche) Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "40524",
+      "title": "Kostenpauschale für die Sachkosten im Zusammenhang mit der Durchführung der Leistungen entsprechend der Gebührenordnungspositionen 17310 oder 17311 bei Verwendung von Tc-99m-markierten Liganden (Tumorlokalisation)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 373.81,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "mit der Durchführung der Leistungen entsprechend der Gebührenordnungspositionen 17310 oder 17311 bei Verwendung von Tc-99m-markierten Liganden (Tumorlokalisation) Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "40526",
+      "title": "Kostenpauschale für die Sachkosten im Zusammenhang mit der Durchführung der Leistungen entsprechend der Gebührenordnungspositionen 17310, 17311 oder 17350 bei Verwendung von Tc-99m-markierten Antikörpern (Knochenmark, Entzündungslokalisation)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 383.55,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "mit der Durchführung der Leistungen entsprechend der Gebührenordnungspositionen 17310, 17311 oder 17350 bei Verwendung von Tc-99m-markierten Antikörpern (Knochenmark, Entzündungslokalisation) Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "40528",
+      "title": "Kostenpauschale für die Sachkosten im Zusammenhang mit der Durchführung der Leistungen entsprechend der Gebührenordnungspositionen 17310 oder 17311 bei Verwendung von Tc-99m-markierten Mikro-/Nanokolloiden (Lymphknotendiagnostik)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 66.14,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "mit der Durchführung der Leistungen entsprechend der Gebührenordnungspositionen 17310 oder 17311 bei Verwendung von Tc-99m-markierten Mikro-/Nanokolloiden (Lymphknotendiagnostik) Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "40530",
+      "title": "Kostenpauschale für die Sachkosten im Zusammenhang mit der Durchführung der Leistung entsprechend der Gebührenordnungsposition 17351 bei Verwendung einer Tc-99m- markierten Testmahlzeit (gastrointestinale Motilität)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 32.48,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "mit der Durchführung der Leistung entsprechend der Gebührenordnungsposition 17351 bei Verwendung einer Tc-99m- markierten Testmahlzeit (gastrointestinale Motilität) Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "40532",
+      "title": "Kostenpauschale für die Sachkosten im Zusammenhang mit der Durchführung der Leistungen entsprechend der Gebührenordnungspositionen 17310, 17330 oder 17331 bei Verwendung von Tl-201-CI (Myokard)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 70.0,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "mit der Durchführung der Leistungen entsprechend der Gebührenordnungspositionen 17310, 17330 oder 17331 bei Verwendung von Tl-201-CI (Myokard) Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "40534",
+      "title": "Kostenpauschale für die Sachkosten im Zusammenhang mit der Durchführung der Leistung entsprechend der Gebührenordnungsposition 17310 bei Verwendung von J-123 (Schilddrüse)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 95.0,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "mit der Durchführung der Leistung entsprechend der Gebührenordnungsposition 17310 bei Verwendung von J-123 (Schilddrüse) Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "40536",
+      "title": "Kostenpauschale für die Sachkosten im Zusammenhang mit der Durchführung der Leistung entsprechend der Gebührenordnungspositionen 17310 oder 17311 bei Verwendung von J-123-MIBG (chromaffine Tumoren/Nebennierenmark)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 350.0,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "mit der Durchführung der Leistung entsprechend der Gebührenordnungspositionen 17310 oder 17311 bei Verwendung von J-123-MIBG (chromaffine Tumoren/Nebennierenmark) Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "40538",
+      "title": "Kostenpauschale für die Sachkosten im Zusammenhang mit der Durchführung der Leistung entsprechend der Gebührenordnungsposition 17310 bei Verwendung von J-123-FP-CIT (M. Parkinson, Demenz vom Lewy-Körperchen-Typ (DLB))",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 830.0,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "mit der Durchführung der Leistung entsprechend der Gebührenordnungsposition 17310 bei Verwendung von J-123-FP-CIT (M. Parkinson, Demenz vom Lewy-Körperchen-Typ (DLB)) Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "40540",
+      "title": "Kostenpauschale für die Sachkosten im Zusammenhang mit der Durchführung der Leistung entsprechend der Gebührenordnungsposition 17321 bei Verwendung von J-131 (Schilddrüse)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 10.0,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "mit der Durchführung der Leistung entsprechend der Gebührenordnungsposition 17321 bei Verwendung von J-131 (Schilddrüse) Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "40546",
+      "title": "Kostenpauschale für die Sachkosten im Zusammenhang mit der Durchführung der Leistung entsprechend der Gebührenordnungsposition 17372 bei Verwendung von J-131-MIBG",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 1784.0,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "mit der Durchführung der Leistung entsprechend der Gebührenordnungsposition 17372 bei Verwendung von J-131-MIBG Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    },
+    {
+      "code": "40548",
+      "title": "Kostenpauschale für die Sachkosten im Zusammenhang mit der Durchführung der Leistung entsprechend der Gebührenordnungsposition 17350 bei Verwendung von In-111-Oxinat (Zellmarkierung)",
+      "valuation": {
+        "type": "fixed",
+        "valuation_in_euro": 140.0,
+        "valuation_in_points": 0
+      },
+      "mandatory_services": null,
+      "facultative_services": null,
+      "billing_info": "mit der Durchführung der Leistung entsprechend der Gebührenordnungsposition 17350 bei Verwendung von In-111-Oxinat (Zellmarkierung) Keine Punktbewertung im EBM ausgewiesen; schema-kompatibel mit 0 Punkten erfasst."
+    }
+  ]
+}
